@@ -1,0 +1,1339 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Libby Castelli
+O'Gorman [11]
+17:31.11	1	 
+2	
+Isabelle Bloker
+Sioux Valley [11]
+17:51.89	1	1
+3	
+Mia Wentzy
+Brandon Valley [12]
+18:30.62	1	2
+4	
+Emery Larson
+Chester [10]
+18:33.82	1	 
+5	
+Kassidy Stuckey
+York [12]
+18:37.79	1	3
+6	
+Faith Wiese
+Flandreau [10]
+18:44.77	1	4
+7	
+Kinsey Evans
+Chamberlain [12]
+18:47.90	1	5
+8	
+Allyson Sample
+Marshall [12]
+18:50.03	1	6
+9	
+Ellie Maddox
+SF Christian [10]
+18:50.97	1	7
+10	
+Grace McElroy
+Watertown [7]
+18:54.92	1	8
+11	
+Sadie Pettengill
+SF Christian [8]
+19:03.21	2	9
+12	
+Maya York
+Raymore-Peculiar [12]
+19:03.80	2	10
+13	
+Ashlyn Smith
+Raymore-Peculiar [12]
+19:06.39	2	11
+14	
+Sarah VanDeBerg
+Brandon Valley [11]
+19:20.24	2	12
+15	
+Jerica Glasser
+SF Christian [10]
+19:24.61	2	13
+16	
+Ashlynn Batchelor
+Milbank [10]
+19:25.95	2	14
+17	
+Addison Scholten
+Brandon Valley [10]
+19:29.07	2	15
+18	
+Anna Vyn
+SF Christian [11]
+19:38.22	2	16
+19	
+Jordyn Arens
+Crofton [12]
+19:40.12	2	 
+20	
+Taleigha Bigler
+Marshall [10]
+19:40.80	2	17
+21	
+Ellie Anders
+Brandon Valley [7]
+19:41.35	3	18
+22	
+Hannah Genrich
+Harrisburg [7]
+19:42.85	3	19
+23	
+Addison Reilly
+Harrisburg [8]
+19:45.62	3	20
+24	
+Olivia Heilman
+West Fargo Sheyenne [12]
+19:46.24	3	21
+25	
+Shelby Bergan
+Brandon Valley [9]
+19:46.76	3	22
+26	
+Jaycie Babb
+Tea Area [10]
+19:48.59	3	23
+27	
+Oakley Schneekloth
+Marshall [8]
+19:51.33	3	24
+28	
+Lilian Rude
+Brandon Valley [10]
+19:51.47	3	25
+29	
+Grace Bialas
+Tea Area [8]
+19:52.16	3	26
+30	
+Landree Quint
+Mankato West [9]
+19:52.34	3	27
+31	
+Cambree Moss
+Williston [9]
+19:57.13	4	28
+32	
+Addie Smetana
+Brookings [12]
+19:59.39	4	 
+33	
+Ellie Barker
+Raymore-Peculiar [12]
+20:00.53	4	29
+34	
+Hannah Rodemeyer
+Woodbury [8]
+20:03.86	4	30
+35	
+Juna Ramey
+Aberdeen Central [10]
+20:04.31	4	31
+36	
+Emma Tidemann
+Brandon Valley [7]
+20:05.79	4	32
+37	
+Sophia Redler
+Dakota Valley [11]
+20:09.78	4	 
+38	
+Kelly McCarthy
+Woodbury [12]
+20:12.15	4	33
+39	
+Kylah Biggins
+Chamberlain [10]
+20:13.96	4	34
+40	
+Katie Johnsen
+Grand Island [10]
+20:14.23	4	35
+41	
+Leni Olson
+SF Lincoln [12]
+20:19.52	5	36
+42	
+Alexa Fahey
+Woodbury [8]
+20:21.25	5	37
+43	
+Ella Pollreisz
+Ethan/Parkston [11]
+20:21.98	5	 
+44	
+Chloe Hemmer
+Fremont [12]
+20:22.30	5	38
+45	
+Kelsey Schmidt
+Lennox [11]
+20:22.33	5	39
+46	
+Grace Phillips
+Chamberlain [7]
+20:24.12	5	40
+47	
+Brooklyn Koll
+SF Roosevelt [11]
+20:24.96	5	41
+48	
+Jenna Gilhooly
+Harrisburg [11]
+20:26.35	5	42
+49	
+Kira Ubence
+Douglas [10]
+20:28.78	5	 
+50	
+Sarah Vaske
+Woodbury [11]
+20:29.05	5	43
+51	
+Harley Jeannotte
+Williston [8]
+20:29.22	6	44
+52	
+Isabel Chatfield
+Raymore-Peculiar [12]
+20:29.27	6	45
+53	
+Kate McElroy
+Watertown [9]
+20:32.64	6	46
+54	
+Rachel Putze
+Woodbury Central [10]
+20:35.98	6	 
+55	
+Autumn Baker
+Kimball/White Lake [10]
+20:38.65	6	 
+56	
+Katelyn Leibfried
+Marshall [9]
+20:41.79	6	47
+57	
+Maris Dahl
+Fremont [12]
+20:44.11	6	48
+58	
+Alex McCullough
+Dakota Valley [8]
+20:44.19	6	 
+59	
+Gwen Richter
+Pierre T.F. Riggs [10]
+20:47.47	6	49
+60	
+Addalai DeKam
+SF Lincoln [12]
+20:48.34	6	50
+61	
+Bria Miller
+Harrisburg [9]
+20:48.79	7	51
+62	
+Laney Castelluzzo
+O'Gorman [10]
+20:50.49	7	 
+63	
+Brit Wheeler
+Custer [12]
+20:50.96	7	52
+64	
+Olivia Anderson
+Watertown [8]
+20:51.98	7	53
+65	
+Liberty Trygstad
+Sioux Valley [9]
+20:52.01	7	54
+66	
+Callie Radigan
+Vermillion [10]
+20:52.53	7	 
+67	
+Dru Zander
+Williston [10]
+20:53.15	7	55
+68	
+Haylie Hedrington
+Woodbury [11]
+20:54.24	7	56
+69	
+Haley Bergan
+Brandon Valley [12]
+20:54.53	7	 
+70	
+Brooke Stephenson
+Raymore-Peculiar [10]
+20:55.05	7	57
+71	
+Marlie Surls
+Raymore-Peculiar [10]
+20:55.73	8	58
+72	
+Rilyn Jackson
+Yankton [8]
+20:56.52	8	59
+73	
+Devyn Van Roekel
+Pierre T.F. Riggs [8]
+20:56.88	8	60
+74	
+Margaret Vogel
+SF Christian [11]
+20:57.72	8	61
+75	
+Delaney Youmans
+Yankton [8]
+20:58.63	8	62
+76	
+Myla Kaldor
+Hillsboro/Ce [11]
+20:59.93	8	 
+77	
+Addison Liston
+Unity Christ
+21:01.91	8	63
+78	
+Cameen McFarquhar
+Marshall [12]
+21:02.71	8	64
+79	
+Annah Perdue
+York [9]
+21:04.10	8	65
+80	
+Angela Wold
+Williston [10]
+21:04.42	8	66
+81	
+Jazlyn Heilman
+West Fargo Sheyenne [10]
+21:04.88	9	67
+82	
+Ava Allen
+Belle Fourche [12]
+21:05.32	9	68
+83	
+Harper Shaffer
+Pierre T.F. Riggs [8]
+21:07.28	9	69
+84	
+Agatha Olberding
+Norfolk [9]
+21:07.67	9	70
+85	
+Ashton Massey
+Menno [12]
+21:09.89	9	 
+86	
+Jayne Lees
+Pierre T.F. Riggs [9]
+21:11.13	9	71
+87	
+Lily Baker
+Kimball/White Lake [9]
+21:11.31	9	 
+88	
+Mason Berg
+Pierre T.F. Riggs [11]
+21:11.45	9	72
+89	
+Jada Hothan
+North Platte [11]
+21:11.73	9	73
+90	
+Diamond Roy
+Flandreau [11]
+21:15.03	9	74
+91	
+Ella Otten
+Dakota Valley [8]
+21:15.99	10	 
+92	
+Hailey Tiahrt
+Baltic [10]
+21:16.39	10	 
+93	
+Emmeline Murray
+SF Lincoln [9]
+21:16.53	10	75
+94	
+Ella Merriman
+Beresford [10]
+21:20.00	10	 
+95	
+Audrey Weiss
+SF Lincoln [12]
+21:20.31	10	76
+96	
+Ella Bartz
+SF Lincoln [10]
+21:21.23	10	77
+97	
+Addison Pinneo
+York [10]
+21:21.55	10	78
+98	
+Mary Rounds
+Yankton [8]
+21:22.15	10	79
+99	
+Isabelle Renlund
+Woodbury [12]
+21:23.95	10	80
+100	
+Kelty Silbernagel
+Rapid City Central [11]
+21:25.21	10	 
+101	
+Scarlett Walsh
+Bishop Heela [12]
+21:25.42	11	81
+102	
+Olivia Formisano
+Vermillion [10]
+21:26.06	11	 
+103	
+Katie Young
+Unity Christ [10]
+21:26.16	11	82
+104	
+Sheridan Madden
+Rapid City Central [9]
+21:27.24	11	 
+105	
+Hanna Johnson
+SC North [10]
+21:28.07	11	 
+106	
+Ayva Darmento
+Fremont [12]
+21:28.30	11	83
+107	
+Kendall Clayton
+Brandon Valley [9]
+21:28.62	11	 
+108	
+Sierra Rader
+Norfolk [12]
+21:29.18	11	84
+109	
+Lia Mundt
+Belle Fourche [7]
+21:29.79	11	85
+110	
+Carlie DeBoer
+Hot Springs [12]
+21:30.23	11	 
+111	
+Lauryn Rosenthal
+Woodbury [11]
+21:30.79	12	86
+112	
+Kiley Westberry
+Flandreau [9]
+21:32.56	12	87
+113	
+Lachell Benitez Cedillo
+North Platte [9]
+21:34.68	12	88
+114	
+Misty Drieling
+Belle Fourche [9]
+21:36.03	12	89
+115	
+Brooklynn Kitchens
+Williston [10]
+21:36.33	12	90
+116	
+Finley Evjen
+Canton [7]
+21:37.33	12	91
+117	
+Ellie Engelking
+West Fargo Sheyenne [9]
+21:38.52	12	92
+118	
+Addison Bertrand
+Bishop Heela [10]
+21:39.42	12	93
+119	
+Chloe Aanenson
+Mankato West [12]
+21:39.47	12	94
+120	
+Talya Vincent
+Sioux Valley [10]
+21:39.59	12	95
+121	
+Maddie Demke
+Bishop Heela [12]
+21:39.89	13	96
+122	
+Brooklyn Stanley
+Bishop Heela [12]
+21:40.13	13	97
+123	
+Cecilia Christian
+O'Gorman [11]
+21:41.36	13	 
+124	
+Lily Kaldor
+Hillsboro/Ce [9]
+21:41.48	13	 
+125	
+Ruby Bouwman
+SF Lincoln [10]
+21:41.57	13	98
+126	
+Frieda Brauer
+Raymore-Peculiar [11]
+21:42.13	13	99
+127	
+Kailey Winter
+Harrisburg [10]
+21:42.69	13	100
+128	
+Estelle Waltner
+Freeman Acad [10]
+21:42.85	13	 
+129	
+Aubrey Borns
+West Central [10]
+21:43.38	13	 
+130	
+Emma Savey
+Harrisburg [12]
+21:43.74	13	101
+131	
+Lydia Anderson
+Vermillion [10]
+21:43.97	14	 
+132	
+Lauren Brown
+Grand Island [12]
+21:44.34	14	102
+133	
+Jocelyn Morris
+Grand Island [12]
+21:44.72	14	103
+134	
+Claire McCallum
+Harrisburg [9]
+21:45.25	14	104
+135	
+Lily O'Connor
+O'Gorman [10]
+21:45.35	14	 
+136	
+Peyton Gette
+Kindred [12]
+21:45.96	14	105
+137	
+Katie Hartke
+McW-Bops [12]
+21:47.69	14	 
+138	
+Emory Conrad
+York [12]
+21:47.81	14	106
+139	
+Morgan VanVeen
+Aberdeen Central [9]
+21:50.86	14	107
+140	
+Avery Schneekloth
+Marshall [9]
+21:51.22	14	108
+141	
+Landrey Graven
+Marshall [8]
+21:51.31	15	109
+142	
+Bella Dittmer
+SF Roosevelt [9]
+21:51.97	15	110
+143	
+Amelia Lyon
+SF Christian [11]
+21:51.98	15	111
+144	
+Emmerson Eppard
+Chester [10]
+21:52.60	15	 
+145	
+Keeley Call
+Williston [10]
+21:52.66	15	112
+146	
+Mia Kadi
+SF Lincoln [9]
+21:52.96	15	113
+147	
+Hallie Person
+Lead-Deadwood [11]
+21:53.63	15	 
+148	
+Grace Roerig
+Bishop Heela [10]
+21:55.41	15	114
+149	
+Finley Ames
+Williston [7]
+21:55.47	15	115
+150	
+Abby Hilleson
+Tea Area [8]
+21:55.68	15	116
+151	
+Berklee Mills
+Platte-Geddes [8]
+21:55.88	16	 
+152	
+Abby Johanneson
+Yankton [8]
+21:57.05	16	117
+153	
+Bethany Jespersen
+SF Lincoln [9]
+21:57.70	16	 
+154	
+Aubrey Anderson
+Norfolk [9]
+21:59.70	16	118
+155	
+Josie Hamilton
+Flandreau [11]
+22:00.04	16	119
+156	
+Olivia Hoogland
+Unity Christ [12]
+22:00.06	16	120
+157	
+Kathryn Madrigga
+West Fargo Sheyenne [9]
+22:00.13	16	121
+158	
+Emily Renlund
+Woodbury [12]
+22:01.40	16	 
+159	
+Abby Klompien
+Unity Christ [11]
+22:01.63	16	122
+160	
+Taryn Roesler
+Kindred [9]
+22:02.37	16	123
+161	
+Peyton Paxton
+Mullen [11]
+22:03.48	17	 
+162	
+Tiffany Chatfield
+Raymore-Peculiar [12]
+22:03.91	17	 
+163	
+Kimber Walker
+Hillsboro/Ce [9]
+22:06.13	17	 
+164	
+Adie McVey
+Lennox [7]
+22:09.22	17	124
+165	
+Jazzlyn Rombough
+Pierre T.F. Riggs [12]
+22:09.37	17	125
+166	
+Lizzie Stoppkotte
+Grand Island [10]
+22:10.14	17	126
+167	
+Sophia Wortmann
+Crofton [10]
+22:11.44	17	 
+168	
+Londyn Schroeder
+Mitchell [9]
+22:11.55	17	 
+169	
+Lily Murray
+Brookings [12]
+22:12.38	17	 
+170	
+Sierra Swanson
+Custer [12]
+22:12.84	17	127
+171	
+Shae Rumsey
+Yankton [12]
+22:13.25	18	128
+172	
+Sarah Gilhooly
+Harrisburg [9]
+22:13.47	18	 
+173	
+Ryleigh Wright
+York [10]
+22:13.81	18	129
+174	
+Avery Lisburg
+Pierre T.F. Riggs [11]
+22:14.12	18	130
+175	
+Silvana Houska
+Chamberlain [9]
+22:15.29	18	131
+176	
+Bianca Berry
+Milbank [8]
+22:17.67	18	132
+177	
+Gracen Giegling
+Harrisburg [9]
+22:18.12	18	 
+178	
+Drew Caffrey
+West Central [12]
+22:18.75	18	 
+179	
+Maelee Krempges
+West Central [9]
+22:19.29	18	 
+179	
+Kaysen Magee
+Stanley County [11]
+22:19.29	18	 
+181	
+Jacqueline Swanson
+Williston [10]
+22:20.16	19	 
+182	
+Addisyn Anderson
+SF Lincoln [9]
+22:21.61	19	 
+183	
+Josie Vlieger
+Huron [10]
+22:22.90	19	 
+184	
+Jacy Wolf
+Chester [9]
+22:23.36	19	 
+185	
+Annika Staab
+Grand Island [12]
+22:24.18	19	133
+186	
+Anna Pippenger
+Williston [10]
+22:25.33	19	 
+187	
+Hannah James
+Mankato West [10]
+22:25.64	19	134
+188	
+Tia Madrigga
+West Fargo Sheyenne [12]
+22:27.26	19	135
+189	
+Rylie Arens
+Crofton [11]
+22:27.81	19	 
+190	
+Tanna Swenson
+West Fargo Sheyenne [9]
+22:27.83	19	136
+191	
+Addison Bates
+Chester [12]
+22:29.25	20	 
+192	
+Emma Snider
+York [12]
+22:29.90	20	137
+193	
+Charlee Williams-Smith
+Pierre T.F. Riggs [10]
+22:30.52	20	 
+194	
+Keira Alfson
+Custer [10]
+22:31.97	20	138
+195	
+Sadie Mueller
+Ethan/Parkston [9]
+22:32.47	20	 
+196	
+Molly Meier
+Norfolk [12]
+22:35.08	20	139
+197	
+Jayla York
+Canton [9]
+22:38.05	20	140
+198	
+Jordyn Wilson
+SC East [10]
+22:38.82	20	141
+199	
+Allyson Goodmanson
+Kindred [12]
+22:39.04	20	142
+200	
+Emma Scott
+SC East [10]
+22:39.48	20	143
+201	
+Elaina Rounds
+Pierre T.F. Riggs [9]
+22:39.57	21	 
+202	
+Ava Sletten
+Canton [8]
+22:40.70	21	144
+203	
+Jasmine Morales
+Grand Island [12]
+22:40.72	21	145
+204	
+Kynlee Speidel
+Milbank [12]
+22:41.60	21	146
+205	
+Alli McCord
+Kimball/White Lake [9]
+22:42.09	21	 
+206	
+Josephine Plucker
+Lennox [10]
+22:43.76	21	147
+207	
+Audrey Fedunok
+Woodbury [11]
+22:44.08	21	 
+208	
+Meredith Decker
+Tea Area [10]
+22:44.88	21	148
+209	
+Zoe Williams
+Mankato West [10]
+22:45.12	21	149
+210	
+Naomi Kieffer
+Bishop Heela [11]
+22:45.24	21	150
+211	
+Sara Larson
+West Fargo Sheyenne [8]
+22:45.46	22	151
+212	
+Makenzie DeRocher
+LeMars [10]
+22:46.18	22	152
+213	
+Bailey Hokanson
+Williston [10]
+22:46.29	22	 
+214	
+Callie Waters
+Fremont [12]
+22:46.45	22	153
+215	
+Hailey Woodward
+Custer [10]
+22:46.94	22	154
+216	
+Ava Gatzke
+Sioux Valley [8]
+22:47.10	22	155
+217	
+McKinley Glanville
+SF Lincoln [9]
+22:48.10	22	 
+218	
+Alexis Ketterling
+Aberdeen Central [12]
+22:48.35	22	156
+219	
+Karlie Bosma
+Lennox [9]
+22:48.96	22	157
+220	
+Ellery Stark
+Watertown [12]
+22:49.56	22	158
+221	
+Jasmine Jennewein
+SF Jefferson [12]
+22:49.94	23	 
+222	
+Rhys Pearson
+Belle Fourche [8]
+22:50.07	23	159
+223	
+Kaylor Nekl
+SF Lincoln [10]
+22:50.79	23	 
+224	
+Maci Licht
+Sioux Valley [7]
+22:51.80	23	160
+225	
+Josie Nold
+Brookings [11]
+22:52.70	23	 
+226	
+Angie Lopez
+Aberdeen Central [12]
+22:55.41	23	161
+227	
+Elizabeth Wortmann
+Crofton [12]
+22:55.73	23	 
+228	
+Claire Hannah
+Lead-Deadwood [11]
+22:57.67	23	 
+229	
+Kendal Hamerlinck
+LeMars [11]
+22:59.81	23	162
+230	
+Stella Larson
+SF Roosevelt [12]
+22:59.88	23	163
+231	
+Yom Kuol
+SF Washington [12]
+23:00.01	24	 
+232	
+Reese Quint
+Mankato West [7]
+23:00.79	24	164
+233	
+Emma Anderson
+SF Roosevelt [12]
+23:01.34	24	165
+234	
+Stella Wendland
+Milbank [12]
+23:01.54	24	166
+235	
+Khloe Cochran
+Aberdeen Central [9]
+23:03.67	24	167
+236	
+Rigby Haskins
+Williston [10]
+23:05.50	24	 
+237	
+Harper Andersen
+Mullen [9]
+23:05.93	24	 
+238	
+Sofia Kovalenko
+SF Roosevelt [11]
+23:06.26	24	168
+239	
+Elizabeth Hoogland
+Unity Christ [11]
+23:10.32	24	169
+240	
+Allyson Bauer
+Pierre T.F. Riggs [9]
+23:14.03	24	 
+241	
+Shelby Westinghouse
+Hot Springs [12]
+23:15.78	25	 
+242	
+Aria Prasnicki
+Milbank [7]
+23:16.47	25	170
+243	
+Kayleigh Hulzebos
+Mankato West [9]
+23:17.09	25	171
+244	
+Allison Hayes
+Belle Fourche [12]
+23:17.23	25	172
+245	
+Jacyi Lockamy
+SC East [10]
+23:17.69	25	173
+246	
+Naomi Rock
+SF Washington [12]
+23:18.26	25	 
+247	
+Brenly Vigness
+Williston [7]
+23:18.43	25	 
+248	
+Kendra Hoffmann
+Harrisburg [11]
+23:18.84	25	 
+249	
+Emily Stahlberg
+SF Washington [11]
+23:20.15	25	 
+250	
+Emmie Fellows
+West Fargo Sheyenne [7]
+23:20.70	25	 
+251	
+Brooklyn Reiners
+Tea Area [10]
+23:20.79	26	174
+252	
+Tyra Berry
+Milbank [11]
+23:22.37	26	175
+253	
+Sara Schroder
+Canton [12]
+23:22.57	26	176
+254	
+Sadey Holt
+Baltic [10]
+23:23.11	26	 
+255	
+Aspen Evers
+Mitchell [10]
+23:24.57	26	 
+256	
+Nishyia Ponniah
+Norfolk [12]
+23:28.10	26	177
+257	
+Mariah Ham
+Norfolk [9]
+23:29.70	26	178
+258	
+Ady Hampton
+Mullen [9]
+23:31.16	26	 
+259	
+Riley Hegland
+Mullen [9]
+23:31.67	26	 
+260	
+Aliya Bos
+Norfolk [9]
+23:32.41	26	179
+261	
+Karis Hulinsky
+LeMars [9]
+23:33.18	27	180
+262	
+Jaidyn DeJong
+Unity Christ
+23:33.97	27	181
+263	
+Alivia Burgard
+Aberdeen Central [12]
+23:34.05	27	182
+264	
+Grace List
+Watertown [9]
+23:34.45	27	183
+265	
+Lexi Schoenfelder
+Ethan/Parkston [10]
+23:34.73	27	 
+266	
+Isabella Vrbka
+Aberdeen Central [10]
+23:35.37	27	184
+267	
+Claira Rickbeil
+Mankato West [8]
+23:36.68	27	185
+268	
+Dulcie Veurink
+Platte-Geddes [9]
+23:36.85	27	 
+269	
+Jewel Gannon
+Canton [10]
+23:38.99	27	186
+270	
+Emma Hogan
+SC East [11]
+23:39.19	27	187
+271	
+Brooklyn Brown
+North Platte [11]
+23:40.85	28	188
+272	
+Gaby Machayya
+West Fargo Sheyenne [10]
+23:41.51	28	 
+273	
+Isabel Shepherd
+North Platte [11]
+23:44.12	28	189
+274	
+Ellie Mergen
+SF Jefferson [12]
+23:45.26	28	 
+275	
+Rebekah Guenther
+Norfolk [12]
+23:45.58	28	 
+276	
+Maddie McBratney
+Fremont [11]
+23:46.87	28	190
+277	
+Liz Preszler
+Aberdeen Central [10]
+23:50.86	28	 
+278	
+Leah Saure
+Hillsboro/Ce [8]
+23:52.92	28	 
+279	
+Ashleigh Jochum
+Bishop Heela [10]
+23:55.58	28	191
+280	
+Macy Means
+Norfolk [9]
+23:55.89	28	 
+281	
+Mary Nielsen
+North Platte [9]
+23:56.89	29	192
+282	
+Zayda Townsend
+Milbank [9]
+23:57.54	29	193
+283	
+Holly Gillick
+Lennox [10]
+23:58.56	29	194
+284	
+Quynn Nielson
+Sioux Valley [9]
+24:01.01	29	195
+285	
+Gracelyn Foster
+Marshall [12]
+24:01.77	29	 
+286	
+Kenedi Creasman
+North Platte [10]
+24:04.09	29	196
+287	
+Kiana Joerger
+Aberdeen Central [12]
+24:05.28	29	 
+288	
+Danelyn Greene
+Estelline/Hendricks [9]
+24:06.51	29	 
+289	
+Claire Dagel
+Estelline/Hendricks [12]
+24:08.44	29	 
+290	
+Aliyah Taylor
+Norfolk [9]
+24:13.43	29	 
+291	
+Amber Gomez
+Grand Island [12]
+24:18.15	30	197
+292	
+Sienna Kass
+LeMars [11]
+24:20.67	30	198
+293	
+Madison Bosma
+Unity Christ [12]
+24:21.56	30	199
+294	
+Olivia Dobesh
+North Platte [11]
+24:22.79	30	200
+295	
+Allison Brenner
+Aberdeen Central [9]
+24:22.86	30	 
+296	
+Claire Tereshinski
+Yankton [12]
+24:23.60	30	201
+297	
+Lilin Kamm
+SC East [10]
+24:23.68	30	202
+298	
+Alyssa Swanson
+Mankato West [11]
+24:24.20	30	 
+299	
+Lizzy Dahl
+SF Roosevelt [11]
+24:28.91	30	203
+300	
+Karen Cuellar Martinez
+Norfolk [11]
+24:29.42	30	 
+301	
+Lexi Ogren
+Kindred [11]
+24:30.68	31	204
+302	
+Morgan Becker
+Brandon Valley [11]
+24:34.28	31	 
+303	
+Mattea Marshall
+Custer [9]
+24:40.20	31	205
+304	
+Amelia Pinkelman
+Norfolk [12]
+24:41.99	31	 
+305	
+Addy Cameron
+Woodbury Central [10]
+24:42.44	31	 
+306	
+Kylie Gosch
+SF Roosevelt [10]
+24:43.71	31	206
+307	
+Megan Lewandowski
+Mankato West [11]
+24:44.16	31	 
+308	
+Elizabeth Wicker
+Norfolk [12]
+24:50.33	31	 
+309	
+Violet Menk
+Mankato West [11]
+24:57.80	31	 
+310	
+Lila Adams
+Mankato West [8]
+25:00.30	31	 
+311	
+Andie Sanderson
+Mankato West [11]
+25:03.64	32	 
+312	
+Sarah Tilberg
+LeMars [9]
+25:04.77	32	207
+313	
+Alexis Daley
+Mitchell [10]
+25:05.10	32	 
+314	
+Lucia Pleskac
+Fremont [11]
+25:05.47	32	208
+315	
+Maria Gutierrez
+SC North [10]
+25:06.32	32	 
+316	
+Maya Hogrefe
+LeMars [10]
+25:09.76	32	209
+317	
+Mikaela Stenzel
+Mankato West [11]
+25:14.57	32	 
+318	
+Meredith Larson
+Baltic [10]
+25:16.36	32	 
+319	
+Olivia Solhjem
+Kindred [12]
+25:24.25	32	210
+320	
+Elyanna Schmitz
+Kindred [11]
+25:26.00	32	211
+321	
+Maddison Lyon
+McW-Bops [10]
+25:26.39	33	 
+322	
+Nyewal Dojiok
+Mankato West [12]
+25:31.43	33	 
+323	
+Grace Mousseau
+Chamberlain [11]
+25:35.41	33	212
+324	
+Khloe Eliesa
+SC North [9]
+25:39.19	33	 
+325	
+Haylie Hoatson
+North Platte [12]
+25:44.91	33	 
+326	
+Scarlett Taylor
+Tea Area [12]
+25:55.88	33	213
+327	
+Katelynn Kennedy
+McW-Bops [10]
+25:57.81	33	 
+328	
+Alex Barten
+Mankato West [7]
+26:01.38	33	 
+329	
+Callie Brodersen
+SC North [12]
+26:11.23	33	 
+330	
+Cali Rosener
+LeMars [9]
+26:14.00	33	214
+331	
+Hailey Lahr
+Flandreau [10]
+26:23.59	34	215
+332	
+Avrie London
+Mitchell [10]
+26:32.41	34	 
+333	
+Ellarayne Lang
+Mankato West [11]
+26:41.85	34	 
+334	
+Brianna Lux
+Woodbury Central [11]
+27:04.06	34	 

@@ -1,0 +1,127 @@
+ 	
+Athlete
+Finals	Heat
+1	
+Tayshaun Cudmore
+Dupree [10]
+18:12.00	1
+2	
+Jessup Pederson
+Dupree [12]
+18:35.00	1
+3	
+Clint Winkler
+Newell [11]
+18:38.00	1
+4	
+Hayden Bentley
+Lemmon [12]
+18:52.00	1
+5	
+Gage Anderson
+Lemmon [11]
+19:12.00	1
+6	
+Trevor Dalley
+Hettinger-Scranton [10]
+19:21.00	1
+7	
+Martin Plenty Chief
+Wakpala [11]
+19:27.00	1
+8	
+Spencer Olsen
+Dupree [10]
+19:36.00	1
+9	
+Xavier Sanchez-Gonzalez
+Timber Lake [9]
+19:41.00	1
+10	
+Landon Knote
+Dickinson Trinity [9]
+20:10.00	1
+11	
+Dominique Heupel
+Dickinson Trinity [8]
+20:29.00	2
+12	
+David Kirby
+Newell [11]
+20:42.00	2
+13	
+Asher Ellerkamp
+Dickinson Trinity [10]
+20:45.00	2
+14	
+Jayden Marshall
+Dupree [10]
+20:54.00	2
+15	
+Trigg Odenbach
+Lemmon [8]
+20:59.00	2
+16	
+Donny Forster
+Lemmon [9]
+21:04.00	2
+17	
+Ashton Waliser
+McIntosh [12]
+21:07.00	2
+18	
+Alex Keller
+Dickinson Trinity [11]
+21:11.00	2
+19	
+Orin Bender
+Newell [12]
+21:24.00	2
+20	
+Charlie Hornick
+Timber Lake [9]
+22:21.00	2
+21	
+Logan McKee
+Wakpala [11]
+22:36.00	3
+22	
+Brooks Foss
+Lemmon [10]
+22:45.00	3
+23	
+Sutton Peterson
+Lemmon [7]
+22:55.00	3
+24	
+Jeremiah Tiger
+Dupree [10]
+23:10.00	3
+25	
+Aidan Ellerkamp
+Dickinson Trinity [10]
+24:02.00	3
+26	
+Alonzo Kudrna
+Dickinson Trinity [9]
+24:39.00	3
+27	
+Benjamin Ellerkamp
+Dickinson Trinity [9]
+24:49.00	3
+28	
+Joseph Ellerkamp
+Dickinson Trinity [7]
+25:05.00	3
+29	
+Jay'den Two Crow
+Tiospaye Topa [10]
+25:28.00	3
+30	
+Thomas Holzer
+Timber Lake [9]
+27:13.00	3
+31	
+Malachi Whitacre
+Newell [9]
+28:51.00	4

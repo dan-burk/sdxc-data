@@ -1,0 +1,319 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Jenna DeBates
+Luverne [12]
+18:27.02	1	 
+2	
+Natalie Smith
+SF Christian [10]
+18:42.92	1	1
+3	
+Ellie Maddox
+SF Christian [10]
+19:14.41	1	2
+4	
+Sadie Pettengill
+SF Christian [8]
+19:34.15	1	3
+5	
+Anna Vyn
+SF Christian [11]
+19:34.27	1	4
+6	
+Jaycie Babb
+Tea Area [10]
+19:41.80	1	5
+7	
+Kelsey Schmidt
+Lennox [11]
+19:54.25	1	6
+8	
+Ella Pollreisz
+Ethan/Parkston [11]
+20:08.81	1	 
+9	
+Sophie Redler
+Dakota Valley [11]
+20:26.51	1	7
+10	
+Rorie Thoreson
+Dell Rapids [8]
+20:38.80	1	 
+11	
+Callie Radigan
+Vermillion [10]
+20:39.24	2	8
+12	
+Grace Bialas
+Tea Area [8]
+20:42.85	2	9
+13	
+Adie McVey
+Lennox [7]
+20:45.77	2	10
+14	
+Taeli Barta
+Vermillion [12]
+20:56.33	2	11
+15	
+Hailey Tiahrt
+Baltic [10]
+20:56.82	2	12
+16	
+Lydia Anderson
+Vermillion [10]
+20:58.80	2	13
+17	
+Jolie Westrum
+Gayville-Volin [9]
+20:59.76	2	 
+18	
+Ella Otten
+Dakota Valley [8]
+21:03.93	2	14
+19	
+Aubrey Borns
+West Central [10]
+21:05.24	2	15
+20	
+Ashton Massey
+Menno [12]
+21:07.56	2	 
+21	
+Margaret Vogel
+SF Christian [11]
+21:11.47	3	16
+22	
+Olivia Formisano
+Vermillion [10]
+21:14.25	3	17
+23	
+Finley Evjen
+Canton [7]
+21:28.22	3	18
+24	
+Abby Hilleson
+Tea Area [8]
+21:31.68	3	19
+25	
+Maelee Krempges
+West Central [9]
+21:32.53	3	20
+26	
+Ella Merriman
+Beresford [10]
+21:36.96	3	 
+27	
+Katie Hartke
+Martin County West [12]
+21:38.18	3	 
+28	
+Amelia Lyon
+SF Christian [11]
+21:58.10	3	21
+29	
+Drew Caffrey
+West Central [12]
+22:02.68	3	22
+30	
+Alex McCullough
+Dakota Valley [8]
+22:11.51	3	23
+31	
+Sadie Mueller
+Ethan/Parkston [9]
+22:12.27	4	 
+32	
+Meredith Decker
+Tea Area [10]
+22:19.30	4	24
+33	
+Estelle Waltner
+Freeman Acad [10]
+22:19.37	4	 
+34	
+Ava Sletten
+Canton [8]
+22:21.03	4	25
+35	
+Khloe Visker
+Luverne [9]
+22:25.42	4	 
+36	
+Sophia Bauld
+Burke [11]
+22:25.66	4	26
+37	
+Hadley Larsen
+West Central [12]
+22:35.92	4	27
+38	
+Emery Shubeck
+Centerville [8]
+22:39.13	4	28
+39	
+Zoe Schaeffer
+Menno [9]
+22:43.42	4	 
+40	
+Mia Riibe
+Dakota Valley [10]
+22:47.55	4	29
+41	
+Regan Van Meeteren
+Lennox [8]
+22:49.35	5	30
+42	
+Lillie Eide
+Centerville [12]
+22:51.74	5	31
+43	
+Josephine Plucker
+Lennox [10]
+22:52.51	5	32
+44	
+Vivian Kirk
+Centerville [11]
+22:54.37	5	33
+45	
+Logan Mulder
+SF Christian [12]
+23:00.50	5	 
+46	
+Jewel Gannon
+Canton [10]
+23:00.78	5	34
+47	
+Kamille Schmidt
+Lennox [7]
+23:00.88	5	35
+48	
+Claire Guthmiller
+Bon Homme [8]
+23:09.61	5	 
+49	
+Jazelle Jarding
+West Central [12]
+23:11.00	5	36
+50	
+Presley Slaba
+Wagner [11]
+23:13.75	5	 
+51	
+Haley Korver
+Tea Area [12]
+23:17.32	6	37
+52	
+Brooklyn Reiners
+Tea Area [10]
+23:18.65	6	38
+53	
+Sara Schroder
+Canton [12]
+23:19.38	6	39
+54	
+Taylor Zeisler
+Burke [8]
+23:21.61	6	40
+55	
+Maylee Rose
+Dakota Valley [10]
+23:28.54	6	41
+56	
+Sadey Holt
+Baltic [10]
+23:41.76	6	42
+57	
+Katelynn Kennedy
+Martin County West [10]
+24:27.07	6	 
+58	
+Tessa Eide
+Centerville [10]
+24:29.69	6	43
+59	
+Maddison Lyon
+Martin County West [10]
+24:48.71	6	 
+60	
+Lexi Schoenfelder
+Ethan/Parkston [10]
+24:56.40	6	 
+61	
+Mya DeStigter
+Dell Rapids [10]
+24:58.31	7	 
+62	
+Gabbie Eichmann
+Canistota [8]
+25:00.51	7	 
+63	
+Jayla York
+Canton [9]
+25:02.74	7	44
+64	
+Miah Thorstenson
+Tea Area [9]
+25:21.11	7	 
+65	
+Avery Zeisler
+Burke [11]
+25:35.42	7	45
+66	
+Meredith Larson
+Baltic [10]
+25:38.77	7	46
+67	
+MaKayla Heesch
+Centerville [12]
+25:49.36	7	47
+68	
+Lydia Yost
+Wagner [11]
+25:49.52	7	 
+69	
+Payton Logan
+Gayville-Volin [9]
+25:54.95	7	 
+70	
+Alexis Wall
+Elk Point-Jefferson [9]
+26:15.28	7	 
+71	
+Scarlett Taylor
+Tea Area [12]
+26:34.28	8	 
+72	
+Vivian Koepsell
+McCook Centr [12]
+26:49.92	8	 
+73	
+Ashlynn Fergen
+Menno [9]
+27:18.27	8	 
+74	
+Tanayia Pacheco
+Gayville-Volin [11]
+27:30.92	8	 
+75	
+Reagan VanZee
+Dell Rapids [12]
+28:27.27	8	 
+76	
+Bella Duerfeldt
+Burke [10]
+28:41.89	8	48
+77	
+Elizabeth Hockenberry
+Baltic [11]
+28:54.61	8	49
+78	
+Kamrynn Brumbaugh
+Irene-Wakonda [11]
+29:40.25	8	 
+79	
+Jasmine Ruelaz
+Bon Homme [9]
+30:50.22	8	 

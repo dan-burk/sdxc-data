@@ -1,0 +1,43 @@
+ 	
+Athlete
+Finals	Points
+1	
+BreAna Aske
+Jones County [8]
+21:00.16	1
+2	
+Madilyn Wulf
+New Underwood [11]
+22:29.49	 
+3	
+Aubrey Tucker
+Jones County [7]
+23:34.53	2
+4	
+Addison Kierl
+Jones County [12]
+23:47.45	3
+5	
+Taylee Dartt
+Wall [11]
+24:11.03	4
+6	
+Rosa Ainslie
+Bennett County [9]
+25:08.15	 
+7	
+Sophie Dowling
+Jones County [12]
+25:13.76	5
+8	
+Callie Casjens
+Wall [8]
+27:58.25	6
+9	
+Joy Taylor
+Kadoka Area [9]
+28:10.94	 
+10	
+Terryn Shearer
+Wall [12]
+29:00.44	7

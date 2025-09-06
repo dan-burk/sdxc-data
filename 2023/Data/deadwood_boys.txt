@@ -1,0 +1,211 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Ty Petrocco
+Sturgis Brown [11]
+13:26.20	1	1
+2	
+Lane Krautschun
+Belle Fourche [12]
+13:37.26	1	2
+3	
+Quinn Bruch
+Sturgis Brown [10]
+13:42.62	1	3
+4	
+Wyatt Balliew
+Douglas [9]
+13:46.55	1	4
+5	
+Morgan Papenfuss
+Sturgis Brown [12]
+14:04.96	1	5
+6	
+Lennon Clarkson
+Belle Fourche [9]
+15:07.69	1	6
+7	
+Jayden Taken Alive
+McLaughlin [10]
+15:07.91	1	7
+8	
+Gavin Chiaroni
+Douglas [9]
+15:16.85	1	8
+9	
+Peyton Kallstrom
+Douglas [9]
+15:28.76	1	9
+10	
+Clint Winkler
+Newell [11]
+15:32.37	1	 
+11	
+Cash Daigle
+Sturgis Brown [11]
+15:38.55	2	10
+12	
+Angel Villegas
+Sundance [11]
+15:42.63	2	11
+13	
+Justus Funk
+Belle Fourche [12]
+15:45.36	2	12
+14	
+Kale Fenner
+Sturgis Brown [10]
+15:46.78	2	13
+15	
+Wamni Kills Crow
+McLaughlin [11]
+15:47.18	2	14
+16	
+Caden Pourier
+Red Cloud [11]
+15:47.96	2	 
+17	
+Quentin Miller
+Douglas [9]
+16:29.24	2	15
+18	
+Linkin Hurias
+Sturgis Brown [9]
+16:37.99	2	16
+19	
+Samuel Biberdorf
+Douglas [11]
+16:38.77	2	17
+20	
+Wica Enos
+New Underwood [11]
+16:48.98	2	 
+21	
+Aidan Craven
+Wall [9]
+16:53.05	3	 
+22	
+Jackson TakenAlive
+McLaughlin [9]
+16:55.48	3	18
+23	
+Oden Walding
+Belle Fourche [10]
+16:58.83	3	19
+24	
+Damien Clown
+Cheyenne-Eag [10]
+16:59.04	3	 
+25	
+Reymin YellowEarrings
+McLaughlin [12]
+17:05.08	3	20
+26	
+Darian Pesicka
+Belle Fourche [11]
+17:11.69	3	21
+27	
+Keaton Darrow
+Edgemont [11]
+17:13.39	3	22
+28	
+Miles Kornegay
+Sturgis Brown [9]
+17:14.13	3	 
+29	
+Ezias Nelson
+Lead-Deadwood [11]
+17:15.78	3	 
+30	
+James Culver
+New Underwood [11]
+17:17.62	3	 
+31	
+Bobby Nelson
+Douglas [10]
+17:20.97	4	23
+32	
+Kristopher Butcher
+Cheyenne-Eag [11]
+17:21.42	4	 
+33	
+Kyten Johnson
+Sundance [11]
+17:31.94	4	24
+34	
+Teton Janis
+Little Wound [11]
+17:47.50	4	 
+35	
+Wyatt Flahaven
+Sundance [11]
+17:48.85	4	25
+36	
+Caidon Cast
+Douglas [9]
+17:52.26	4	 
+37	
+Holden Ayer
+Sundance [11]
+18:01.00	4	26
+38	
+Gabe Welch
+Douglas [10]
+18:03.37	4	 
+39	
+Wyatt Huber
+Bennett County [11]
+18:10.01	4	 
+40	
+Hunter Frerichs
+Douglas [9]
+18:16.01	4	 
+41	
+David Kirby
+Newell [11]
+18:21.93	5	 
+42	
+Jager Mclaughlin
+Sundance [11]
+19:04.99	5	27
+43	
+Joshua Divis
+Douglas [10]
+19:09.63	5	 
+44	
+Xander Jones
+New Underwood [12]
+19:14.04	5	 
+45	
+John Heisler
+Edgemont [12]
+19:16.03	5	28
+46	
+Jonas Runge
+Lead-Deadwood [11]
+19:27.83	5	 
+47	
+Levi Brandt
+Douglas [10]
+20:32.36	5	 
+48	
+Markus Aschwanden
+Edgemont [11]
+21:00.54	5	29
+49	
+Malachi Whitacre
+Newell [9]
+23:18.73	5	 
+50	
+J.J. Ostenson
+Edgemont [12]
+23:20.85	5	30
+51	
+Sean Gatzke
+Douglas [9]
+23:28.19	6	 
+52	
+Alric Snider
+Douglas [11]
+24:17.76	6	 

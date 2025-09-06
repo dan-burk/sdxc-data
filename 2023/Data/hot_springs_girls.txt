@@ -1,0 +1,47 @@
+ 	
+Athlete
+Finals	Heat
+1	
+Aspen Bloom
+Newcastle [11]
+21:31.07	1
+2	
+Shelby Westinghouse
+Hot Springs [12]
+24:49.38	1
+3	
+Erin Harms
+Douglas [10]
+25:32.05	1
+4	
+Lainey Loeffler
+Douglas [11]
+25:34.18	1
+5	
+Holly Swentesky
+Newcastle [9]
+25:42.82	1
+6	
+Kaelyn LeFors
+Douglas [9]
+27:35.63	1
+7	
+Christine Swentesky
+Newcastle [9]
+27:39.57	1
+8	
+Kelly Clauson
+Douglas [11]
+28:09.04	1
+9	
+Brianna McCrae
+Douglas [10]
+29:18.94	1
+10	
+Emilee Collins
+Douglas [10]
+29:20.45	1
+11	
+Jackie Heisler
+Edgemont [12]
+29:54.30	2

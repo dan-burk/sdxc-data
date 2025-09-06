@@ -1,0 +1,59 @@
+ 	
+Athlete
+Finals	Heat
+1	
+Rachel Erk
+Newell [12]
+21:53.82	1
+2	
+BreAna Aske
+Jones County [8]
+22:14.63	1
+3	
+Eirelyn Bender
+Newell [11]
+23:04.98	1
+4	
+Madilyn Wulf
+New Underwood [11]
+23:09.13	1
+5	
+Aubrey Tucker
+Jones County [7]
+23:20.64	1
+6	
+Taylee Dartt
+Wall [11]
+23:30.57	1
+7	
+Bethany Mahaffy
+Newell [9]
+23:55.52	1
+8	
+Addison Kierl
+Jones County [12]
+24:38.98	1
+9	
+Natalie Yates
+Newell [9]
+25:36.16	1
+10	
+Rosa Ainslie
+Bennett County [9]
+25:52.70	1
+11	
+Terryn Shearer
+Wall [12]
+26:10.53	2
+12	
+Sophie Dowling
+Jones County [12]
+26:20.49	2
+13	
+Callie Casjens
+Wall [8]
+26:40.74	2
+14	
+Jackie Heisler
+Edgemont [12]
+28:14.00	2

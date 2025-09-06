@@ -1,0 +1,175 @@
+ 	
+Athlete
+Finals	Heat	Points
+1	
+Corinne Braun
+SF Christian [12]
+18:13.80	1	1
+2	
+Emery Larson
+Chester [10]
+18:36.96	1	2
+3	
+Jaycie Babb
+Tea Area [10]
+19:03.60	1	3
+4	
+Rorie Thoreson
+Dell Rapids [8]
+19:12.17	1	4
+5	
+Aubrey Borns
+West Central [10]
+19:28.96	1	5
+6	
+Maelee Krempges
+West Central [9]
+20:42.43	1	6
+7	
+Elizabeth Vogel
+DR St. Mary [8]
+20:48.77	1	7
+8	
+Jayna VanLaecken
+Tea Area [7]
+20:50.52	1	8
+9	
+Hailey Tiahrt
+Baltic [10]
+20:53.38	1	9
+10	
+Brooklyn Sundermann
+West Central [7]
+20:57.98	1	10
+11	
+Lucy Rozeboom
+West Central [8]
+21:04.38	2	11
+12	
+Sarah Johnson
+West Central [8]
+21:18.15	2	12
+13	
+Olivia Kerkvliet
+SF Christian [9]
+21:18.85	2	13
+14	
+Ella Lenning
+SF Christian [11]
+21:23.12	2	14
+15	
+Cami Wolles
+DR St. Mary [10]
+21:23.49	2	15
+16	
+Taylor VanderGriend
+SF Christian [12]
+21:24.77	2	16
+17	
+Drew Caffrey
+West Central [12]
+21:29.14	2	17
+18	
+Madison Reiff
+DR St. Mary [11]
+21:42.26	2	18
+19	
+Malayna Hemmen
+Elkton-Lake Benton [12]
+21:56.80	2	 
+20	
+Addison Bates
+Chester [12]
+22:04.39	2	19
+21	
+Emmerson Eppard
+Chester [10]
+22:11.89	3	20
+22	
+Haley Korver
+Tea Area [12]
+22:20.75	3	21
+23	
+Abby Hilleson
+Tea Area [8]
+22:22.86	3	22
+24	
+Brooklyn Reiners
+Tea Area [10]
+22:32.33	3	23
+25	
+Meredith Decker
+Tea Area [10]
+22:57.99	3	24
+26	
+Sadey Holt
+Baltic [10]
+22:58.75	3	25
+27	
+Lucy Vargas
+DR St. Mary [10]
+23:12.52	3	26
+28	
+Jacy Wolf
+Chester [9]
+23:20.33	3	27
+29	
+Claire McDonald
+Chester [8]
+23:21.77	3	28
+30	
+Amelia Lyon
+SF Christian [11]
+23:27.07	3	29
+31	
+Anya Hemmer
+Colman-Egan [9]
+23:34.55	4	 
+32	
+Alexis Kehn
+Baltic [7]
+23:42.23	4	30
+33	
+Mya DeStigter
+Dell Rapids [10]
+23:43.36	4	31
+34	
+Madde Jensen
+Elkton-Lake Benton [9]
+24:01.25	4	 
+35	
+Scarlett Taylor
+Tea Area [12]
+24:51.05	4	 
+36	
+Meredith Larson
+Baltic [10]
+25:45.74	4	32
+37	
+Kirti Pickard
+Dell Rapids [10]
+26:02.39	4	33
+38	
+Izzie Lee
+Colman-Egan [8]
+26:09.34	4	 
+39	
+Kaitlyn Swenson
+Chester [10]
+26:28.40	4	34
+40	
+Melody Gilkerson
+Oldham-Ramon [11]
+26:55.38	4	 
+41	
+Isabella Mack
+Tri-Valley [10]
+27:15.29	5	 
+42	
+Reagan VanZee
+Dell Rapids [12]
+27:45.16	5	35
+43	
+Jadyn McDonald
+Chester [10]
+27:51.83	5	 

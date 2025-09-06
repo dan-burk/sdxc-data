@@ -1,0 +1,247 @@
+ 	
+ATHLETE
+FINALS	HEAT
+1	
+Peyton VanDeest
+Spearfish [9]
+18:34.52	1
+2	
+Abby Cutler
+Hill City [12]
+19:10.18	1
+3	
+Kayley Alicke
+Sheridan [11]
+19:21.18	1
+4	
+Gracie Uhre
+Rapid City Stevens [12]
+19:35.11	1
+5	
+Kori Keil
+Spearfish [10]
+19:38.66	1
+6	
+Iris Zylstra
+Sturgis Brown [10]
+19:39.67	1
+7	
+Kadance Holso
+Rapid City Stevens [10]
+19:45.47	1
+8	
+Mallory Jones
+Thunder Basin [12]
+20:25.54	1
+9	
+Megan Doherty
+Thunder Basin [12]
+20:26.02	1
+10	
+Brinna Sheldon
+Rapid City Stevens [9]
+20:28.32	1
+11	
+Alyssa Fehlauer
+Sheridan [11]
+20:37.82	2
+12	
+Madison Melinkovich
+Campbell County [12]
+20:53.67	2
+13	
+Alexa Miller
+Sheridan [11]
+20:57.11	2
+14	
+Brooke Thayer-Burke
+Hill City [10]
+21:01.03	2
+15	
+Taylor Harrelson
+Rapid City C [9]
+21:05.04	2
+16	
+Lucy Hamer
+Sturgis Brown [10]
+21:18.15	2
+17	
+Hadley Eckland
+Sheridan [9]
+21:21.83	2
+18	
+Aspen Bloom
+Newcastle [11]
+21:24.14	2
+19	
+Aspen Veneklasen
+Hill City [9]
+21:27.89	2
+20	
+Madie Donovan
+Spearfish [11]
+21:33.97	2
+21	
+Maria Eisenbraun
+Spearfish [12]
+21:42.97	3
+22	
+Brynn Kirol
+Sheridan [11]
+21:45.64	3
+23	
+Mary Hughes
+Sheridan [11]
+21:52.32	3
+24	
+Syrei Johnson
+Thunder Basin [11]
+21:53.08	3
+25	
+Paiton Flick
+Hill City [11]
+21:54.64	3
+26	
+Adison Armstrong
+Rapid City Stevens [10]
+22:03.13	3
+27	
+Paige Willnerd
+Sturgis Brown [11]
+22:13.96	3
+28	
+Kylie Benim
+Wright [12]
+22:16.91	3
+29	
+Emilie Reedy
+Sturgis Brown [9]
+22:20.96	3
+30	
+Ashlynn Wellman
+Rapid City Stevens [10]
+22:22.37	3
+31	
+Brooklyn Reimers
+Sheridan [9]
+22:25.99	4
+32	
+Jayden Haugen
+Campbell County [11]
+22:26.15	4
+33	
+Ellie Palmer
+St. Thomas More [8]
+22:29.60	4
+34	
+Payton Worthington
+Campbell County [Fr]
+22:38.69	4
+35	
+Keelin Dinkins
+Sturgis Brown [9]
+22:49.01	4
+36	
+Abi Kroetch
+Sturgis Brown [9]
+23:00.06	4
+37	
+Rylee Hudson
+Thunder Basin [12]
+23:00.64	4
+38	
+Kendra Jensen
+Campbell County [11]
+23:09.72	4
+39	
+Fallon Dinkins
+Sturgis Brown [7]
+23:15.38	4
+40	
+Livie Martin-Davis
+Sheridan [10]
+23:16.48	4
+41	
+Amelia Morgan
+Rapid City Stevens [12]
+23:18.66	5
+42	
+Ella Schirber
+St. Thomas More [8]
+23:22.73	5
+43	
+Jaelyn Peters
+Hill City [10]
+23:25.58	5
+44	
+Faith Clem
+Campbell County [12]
+23:27.03	5
+45	
+Carolina Navarro
+Wright [9]
+23:27.38	5
+46	
+Averi Dewine
+Campbell County [12]
+23:34.76	5
+47	
+Christine Swentesky
+Newcastle [9]
+23:46.60	5
+48	
+Chloe Cottrill
+Spearfish [10]
+23:49.52	5
+49	
+Charlee Bierle
+Sturgis Brown [8]
+24:01.93	5
+50	
+Caemlyn Nolte
+Wright [9]
+24:09.99	5
+51	
+Clara Bourgeois
+Thunder Basin [11]
+24:13.76	6
+52	
+Leila Pfeil
+Thunder Basin [9]
+24:39.59	6
+53	
+Brooklyn Palus
+Hulett [10]
+24:58.18	6
+54	
+Summer Rigsby
+Campbell County [9]
+25:18.65	6
+55	
+Sammy Marshall
+Campbell County [11]
+25:21.38	6
+56	
+Abby Palus
+Hulett [12]
+25:39.74	6
+57	
+Laura Benim
+Wright [10]
+25:40.90	6
+58	
+Holly Swentesky
+Newcastle [9]
+26:43.41	6
+59	
+Rachel Merwin
+Hulett [12]
+27:12.69	6
+60	
+Anaeli Salas
+Wright [11]
+28:00.73	6
+61	
+Jackie Heisler
+Edgemont [12]
+28:47.62	7

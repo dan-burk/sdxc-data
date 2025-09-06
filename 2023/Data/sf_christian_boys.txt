@@ -1,0 +1,311 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Payton Brown
+Milbank [12]
+15:46.25	1	1
+2	
+Joe Cross
+Dakota Valley [12]
+15:56.68	1	2
+3	
+Jack Brown
+Dakota Valley [11]
+16:09.99	1	3
+4	
+Levi Vander Leest
+SF Christian [9]
+16:32.24	1	4
+5	
+James Batchelor
+Milbank [12]
+16:46.18	1	5
+6	
+Bennett Wassenaar
+SF Christian [11]
+16:51.77	1	6
+7	
+Jackson Prins
+SF Christian [11]
+16:53.65	1	7
+8	
+Alex Oberloh
+SF Christian [12]
+16:56.25	1	8
+9	
+Jack Campbell
+Tea Area [10]
+16:59.41	1	9
+10	
+Jonathon Roth
+West Central [11]
+17:07.65	1	10
+11	
+Dylan Gerdes
+Madison [10]
+17:09.19	2	11
+12	
+Cloy McVey
+Lennox [10]
+17:16.31	2	12
+13	
+Maverick Horst
+Lennox [11]
+17:19.19	2	13
+14	
+Gage Beverly
+Vermillion [8]
+17:19.23	2	14
+15	
+Josh Fletcher
+SF Christian [11]
+17:21.88	2	15
+16	
+Wesley Lyon
+SF Christian [8]
+17:23.55	2	16
+17	
+Noah Sayler
+Lennox [11]
+17:23.78	2	17
+18	
+Reid Hammerquist
+Tea Area [9]
+17:25.84	2	18
+19	
+Hunter Morse
+Vermillion [10]
+17:25.92	2	19
+20	
+Benjamin Strunk
+West Central [12]
+17:31.51	2	20
+21	
+Simon Roelofs
+SF Christian [10]
+17:33.86	3	 
+22	
+Isaac Graham
+Milbank [12]
+17:42.12	3	21
+23	
+Cade Sherard
+Lennox [11]
+17:47.35	3	22
+24	
+Jamison Gould
+Dakota Valley [8]
+17:55.43	3	23
+25	
+Henry Anderson
+Vermillion [12]
+17:59.15	3	24
+26	
+Chett Jibben
+Lennox [11]
+18:03.04	3	25
+27	
+Holden Jelen
+Tea Area [12]
+18:03.24	3	26
+28	
+Michael Green
+Dakota Valley [11]
+18:07.01	3	27
+29	
+Brayden Karkalik
+Dakota Valley [12]
+18:19.79	3	28
+30	
+Peyton Tetzlaff
+West Central [9]
+18:26.76	3	29
+31	
+Everett Herrboldt
+SF Lincoln [9]
+18:31.88	4	30
+32	
+Hunter Penn
+Beresford [10]
+18:35.58	4	 
+33	
+Jacob Peterson
+West Central [11]
+18:38.54	4	31
+34	
+Geoff Nelson
+Dakota Valley [9]
+18:38.61	4	32
+35	
+Jonah Klemisch
+Tea Area [9]
+18:39.64	4	33
+36	
+Lucas Hartman
+Lennox [10]
+18:45.95	4	34
+37	
+Liam Heller
+Milbank [9]
+18:53.06	4	35
+38	
+Kyper Hilger
+West Central [10]
+18:54.14	4	36
+39	
+Levi Davelaar
+SF Christian [11]
+18:55.20	4	 
+40	
+Caden DeKam
+SF Lincoln [12]
+18:57.66	4	37
+41	
+Hudson Cisar
+SF Lincoln [10]
+18:58.74	5	38
+42	
+Henry Meyer
+Madison [11]
+19:00.82	5	39
+43	
+Nathan Hasleton
+Madison [11]
+19:04.57	5	40
+44	
+Noah Wood
+Lennox [10]
+19:06.01	5	 
+45	
+Peyton Sieber
+Tea Area [12]
+19:06.41	5	41
+46	
+Adrian Iseminger
+SF Lincoln [11]
+19:11.24	5	42
+47	
+Daniel Aldridge
+Madison [10]
+19:11.94	5	43
+48	
+Tyler Webb
+SF Lincoln [9]
+19:12.46	5	44
+49	
+Kade Hruby
+West Central [11]
+19:16.40	5	45
+50	
+Christian Walling
+SF Lincoln [9]
+19:17.75	5	46
+51	
+Colten Wright
+Dakota Valley [12]
+19:19.21	6	 
+52	
+Beckham Berry
+Milbank [9]
+19:22.84	6	47
+53	
+Reid Groher
+SF Lincoln [9]
+19:30.83	6	 
+54	
+Elijah Sumey
+SF Lincoln [10]
+19:32.82	6	 
+55	
+Jacob Madsen
+SF Lincoln [9]
+19:40.91	6	 
+56	
+Teagin Gacke
+Tri-Valley [11]
+19:42.54	6	 
+57	
+Henry Sayler
+SF Lincoln [9]
+19:45.83	6	 
+58	
+Scott Ridley
+Beresford [12]
+19:50.22	6	 
+59	
+Frankie Orr
+Vermillion [11]
+19:59.45	6	48
+60	
+Alex Kayser
+Tea Area [12]
+20:09.01	6	49
+61	
+Jeremy Bockelman
+Canton [7]
+20:12.55	7	50
+62	
+Espyn Klungseth
+Beresford [11]
+20:16.20	7	 
+63	
+Jacob Chasing Hawk
+Vermillion [12]
+20:16.30	7	51
+64	
+Cedric Horst
+Canton [9]
+20:18.32	7	52
+65	
+Chase Steurwald
+Madison [12]
+20:18.54	7	53
+66	
+Elijah Johnson
+Lennox [10]
+20:20.02	7	 
+67	
+Kai Thompson
+Madison [10]
+20:32.77	7	54
+68	
+Alex Heinemann
+Dell Rapids [9]
+20:44.71	7	 
+69	
+Brooks Johnson
+SF Lincoln [9]
+20:53.30	7	 
+70	
+Grant Van Peursem
+Milbank [12]
+20:55.56	7	55
+71	
+Camden Surdez
+Canton [9]
+21:09.12	8	56
+72	
+Micah Decker
+Canton [12]
+21:39.29	8	57
+73	
+Alex Opland
+Canton [9]
+22:08.90	8	58
+74	
+Teagan Goodsell
+Flandreau Indian [10]
+22:16.52	8	 
+75	
+Amos Rockman
+Flandreau Indian [10]
+22:17.91	8	 
+76	
+Isaac Tudor
+Dell Rapids [11]
+23:35.13	8	 
+77	
+Rylan Day
+Flandreau Indian [9]
+23:40.67	8	 

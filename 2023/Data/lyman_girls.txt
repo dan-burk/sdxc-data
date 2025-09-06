@@ -1,0 +1,79 @@
+ 	
+Athlete
+Finals	Heat	Points
+1	
+Aspen Veneklasen
+Hill City [9]
+20:08.14	1	1
+2	
+Brooke Thayer-Burke
+Hill City [10]
+20:08.48	1	2
+3	
+BreAna Aske
+Jones County [8]
+20:59.30	1	3
+4	
+Jaelyn Peters
+Hill City [10]
+21:06.96	1	4
+5	
+Aubrey Tucker
+Jones County [7]
+21:52.41	1	5
+6	
+Shelly Larvie
+Todd County [7]
+22:05.01	1	6
+7	
+Adrienne White Lance
+St. Francis Indian [7]
+22:07.99	1	7
+8	
+Jordan Duprey
+Hill City [10]
+22:18.72	1	8
+9	
+Madilyn Wulf
+New Underwood [11]
+22:31.09	1	 
+10	
+Emily Grim
+Gregory [10]
+22:41.98	1	9
+11	
+Cameron Olson
+Winner [7]
+22:44.58	2	 
+12	
+Addison Kierl
+Jones County [12]
+23:14.44	2	10
+13	
+Kennley Sedlacek
+Gregory [7]
+23:27.66	2	11
+14	
+Elizabeth Moore
+Todd County [10]
+23:58.16	2	12
+15	
+Wi Wanbli Wi Little Thun
+St. Francis Indian [10]
+24:18.51	2	13
+16	
+Cadance Amiotte
+Todd County [11]
+24:43.97	2	14
+17	
+Sophie Dowling
+Jones County [12]
+25:11.02	2	15
+18	
+Ellie Talsma
+Gregory [10]
+26:46.18	2	16
+19	
+Maleyah Krogman
+St. Francis Indian [8]
+27:01.06	2	17

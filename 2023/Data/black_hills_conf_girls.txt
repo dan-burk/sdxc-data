@@ -1,0 +1,211 @@
+ 	
+Athlete
+Finals	Heat
+1	
+Peyton VanDeest
+Spearfish [9]
+18:27.30	1
+2	
+Abby Cutler
+Hill City [12]
+19:03.61	1
+3	
+Kori Keil
+Spearfish [10]
+19:22.41	1
+4	
+Kira Ubence
+Douglas [10]
+19:55.71	1
+5	
+Rarity Cournoyer
+Red Cloud [9]
+20:03.90	1
+6	
+Madie Donovan
+Spearfish [11]
+20:09.66	1
+7	
+Aurora Evans
+Douglas [7]
+20:11.15	1
+8	
+Sierra Sandford
+Spearfish [9]
+20:12.61	1
+9	
+Brit Wheeler
+Custer [12]
+20:13.79	1
+10	
+Keelin Dinkins
+Sturgis Brown [9]
+20:15.18	1
+11	
+Brooke Thayer-Burke
+Hill City [10]
+20:20.65	2
+12	
+Aspen Veneklasen
+Hill City [9]
+20:26.94	2
+13	
+Lucy Hamer
+Sturgis Brown [10]
+20:29.56	2
+14	
+Emilie Reedy
+Sturgis Brown [9]
+20:31.41	2
+15	
+Paige Willnerd
+Sturgis Brown [11]
+20:37.88	2
+16	
+Lia Mundt
+Belle Fourche [7]
+20:41.54	2
+17	
+Hallie Person
+Lead-Deadwood [11]
+20:42.07	2
+18	
+Taylor Harrelson
+RC Christian [9]
+20:45.99	2
+19	
+Auna Taglioli
+Spearfish [9]
+20:56.03	2
+20	
+Carlie DeBoer
+Hot Springs [12]
+20:57.88	2
+21	
+Fallon Dinkins
+Sturgis Brown [7]
+21:01.33	3
+22	
+Misty Drieling
+Belle Fourche [9]
+21:05.90	3
+23	
+Sierra Swanson
+Custer [12]
+21:15.20	3
+24	
+Jaelyn Peters
+Hill City [10]
+21:28.45	3
+25	
+Shaine Weishaar
+Belle Fourche [12]
+21:35.90	3
+26	
+Ava Allen
+Belle Fourche [12]
+21:37.59	3
+27	
+Rhys Pearson
+Belle Fourche [8]
+21:39.26	3
+28	
+Ellie Palmer
+St. Thomas More [8]
+21:44.76	3
+29	
+Ella Schirber
+St. Thomas More [8]
+21:59.10	3
+30	
+Hailey Woodward
+Custer [10]
+22:04.42	3
+31	
+Maria Eisenbraun
+Spearfish [12]
+22:07.10	4
+32	
+Mattea Marshall
+Custer [9]
+22:11.16	4
+33	
+Claire Hannah
+Lead-Deadwood [11]
+22:13.84	4
+34	
+Monica Moran
+St. Thomas More [7]
+22:15.09	4
+35	
+Kelsey Stiefel
+Custer [9]
+22:23.87	4
+36	
+Hadley Walker
+Hill City [7]
+22:31.03	4
+37	
+Makenzi Ham
+Custer [8]
+22:38.64	4
+38	
+Shelby Westinghouse
+Hot Springs [12]
+22:45.44	4
+39	
+Paiton Flick
+Hill City [11]
+22:55.75	4
+40	
+Kaelyn LeFors
+Douglas [9]
+23:20.75	4
+41	
+Erin Harms
+Douglas [10]
+23:27.55	5
+42	
+Lainey Loeffler
+Douglas [11]
+23:36.27	5
+43	
+Allison Hayes
+Belle Fourche [12]
+24:06.49	5
+44	
+Brianna McCrae
+Douglas [10]
+24:15.87	5
+45	
+Nevada McMahon
+Lead-Deadwood [10]
+24:16.81	5
+46	
+Ella Schleiffarth
+St. Thomas More [8]
+24:48.07	5
+47	
+Amelia Three Fingers
+Red Cloud [9]
+25:12.93	5
+48	
+Lauren Dow
+RC Christian [7]
+25:37.92	5
+49	
+Hannah Pawleski
+St. Thomas More [8]
+25:42.55	5
+50	
+Katherine O'Neal
+RC Christian [10]
+26:09.99	5
+51	
+Karina Novonty
+Hot Springs [12]
+26:40.44	6
+52	
+Hilary Lane
+Hot Springs [11]
+32:14.75	6

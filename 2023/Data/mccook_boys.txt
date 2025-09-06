@@ -1,0 +1,247 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Tavin Schroeder
+Freeman Acad [12]
+16:55.16	1	1
+2	
+Joseph Laprath
+Winner [12]
+17:24.11	1	 
+3	
+Finley McConniel
+Freeman Acad [11]
+17:26.61	1	2
+4	
+Caden Schwader
+Howard [10]
+18:19.84	1	 
+5	
+Alex Langner
+Baltic [12]
+18:50.44	1	3
+6	
+Braydan Mangel
+Freeman [8]
+19:09.06	1	 
+7	
+Kyle Gronewold
+Baltic [10]
+19:11.23	1	4
+8	
+Brenton Westberry
+Flandreau [11]
+19:18.33	1	5
+9	
+Camden Tebay
+DR Smary [8]
+19:19.59	1	 
+10	
+Lane McCune
+Freeman [8]
+19:37.17	1	 
+11	
+Kaden Christian
+Canistota [9]
+19:45.10	2	 
+12	
+Jayson Allison
+Freeman Acad [10]
+19:46.47	2	6
+13	
+Hayden Schmidt
+Freeman Acad [11]
+19:56.00	2	7
+14	
+Tanner Reed
+Flandreau [12]
+20:00.23	2	8
+15	
+Teagin Gacke
+Tri-Valley [11]
+20:01.43	2	 
+16	
+Matthew Gassman
+Flandreau [12]
+20:14.29	2	9
+17	
+Kenton James
+Flandreau [9]
+20:17.18	2	10
+18	
+Logan Kontz
+Flandreau [8]
+20:17.47	2	11
+19	
+Wyatt Kontz
+Flandreau [10]
+20:18.55	2	 
+20	
+Wyatt Brown
+Centerville [11]
+20:19.87	2	12
+21	
+Lincoln Kippes
+Parker [12]
+20:22.24	3	13
+22	
+Matthew Heinemann
+DR Smary [9]
+20:22.29	3	 
+23	
+Otto Uberty
+McCook Centr [10]
+20:23.19	3	14
+24	
+Sam Byers
+Chamberlain [11]
+20:33.57	3	15
+25	
+Conner Giedd
+De Smet [9]
+20:35.03	3	16
+26	
+Scott Ridley
+Beresford [12]
+20:35.83	3	17
+27	
+Espyn Klungseth
+Beresford [11]
+20:41.01	3	18
+28	
+Daniel Leiferman
+Kimball/White Lake [11]
+20:42.17	3	 
+29	
+Eli Gullickson
+Dell Rapids [8]
+20:46.24	3	19
+30	
+Novis Hoyes Luna
+Parker [11]
+20:46.87	3	20
+31	
+Colten Preheim
+Parker [10]
+20:48.10	4	21
+32	
+Carson Ferry
+Hanson [11]
+20:50.35	4	22
+33	
+Isaac Shepherd
+Chamberlain [10]
+20:55.61	4	23
+34	
+Nathaniel Hobbie
+Flandreau [9]
+20:56.15	4	 
+35	
+Jace Heumiller
+McCook Centr [12]
+20:58.40	4	24
+36	
+Jase Brouwer
+Centerville [11]
+21:10.22	4	25
+37	
+Shae Fiala
+Baltic [12]
+21:28.98	4	26
+38	
+Jack Wilde
+Baltic [11]
+21:31.30	4	27
+39	
+Garrett Wilkison
+Baltic [10]
+21:33.25	4	28
+40	
+Jonas Sattler
+Parker [10]
+21:35.25	4	29
+41	
+William Hanzlik
+Chamberlain [11]
+21:36.98	5	30
+42	
+Alex Heinemann
+Dell Rapids [9]
+21:37.15	5	31
+43	
+Matthew Calhoon
+Winner [10]
+21:42.66	5	 
+44	
+Izaak Koenig
+Burke [12]
+21:47.88	5	 
+45	
+AJ Wienk
+Iroquois/Lak [12]
+22:01.92	5	 
+46	
+Brady Aasheim
+Beresford [12]
+22:02.77	5	32
+47	
+Ranick Fjerstad
+Wessington Springs [11]
+22:05.19	5	 
+48	
+Lanz Dailey
+Flandreau [12]
+22:11.71	5	 
+49	
+Aadyn Hosek
+Chamberlain [11]
+22:46.14	5	33
+50	
+Zachary Grochow
+Dell Rapids [8]
+22:55.00	5	34
+51	
+Kevin Martinez
+Parker [12]
+23:03.38	6	35
+52	
+Gabriel Aughenbaugh
+De Smet [9]
+23:08.26	6	36
+53	
+Isaac Marohl
+Centerville [11]
+23:21.93	6	37
+54	
+Anthony Geist
+Hanson [11]
+23:27.49	6	38
+55	
+Paul Kaffar
+McCook Centr [12]
+23:42.41	6	39
+56	
+Jordan Botkin
+De Smet [9]
+23:49.60	6	40
+57	
+Antone Krempges
+McCook Centr [10]
+24:52.32	6	41
+58	
+Caleb Vogel
+McCook Centr [10]
+25:27.00	6	42
+59	
+Will Jarding
+Hanson [11]
+25:33.00	6	43
+60	
+Connor Johnson
+De Smet [12]
+26:16.26	6	44
+61	
+Cody Heinz
+McCook Centr [12]
+26:23.88	7	 

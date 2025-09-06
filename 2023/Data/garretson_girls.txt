@@ -1,0 +1,163 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Faith Wiese
+Flandreau [10]
+19:19.32	1	1
+2	
+Kaelyn Ulschmid
+Arlington [10]
+20:35.46	1	2
+3	
+Rorie Thoreson
+Dell Rapids [8]
+20:58.65	1	3
+4	
+Jessie Tappe
+Madison [12]
+21:29.33	1	4
+5	
+Hailey Tiahrt
+Baltic
+21:39.83	1	 
+6	
+Diamond Roy
+Flandreau [11]
+21:51.24	1	5
+7	
+Elizabeth Vogel
+DR St. Marys [8]
+21:56.59	1	6
+8	
+Josie Hamilton
+Flandreau [11]
+22:13.40	1	7
+9	
+Madalyn Madsen
+Arlington [9]
+22:28.25	1	8
+10	
+Madison Reiff
+DR St. Marys [11]
+22:34.19	1	9
+11	
+Malayna Hemmen
+Elkton-Lake Benton [12]
+22:35.47	2	 
+12	
+Ellie Keller
+Madison [12]
+22:49.38	2	10
+13	
+Cami Wolles
+DR St. Marys [10]
+23:08.39	2	11
+14	
+Kiley Westberry
+Flandreau [9]
+23:22.25	2	12
+15	
+Lou Schladweiler
+Madison [8]
+23:35.39	2	13
+16	
+Halley Miller
+Arlington [10]
+23:48.65	2	14
+17	
+Lucy Vargas
+DR St. Marys [10]
+23:52.42	2	15
+18	
+Sadey Holt
+Baltic [10]
+24:03.70	2	 
+19	
+Anya Hemmer
+Colman-Egan [9]
+24:13.43	2	 
+20	
+Samantha Troxell
+Madison [10]
+24:31.41	2	16
+21	
+Lani Misar
+Madison [9]
+24:36.02	3	17
+22	
+Gabbie Eichmann
+Canistota [8]
+24:36.36	3	 
+23	
+Emarie Vincent
+Arlington [8]
+24:40.04	3	18
+24	
+Izzie Lee
+Colman-Egan [8]
+24:42.32	3	 
+25	
+Mya DeStigter
+Dell Rapids [10]
+24:49.96	3	19
+26	
+Madde Jensen
+Elkton-Lake Benton [9]
+24:58.06	3	 
+27	
+Nora Hamilton
+Flandreau [9]
+25:11.97	3	20
+28	
+Jada Henriksen
+Arlington [12]
+25:18.41	3	21
+29	
+Ivy Jaacks
+Elkton-Lake Benton [8]
+25:29.26	3	 
+30	
+Olivia Muyskens
+Swmch-Ehs [11]
+25:51.99	3	 
+31	
+Hannah Masselink
+Swmch-Ehs [10]
+26:02.61	4	 
+32	
+Adeline Witte
+Dell Rapids [8]
+26:28.57	4	22
+33	
+Hailey Lahr
+Flandreau [10]
+26:44.00	4	23
+34	
+Kaitlyn Bisson
+Dell Rapids [8]
+27:03.34	4	24
+35	
+Lexy Pulse
+McCook Centr [10]
+27:19.75	4	 
+36	
+Vivian Koepsell
+McCook Centr [12]
+27:45.48	4	 
+37	
+Alexia Vander Pol
+Swmch-Ehs [12]
+28:21.03	4	 
+38	
+Addison Marone
+Arlington [9]
+28:41.01	4	25
+39	
+Reagan VanZee
+Dell Rapids [12]
+29:16.73	4	26
+40	
+Kashley Goebel
+Arlington [9]
+29:24.93	4	 

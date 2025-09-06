@@ -1,0 +1,463 @@
+	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Silas Holdeman
+Mitchell Christian [9]
+16:13.61	1	1
+2	
+Wakely Burns
+Philip [12]
+16:22.45	1	2
+3	
+Tavin Schroeder
+Freeman Acad/Mar [12]
+16:28.94	1	3
+4	
+Asher Peterson
+Philip [12]
+16:43.32	1	4
+5	
+Finley McConniel
+Freeman Acad/Mar [11]
+16:48.51	1	5
+6	
+Nicholas Schlachter
+Potter County [12]
+16:54.02	1	6
+7	
+Baylor Burns
+Philip [10]
+16:59.15	1	7
+8	
+Nathan Melius
+Northwestern [12]
+17:11.85	1	8
+9	
+Trey Larson
+Philip [11]
+17:13.38	1	9
+10	
+Gavin Hirsch
+Herreid/Selby Area [10]
+17:13.56	1	 
+11	
+Tukker Boe
+Philip [12]
+17:20.49	2	10
+12	
+Lincoln Woodring
+Northwestern [12]
+17:26.16	2	11
+13	
+Caden Schwader
+Howard [10]
+17:30.54	2	 
+14	
+Luke Mentele
+Mitchell Christian [9]
+17:36.10	2	12
+15	
+Finn Adams
+Gregory [11]
+17:41.01	2	13
+16	
+Luke Barreto
+Gregory [10]
+17:43.99	2	14
+17	
+Lance Kaufmann
+Arlington [11]
+17:44.19	2	15
+18	
+Xavier Kadlec
+Ipswich [12]
+17:44.82	2	 
+19	
+Clint Winkler
+Newell [11]
+17:44.95	2	16
+20	
+Austin Jenkins
+Leola [12]
+17:45.58	2	 
+21	
+Landen Johnson
+Deubrook Area [12]
+17:45.74	3	17
+22	
+Tyler Tjeerdsma
+Avon [12]
+17:47.55	3	18
+23	
+Korbin Stark
+Faulkton Area [9]
+17:48.49	3	 
+24	
+Ethan Hartung
+McCrossan [12]
+17:50.04	3	19
+25	
+Milo Sumption
+Frederick Area [10]
+17:57.32	3	20
+26	
+Kaden Christian
+Canistota [9]
+18:03.04	3	21
+27	
+Camden Tebay
+DR St. Mary [8]
+18:04.52	3	 
+28	
+Jason Brave
+McCrossan [10]
+18:06.18	3	22
+29	
+Gage Anderson
+Lemmon [11]
+18:12.74	3	23
+30	
+Sawyer Holdeman
+Mitchell Christian [8]
+18:23.04	3	24
+31	
+Martin Plenty Chief
+Wakpala [11]
+18:31.15	4	 
+32	
+Brooks McPeak
+Highmore-Harrold [8]
+18:32.10	4	25
+33	
+Howard Sumption
+Frederick Area [8]
+18:32.26	4	26
+34	
+Jimmy Burma
+Sunshine Bible A [11]
+18:33.13	4	27
+35	
+Mason Kaiser
+Faulkton Area [12]
+18:33.69	4	 
+36	
+Ty Boekelheide
+Northwestern [9]
+18:35.98	4	28
+37	
+Reece Christian
+Canistota [7]
+18:36.81	4	29
+38	
+Xavier Sanchez-Gonzalez
+Timber Lake [9]
+18:37.39	4	 
+39	
+Joseph Tegethoff
+Mitchell Christian [12]
+18:38.85	4	30
+40	
+Will Pirak
+Gayville-Volin [11]
+18:39.06	4	 
+41	
+Jordan Erfman
+Highmore-Harrold [10]
+18:39.09	5	31
+42	
+Aaron Blachford
+Northwestern [11]
+18:39.97	5	32
+43	
+Beckham Cantalope
+Warner [7]
+18:40.25	5	 
+44	
+Josiah Wiebe
+Hitchcock-Tulare [12]
+18:41.58	5	 
+45	
+Kaden Ober
+James Valley Chr [8]
+18:43.04	5	 
+46	
+Ben Ferdig
+Viborg-Hurley [9]
+18:43.26	5	 
+47	
+Daniel Swenson
+Chester [10]
+18:43.61	5	33
+48	
+Jaxon Quail
+Deubrook Area [12]
+18:48.41	5	34
+49	
+Matthew Heinemann
+DR St. Mary [9]
+18:49.65	5	 
+50	
+Hayden Bentley
+Lemmon [12]
+18:52.02	5	35
+51	
+Charlie Olsen
+Deubrook Area [10]
+18:55.37	6	36
+52	
+Elijah Haukaas
+White River [8]
+18:55.69	6	 
+53	
+Titus Kippley
+Frederick Area [9]
+18:56.15	6	37
+54	
+Josh Thorson
+Northwestern [11]
+18:59.89	6	38
+55	
+Lane McCune
+Freeman [8]
+19:00.25	6	 
+56	
+Colton Trooien
+Deubrook Area [12]
+19:02.07	6	39
+57	
+Winston Clark
+Frederick Area [10]
+19:03.79	6	40
+58	
+Devaughn Between Lodges
+Crazy Horse [11]
+19:04.58	6	 
+59	
+Nolan Eidson
+Castlewood [9]
+19:06.55	6	 
+60	
+Reagan Sandness
+Sunshine Bible A [7]
+19:10.39	6	41
+61	
+Riley Miller
+Arlington [12]
+19:13.49	7	42
+62	
+Dorian Kaufman
+Arlington [9]
+19:14.33	7	43
+63	
+John Fathke
+Avon [11]
+19:14.65	7	44
+64	
+Pierce Stukel
+Gregory [10]
+19:15.14	7	45
+65	
+Chase Henriksen
+Arlington [9]
+19:17.54	7	46
+66	
+David Kirby
+Newell [11]
+19:23.14	7	47
+67	
+Ryler Stevicks
+Gregory [10]
+19:23.32	7	48
+68	
+Carter Webb
+Highmore-Harrold [8]
+19:27.84	7	49
+69	
+Tyrus Schulz
+Deubrook Area [9]
+19:29.98	7	50
+70	
+Jerand Chase
+Potter County [10]
+19:31.64	7	51
+71	
+Trey Thieman
+Sunshine Bible A [11]
+19:32.48	8	52
+72	
+Keaton Darrow
+Edgemont [11]
+19:33.20	8	 
+73	
+Mason Ryan
+Lyman [11]
+19:34.52	8	 
+74	
+Aidan Craven
+Wall [9]
+19:35.81	8	 
+75	
+Conner Giedd
+De Smet [9]
+19:36.18	8	 
+76	
+Trigg Odenbach
+Lemmon [8]
+19:38.00	8	53
+77	
+Kingston DeSersa
+White River [9]
+19:43.89	8	 
+78	
+Edwyn Reyes
+Wolsey-Wessington [12]
+19:48.70	8	 
+79	
+Carter Leibeg
+Chester [9]
+19:52.24	8	54
+80	
+Noah Kippley
+Frederick Area [11]
+19:55.22	8	55
+81	
+Philip Dibley
+Gayville-Volin [9]
+19:56.68	9	 
+82	
+Asher Ryder
+Bison [10]
+19:58.88	9	 
+83	
+Isaac Haich
+Irene-Wakonda [8]
+19:59.09	9	 
+84	
+Carson Stephenson
+Highmore-Harrold [12]
+19:59.54	9	56
+85	
+Brayden Schut
+Chester [12]
+20:01.05	9	57
+86	
+Sean Seurer
+Potter County [12]
+20:09.85	9	58
+87	
+Ranick Fjerstad
+Wessington Springs [11]
+20:11.29	9	 
+88	
+Rylan Day
+Flandreau Indian [9]
+20:13.70	9	 
+89	
+Donny Forster
+Lemmon [9]
+20:15.31	9	59
+90	
+Caleb Schroeder
+Canistota [8]
+20:21.99	9	60
+91	
+Keegan Russell
+Herreid/Selby Area [10]
+20:23.32	10	 
+92	
+Jayson Allison
+Freeman Acad/Mar [10]
+20:23.43	10	61
+93	
+Orin Bender
+Newell [12]
+20:25.82	10	62
+94	
+Aksel Ehlers
+Lyman [11]
+20:28.85	10	 
+95	
+Sep van Oosterhout
+Potter County [11]
+20:31.88	10	63
+96	
+Kolter Schmidt
+Freeman Acad/Mar [8]
+20:32.12	10	64
+97	
+Brayden Bordewyk
+Corsica-Stickney [7]
+20:41.02	10	 
+98	
+Armando Miller
+Freeman Acad/Mar [10]
+20:50.72	10	65
+99	
+Chase Temme
+De Smet [10]
+20:51.32	10	 
+100	
+Jonah Webb
+Highmore-Harrold [10]
+20:53.24	10	66
+101	
+TJ Martin
+McCrossan [11]
+20:56.85	11	67
+102	
+Brooks Foss
+Lemmon [10]
+20:57.92	11	68
+103	
+Jackson Bolander
+Gregory [11]
+21:02.60	11	69
+104	
+Logan Ruter
+Centerville [7]
+21:13.54	11	 
+105	
+Rance Kuhlman
+Avon [9]
+21:16.61	11	70
+106	
+Rowan Charger
+Lower Brule [11]
+21:19.91	11	 
+107	
+Ethan Enos
+New Underwood
+21:21.25	11	 
+108	
+Jonas Olson
+Sully Buttes [9]
+21:22.93	11	 
+109	
+Colby Burns
+Arlington [8]
+21:26.56	11	71
+110	
+Wica Enos
+New Underwood [11]
+21:41.30	11	 
+111	
+Fernando Ribeiro
+Potter County [11]
+21:50.90	12	72
+112	
+Chase Gustafson
+McCrossan [8]
+21:52.90	12	73
+113	
+Josh Wilken
+Sunshine Bible A [10]
+21:58.89	12	74
+114	
+Owan Watson
+Sunshine Bible A [11]
+22:16.91	12	75
+115	
+Malachi Whitacre
+Newell [9]
+23:11.76	12	76

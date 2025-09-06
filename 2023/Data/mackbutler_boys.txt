@@ -1,0 +1,319 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Kieran Weigelt
+SF Jefferson [12]
+12:57.32	1	1
+2	
+Cole Reilly
+SF Washington [9]
+13:12.88	1	2
+3	
+Griffin Miller
+SF Washington [9]
+13:43.47	1	3
+4	
+Camden Reilly
+SF Washington [12]
+13:45.03	1	4
+5	
+Cole Schellpfeffer
+Sioux Falls Lincoln [11]
+13:49.13	1	5
+6	
+Jackson Boltjes
+SF Washington [9]
+13:54.58	1	6
+7	
+Jaylen Palmer
+SF Jefferson [11]
+13:54.74	1	7
+8	
+Seth Borchers
+SF Jefferson [11]
+14:03.16	1	8
+9	
+Teddy Krueger
+Sioux Falls Lincoln [10]
+14:04.70	1	9
+10	
+Emran Anbesse
+SF Washington [12]
+14:05.61	1	10
+11	
+Brekken Biteler
+SF Washington [9]
+14:07.73	2	11
+12	
+Tyrus Needles
+Sioux Falls Lincoln [9]
+14:09.17	2	12
+13	
+Riley Williams
+SF Washington [12]
+14:09.27	2	13
+14	
+Alex Trouba
+SF Roosevelt [12]
+14:18.99	2	14
+15	
+Sam Bratkiewicz
+Sioux Falls Lincoln [11]
+14:22.23	2	15
+16	
+Caden Klein
+SF Roosevelt [11]
+14:22.54	2	16
+17	
+Kellar Sjomeling
+SF Jefferson [11]
+14:25.03	2	17
+18	
+Ben Parsons
+SF Washington [9]
+14:32.82	2	 
+19	
+Brayden Roach
+SF Washington [12]
+14:34.58	2	 
+20	
+Mason Hein
+SF Washington [10]
+14:36.53	2	 
+21	
+Carson Coulter
+SF Washington [9]
+14:37.36	3	 
+22	
+Arvid Nelsen
+Sioux Falls Lincoln [10]
+14:44.29	3	18
+23	
+Andrew Sanchez
+SF Roosevelt [11]
+14:48.59	3	19
+24	
+Nayati Ringing Shield
+Sioux Falls Lincoln [10]
+14:52.44	3	20
+25	
+Caden DeKam
+Sioux Falls Lincoln [12]
+14:53.98	3	21
+26	
+Trevor Knox
+SF Roosevelt [10]
+14:55.36	3	22
+27	
+Kory Klein
+SF Washington [11]
+15:03.12	3	 
+28	
+Aiden Johnson
+SF Washington [9]
+15:07.36	3	 
+29	
+Hudson Cisar
+Sioux Falls Lincoln [10]
+15:11.63	3	 
+30	
+Elijah Sumey
+Sioux Falls Lincoln [10]
+15:14.67	3	 
+31	
+Reid Groher
+Sioux Falls Lincoln [9]
+15:19.23	4	 
+32	
+Everett Herrboldt
+Sioux Falls Lincoln [9]
+15:19.41	4	 
+33	
+Landon Doyle
+SF Washington [9]
+15:25.84	4	 
+34	
+Tyler Webb
+Sioux Falls Lincoln [9]
+15:28.76	4	 
+35	
+Adrian Iseminger
+Sioux Falls Lincoln [11]
+15:30.15	4	 
+36	
+Colton Klein
+SF Roosevelt [10]
+15:31.88	4	23
+37	
+Jacob Madsen
+Sioux Falls Lincoln [9]
+15:34.03	4	 
+38	
+Christian Walling
+Sioux Falls Lincoln [9]
+15:34.95	4	 
+39	
+Jack Teller
+Sioux Falls Lincoln [9]
+15:40.02	4	 
+40	
+Jason Herbst
+SF Roosevelt [9]
+15:46.95	4	24
+41	
+Cohen Nelson
+SF Roosevelt [12]
+15:48.45	5	25
+42	
+Brooks Johnson
+Sioux Falls Lincoln [9]
+15:58.19	5	 
+43	
+Ethan Weber
+SF Roosevelt [11]
+16:04.31	5	 
+44	
+Brian Wilson
+Sioux Falls Lincoln [9]
+16:06.79	5	 
+45	
+Connor Mager
+SF Jefferson [10]
+16:09.72	5	26
+46	
+Cole Umstead
+Sioux Falls Lincoln [9]
+16:14.70	5	 
+47	
+Henry Sayler
+Sioux Falls Lincoln [9]
+16:15.06	5	 
+48	
+Tyler Chairez
+Sioux Falls Lincoln [11]
+16:15.93	5	 
+49	
+Harper Koch
+SF Jefferson [9]
+16:16.71	5	27
+50	
+Vaughn Brown
+SF Roosevelt [12]
+16:18.41	5	 
+51	
+Jacob Farmer
+SF Washington [10]
+16:23.62	6	 
+52	
+Corey Schneider
+SF Washington [9]
+16:29.91	6	 
+53	
+Jorge Huete
+SF Washington [11]
+16:39.17	6	 
+54	
+Taysen Boyer
+SF Jefferson [12]
+16:46.91	6	28
+55	
+Luke Wilson
+Sioux Falls Lincoln [10]
+16:53.05	6	 
+56	
+Connor Hutchinson
+Sioux Falls Lincoln [10]
+16:56.68	6	 
+57	
+Griffin Edwards
+Sioux Falls Lincoln [10]
+16:58.19	6	 
+58	
+Braeden Lurch
+SF Roosevelt [10]
+17:02.56	6	 
+59	
+Liam Kallhoff
+SF Jefferson [9]
+17:14.32	6	 
+60	
+Lincoln Schuring
+Sioux Falls Lincoln [9]
+17:17.14	6	 
+61	
+Wei Adam
+SF Roosevelt [9]
+17:17.43	7	 
+62	
+Matias Rojas
+Sioux Falls Lincoln [12]
+17:23.16	7	 
+63	
+Liam Nielsen
+SF Roosevelt [9]
+17:37.69	7	 
+64	
+Liam Anderson
+SF Roosevelt [9]
+17:42.60	7	 
+65	
+William Torgerson
+SF Washington [10]
+17:52.83	7	 
+66	
+Jacob Torgerson
+Sioux Falls Lincoln [9]
+17:57.56	7	 
+67	
+Riddick Iseminger
+Sioux Falls Lincoln [9]
+18:14.31	7	 
+68	
+Ethan Dumdei
+Sioux Falls Lincoln [9]
+18:22.31	7	 
+69	
+Noah Smith
+Sioux Falls Lincoln [9]
+18:25.27	7	 
+70	
+Oskar Hein
+Sioux Falls Lincoln [12]
+18:39.90	7	 
+71	
+Julian Steever
+SF Roosevelt [9]
+18:55.81	8	 
+72	
+Deyondre Fick
+SF Jefferson [9]
+19:22.82	8	 
+73	
+Albert Ngandu
+SF Washington [11]
+19:32.91	8	 
+74	
+Noah Konz
+Sioux Falls Lincoln [10]
+19:44.79	8	 
+75	
+Amare Williams
+Sioux Falls Lincoln [9]
+21:01.32	8	 
+76	
+Aiden Peterson
+SF Roosevelt [9]
+21:44.54	8	 
+77	
+Jackson Neeley
+SF Roosevelt [9]
+22:19.07	8	 
+78	
+CJ Townley
+SF Roosevelt [9]
+25:36.68	8	 
+79	
+Israel Eekhoff
+SF Jefferson [9]
+26:35.76	8	 

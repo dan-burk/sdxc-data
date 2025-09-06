@@ -1,0 +1,531 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Jared Lutmer
+Pierre T.F. Riggs [12]
+15:15.42	1	1
+2	
+Grady Loos
+Rapid City Stevens [12]
+15:31.98	1	2
+3	
+Peyton Cast
+Douglas [12]
+15:36.40	1	3
+4	
+Mikah Peters
+Brandon Valley [10]
+15:43.70	1	4
+5	
+Miles Lechtenberg
+Sioux Falls Lincoln [10]
+15:48.08	1	5
+6	
+Cole Reilly
+SF Washington [9]
+15:56.51	1	6
+7	
+Ty Petrocco
+Sturgis Brown [11]
+15:57.25	1	7
+8	
+Quinn Bruch
+Sturgis Brown [10]
+15:58.02	1	8
+9	
+Caleb Morris
+Pierre T.F. Riggs [10]
+16:06.78	1	9
+10	
+Joseph Levesque
+Sioux Falls Lincoln [11]
+16:06.87	1	10
+11	
+Ernest Ting
+Brookings [11]
+16:08.57	2	11
+12	
+Jack Castelli
+O'Gorman [12]
+16:10.24	2	12
+13	
+Miles Brekhus
+Rapid City Stevens [11]
+16:11.64	2	13
+14	
+Dylan Payer
+Yankton [12]
+16:13.05	2	14
+15	
+Blake Maas
+SF Roosevelt [10]
+16:13.20	2	15
+16	
+Wyatt Balliew
+Douglas [9]
+16:19.79	2	16
+17	
+Ty Sullivan
+Watertown [10]
+16:19.98	2	17
+18	
+Tate Van Beek
+Rapid City Stevens [9]
+16:22.62	2	18
+19	
+Dominic Ripperda
+O'Gorman [12]
+16:22.88	2	19
+20	
+Casey Nauta
+Spearfish [11]
+16:23.48	2	20
+21	
+Joseph Perkins
+Aberdeen Central [10]
+16:23.95	3	21
+22	
+Bailen Hayford
+Rapid City Central [12]
+16:24.17	3	22
+23	
+Hunter Patton
+Mitchell [10]
+16:24.33	3	23
+24	
+Jonathan Kahler
+Brookings [11]
+16:28.33	3	24
+25	
+Dane Stark
+Watertown [9]
+16:28.53	3	25
+26	
+Abram Chance
+Yankton [11]
+16:28.64	3	26
+27	
+Griffin Smith
+Harrisburg [10]
+16:29.35	3	27
+28	
+Ty Ferguson
+Sturgis Brown [11]
+16:31.45	3	28
+29	
+Nathan Thompson
+Sioux Falls Lincoln [11]
+16:32.62	3	29
+30	
+Kieran Weigelt
+SF Jefferson [12]
+16:33.00	3	30
+31	
+Harrison Krajewski
+Yankton [10]
+16:34.36	4	31
+32	
+Evan Mahrous
+O'Gorman [11]
+16:35.03	4	32
+33	
+Aemil Nelsen
+Sioux Falls Lincoln [11]
+16:36.15	4	33
+34	
+Igen Nyawanda
+Brookings [12]
+16:38.89	4	34
+35	
+Paul Kern
+Brandon Valley [12]
+16:40.60	4	35
+36	
+Griffin Miller
+SF Washington [9]
+16:41.87	4	36
+37	
+Carson Urlacher
+Aberdeen Central [9]
+16:43.07	4	37
+38	
+Tyrus Needles
+Sioux Falls Lincoln [9]
+16:44.37	4	38
+39	
+David VanVeen
+Aberdeen Central [12]
+16:46.48	4	39
+40	
+Morgan Papenfuss
+Sturgis Brown [12]
+16:47.12	4	40
+41	
+Marcus Fleming
+SF Roosevelt [11]
+16:51.50	5	41
+42	
+Emran Anbesse
+SF Washington [12]
+16:53.02	5	42
+43	
+Tate DeVries
+Aberdeen Central [8]
+16:53.38	5	43
+44	
+Caleb Roberts
+Rapid City Central [10]
+16:54.43	5	44
+45	
+Haeden Wheelhouse
+Pierre T.F. Riggs [12]
+16:56.84	5	45
+46	
+Taylor Colunga
+Sturgis Brown [10]
+17:02.76	5	46
+47	
+John Achter
+Rapid City Stevens [11]
+17:02.87	5	47
+48	
+Yadriel Munoz
+Rapid City Central [11]
+17:05.49	5	48
+49	
+Eli Woidyla
+Brandon Valley [10]
+17:06.10	5	49
+50	
+Asher Selness
+Brandon Valley [8]
+17:06.95	5	50
+51	
+Thomas Anglin
+Spearfish [11]
+17:08.86	6	51
+52	
+Alex Trouba
+SF Roosevelt [12]
+17:09.10	6	52
+53	
+Jack Errea
+Rapid City Central [12]
+17:09.23	6	53
+54	
+Sam Schultz
+Aberdeen Central [10]
+17:10.46	6	54
+55	
+Nathan Arens
+SF Roosevelt [11]
+17:10.69	6	55
+56	
+Christian Wells
+Aberdeen Central [12]
+17:11.01	6	56
+57	
+Esten Foss
+Aberdeen Central [10]
+17:13.31	6	57
+58	
+Aaron Letner
+Rapid City Stevens [11]
+17:14.83	6	58
+59	
+Jacob York
+Brookings [12]
+17:15.15	6	59
+60	
+Camden Coughlin
+Brandon Valley [12]
+17:18.22	6	60
+61	
+Andrew Sanchez
+SF Roosevelt [11]
+17:22.90	7	61
+62	
+Ian Rounds
+Pierre T.F. Riggs [11]
+17:24.91	7	62
+63	
+Seth Borchers
+SF Jefferson [11]
+17:25.61	7	63
+64	
+Easton Klatt
+Harrisburg [11]
+17:27.83	7	64
+65	
+Jackson Boltjes
+SF Washington [9]
+17:29.36	7	65
+66	
+Bayley Steiner
+Watertown [11]
+17:29.70	7	66
+67	
+Cole Schellpfeffer
+Sioux Falls Lincoln [11]
+17:29.95	7	67
+68	
+Torin Jackson
+Rapid City Stevens [10]
+17:35.41	7	68
+69	
+Shane Harming
+Brookings [10]
+17:37.20	7	69
+70	
+Nayati Ringing Shield
+Sioux Falls Lincoln [10]
+17:37.29	7	70
+71	
+Riley Williams
+SF Washington [12]
+17:37.33	8	71
+72	
+Jaylen Palmer
+SF Jefferson [11]
+17:38.05	8	72
+73	
+Layke Roberdeau
+Spearfish [11]
+17:40.02	8	73
+74	
+Ethan Brenden
+Yankton [10]
+17:41.45	8	74
+75	
+Jack Wagoner
+SF Jefferson [11]
+17:42.33	8	75
+76	
+Floyd Korzan
+Mitchell [11]
+17:43.13	8	76
+77	
+Kellar Sjomeling
+SF Jefferson [11]
+17:44.33	8	77
+78	
+Evan Miller
+Harrisburg [12]
+17:45.07	8	78
+79	
+Logan Becker
+Watertown [9]
+17:46.95	8	79
+80	
+Preston Davis
+Spearfish [12]
+17:49.37	8	80
+81	
+Gavin Chiaroni
+Douglas [9]
+17:49.97	9	81
+82	
+Jayden Brandt
+Pierre T.F. Riggs [10]
+17:51.53	9	82
+83	
+Magnus Kleinschmidt
+Rapid City Stevens [11]
+17:51.70	9	83
+84	
+Weston Carlson
+Spearfish [9]
+17:51.81	9	84
+85	
+Mason Ward-Zeller
+Pierre T.F. Riggs [11]
+17:54.03	9	85
+86	
+Ben Parsons
+SF Washington [9]
+17:54.67	9	86
+87	
+Eric Errea
+Rapid City Central [9]
+17:55.29	9	87
+88	
+Jovan Weigel
+Spearfish [9]
+17:57.34	9	88
+89	
+Luke Jacobson
+Yankton [8]
+17:57.81	9	89
+90	
+Ben Peterson
+Watertown [12]
+17:58.11	9	90
+91	
+Tucker Lunde
+Watertown [10]
+17:59.69	10	91
+92	
+Trevor Knox
+SF Roosevelt [10]
+18:00.02	10	92
+93	
+Marco Springman
+Brookings [10]
+18:00.69	10	93
+94	
+Brekken Biteler
+SF Washington [9]
+18:01.08	10	94
+95	
+Aidan Hermsen
+Rapid City Central [10]
+18:01.17	10	95
+96	
+James Heinz
+Harrisburg [12]
+18:01.74	10	96
+97	
+Isaiah Norton
+Watertown [10]
+18:05.82	10	97
+98	
+Peyton Kallstrom
+Douglas [9]
+18:06.34	10	98
+99	
+Ashton Bierema
+O'Gorman [12]
+18:08.28	10	99
+100	
+Ryley McKeown
+Brandon Valley [10]
+18:08.90	10	100
+101	
+Bergen Irey
+Brandon Valley [12]
+18:09.69	11	101
+102	
+Cash Daigle
+Sturgis Brown [11]
+18:10.99	11	102
+103	
+Ryan McKeown
+Harrisburg [10]
+18:11.71	11	103
+104	
+Trevin Lounsbury
+Brookings [9]
+18:14.08	11	104
+105	
+Will Sorenson
+O'Gorman [10]
+18:17.94	11	105
+106	
+Bennie Olsen
+Douglas [9]
+18:19.83	11	106
+107	
+Elijah Schroeder
+Mitchell [12]
+18:23.15	11	107
+108	
+Quentin Miller
+Douglas [9]
+18:25.88	11	108
+109	
+Tarin Hutchinson
+Rapid City Central [11]
+18:28.09	11	109
+110	
+Carson Conway
+Yankton [12]
+18:29.16	11	110
+111	
+Kale Fenner
+Sturgis Brown [10]
+18:34.06	12	111
+112	
+Jack Faulkner
+Spearfish [11]
+18:35.16	12	112
+113	
+Alex Oedekoven
+Pierre T.F. Riggs [10]
+18:37.57	12	113
+114	
+Jakob Hofer
+Harrisburg [10]
+18:38.82	12	114
+115	
+Jensen Tesch
+SF Roosevelt [11]
+18:39.83	12	115
+116	
+Greyson Cauwels
+Harrisburg [10]
+18:41.24	12	116
+117	
+Tate Carlson
+SF Jefferson [10]
+18:42.45	12	117
+118	
+Sam Prairie
+O'Gorman [12]
+18:45.57	12	118
+119	
+Kaden Hunhoff
+Yankton [10]
+18:54.02	12	119
+120	
+Teagan Lien
+Huron [9]
+18:57.54	12	120
+121	
+Colin Pickett
+Mitchell [9]
+18:59.60	13	121
+122	
+Angelo Medina
+Huron [11]
+19:06.22	13	122
+123	
+Will Knippling
+Huron [12]
+19:08.25	13	123
+124	
+James Weir
+Huron [9]
+19:11.78	13	124
+125	
+Hunter Killion
+Mitchell [8]
+19:19.08	13	125
+126	
+Bobby Nelson
+Douglas [10]
+19:23.79	13	126
+127	
+Antwon Flying Hawk
+Huron [10]
+19:24.58	13	127
+128	
+Noah Dobbs
+O'Gorman [10]
+19:47.24	13	128
+129	
+Connor Mager
+SF Jefferson [10]
+19:50.39	13	129
+130	
+Cameron Cutshaw
+Huron [12]
+19:51.62	13	130
+131	
+Austin Reimnitz
+Mitchell [12]
+19:56.21	14	131
+132	
+Karsten Herges
+Mitchell [7]
+20:43.98	14	132

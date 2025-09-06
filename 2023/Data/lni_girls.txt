@@ -1,0 +1,163 @@
+ 	
+Athlete
+Finals	Heat
+1	
+Rarity Cournoyer
+Red Cloud [9]
+20:37.34	1
+2	
+Sheridan Madden
+Rapid City Central [9]
+20:52.72	1
+3	
+Taylor Harrelson
+RC Christian [9]
+21:09.61	1
+4	
+Brianna Thompson
+Standing Rock [9]
+21:44.68	1
+5	
+Kelty Silbernagel
+Rapid City Central [11]
+21:48.47	1
+6	
+Shelly Larvie
+Todd County [7]
+21:49.50	1
+7	
+Carlie DeBoer
+Hot Springs [12]
+22:20.34	1
+8	
+Brandy Marshall
+Lakota Tech [10]
+22:27.76	1
+9	
+Dai'Onna Posey
+Wyoming Indian [9]
+22:37.67	1
+10	
+Hailey Romans
+Rapid City Central [11]
+22:57.13	1
+11	
+Shye Killsontop
+Wyoming Indian [12]
+22:57.95	2
+12	
+Adrienne White Lance
+St. Francis Indian [7]
+23:11.46	2
+13	
+Shelby Westinghouse
+Hot Springs [12]
+23:18.53	2
+14	
+Hadley Temple
+Rapid City Central [9]
+23:23.56	2
+15	
+Abigail Eisenbraun
+Rapid City Stevens [9]
+23:28.53	2
+16	
+Elizabeth Moore
+Todd County [10]
+23:34.78	2
+17	
+Justice Isis
+Wyoming Indian [9]
+23:38.95	2
+18	
+Georgeanne Moss
+St Stephens Indian [11]
+23:40.17	2
+19	
+Izzy Fischer
+Rapid City Central [9]
+23:43.64	2
+20	
+Alexsis Red Bird
+Todd County [7]
+24:10.25	2
+21	
+Cadance Amiotte
+Todd County [11]
+24:19.77	3
+22	
+April Shott
+Rapid City Central [10]
+24:27.16	3
+23	
+Wi Wanbli Wi Little Thun
+St. Francis Indian [10]
+24:43.84	3
+24	
+Georgetta Moss
+St Stephens Indian [12]
+24:59.88	3
+25	
+Roberta Whiteplume
+Wyoming Indian [12]
+25:13.98	3
+26	
+Olivia Boerger
+Rapid City Stevens [11]
+25:30.60	3
+27	
+Takara Ferris
+Wyoming Indian [10]
+25:58.47	3
+28	
+Katherine O'Neal
+RC Christian [10]
+26:07.75	3
+29	
+Sierra Black Bull
+Pine Ridge [11]
+26:36.85	3
+30	
+Lillyth Catches
+Pine Ridge [8]
+26:42.23	3
+31	
+Camellia Brown
+Wyoming Indian [12]
+27:02.65	4
+32	
+Bella Speidel
+Rapid City Stevens [11]
+27:04.20	4
+33	
+Pamela Two Bulls
+Lakota Tech
+27:40.95	4
+34	
+Malyssa Four Horns
+St. Francis Indian [9]
+28:39.38	4
+35	
+Maleyah Krogman
+St. Francis Indian [8]
+29:06.49	4
+36	
+Danica Clifford
+Little Wound [11]
+29:44.89	4
+37	
+Heaven Clairmont
+Todd County [8]
+30:04.28	4
+38	
+LaAsia Short Bull
+Lakota Tech [12]
+30:41.73	4
+39	
+Jessica Waln
+Lakota Tech [9]
+32:55.31	4
+40	
+Shannann Homer
+Lakota Tech [11]
+34:32.44	4

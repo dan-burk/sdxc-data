@@ -1,0 +1,195 @@
+ 	
+ATHLETE
+FINALS	HEAT
+1	
+Karly Riley
+Lemmon [11]
+21:23.89	1
+2	
+Lia Mundt
+Belle Fourche [7]
+21:36.28	1
+3	
+Hallie Person
+Lead-Deadwood [11]
+21:48.31	1
+4	
+Brit Wheeler
+Custer [12]
+21:57.56	1
+5	
+Carlie DeBoer
+Hot Springs [12]
+22:08.16	1
+6	
+Keelin Dinkins
+Sturgis Brown [9]
+22:12.84	1
+7	
+Emilie Reedy
+Sturgis Brown [9]
+22:12.97	1
+8	
+Madie Donovan
+Spearfish [11]
+22:27.57	1
+9	
+Misty Drieling
+Belle Fourche [9]
+22:35.23	1
+10	
+Rhys Pearson
+Belle Fourche [8]
+22:45.35	1
+11	
+Sierra Swanson
+Custer [12]
+22:54.32	2
+12	
+Ellie Palmer
+St. Thomas More [8]
+22:58.64	2
+13	
+Abi Kroetch
+Sturgis Brown [9]
+23:04.21	2
+14	
+Ava Allen
+Belle Fourche [12]
+23:07.94	2
+15	
+Ella Schirber
+St. Thomas More [8]
+23:20.27	2
+16	
+Monica Moran
+St. Thomas More [7]
+23:36.34	2
+17	
+Rachel Erk
+Newell [12]
+23:47.26	2
+18	
+Brynn Odenbach
+Lemmon [9]
+23:50.16	2
+19	
+Shaine Weishaar
+Belle Fourche [12]
+23:52.79	2
+20	
+Natalie Dreiske
+Lemmon [8]
+23:53.00	2
+21	
+Shelby Westinghouse
+Hot Springs [12]
+24:01.22	3
+22	
+Fallon Dinkins
+Sturgis Brown [7]
+24:26.36	3
+23	
+Makenzi Ham
+Custer [8]
+24:32.09	3
+24	
+Lexi Wilkins
+Custer [8]
+24:37.83	3
+25	
+Abby Palus
+Hulett [12]
+24:47.84	3
+26	
+Allison Hayes
+Belle Fourche [12]
+24:48.15	3
+27	
+Ella Schleiffarth
+St. Thomas More [8]
+24:57.24	3
+28	
+Quinn Butler
+Lemmon [10]
+25:00.21	3
+29	
+Erin Harms
+Douglas [10]
+25:00.35	3
+30	
+Charlee Bierle
+Sturgis Brown [8]
+25:05.70	3
+31	
+Mattea Marshall
+Custer [9]
+25:10.88	4
+32	
+Kelsey Stiefel
+Custer [9]
+25:21.04	4
+33	
+Chel Odenbach
+Lemmon [10]
+25:40.15	4
+34	
+Evelyn Torberson
+Black Hills [12]
+25:54.35	4
+35	
+Bethany Mahaffy
+Newell [9]
+25:54.37	4
+36	
+Kaelyn LeFors
+Douglas [9]
+26:10.89	4
+37	
+Lainey Loeffler
+Douglas [11]
+26:14.00	4
+38	
+Alix Heacock
+Powder River Co [11]
+26:27.02	4
+39	
+Brooklyn Palus
+Hulett [10]
+26:35.65	4
+40	
+Natalie Yates
+Newell [9]
+26:48.74	4
+41	
+Josie Reedy
+Sturgis Brown [11]
+26:59.11	5
+42	
+Payton Olson
+Lemmon [9]
+27:25.61	5
+43	
+Nevada McMahon
+Lead-Deadwood [10]
+27:26.72	5
+44	
+Gracey Bradley
+Powder River Co [10]
+27:53.29	5
+45	
+Hannah Pawleski
+St. Thomas More [8]
+28:07.06	5
+46	
+Kelly Clauson
+Douglas [11]
+28:19.69	5
+47	
+Rachel Merwin
+Hulett [12]
+29:39.84	5
+48	
+Elizabeth Ackerman
+Black Hills [12]
+32:01.84	5

@@ -1,0 +1,195 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Dylan Gerdes
+Madison [10]
+18:01.84	1	1
+2	
+Landen Johnson
+Deubrook Area [12]
+18:25.21	1	 
+3	
+Alex Langner
+Baltic [12]
+18:38.23	1	2
+4	
+Kyle Gronewold
+Baltic [10]
+18:53.66	1	3
+5	
+Camden Tebay
+DR St. Marys [8]
+19:06.58	1	 
+6	
+Kaden Christian
+Canistota [9]
+19:09.55	1	 
+7	
+Jonah Uilk
+Swmch-Ehs [10]
+19:21.75	1	 
+8	
+Brenton Westberry
+Flandreau [11]
+19:23.96	1	4
+9	
+Colton Trooien
+Deubrook Area [12]
+19:26.75	1	 
+10	
+Matthew Gassman
+Flandreau [12]
+19:28.15	1	5
+11	
+Henry Meyer
+Madison [11]
+19:31.72	2	6
+12	
+Genio White Hawk
+Flandreau Indian [11]
+19:40.01	2	 
+13	
+Daniel Swenson
+Chester [10]
+19:51.54	2	 
+14	
+Nathan Hasleton
+Madison [11]
+19:53.53	2	7
+15	
+Daniel Aldridge
+Madison [10]
+19:54.45	2	8
+16	
+Rylan Day
+Flandreau Indian [9]
+19:58.95	2	 
+17	
+Lance Kaufmann
+Arlington [11]
+20:08.83	2	9
+18	
+Nathaniel Hobbie
+Flandreau [9]
+20:11.74	2	10
+19	
+Wyatt Kontz
+Flandreau [10]
+20:12.96	2	11
+20	
+Jordan Uilk
+Swmch-Ehs [11]
+20:19.05	2	 
+21	
+Riley Miller
+Arlington [12]
+20:19.32	3	12
+22	
+Eli Gullickson
+Dell Rapids [8]
+20:21.34	3	 
+23	
+Jace Heumiller
+McCook Centr [12]
+20:24.05	3	13
+24	
+Logan Kontz
+Flandreau [8]
+20:27.22	3	14
+25	
+Caedmon Bressler
+Elkton-Lake Benton [12]
+20:28.63	3	 
+26	
+Teagin Gacke
+Tri-Valley [11]
+20:38.43	3	 
+27	
+Jack Wilde
+Baltic [11]
+20:51.68	3	15
+28	
+Matthew Heinemann
+DR St. Marys [9]
+20:58.93	3	 
+29	
+Otto Uberty
+McCook Centr [10]
+21:00.30	3	16
+30	
+Alex Heinemann
+Dell Rapids [9]
+21:10.69	3	 
+31	
+Kai Thompson
+Madison [10]
+21:20.63	4	17
+32	
+Chase Henriksen
+Arlington [9]
+21:30.20	4	18
+33	
+Lanz Dailey
+Flandreau [12]
+21:43.15	4	19
+34	
+Dorian Kaufman
+Arlington [9]
+21:45.14	4	20
+35	
+Garrett Wilkison
+Baltic [10]
+21:54.72	4	21
+36	
+Chase Steurwald
+Madison [12]
+22:01.26	4	22
+37	
+Paul Kaffar
+McCook Centr [12]
+22:07.97	4	23
+38	
+Eli Van Iperen
+Swmch-Ehs [11]
+22:16.42	4	 
+39	
+Shae Fiala
+Baltic [12]
+22:16.62	4	24
+40	
+Kenton James
+Flandreau [9]
+22:44.32	4	 
+41	
+Zayd Anderson
+Oldham-Ramon [11]
+23:01.23	5	 
+42	
+Colby Burns
+Arlington [8]
+23:51.86	5	25
+43	
+Zachary Grochow
+Dell Rapids [8]
+23:59.86	5	 
+44	
+Caleb Vogel
+McCook Centr [10]
+24:19.41	5	26
+45	
+Tyce Ryan
+Colman-Egan [12]
+24:22.90	5	 
+46	
+Antone Krempges
+McCook Centr [10]
+24:26.25	5	27
+47	
+Cody Heinz
+McCook Centr [12]
+24:31.66	5	28
+48	
+Braxton Jones
+Elkton-Lake Benton [11]
+24:34.51	5	 

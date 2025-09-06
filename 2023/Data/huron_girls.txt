@@ -1,0 +1,295 @@
+ 	
+Athlete
+Finals	Heat	Points
+1	
+Peyton VanDeest
+Spearfish [9]
+18:19.01	1	 
+2	
+Faith Wiese
+Flandreau [10]
+18:24.49	1	1
+3	
+Addison Scholten
+Brandon Valley [10]
+18:28.53	1	2
+4	
+Emery Larson
+Chester [10]
+18:35.66	1	 
+5	
+Mia Wentzy
+Brandon Valley [12]
+18:55.07	1	3
+6	
+Grace McElroy
+Watertown [7]
+19:00.97	1	4
+7	
+Sarah VanDeBerg
+Brandon Valley [11]
+19:09.71	1	5
+8	
+Kinsey Evans
+Chamberlain [12]
+19:22.28	1	6
+9	
+Emma Tidemann
+Brandon Valley [7]
+19:25.40	1	7
+10	
+Lilian Rude
+Brandon Valley [10]
+19:26.23	1	8
+11	
+Kori Keil
+Spearfish [10]
+19:30.77	2	 
+12	
+Juna Ramey
+Aberdeen Central [10]
+19:33.86	2	9
+13	
+Brit Wheeler
+Custer [12]
+19:44.94	2	10
+14	
+Sierra Sandford
+Spearfish [9]
+19:49.31	2	 
+15	
+Grace Phillips
+Chamberlain [7]
+19:55.86	2	11
+16	
+Maria Eisenbraun
+Spearfish [12]
+20:03.26	2	 
+17	
+Kate McElroy
+Watertown [9]
+20:05.40	2	12
+18	
+Shelby Bergan
+Brandon Valley [9]
+20:09.74	2	13
+19	
+Ansley Buus
+SF Washington [9]
+20:09.82	2	14
+20	
+Addie Smetana
+Brookings [12]
+20:14.54	2	 
+21	
+Olivia Anderson
+Watertown [8]
+20:16.16	3	15
+22	
+Haley Bergan
+Brandon Valley [12]
+20:32.68	3	16
+23	
+Londyn Schroeder
+Mitchell [9]
+20:36.27	3	 
+24	
+Harper Shaffer
+Pierre T.F. Riggs [8]
+20:40.82	3	17
+25	
+Mason Berg
+Pierre T.F. Riggs [11]
+20:45.87	3	18
+26	
+Jayne Lees
+Pierre T.F. Riggs [9]
+20:46.56	3	19
+27	
+Kylah Biggins
+Chamberlain [10]
+20:50.65	3	20
+28	
+Gwen Richter
+Pierre T.F. Riggs [10]
+20:57.83	3	21
+29	
+Hadasah Olson
+James Valley [9]
+21:06.73	3	22
+30	
+Keira Alfson
+Custer [10]
+21:12.76	3	23
+31	
+Jazzlyn Rombough
+Pierre T.F. Riggs [12]
+21:20.41	4	24
+32	
+Siri Knutson
+SF Washington [9]
+21:20.69	4	25
+33	
+Diamond Roy
+Flandreau [11]
+21:22.60	4	26
+34	
+Aine Graesser
+Chamberlain [10]
+21:23.30	4	27
+35	
+Kiley Westberry
+Flandreau [9]
+21:25.04	4	28
+36	
+Josie Hamilton
+Flandreau [11]
+21:29.54	4	29
+37	
+Lily Murray
+Brookings [12]
+21:33.06	4	 
+38	
+Josie Vlieger
+Huron [10]
+21:33.55	4	 
+39	
+Morgan VanVeen
+Aberdeen Central [9]
+21:35.62	4	30
+40	
+Silvana Houska
+Chamberlain [9]
+21:41.26	4	31
+41	
+Sierra Swanson
+Custer [12]
+21:46.67	5	32
+42	
+Emmerson Eppard
+Chester [10]
+21:50.90	5	 
+43	
+Lily Swanson
+James Valley [8]
+21:51.23	5	33
+44	
+Addison Bates
+Chester [12]
+21:57.03	5	 
+45	
+Ellery Stark
+Watertown [12]
+21:59.87	5	34
+46	
+Angie Lopez
+Aberdeen Central [12]
+22:11.99	5	35
+47	
+Alivia Burgard
+Aberdeen Central [12]
+22:12.78	5	36
+48	
+Khloe Cochran
+Aberdeen Central [9]
+22:16.26	5	37
+49	
+Charlee Williams-Smith
+Pierre T.F. Riggs [10]
+22:17.92	5	38
+50	
+Rhayonna Hood
+James Valley [12]
+22:19.70	5	39
+51	
+Yom Kuol
+SF Washington [12]
+22:20.30	6	40
+52	
+Marissa Bouwman
+SF Washington [9]
+22:21.82	6	41
+53	
+Isabella Vrbka
+Aberdeen Central [10]
+22:25.68	6	42
+54	
+Naomi Rock
+SF Washington [12]
+22:25.90	6	43
+55	
+Hailey Woodward
+Custer [10]
+22:28.88	6	44
+56	
+Makenzi Ham
+Custer [8]
+22:33.86	6	45
+57	
+Kelsey Stiefel
+Custer [9]
+22:39.03	6	46
+58	
+Alexis Ketterling
+Aberdeen Central [12]
+22:40.85	6	47
+59	
+Emily Stahlberg
+SF Washington [11]
+22:47.54	6	48
+60	
+Nora Hamilton
+Flandreau [9]
+22:50.43	6	49
+61	
+Lexi Wilkins
+Custer [8]
+22:51.73	7	50
+62	
+Aspen Evers
+Mitchell [10]
+23:02.43	7	 
+63	
+Morgan Sheppard
+Flandreau [8]
+23:03.75	7	51
+64	
+Gabby DeVries
+SF Washington [9]
+23:03.90	7	52
+65	
+Grace List
+Watertown [9]
+23:07.41	7	53
+66	
+Tatum Peterson
+Huron [12]
+23:18.65	7	 
+67	
+Micaiah Brantner
+James Valley [10]
+23:34.72	7	54
+68	
+Jacy Wolf
+Chester [9]
+23:47.15	7	 
+69	
+Andie Aughenbaugh
+James Valley [10]
+23:48.85	7	55
+70	
+Isabella Horning
+Watertown [11]
+24:15.14	7	56
+71	
+Avery Lisburg
+Pierre T.F. Riggs [11]
+24:23.62	8	57
+72	
+Abigail Reeves
+Watertown [10]
+24:53.50	8	58
+73	
+Grace Mousseau
+Chamberlain [11]
+25:35.73	8	59

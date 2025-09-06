@@ -1,0 +1,38 @@
+,Place,Name,Time,School,Class
+1,1,Ella Boekleheide,19:26.77,Northwestern,F
+2,2,Heidi Olson,19:51.14,Mobridge-Pollock,F
+3,3,Autumn Fallis,20:47.66,Highmore-Harrold,F
+4,4,Dannika Kaup,20:54.06,Potter County,F
+5,5,Emma Schlachter,21:01.71,Potter County,F
+6,6,Hadassah Olson,21:06.14,James Valley Christian,F
+7,7,Jadyn Ahlemeier,21:31.07,Mobridge-Pollock,F
+8,8,Faith Heft,21:31.64,Northwestern,F
+9,9,Madilyn Gelhaus,21:50.74,Ipswich,F
+10,10,Tara Bichford,21:55.31,Northwestern,F
+11,11,Paige Ahlemeier,22:04.56,Potter County,F
+12,12,Livy Swanson,22:12.51,James Valley Christian,F
+13,13,Jaycee Stevens,22:12.57,Potter County,F
+14,14,Rayel Roeser,22:42.06,Potter County,F
+15,15,Rhianna Hood,22:45.53,Langford Area,F
+16,16,Reese Hadrick,22:49.39,Faulkton Area,F
+17,17,Katie Albrecht,22:59.17,Herreid/Selby Area,F
+18,18,Gabby Werdel,23:17.62,Miller,F
+19,19,Grace Roth,23:21.46,North Central,F
+20,20,Gracyn Kadlec,23:18.23,Ipswich,F
+21,21,Olivia Haack,23:35.12,Wessington Springs,F
+22,22,Melanie Dallenbach,23:47.46,North Central,F
+23,23,Rhyan Roseland,23:54.02,Faulkton Area,F
+24,24,Austasia Sorensen,24:03.24,Faulkton Area,F
+25,25,Brynny Huber,23:57.26,Herreid/Selby Area,F
+26,26,Abby Kolousek,24:07.37,Wessington Springs,F
+27,27,Maciah Brantner,24:11.08,James Valley Christian,F
+28,28,Alexis Roeser,24:18.73,Wessington Springs,F
+29,29,Kassandra Abbas,24:22.83,North Central,F
+30,30,Andie Aughenbaugh,24:35.54,James Valley Christian,F
+31,31,Mayah Mebius,24:43.56,Hitchcock-Tulare,F
+32,32,Isabelle Wooding,24:52.34,Northwestern,F
+33,33,Jade Turner,24:59.05,Highmore-Harrold,F
+34,34,Ella Kolousek,25:15.31,Wessington Springs,F
+35,35,Allie Gortmaker,27:04.32,Miller,F
+36,36,Tatum Gortmaker,27:14.21,Miller,F
+37,37,Madeleine Degret,28:42.83,Wolsey-Wessington,F

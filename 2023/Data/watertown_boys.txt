@@ -1,0 +1,383 @@
+ 	
+Athlete
+Finals	Heat	Points
+1	
+Jared Lutmer
+Pierre T.F. Riggs [12]
+16:00.95	1	1
+2	
+Jack Castelli
+O'Gorman [12]
+16:43.68	1	2
+3	
+Mikah Peters
+Brandon Valley [10]
+16:46.56	1	3
+4	
+Cole Reilly
+SF Washington [9]
+16:48.10	1	4
+5	
+Kieran Weigelt
+SF Jefferson [12]
+17:04.49	1	5
+6	
+Ernest Ting
+Brookings [11]
+17:08.92	1	6
+7	
+Evan Mahrous
+O'Gorman [11]
+17:12.84	1	7
+8	
+Dane Stark
+Watertown [9]
+17:15.49	1	8
+9	
+Caleb Morris
+Pierre T.F. Riggs [10]
+17:15.95	1	9
+10	
+Eli Woidyla
+Brandon Valley [10]
+17:19.07	1	10
+11	
+Joseph Perkins
+Aberdeen Central [10]
+17:19.64	2	11
+12	
+Dominic Ripperda
+O'Gorman [12]
+17:21.22	2	12
+13	
+Ty Sullivan
+Watertown [10]
+17:21.77	2	13
+14	
+Jonathan Kahler
+Brookings [11]
+17:28.11	2	14
+15	
+David VanVeen
+Aberdeen Central [12]
+17:30.50	2	15
+16	
+Igen Nyawanda
+Brookings [12]
+17:31.60	2	16
+17	
+Tate DeVries
+Aberdeen Central [8]
+17:35.55	2	17
+18	
+Paul Kern
+Brandon Valley [12]
+17:36.61	2	18
+19	
+Jacob York
+Brookings [12]
+17:38.03	2	19
+20	
+Griffin Smith
+Harrisburg [10]
+17:46.16	2	20
+21	
+Griffin Miller
+SF Washington [9]
+17:47.21	3	21
+22	
+Ben Parsons
+SF Washington [9]
+17:48.47	3	22
+23	
+Jackson Boltjes
+SF Washington [9]
+17:50.31	3	23
+24	
+Riley Williams
+SF Washington [12]
+17:50.52	3	24
+25	
+Asher Selness
+Brandon Valley [8]
+17:52.66	3	25
+26	
+Hunter Patton
+Mitchell [10]
+17:53.31	3	26
+27	
+Emran Anbesse
+SF Washington [12]
+17:54.74	3	27
+28	
+Haeden Wheelhouse
+Pierre T.F. Riggs [12]
+17:57.52	3	28
+29	
+Esten Foss
+Aberdeen Central [10]
+17:59.19	3	29
+30	
+Camden Coughlin
+Brandon Valley [12]
+18:02.15	3	30
+31	
+Tino Lopez
+Aberdeen Central [12]
+18:05.66	4	31
+32	
+Brekken Biteler
+SF Washington [9]
+18:06.49	4	32
+33	
+Sam Schultz
+Aberdeen Central [10]
+18:12.71	4	33
+34	
+Max Nelson
+Aberdeen Central [9]
+18:13.43	4	34
+35	
+Patrick Severson
+Aberdeen Central [11]
+18:14.05	4	 
+36	
+Jack Wagoner
+SF Jefferson [11]
+18:17.46	4	35
+37	
+Kellar Sjomeling
+SF Jefferson [11]
+18:24.82	4	36
+38	
+Easton Klatt
+Harrisburg [11]
+18:27.18	4	37
+39	
+Carson Urlacher
+Aberdeen Central [9]
+18:31.94	4	 
+40	
+Lance Bodeen
+Harrisburg [10]
+18:35.42	4	38
+41	
+Ashton Bierema
+O'Gorman [12]
+18:36.49	5	39
+42	
+Seth Borchers
+SF Jefferson [11]
+18:37.84	5	40
+43	
+Ryley McKeown
+Brandon Valley [10]
+18:43.40	5	41
+44	
+Carson Coulter
+SF Washington [9]
+18:43.48	5	 
+45	
+Isaiah Norton
+Watertown [10]
+18:50.33	5	42
+46	
+Evan Miller
+Harrisburg [12]
+18:52.26	5	43
+47	
+Greyson Cauwels
+Harrisburg [10]
+18:53.09	5	44
+48	
+Mason Ward-Zeller
+Pierre T.F. Riggs [11]
+18:54.52	5	45
+49	
+Jayden Brandt
+Pierre T.F. Riggs [10]
+18:56.58	5	46
+50	
+Bergen Irey
+Brandon Valley [12]
+18:57.95	5	47
+51	
+James Heinz
+Harrisburg [12]
+18:58.43	6	48
+52	
+Jaylen Palmer
+SF Jefferson [11]
+18:58.75	6	49
+53	
+Ryan McKeown
+Harrisburg [10]
+18:59.68	6	50
+54	
+Logan Brakke
+Brandon Valley [11]
+19:00.92	6	 
+55	
+Elijah Schroeder
+Mitchell [12]
+19:03.54	6	51
+56	
+Teagan Lien
+Huron [9]
+19:04.63	6	52
+57	
+Elias Michailidis
+Brandon Valley [10]
+19:05.72	6	 
+58	
+Camden Reilly
+SF Washington [12]
+19:06.23	6	 
+59	
+Ben Peterson
+Watertown [12]
+19:06.73	6	53
+60	
+Shane Harming
+Brookings [10]
+19:07.80	6	54
+61	
+Tucker Lunde
+Watertown [10]
+19:08.74	7	55
+62	
+Ian Rounds
+Pierre T.F. Riggs [11]
+19:10.66	7	56
+63	
+Rylan Johnson
+Aberdeen Central [12]
+19:14.61	7	 
+64	
+Bayley Steiner
+Watertown [11]
+19:16.55	7	57
+65	
+Marco Springman
+Brookings [10]
+19:16.76	7	58
+66	
+Logan Becker
+Watertown [9]
+19:19.20	7	59
+67	
+Alex Oedekoven
+Pierre T.F. Riggs [10]
+19:21.09	7	60
+68	
+CJ Moses
+Pierre T.F. Riggs [10]
+19:32.18	7	 
+69	
+Will Sorenson
+O'Gorman [10]
+19:39.94	7	61
+70	
+Colton Padgett
+Brandon Valley [12]
+19:45.31	7	 
+71	
+Gabe List
+Watertown [11]
+19:45.45	8	 
+72	
+Sam Prairie
+O'Gorman [12]
+19:45.72	8	62
+73	
+Tate Carlson
+SF Jefferson [10]
+19:48.00	8	63
+74	
+Bradley Walden
+Brandon Valley [9]
+19:51.51	8	 
+75	
+Chase Mathews
+Watertown [9]
+19:53.31	8	 
+76	
+James Weir
+Huron [9]
+19:59.91	8	64
+77	
+Colin Pickett
+Mitchell [9]
+20:06.57	8	65
+78	
+Jakob Hofer
+Harrisburg [10]
+20:09.00	8	 
+79	
+Gavin Erdmann
+Harrisburg [9]
+20:15.29	8	 
+80	
+Isaac Spahr
+Brandon Valley [9]
+20:18.40	8	 
+81	
+Antwon Flying Hawk
+Huron [10]
+20:26.75	9	66
+82	
+Ayden Steiner
+Watertown [12]
+20:28.38	9	 
+83	
+Connor Mager
+SF Jefferson [10]
+20:28.74	9	67
+84	
+Nicholas Deschepper
+Harrisburg [11]
+20:37.15	9	 
+85	
+Angelo Medina
+Huron [11]
+20:43.87	9	68
+86	
+Tryton Parmely
+Pierre T.F. Riggs [9]
+20:44.89	9	 
+87	
+Will Knippling
+Huron [12]
+20:49.45	9	69
+88	
+Cameron Cutshaw
+Huron [12]
+20:49.55	9	70
+89	
+Edvin Rodriguez Reyes
+Huron [11]
+20:49.81	9	71
+90	
+Karsten Herges
+Mitchell [7]
+21:00.07	9	72
+91	
+Nathan Smith
+Brookings [12]
+21:01.57	10	73
+92	
+Axel Reimnitz
+Mitchell [8]
+21:12.35	10	74
+93	
+Alec Pester
+Huron [11]
+21:21.89	10	 
+94	
+Ryan Driscoll
+Mitchell [8]
+21:45.98	10	75
+95	
+Austin Reimnitz
+Mitchell [12]
+22:30.77	10	76

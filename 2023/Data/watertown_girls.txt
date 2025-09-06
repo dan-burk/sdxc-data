@@ -1,0 +1,307 @@
+ 	
+Athlete
+Finals	Heat	Points
+1	
+Mia Wentzy
+Brandon Valley [12]
+19:03.70	1	1
+2	
+Hannah Genrich
+Harrisburg [7]
+19:23.91	1	2
+3	
+Autumn Gilhooly
+Harrisburg [7]
+19:51.75	1	3
+4	
+Sarah VanDeBerg
+Brandon Valley [11]
+20:00.42	1	4
+5	
+Grace McElroy
+Watertown [7]
+20:01.88	1	5
+6	
+Lilian Rude
+Brandon Valley [10]
+20:05.90	1	6
+7	
+Shelby Bergan
+Brandon Valley [9]
+20:06.35	1	7
+8	
+Addison Reilly
+Harrisburg [8]
+20:06.44	1	8
+9	
+Emma Tidemann
+Brandon Valley [7]
+20:18.76	1	9
+10	
+Bria Miller
+Harrisburg [9]
+20:24.58	1	10
+11	
+Jenna Gilhooly
+Harrisburg [11]
+20:31.51	2	11
+12	
+Haley Bergan
+Brandon Valley [12]
+20:46.04	2	12
+13	
+Juna Ramey
+Aberdeen Central [10]
+20:47.75	2	13
+14	
+Mason Berg
+Pierre T.F. Riggs [11]
+20:48.52	2	14
+15	
+Addie Smetana
+Brookings [12]
+20:49.15	2	 
+16	
+Ellie Anders
+Brandon Valley [7]
+20:50.64	2	15
+17	
+Nora Boetel
+O'Gorman [11]
+20:59.25	2	16
+18	
+Laney Castelluzzo
+O'Gorman [10]
+21:00.16	2	17
+19	
+Jayne Lees
+Pierre T.F. Riggs [9]
+21:08.09	2	18
+20	
+Lia Tiangco
+O'Gorman [8]
+21:25.13	2	19
+21	
+Lily O'Connor
+O'Gorman [10]
+21:26.69	3	20
+22	
+Ansley Buus
+SF Washington [9]
+21:37.03	3	21
+23	
+Kate McElroy
+Watertown [9]
+21:37.08	3	22
+24	
+Gwen Richter
+Pierre T.F. Riggs [10]
+21:38.58	3	23
+25	
+Londyn Schroeder
+Mitchell [9]
+21:39.95	3	24
+26	
+Gracen Giegling
+Harrisburg [9]
+21:50.84	3	25
+27	
+Marissa Bouwman
+SF Washington [9]
+21:54.78	3	27
+27	
+Bella Kippes
+O'Gorman [12]
+21:54.78	3	26
+29	
+Claire McCallum
+Harrisburg [9]
+22:02.78	3	28
+30	
+Charlee Williams-Smith
+Pierre T.F. Riggs [10]
+22:03.69	3	29
+31	
+Sarah Gilhooly
+Harrisburg [9]
+22:06.10	4	 
+32	
+Alaina Frankman
+O'Gorman [8]
+22:12.39	4	30
+33	
+Alyssa Novstrup
+Aberdeen Central [7]
+22:13.27	4	31
+34	
+Cecilia Christian
+O'Gorman [11]
+22:14.69	4	32
+35	
+Jenny Bevers
+Watertown [7]
+22:16.64	4	33
+36	
+Siri Knutson
+SF Washington [9]
+22:20.43	4	34
+37	
+Josie Vlieger
+Huron [10]
+22:20.70	4	35
+38	
+Khloe Cochran
+Aberdeen Central [9]
+22:23.23	4	36
+39	
+Lily Murray
+Brookings [12]
+22:25.62	4	 
+40	
+Kailey Winter
+Harrisburg [10]
+22:34.86	4	 
+41	
+Jazzlyn Rombough
+Pierre T.F. Riggs [12]
+22:37.08	5	37
+42	
+Ellery Stark
+Watertown [12]
+22:56.27	5	38
+43	
+Jasmine Jennewein
+SF Jefferson [12]
+23:01.57	5	 
+44	
+Morgan VanVeen
+Aberdeen Central [9]
+23:14.33	5	39
+45	
+Lily Meyer
+Huron [9]
+23:19.33	5	40
+46	
+Avery Lisburg
+Pierre T.F. Riggs [11]
+23:26.99	5	41
+47	
+Tatum Peterson
+Huron [12]
+23:27.11	5	42
+48	
+Gabby DeVries
+SF Washington [9]
+23:31.67	5	43
+49	
+Naomi Rock
+SF Washington [12]
+23:33.82	5	44
+50	
+Allyson Bauer
+Pierre T.F. Riggs [9]
+23:35.34	5	45
+51	
+Emily Stahlberg
+SF Washington [11]
+23:39.31	6	46
+52	
+Anneliese Miller
+Aberdeen Central [7]
+23:42.75	6	47
+53	
+Isabella Horning
+Watertown [11]
+23:43.93	6	48
+54	
+Liz Preszler
+Aberdeen Central [10]
+23:44.85	6	49
+55	
+Kylee Hanley
+Aberdeen Central [7]
+23:46.41	6	50
+56	
+Isabella Vrbka
+Aberdeen Central [10]
+23:56.22	6	 
+57	
+Nora Pester
+Huron [9]
+23:59.56	6	51
+58	
+Allison Brenner
+Aberdeen Central [9]
+24:01.70	6	 
+59	
+Evelyn Novstrup
+Aberdeen Central [7]
+24:02.57	6	 
+60	
+Elsa Schiferl
+Aberdeen Central [9]
+24:02.74	6	 
+61	
+Aspen Evers
+Mitchell [10]
+24:08.08	7	52
+62	
+Lola Barrett
+Watertown [11]
+24:08.37	7	53
+63	
+Josie Nold
+Brookings [11]
+24:09.21	7	 
+64	
+Angie Lopez
+Aberdeen Central [12]
+24:25.96	7	 
+65	
+Sophia Schmit
+Brookings [10]
+24:47.62	7	 
+66	
+Kendall Clayton
+Brandon Valley [9]
+24:49.81	7	 
+67	
+Macey Wigg
+SF Jefferson [10]
+24:52.20	7	 
+68	
+Morgan Becker
+Brandon Valley [11]
+24:54.85	7	 
+69	
+Madeline Vogel
+Mitchell [12]
+25:03.91	7	54
+70	
+Scout Rosendahl
+Aberdeen Central [8]
+25:06.24	7	 
+71	
+Elizabeth Rieffenberger
+Watertown [11]
+25:22.65	8	55
+72	
+Abigail Reeves
+Watertown [10]
+25:31.88	8	 
+73	
+Alexis Daley
+Mitchell [10]
+25:40.40	8	56
+74	
+Danny Borja
+Mitchell [10]
+25:41.13	8	57
+75	
+Avrie London
+Mitchell [10]
+26:27.79	8	58
+76	
+Kayeleigh Bowden
+Huron [12]
+27:54.22	8	59

@@ -1,0 +1,111 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Mikah Peters
+Brandon Valley [10]
+16:33.11	1	1
+2	
+Jonathon Roth
+West Central [11]
+17:09.97	1	2
+3	
+Benjamin Strunk
+West Central [12]
+17:17.49	1	3
+4	
+Paul Kern
+Brandon Valley [12]
+17:22.70	1	4
+5	
+Abe (Abram) Chance
+Yankton [11]
+17:26.20	1	5
+6	
+Harrison Krajewski
+Yankton [10]
+17:31.19	1	6
+7	
+Eli Woidyla
+Brandon Valley [10]
+17:34.72	1	7
+8	
+Camden Coughlin
+Brandon Valley [12]
+17:36.26	1	8
+9	
+Asher Selness
+Brandon Valley [8]
+17:38.18	1	9
+10	
+Ryley McKeown
+Brandon Valley [10]
+18:17.21	1	10
+11	
+Logan Brendsel
+Brandon Valley [11]
+18:32.42	2	11
+12	
+Bryton Olson
+Yankton [10]
+18:40.57	2	12
+13	
+Ethan Brenden
+Yankton [10]
+18:49.55	2	13
+14	
+Peyton Tetzlaff
+West Central [9]
+18:55.63	2	14
+15	
+Carson Conway
+Yankton [12]
+19:03.33	2	15
+16	
+Logan Brakke
+Brandon Valley [11]
+19:04.53	2	 
+17	
+Kade Hruby
+West Central [11]
+19:11.94	2	16
+18	
+Luke Jacobson
+Yankton [8]
+19:15.05	2	17
+19	
+Isaac Spahr
+Brandon Valley [9]
+19:15.87	2	 
+20	
+Kyper Hilger
+West Central [10]
+19:23.34	2	18
+21	
+Bradley Walden
+Brandon Valley [9]
+19:25.98	3	 
+22	
+Kaden Hunhoff
+Yankton [10]
+19:35.64	3	19
+23	
+Bergen Irey
+Brandon Valley [12]
+19:42.65	3	 
+24	
+Colton Padgett
+Brandon Valley [12]
+19:48.87	3	 
+25	
+Isaac Petersen
+Yankton [10]
+20:17.38	3	 
+26	
+Jacob Peterson
+West Central [11]
+20:24.20	3	20
+27	
+Parker Menning
+West Central [11]
+20:55.29	3	21

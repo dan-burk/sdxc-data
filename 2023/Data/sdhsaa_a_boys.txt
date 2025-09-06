@@ -1,0 +1,503 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Luke Rupert
+Hill City [12]
+15:26.51	1	1
+2	
+Lane Krautschun
+Belle Fourche [12]
+15:47.72	1	2
+3	
+Payton Brown
+Milbank [12]
+15:52.41	1	3
+4	
+Pierce Baumberger
+Miller [11]
+15:57.65	1	4
+5	
+Leighton Aves
+Hill City [12]
+15:58.76	1	5
+6	
+Sean Shipp
+Custer [11]
+16:00.17	1	6
+7	
+Jack Brown
+Dakota Valley [11]
+16:02.14	1	7
+8	
+Tate Grabow
+Hill City [10]
+16:02.47	1	8
+9	
+Joe Cross
+Dakota Valley [12]
+16:12.64	1	9
+10	
+Levi Vander Leest
+SF Christian [9]
+16:16.04	1	10
+11	
+Benjamin Strunk
+West Central [12]
+16:17.91	2	11
+12	
+Brandon Escalante
+Hill City [11]
+16:24.29	2	12
+13	
+Bennett Wassenaar
+SF Christian [11]
+16:27.80	2	13
+14	
+Alex Oberloh
+SF Christian [12]
+16:28.18	2	14
+15	
+Jonathon Roth
+West Central [11]
+16:28.82	2	15
+16	
+Alex Schumacher
+Miller [12]
+16:30.05	2	16
+17	
+Kaleb Foltz
+Tri-State [12]
+16:32.16	2	 
+18	
+Jackson Prins
+SF Christian [11]
+16:32.35	2	17
+19	
+Drew Lehman
+Custer [12]
+16:37.10	2	18
+20	
+Aiden Voyles
+Belle Fourche [12]
+16:41.18	2	19
+21	
+Joseph Laprath
+Winner [12]
+16:44.98	3	 
+22	
+Dylan Gerdes
+Madison [10]
+16:45.76	3	 
+23	
+James Batchelor
+Milbank [12]
+16:46.29	3	20
+24	
+Bryan Meyer
+Milbank [11]
+16:46.50	3	21
+25	
+Lennon Clarkson
+Belle Fourche [9]
+16:47.63	3	22
+26	
+Justus Funk
+Belle Fourche [12]
+16:49.49	3	23
+27	
+Gage Beverly
+Vermillion [8]
+16:55.93	3	24
+28	
+Evan Bartelt
+Ethan/Parkston [12]
+16:57.14	3	 
+29	
+Isaac Graham
+Milbank [12]
+17:07.78	3	25
+30	
+Jamison Gould
+Dakota Valley [8]
+17:10.73	3	26
+31	
+Cooper Schaefer
+Estelline/Hendricks [8]
+17:11.14	4	 
+32	
+Kian Rusch
+Custer [10]
+17:12.91	4	27
+33	
+Joshua Fletcher
+SF Christian [11]
+17:14.50	4	28
+34	
+Jack Campbell
+Tea Area [10]
+17:19.40	4	29
+35	
+Henry Anderson
+Vermillion [12]
+17:22.32	4	30
+36	
+Noah Sayler
+Lennox [11]
+17:23.36	4	31
+37	
+Austin Drew
+Custer [9]
+17:24.95	4	32
+38	
+Jessup Pederson
+Dupree [12]
+17:25.26	4	 
+39	
+Reid Hammerquist
+Tea Area [9]
+17:25.53	4	33
+40	
+Tayshaun Cudmore
+Dupree [10]
+17:28.81	4	 
+41	
+Jacob Chasing Hawk
+Vermillion [12]
+17:31.70	5	34
+42	
+Isaac Koole
+SF Christian [10]
+17:32.22	5	35
+43	
+Hunter Morse
+Vermillion [10]
+17:33.50	5	36
+44	
+Gabe Johnson
+North Central [11]
+17:33.72	5	37
+45	
+Lionel Hinson
+RC Christian [11]
+17:34.48	5	 
+46	
+Jayden Taken Alive
+McLaughlin [10]
+17:35.14	5	38
+47	
+Wamni Kills Crow
+McLaughlin [11]
+17:35.44	5	39
+48	
+Walter Graesser
+Platte-Geddes [8]
+17:36.64	5	 
+49	
+Harley Rivera
+Belle Fourche [12]
+17:37.94	5	40
+50	
+Jacob Peterson
+West Central [11]
+17:39.24	5	41
+51	
+Hunter Penn
+Beresford [10]
+17:39.85	6	 
+52	
+Maverick Horst
+Lennox [11]
+17:40.15	6	42
+53	
+Espyn Klungseth
+Beresford [11]
+17:40.25	6	 
+54	
+Anthony Miller
+North Central [12]
+17:40.34	6	43
+55	
+Carson Wosje
+Sioux Valley [10]
+17:42.09	6	 
+56	
+Peyton Tetzlaff
+West Central [9]
+17:44.79	6	44
+57	
+Cade Sherard
+Lennox [11]
+17:45.59	6	45
+58	
+Park Sinclair
+Kimball/White Lake [11]
+17:47.08	6	 
+59	
+Michael Green
+Dakota Valley [11]
+17:49.71	6	46
+60	
+Hudson Schmidt
+Mount Vernon/Pla [9]
+17:49.76	6	 
+61	
+David Brock
+Ethan/Parkston [12]
+17:50.82	7	 
+62	
+Chett Jibben
+Lennox [11]
+17:52.54	7	47
+63	
+Spencer Olsen
+Dupree [10]
+17:52.57	7	 
+64	
+Isaiah Gortmaker
+Miller [10]
+17:54.13	7	48
+65	
+Caden Pourier
+Red Cloud [11]
+17:54.79	7	 
+66	
+Thad Kratz
+Great Plains Lut [11]
+18:03.40	7	 
+67	
+Aiden Williams
+Hill City [10]
+18:10.24	7	49
+68	
+Caden Hourigan
+Deuel [9]
+18:10.27	7	50
+69	
+Drew Arbach
+North Central [9]
+18:11.43	7	51
+70	
+Holden Jelen
+Tea Area [12]
+18:11.91	7	52
+71	
+Paul Gutenkauf
+Aberdeen Roncalli [12]
+18:13.21	8	 
+72	
+Sam Byers
+Chamberlain [11]
+18:13.78	8	 
+73	
+Trysten Eide
+Mount Vernon/Pla [8]
+18:15.74	8	 
+74	
+Kyle Gronewold
+Baltic [10]
+18:17.23	8	 
+75	
+Cloy McVey
+Lennox [10]
+18:18.62	8	53
+76	
+Cooper Pommer
+Clark/Willow Lake [10]
+18:19.67	8	54
+77	
+Jonah Klemisch
+Tea Area [9]
+18:19.76	8	55
+78	
+Tyson Hagberg
+Deuel [9]
+18:21.17	8	56
+79	
+Dalton Marshall
+Custer [9]
+18:22.63	8	57
+80	
+Carson Vavruska
+Florence/Henry [11]
+18:28.73	8	 
+81	
+Brenton Westberry
+Flandreau [11]
+18:28.85	9	 
+82	
+Kade Hruby
+West Central [11]
+18:32.07	9	58
+83	
+Geoff Nelson
+Dakota Valley [9]
+18:35.78	9	59
+84	
+Brayden Karkalik
+Dakota Valley [12]
+18:36.77	9	60
+85	
+Ryder Graff
+Sisseton [9]
+18:41.97	9	 
+86	
+Sam Manian
+Great Plains Lut [9]
+18:44.47	9	 
+87	
+Jackson Wiles
+Custer [11]
+18:45.32	9	61
+88	
+John Titus Isakson
+Hill City [7]
+18:45.91	9	62
+89	
+Lucas Hartman
+Lennox [10]
+18:47.74	9	63
+90	
+Beckham Berry
+Milbank [9]
+18:49.47	9	64
+91	
+Kyper Hilger
+West Central [10]
+18:52.02	10	65
+92	
+Avery Wells
+North Central [10]
+18:52.33	10	66
+93	
+John David Carpenter
+St. Thomas More [9]
+18:52.47	10	 
+94	
+Carson Vanden Berge
+Platte-Geddes [11]
+18:53.93	10	 
+95	
+Logan Vetch
+Mobridge-Pollock [12]
+18:54.99	10	 
+96	
+Taylor Merkel
+Clark/Willow Lake [12]
+18:56.15	10	67
+97	
+Damian Severson
+Clark/Willow Lake [10]
+18:59.02	10	68
+98	
+Frankie Orr
+Vermillion [11]
+19:04.89	10	69
+99	
+Grant Van Peursem
+Milbank [12]
+19:06.63	10	70
+100	
+Chase Hurd
+Miller [8]
+19:08.95	10	71
+101	
+Spencer Sargent
+Stanley County [11]
+19:14.66	11	 
+102	
+Oden Walding
+Belle Fourche [10]
+19:19.11	11	72
+103	
+Payton Moore
+Redfield [10]
+19:20.35	11	 
+104	
+Reymin YellowEarrings
+McLaughlin [12]
+19:23.83	11	73
+105	
+Tate VanLaecken
+Tea Area [9]
+19:29.38	11	74
+106	
+Aaron Ingerson
+North Central [8]
+19:31.42	11	75
+107	
+Alex Langner
+Baltic [12]
+19:35.20	11	 
+108	
+Jackson Taken Alive
+McLaughlin [9]
+19:37.52	11	76
+109	
+Jayven Maag
+Waubay/Summit [11]
+19:44.77	11	 
+110	
+Alex Kayser
+Tea Area [12]
+19:46.52	11	77
+111	
+Jason Arbach
+North Central [7]
+19:47.95	12	78
+112	
+Jeffery Boschee
+Sanborn Cent/Woo [12]
+19:58.59	12	 
+113	
+Caleb Ronne
+Deuel [11]
+20:09.10	12	79
+114	
+Dominic Kluckman
+Deuel [9]
+20:13.02	12	80
+115	
+Jack Krell
+Vermillion [11]
+20:19.78	12	81
+116	
+Daniel Gums
+Deuel [12]
+20:19.92	12	82
+117	
+Amsden Piotter
+Tri-State [11]
+20:27.13	12	 
+118	
+Logan Seefeldt
+Clark/Willow Lake [10]
+20:35.64	12	83
+119	
+Oliver Reitz
+Clark/Willow Lake [10]
+20:37.81	12	84
+120	
+Jaymin VanDerWerff
+Miller [9]
+20:51.42	12	85
+121	
+Gavin Mattson
+Deuel [8]
+20:53.46	13	86
+122	
+Justin St. John
+Crow Creek [9]
+21:06.11	13	 
+123	
+Boston Miller
+McLaughlin [10]
+21:28.04	13	87
+124	
+Waylan Olson
+Clark/Willow Lake [11]
+22:03.80	13	88
+125	
+Estevan Mentz
+McLaughlin [12]
+32:19.92	13	89

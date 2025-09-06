@@ -1,0 +1,399 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Owen Janiszeski
+Luverne [11]
+15:54.30	1	1
+2	
+Joe Cross
+Dakota Valley [12]
+16:10.30	1	2
+3	
+Jack Brown
+Dakota Valley [11]
+16:20.90	1	3
+4	
+Levi Vander Leest
+SF Christian [9]
+16:30.73	1	4
+5	
+Alex Oberloh
+SF Christian [12]
+16:32.47	1	5
+6	
+Ryan Fick
+Luverne [12]
+16:46.50	1	6
+7	
+Benjamin Strunk
+West Central [12]
+16:51.48	1	7
+8	
+Tavin Schroeder
+Freeman Acad [12]
+16:54.07	1	8
+9	
+Jonathon Roth
+West Central [11]
+16:55.79	1	9
+10	
+Henry Anderson
+Vermillion [12]
+16:59.44	1	10
+11	
+Jackson Prins
+SF Christian [11]
+17:08.31	2	11
+12	
+Isaac Koole
+SF Christian [10]
+17:18.95	2	12
+13	
+Noah Sayler
+Lennox [11]
+17:23.03	2	13
+14	
+Cade Sherard
+Lennox [11]
+17:24.72	2	14
+15	
+Gage Beverly
+Vermillion [8]
+17:28.88	2	15
+16	
+Reid Hammerquist
+Tea Area [9]
+17:29.24	2	16
+17	
+Grant Koehnen
+Martin County West [12]
+17:31.19	2	17
+18	
+Sage Viessman
+Luverne [11]
+17:31.34	2	18
+19	
+Finley McConniel
+Freeman Acad [11]
+17:33.37	2	19
+20	
+Jacob Chasing Hawk
+Vermillion [12]
+17:39.04	2	20
+21	
+Levi Davelaar
+SF Christian [11]
+17:39.11	3	21
+22	
+Evan Bartelt
+Ethan/Parkston [12]
+17:50.48	3	22
+23	
+Hunter Morse
+Vermillion [10]
+17:52.96	3	23
+24	
+Michael Green
+Dakota Valley [11]
+18:01.79	3	24
+25	
+Jack Campbell
+Tea Area [10]
+18:08.41	3	25
+26	
+Chett Jibben
+Lennox [11]
+18:09.81	3	26
+27	
+Jamison Gould
+Dakota Valley [8]
+18:10.96	3	27
+28	
+Marcus Papik
+Luverne [9]
+18:11.72	3	28
+29	
+Holden Jelen
+Tea Area [12]
+18:14.01	3	29
+30	
+Cloy McVey
+Lennox [10]
+18:18.31	3	30
+31	
+Josh Fletcher
+SF Christian [11]
+18:19.14	4	31
+32	
+Kaden Christian
+Canistota [9]
+18:25.01	4	 
+33	
+Bennett Wassenaar
+SF Christian [11]
+18:35.78	4	 
+34	
+Leif Ingebretsen
+Luverne [11]
+18:36.56	4	32
+35	
+Brayden Karkalik
+Dakota Valley [12]
+18:46.55	4	33
+36	
+Dylan Ommen
+Luverne [11]
+18:51.26	4	34
+37	
+Braydan Mangel
+Freeman [8]
+18:53.82	4	 
+38	
+Alex Langner
+Baltic [12]
+18:54.30	4	35
+39	
+Maverick Horst
+Lennox [11]
+19:03.49	4	36
+40	
+Mason Marx
+Elk Point-Jefferson [10]
+19:08.22	4	 
+41	
+Zach Terrio
+Luverne [12]
+19:08.42	5	 
+42	
+Geoff Nelson
+Dakota Valley [9]
+19:11.70	5	37
+43	
+Jonah Klemisch
+Tea Area [9]
+19:17.94	5	38
+44	
+Peyton Sieber
+Tea Area [12]
+19:26.05	5	39
+45	
+Erick Buechler
+Menno [10]
+19:41.37	5	 
+46	
+Kaleb Hemme
+Luverne [11]
+19:42.05	5	 
+47	
+Cale Cooper
+Bon Homme [9]
+19:44.64	5	 
+48	
+Lincoln Kippes
+Parker [12]
+19:45.16	5	40
+49	
+Lucas Hartman
+Lennox [10]
+19:46.44	5	41
+50	
+Tate VanLaecken
+Tea Area [9]
+19:48.39	5	42
+51	
+Espyn Klungseth
+Beresford [11]
+19:48.73	6	 
+52	
+Lane McCune
+Freeman [8]
+19:49.00	6	 
+53	
+Will Pirak
+Gayville-Volin [11]
+19:51.06	6	 
+54	
+Kyle Gronewold
+Baltic [10]
+19:53.50	6	43
+55	
+Eli Gullickson
+Dell Rapids [8]
+19:53.91	6	 
+56	
+Benjamin Gerlach
+Ethan/Parkston [10]
+19:56.41	6	44
+57	
+Colten Wright
+Dakota Valley [12]
+20:00.65	6	 
+58	
+Carlos Rodriguez
+Martin County West [12]
+20:03.97	6	45
+59	
+Brock Kotalik
+Bon Homme [12]
+20:06.05	6	 
+60	
+Jace Heumiller
+McCook Centr [12]
+20:07.75	6	 
+61	
+Hunter Dean
+Ethan/Parkston [11]
+20:09.43	7	46
+62	
+Hayden Schmidt
+Freeman Acad [11]
+20:11.73	7	47
+63	
+Parker Menning
+West Central [11]
+20:16.50	7	48
+64	
+Frankie Orr
+Vermillion [11]
+20:21.76	7	49
+65	
+Cedric Horst
+Canton [9]
+20:23.27	7	50
+66	
+Zach Bartels
+Canton [11]
+20:30.06	7	51
+67	
+Gage Hohn
+Ethan/Parkston [12]
+20:34.69	7	52
+68	
+Noah Wood
+Lennox [10]
+20:38.04	7	 
+69	
+Wyatt Brown
+Centerville [11]
+20:38.75	7	 
+70	
+Kevin Martinez
+Parker [12]
+20:39.82	7	53
+71	
+Alex Kayser
+Tea Area [12]
+20:40.93	8	 
+72	
+Luke Knight
+West Central [11]
+20:45.48	8	54
+73	
+Jeremy Bockelman
+Canton [7]
+20:46.21	8	55
+74	
+Jack Wilde
+Baltic [11]
+20:49.67	8	56
+75	
+Scott Ridley
+Beresford [12]
+20:49.98	8	 
+76	
+Jase Brouwer
+Centerville [11]
+20:50.76	8	 
+77	
+Jonas Sattler
+Parker [10]
+20:52.79	8	57
+78	
+Dean Harkness
+Elk Point-Jefferson [12]
+20:56.72	8	 
+79	
+Novis Hoyes Luna
+Parker [11]
+20:57.73	8	58
+80	
+Jayden Digmann
+Ethan/Parkston [10]
+21:04.79	8	59
+81	
+Shae Fiala
+Baltic [12]
+21:07.44	9	60
+82	
+Colten Preheim
+Parker [10]
+21:08.42	9	61
+83	
+Caleb Zephier
+Wagner [12]
+21:19.43	9	 
+84	
+Austin Clercx
+Elk Point-Jefferson [10]
+21:26.83	9	 
+85	
+Brady Aasheim
+Beresford [12]
+21:33.37	9	 
+86	
+Camden Surdez
+Canton [9]
+21:33.89	9	62
+87	
+Jayson Allison
+Freeman Acad [10]
+21:34.70	9	63
+88	
+Philip Dibley
+Gayville-Volin [9]
+21:50.81	9	 
+89	
+Jackson Rolston
+Wagner [11]
+21:58.27	9	 
+90	
+Izaak Koenig
+Burke [12]
+22:09.75	9	 
+91	
+Paul Kaffar
+McCook Centr [12]
+22:42.44	10	 
+92	
+Aiden Kranz
+Canton [10]
+23:18.32	10	64
+93	
+Isaac Marohl
+Centerville [11]
+23:30.23	10	 
+94	
+Hayden O'Connor
+Martin County West [10]
+24:09.87	10	65
+95	
+David Taylor
+Martin County West [11]
+24:28.90	10	66
+96	
+Cody Heinz
+McCook Centr [12]
+25:02.23	10	 
+97	
+Evander Walker
+Bon Homme [11]
+25:14.97	10	 
+98	
+Izzac Sommervold
+Alcester-Hudson [9]
+25:44.13	10	 
+99	
+Ezekiel Koenig
+Burke [9]
+26:11.99	10	 

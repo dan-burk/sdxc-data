@@ -1,0 +1,191 @@
+ 	
+ATHLETE
+FINALS	HEAT
+1	
+Lane Krautschun
+Belle Fourche [12]
+16:45.74	1
+2	
+Peyton Cast
+Douglas [12]
+17:13.27	1
+3	
+Wyatt Balliew
+Douglas [9]
+17:13.51	1
+4	
+Thomas Oylear
+Powder River Co [12]
+17:25.19	1
+5	
+Sean Shipp
+Custer [11]
+17:45.54	1
+6	
+Lennon Clarkson
+Belle Fourche [9]
+17:58.50	1
+7	
+Drew Lehman
+Custer [12]
+18:10.57	1
+8	
+Sam Cunningham
+Newcastle [10]
+18:22.59	1
+9	
+Eli Heacock
+Powder River Co [12]
+18:31.56	1
+10	
+Kian Rusch
+Custer [10]
+18:41.05	1
+11	
+Justus Funk
+Belle Fourche [12]
+18:51.24	2
+12	
+Gavin Chiaroni
+Douglas [9]
+18:54.38	2
+13	
+Austin Drew
+Custer [9]
+19:01.33	2
+14	
+Aiden Voyles
+Belle Fourche [12]
+19:19.05	2
+15	
+Clint Winkler
+Newell [11]
+19:23.42	2
+16	
+Harley Rivera
+Belle Fourche [12]
+19:24.81	2
+17	
+John David Carpenter
+St. Thomas More [9]
+19:26.36	2
+18	
+David Lewis
+Custer [9]
+19:31.78	2
+19	
+Dalton Marshall
+Custer [9]
+19:43.48	2
+20	
+Gage Anderson
+Lemmon [11]
+19:46.12	2
+21	
+Peyton Kallstrom
+Douglas [9]
+19:51.06	3
+22	
+Deklan Gill
+Sundance [12]
+19:55.55	3
+23	
+Kale Fenner
+Sturgis Brown [10]
+20:28.08	3
+24	
+Angel Villegas
+Sundance [11]
+20:32.64	3
+25	
+Archer Ohnstad
+Newcastle [10]
+20:34.11	3
+26	
+Bennie Olsen
+Douglas [9]
+20:49.91	3
+27	
+Cash Daigle
+Sturgis Brown [11]
+20:50.74	3
+28	
+Sean Oylear
+Powder River Co [10]
+21:02.87	3
+29	
+Cooper Zimmer
+Powder River Co [12]
+21:05.78	3
+30	
+Jaxon Bilbrey
+Powder River Co [12]
+21:06.90	3
+31	
+Samuel Biberdorf
+Douglas [11]
+21:16.24	4
+32	
+Logan Olson
+Newcastle [11]
+21:20.71	4
+33	
+Holden Ayer
+Sundance [11]
+21:31.06	4
+34	
+Trigg Odenbach
+Lemmon [8]
+21:33.37	4
+35	
+Ben Carter
+Newcastle [11]
+21:35.01	4
+36	
+Oden Walding
+Belle Fourche [10]
+21:57.16	4
+37	
+Lyle Roberts
+Hot Springs [9]
+22:19.46	4
+38	
+Kyten Johnson
+Sundance [11]
+22:21.15	4
+39	
+Johnny Bossingham
+Hot Springs [11]
+22:34.54	4
+40	
+Caleb Hoover
+Newcastle [11]
+22:38.21	4
+41	
+Brooks Foss
+Lemmon [10]
+22:41.63	5
+42	
+Wyatt Flahaven
+Sundance [11]
+22:48.46	5
+43	
+David Kirby
+Newell [11]
+22:58.29	5
+44	
+Donny Forster
+Lemmon [9]
+23:07.08	5
+45	
+Jager Mclaughlin
+Sundance [11]
+23:27.72	5
+46	
+Martin Lane
+Hot Springs [12]
+23:30.47	5
+47	
+Jonas Runge
+Lead-Deadwood [11]
+24:49.55	5

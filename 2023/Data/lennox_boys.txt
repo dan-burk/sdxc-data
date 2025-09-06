@@ -1,0 +1,359 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Joe Cross
+Dakota Valley [12]
+15:41.88	1	1
+2	
+Levi Vander Leest
+SF Christian [9]
+16:06.21	1	2
+3	
+Jack Brown
+Dakota Valley [11]
+16:19.30	1	3
+4	
+Benjamin Strunk
+West Central [12]
+16:26.13	1	4
+5	
+Josh Fletcher
+SF Christian [11]
+16:42.32	1	5
+6	
+Payton Brown
+Milbank [12]
+16:48.78	1	6
+7	
+Jonathon Roth
+West Central [11]
+16:50.56	1	7
+8	
+James Batchelor
+Milbank [12]
+16:52.50	1	8
+9	
+Henry Anderson
+Vermillion [12]
+16:53.95	1	9
+10	
+Alex Oberloh
+SF Christian [12]
+16:56.65	1	10
+11	
+Jack Campbell
+Tea Area [10]
+17:00.68	2	11
+12	
+Gage Beverly
+Vermillion [8]
+17:10.38	2	12
+13	
+Maverick Horst
+Lennox [11]
+17:14.28	2	13
+14	
+Hunter Morse
+Vermillion [10]
+17:16.62	2	14
+15	
+Reid Hammerquist
+Tea Area [9]
+17:19.82	2	15
+16	
+Bennett Wassenaar
+SF Christian [11]
+17:22.82	2	16
+17	
+Wesley Lyon
+SF Christian [8]
+17:25.20	2	17
+18	
+Jamison Gould
+Dakota Valley [8]
+17:31.12	2	18
+19	
+Jacob Chasing Hawk
+Vermillion [12]
+17:37.50	2	19
+20	
+Simon Roelofs
+SF Christian [10]
+17:39.12	2	20
+21	
+Bryan Meyer
+Milbank [11]
+17:45.87	3	21
+22	
+Michael Green
+Dakota Valley [11]
+17:47.78	3	22
+23	
+Evan Bartelt
+Ethan/Parkston [12]
+17:49.13	3	23
+24	
+Isaac Graham
+Milbank [12]
+17:50.08	3	24
+25	
+Cloy McVey
+Lennox [10]
+17:50.27	3	25
+26	
+Cade Sherard
+Lennox [11]
+17:53.84	3	26
+27	
+Peyton Tetzlaff
+West Central [9]
+18:02.24	3	27
+28	
+Jonah Klemisch
+Tea Area [9]
+18:03.73	3	28
+29	
+Hunter Penn
+Beresford [10]
+18:03.93	3	29
+30	
+Holden Jelen
+Tea Area [12]
+18:05.22	3	30
+31	
+Noah Sayler
+Lennox [11]
+18:07.90	4	31
+32	
+Isaac Koole
+SF Christian [10]
+18:10.73	4	 
+33	
+Levi Davelaar
+SF Christian [11]
+18:13.93	4	 
+34	
+Jacob Peterson
+West Central [11]
+18:17.85	4	32
+35	
+David Brock
+Ethan/Parkston [12]
+18:21.90	4	33
+36	
+Peyton Sieber
+Tea Area [12]
+18:27.21	4	34
+37	
+Geoff Nelson
+Dakota Valley [9]
+18:27.56	4	35
+38	
+Cole Brown
+Dakota Valley [8]
+18:27.98	4	36
+39	
+Espyn Klungseth
+Beresford [11]
+18:37.59	4	37
+40	
+Chett Jibben
+Lennox [11]
+18:39.38	4	38
+41	
+Liam Heller
+Milbank [9]
+18:47.67	5	39
+42	
+Gage Hohn
+Ethan/Parkston [12]
+18:52.29	5	40
+43	
+Brayden Karkalik
+Dakota Valley [12]
+18:54.67	5	 
+44	
+Kyper Hilger
+West Central [10]
+18:58.01	5	41
+45	
+Brock Koth
+Beresford [9]
+18:58.79	5	42
+46	
+Mason Marx
+Elk Point-Jefferson [10]
+19:04.77	5	43
+47	
+Tate VanLaecken
+Tea Area [9]
+19:05.21	5	44
+48	
+Oliver Merriman
+Beresford [8]
+19:11.58	5	45
+49	
+Beckham Berry
+Milbank [9]
+19:15.48	5	46
+50	
+Kade Hruby
+West Central [11]
+19:20.19	5	47
+51	
+Austin Clercx
+Elk Point-Jefferson [10]
+19:20.32	6	48
+52	
+Lucas Hartman
+Lennox [10]
+19:24.76	6	49
+53	
+Eli Gullickson
+Dell Rapids [8]
+19:29.83	6	 
+54	
+Sam Byers
+Chamberlain [11]
+19:31.14	6	 
+55	
+Benjamin Gerlach
+Ethan/Parkston [10]
+19:31.99	6	50
+56	
+Jacob DeYoung
+Tea Area [10]
+19:34.91	6	 
+57	
+Frankie Orr
+Vermillion [11]
+19:35.11	6	51
+58	
+Mark Deckert
+Ethan/Parkston [9]
+19:37.63	6	52
+59	
+Elijah Johnson
+Lennox [10]
+19:39.59	6	 
+60	
+Noah Wood
+Lennox [10]
+19:40.05	6	 
+61	
+Cedric Horst
+Canton [9]
+19:53.41	7	53
+62	
+Jeremy Bockelman
+Canton [7]
+20:03.25	7	54
+63	
+Teagin Gacke
+Tri-Valley [11]
+20:05.19	7	 
+64	
+Colten Wright
+Dakota Valley [12]
+20:08.55	7	 
+65	
+Grant Van Peursem
+Milbank [12]
+20:09.58	7	 
+66	
+Kasen Voss
+Beresford [10]
+20:16.86	7	55
+67	
+Henry Huether
+Beresford [8]
+20:19.87	7	56
+68	
+Dean Harkness
+Elk Point-Jefferson [12]
+20:20.90	7	57
+69	
+Camden Surdez
+Canton [9]
+20:25.00	7	58
+70	
+Zach Bartels
+Canton [11]
+20:28.38	7	59
+71	
+Cael Derochie
+Elk Point-Jefferson [8]
+20:29.56	8	60
+72	
+Alex Heinemann
+Dell Rapids [9]
+20:37.12	8	 
+73	
+Scott Ridley
+Beresford [12]
+20:38.84	8	 
+74	
+Jack Krell
+Vermillion [11]
+20:41.14	8	61
+75	
+Brady Aasheim
+Beresford [12]
+20:58.70	8	 
+76	
+William Hanzlik
+Chamberlain [11]
+20:59.90	8	 
+77	
+Micah Decker
+Canton [12]
+21:00.64	8	62
+78	
+Jayden Digmann
+Ethan/Parkston [10]
+21:13.34	8	63
+79	
+Aadyn Hosek
+Chamberlain [11]
+21:15.56	8	 
+80	
+Alex Kayser
+Tea Area [12]
+21:27.93	8	 
+81	
+David Ordyna
+Vermillion [11]
+22:00.91	9	 
+82	
+Alex Opland
+Canton [9]
+22:08.80	9	64
+83	
+Wilson Jordre
+Vermillion [10]
+22:12.50	9	 
+84	
+Aiden Jansen
+Elk Point-Jefferson [12]
+22:15.14	9	65
+85	
+Rhett Thoreson
+Dell Rapids [8]
+22:15.20	9	 
+86	
+Cael Fulton
+Vermillion [11]
+23:15.94	9	 
+87	
+Isaiah Love
+Elk Point-Jefferson [12]
+23:34.78	9	66
+88	
+Vincent Even
+Tri-Valley [8]
+23:42.05	9	 
+89	
+Jacob Fischer
+Vermillion [10]
+24:51.82	9	 

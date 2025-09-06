@@ -1,0 +1,103 @@
+ 	
+ATHLETE
+FINALS	HEAT
+1	
+Devaughn Between Lodges
+Crazy Horse [11]
+21:18.51	1
+2	
+Jace Allen
+Todd County [12]
+21:25.09	1
+3	
+Keegan Richards
+Todd County [12]
+22:01.77	1
+4	
+Aidan Craven
+Wall [9]
+22:12.02	1
+5	
+Layf Skatberg
+Todd County [7]
+22:19.62	1
+6	
+Kanye Hollow Horn
+Pine Ridge [12]
+22:28.02	1
+7	
+Renny Ecoffey
+Pine Ridge [8]
+23:04.18	1
+8	
+Wica Enos
+New Underwood [11]
+23:13.46	1
+9	
+Ethan Enos
+New Underwood
+23:24.26	1
+10	
+Donnie Ghost Dog
+Crazy Horse [10]
+23:32.33	1
+11	
+Wyatt Huber
+Bennett County [11]
+23:47.43	2
+12	
+Roger III Roether
+Todd County [10]
+23:49.10	2
+13	
+Teton Janis
+Little Wound [11]
+24:08.19	2
+14	
+Michael Prue
+Todd County [7]
+24:23.64	2
+15	
+Kaydo Hornbeck
+Crazy Horse [10]
+24:32.14	2
+16	
+Quincy Mousseaux
+St. Francis Indian [11]
+25:01.22	2
+17	
+Chase Johnson
+Kadoka Area [9]
+25:20.19	2
+18	
+River Solon
+Kadoka Area [10]
+25:23.77	2
+19	
+Brendan Buckman
+Pine Ridge [8]
+25:58.49	2
+20	
+Tatanka Catches
+Little Wound [12]
+26:19.54	2
+21	
+Zac Varner
+Kadoka Area [10]
+26:29.99	3
+22	
+Kinyan Catches Enemy
+Little Wound [11]
+27:19.64	3
+23	
+Benjamin Amundson
+Wall [12]
+27:27.90	3
+24	
+Lance Black Horn
+Lakota Tech
+28:13.19	3
+25	
+Wakiyan Shakespeare
+Lakota Tech [10]
+31:27.34	3

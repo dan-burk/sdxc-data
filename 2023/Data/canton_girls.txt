@@ -1,0 +1,199 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Sophia Redler
+Dakota Valley [11]
+19:35.69	1	1
+2	
+Jaycie Babb
+Tea Area [10]
+19:46.76	1	2
+3	
+Alex McCullough
+Dakota Valley [8]
+20:09.89	1	3
+4	
+Callie Radigan
+Vermillion [10]
+20:13.37	1	4
+5	
+Ella Pollreisz
+Ethan/Parkston [11]
+20:16.00	1	5
+6	
+Taeli Barta
+Vermillion [12]
+20:30.43	1	6
+7	
+Aubrey Borns
+West Central [10]
+20:30.56	1	7
+8	
+Grace Bialas
+Tea Area [8]
+20:30.78	1	8
+9	
+Lydia Anderson
+Vermillion [10]
+20:33.69	1	9
+10	
+Kelsey Schmidt
+Lennox [11]
+20:40.30	1	10
+11	
+Adie McVey
+Lennox [7]
+21:01.53	2	11
+12	
+Ella Otten
+Dakota Valley [8]
+21:09.69	2	12
+13	
+Olivia Formisano
+Vermillion [10]
+21:14.72	2	13
+14	
+Lucy Rozeboom
+West Central [8]
+21:22.54	2	14
+15	
+Maelee Krempges
+West Central [9]
+21:24.50	2	15
+16	
+Ella Merriman
+Beresford [10]
+21:26.43	2	 
+17	
+Jayla York
+Canton [9]
+21:28.48	2	16
+18	
+Finley Evjen
+Canton [7]
+21:35.31	2	17
+19	
+Sadie Mueller
+Ethan/Parkston [9]
+21:53.53	2	18
+20	
+Sarah Johnson
+West Central [8]
+22:01.89	2	19
+21	
+Ava Sletten
+Canton [8]
+22:09.24	3	20
+22	
+Drew Caffrey
+West Central [12]
+22:11.92	3	21
+23	
+Abby Hilleson
+Tea Area [8]
+22:25.10	3	22
+24	
+Karlie Bosma
+Lennox [9]
+22:25.39	3	23
+25	
+Hadley Larsen
+West Central [12]
+22:29.05	3	24
+26	
+Josephine Plucker
+Lennox [10]
+22:54.58	3	25
+27	
+Sara Schroder
+Canton [12]
+23:00.48	3	26
+28	
+Regan Van Meeteren
+Lennox [8]
+23:02.13	3	27
+29	
+Brooklyn Reiners
+Tea Area [10]
+23:03.65	3	28
+30	
+Eliza Oltmanns
+Hanson [12]
+23:03.81	3	 
+31	
+Lexi Schoenfelder
+Ethan/Parkston [10]
+23:03.88	4	29
+32	
+Eleanora Anderson
+Vermillion [7]
+23:06.30	4	30
+33	
+Haley Korver
+Tea Area [12]
+23:06.87	4	31
+34	
+Reese Marek
+Hanson [12]
+23:07.73	4	 
+35	
+Mia Riibe
+Dakota Valley [10]
+23:09.08	4	32
+36	
+Jewel Gannon
+Canton [10]
+23:17.37	4	33
+37	
+Rachel Hersom
+Dakota Valley [9]
+23:23.75	4	34
+38	
+Presley Slaba
+Wagner [11]
+23:26.94	4	 
+39	
+Alyssa Moschell
+Hanson [12]
+23:56.92	4	 
+40	
+Jaycie Rush
+Dakota Valley [8]
+23:59.98	4	35
+41	
+Meredith Decker
+Tea Area [10]
+24:06.23	5	36
+42	
+Elyssa Bartelt
+Ethan/Parkston [12]
+24:23.81	5	37
+43	
+Maren Formisano
+Vermillion [7]
+24:28.34	5	38
+44	
+Elizabeth Schoenfelder
+Ethan/Parkston [9]
+25:30.65	5	39
+45	
+Scarlett Taylor
+Tea Area [12]
+25:31.20	5	 
+46	
+Kylie Mockler
+Beresford [11]
+26:46.58	5	 
+47	
+Lydia Yost
+Wagner [11]
+26:53.90	5	 
+48	
+Alexis Wall
+Elk Point-Jefferson [9]
+26:54.08	5	 
+49	
+Hedy Perez-Paulin
+Vermillion [12]
+28:18.72	5	 

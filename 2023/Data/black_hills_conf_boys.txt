@@ -1,0 +1,195 @@
+ 	
+ATHLETE
+FINALS	HEAT
+1	
+Luke Rupert
+Hill City [12]
+15:34.64	1
+2	
+Peyton Cast
+Douglas [12]
+15:50.82	1
+3	
+Lane Krautschun
+Belle Fourche [12]
+16:00.96	1
+4	
+Tate Grabow
+Hill City [10]
+16:02.36	1
+5	
+Ty Petrocco
+Sturgis Brown [11]
+16:06.93	1
+6	
+Quinn Bruch
+Sturgis Brown [10]
+16:14.47	1
+7	
+Leighton Aves
+Hill City [12]
+16:16.39	1
+8	
+Sean Shipp
+Custer [11]
+16:21.97	1
+9	
+Wyatt Balliew
+Douglas [9]
+16:34.16	1
+10	
+Brandon Escalante
+Hill City [11]
+16:40.55	1
+11	
+Morgan Papenfuss
+Sturgis Brown [12]
+16:52.19	2
+12	
+Drew Lehman
+Custer [12]
+16:55.54	2
+13	
+Casey Nauta
+Spearfish [11]
+16:58.16	2
+14	
+Justus Funk
+Belle Fourche [12]
+17:12.53	2
+15	
+Taylor Colunga
+Sturgis Brown [10]
+17:18.22	2
+16	
+Austin Drew
+Custer [9]
+17:19.32	2
+17	
+Thomas Anglin
+Spearfish [11]
+17:34.28	2
+18	
+Kian Rusch
+Custer [10]
+17:39.02	2
+19	
+Lennon Clarkson
+Belle Fourche [9]
+17:43.35	2
+20	
+Harley Rivera
+Belle Fourche [12]
+17:51.91	2
+21	
+Aiden Voyles
+Belle Fourche [12]
+17:55.57	3
+22	
+Gavin Chiaroni
+Douglas [9]
+17:56.06	3
+23	
+David Lewis
+Custer [9]
+18:03.38	3
+24	
+Peyton Kallstrom
+Douglas [9]
+18:07.04	3
+25	
+Layke Roberdeau
+Spearfish [11]
+18:09.46	3
+26	
+Dalton Marshall
+Custer [9]
+18:10.31	3
+27	
+Ty Ferguson
+Sturgis Brown [11]
+18:23.12	3
+28	
+Jovan Weigel
+Spearfish [9]
+18:25.75	3
+29	
+John David Carpenter
+St. Thomas More [9]
+18:32.08	3
+30	
+Preston Davis
+Spearfish [12]
+18:40.79	3
+31	
+Bennie Olsen
+Douglas [9]
+18:47.82	4
+32	
+Quentin Miller
+Douglas [9]
+18:59.45	4
+33	
+Kale Fenner
+Sturgis Brown [10]
+19:05.36	4
+34	
+Oden Walding
+Belle Fourche [10]
+19:07.16	4
+35	
+Jack Faulkner
+Spearfish [11]
+19:14.97	4
+36	
+Aiden Williams
+Hill City [10]
+19:25.09	4
+37	
+Hudson Selfridge
+RC Christian [11]
+19:34.67	4
+38	
+Kyler Hemstock
+RC Christian [12]
+19:51.57	4
+39	
+Lyle Roberts
+Hot Springs [9]
+20:09.44	4
+40	
+Ezias Nelson
+Lead-Deadwood [11]
+20:20.89	4
+41	
+Wesley Delaney
+RC Christian [11]
+21:02.19	5
+42	
+Johnny Bossingham
+Hot Springs [11]
+21:09.67	5
+43	
+Canton Gingrass
+Hot Springs [10]
+21:10.29	5
+44	
+Taylen DeBoer
+Hot Springs [9]
+21:32.95	5
+45	
+Martin Lane
+Hot Springs [12]
+21:42.42	5
+46	
+Keian Ladd
+RC Christian [12]
+21:47.19	5
+47	
+Dewayne Mesteth
+RC Christian [9]
+22:38.03	5
+48	
+Jonas Runge
+Lead-Deadwood [11]
+23:13.87	5

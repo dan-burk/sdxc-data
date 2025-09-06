@@ -1,0 +1,211 @@
+ 	
+Athlete
+Finals	Heat
+1	
+Lane Krautschun
+Belle Fourche [12]
+17:08.53	1
+2	
+Ty Petrocco
+Sturgis Brown [11]
+17:26.16	1
+3	
+Quinn Bruch
+Sturgis Brown [10]
+17:47.38	1
+4	
+Sam Cunningham
+Newcastle [10]
+17:52.12	1
+5	
+Drew Lehman
+Custer [12]
+17:54.85	1
+6	
+Morgan Papenfuss
+Sturgis Brown [12]
+17:56.16	1
+7	
+Sean Shipp
+Custer [11]
+18:11.25	1
+8	
+Kian Rusch
+Custer [10]
+18:23.60	1
+9	
+Aiden Voyles
+Belle Fourche [12]
+18:40.68	1
+10	
+Austin Drew
+Custer [9]
+19:00.50	1
+11	
+Harley Rivera
+Belle Fourche [12]
+19:03.22	2
+12	
+Justus Funk
+Belle Fourche [12]
+19:06.22	2
+13	
+David Lewis
+Custer [9]
+19:07.07	2
+14	
+Kale Fenner
+Sturgis Brown [10]
+19:11.63	2
+15	
+Dalton Marshall
+Custer [9]
+19:29.03	2
+16	
+Tristan Swezey
+Rapid City Central [11]
+19:30.55	2
+17	
+John David Carpenter
+St. Thomas More [9]
+19:51.52	2
+18	
+Sean Hare
+Rapid City Central [11]
+19:53.69	2
+19	
+Caden Pourier
+Red Cloud [11]
+19:54.02	2
+20	
+Cash Daigle
+Sturgis Brown [11]
+19:59.71	2
+21	
+Linkin Hurias
+Sturgis Brown [9]
+20:00.94	3
+22	
+Archer Ohnstad
+Newcastle [10]
+20:14.30	3
+23	
+Hudson Selfridge
+RC Christian [11]
+20:21.34	3
+24	
+Ethan O'Connor
+Custer [11]
+20:43.18	3
+25	
+Keaton Darrow
+Edgemont [11]
+20:57.83	3
+26	
+Jayse Noem
+Custer [9]
+21:08.43	3
+27	
+James Palecek
+Rapid City Central [10]
+21:10.63	3
+28	
+Logan Olson
+Newcastle [11]
+21:13.36	3
+29	
+Darian Anderson
+Rapid City Central [10]
+21:17.85	3
+30	
+Kody Marshall
+Custer [12]
+21:19.01	3
+31	
+Quinn Aschwege
+Rapid City Central [9]
+21:21.68	4
+32	
+Kyler Hemstock
+RC Christian [12]
+21:35.14	4
+33	
+Charles Torres
+Rapid City Central [10]
+21:42.02	4
+34	
+Ben Carter
+Newcastle [11]
+22:01.46	4
+35	
+Miles Kornegay
+Sturgis Brown [9]
+22:14.50	4
+36	
+Daniel Vifquain
+Rapid City Central [10]
+22:19.42	4
+37	
+Teton Janis
+Little Wound [11]
+22:27.46	4
+38	
+Wica Enos
+New Underwood [11]
+22:36.05	4
+39	
+Wesley Delaney
+RC Christian [11]
+22:49.37	4
+40	
+Josiah Osborne
+Rapid City Central [9]
+22:58.20	4
+41	
+Keian Ladd
+RC Christian [12]
+23:31.04	5
+42	
+James Culver
+New Underwood [11]
+23:38.11	5
+43	
+Ethan Enos
+New Underwood
+23:41.03	5
+44	
+Will Schmidt
+RC Christian [10]
+23:59.86	5
+45	
+Tyrone Janis
+Lakota Tech [11]
+24:21.66	5
+46	
+John Heisler
+Edgemont [12]
+24:30.05	5
+47	
+Renny Ecoffey
+Pine Ridge [8]
+24:35.17	5
+48	
+Brendan Buckman
+Pine Ridge [8]
+24:48.20	5
+49	
+Markus Aschwanden
+Edgemont [11]
+24:51.46	5
+50	
+Jonas Runge
+Lead-Deadwood [11]
+24:58.88	5
+51	
+Tokaya Big Crow
+Pine Ridge [9]
+26:42.86	6
+52	
+J.J. Ostenson
+Edgemont [12]
+29:22.08	6

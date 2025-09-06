@@ -1,0 +1,103 @@
+ 	
+Athlete
+Finals	Heat	Points
+1	
+Karly Riley
+Lemmon [11]
+20:55.90	1	1
+2	
+BreAna Aske
+Jones County [8]
+21:30.94	1	2
+3	
+Brynn Odenbach
+Lemmon [9]
+21:55.98	1	3
+4	
+Chel Odenbach
+Lemmon [10]
+21:56.04	1	4
+5	
+Natalie Dreiske
+Lemmon [8]
+22:00.26	1	5
+6	
+Claire Verhulst
+Harding County [12]
+22:06.75	1	 
+7	
+Rachel Erk
+Newell [12]
+22:09.80	1	6
+8	
+Briley Gebhart
+Lemmon [8]
+22:55.81	1	7
+9	
+Taylee Dartt
+Wall [11]
+23:01.23	1	8
+10	
+Aubrey Tucker
+Jones County [7]
+23:15.99	1	9
+11	
+Madilyn Wulf
+New Underwood [11]
+23:23.51	2	 
+12	
+Addison Kierl
+Jones County [12]
+23:39.55	2	10
+13	
+Eirelyn Bender
+Newell [11]
+23:40.21	2	11
+14	
+Esther Burkhalter
+Bison [10]
+23:40.58	2	 
+15	
+Jael Burkhalter
+Bison [8]
+24:06.28	2	 
+16	
+Evelyn Torberson
+Black Hills Chri [12]
+24:16.16	2	 
+17	
+Bethany Mahaffy
+Newell [9]
+24:48.09	2	12
+18	
+Sophie Dowling
+Jones County [12]
+25:10.32	2	13
+19	
+Aubrie Norman
+Jones County [8]
+25:37.01	2	14
+20	
+Callie Casjens
+Wall [8]
+26:06.77	2	15
+21	
+Terryn Shearer
+Wall [12]
+26:14.30	3	16
+22	
+Natalie Yates
+Newell [9]
+27:04.04	3	17
+23	
+Elizabeth Ackerman
+Black Hills Chri [12]
+27:46.45	3	 
+24	
+Jackie Heisler
+Edgemont [12]
+28:01.89	3	 
+25	
+Joy Taylor
+Kadoka Area [9]
+29:20.17	3	 

@@ -1,0 +1,43 @@
+ 	
+Athlete
+Finals	Points
+1	
+BreAna Aske
+Jones County [8]
+20:22.39	1
+2	
+Shelly Larvie
+Todd County [7]
+20:46.78	2
+3	
+Adrienne White Lance
+St. Francis Indian [7]
+21:13.97	 
+4	
+Madilyn Wulf
+New Underwood [11]
+22:00.92	 
+5	
+Addison Kierl
+Jones County [12]
+22:25.76	3
+6	
+Elizabeth Moore
+Todd County [10]
+22:33.86	4
+7	
+Alexsis Red Bird
+Todd County [7]
+22:57.61	5
+8	
+Sophie Dowling
+Jones County [12]
+24:16.07	6
+9	
+Cadance Amiotte
+Todd County [11]
+24:30.51	7
+10	
+Maleyah Krogman
+St. Francis Indian [8]
+26:29.42	 

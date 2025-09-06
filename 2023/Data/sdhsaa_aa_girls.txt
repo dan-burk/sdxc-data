@@ -1,0 +1,515 @@
+ 	
+Athlete
+Finals	Heat	Points
+1	
+Libby Castelli
+O'Gorman [11]
+17:31.91	1	1
+2	
+Peyton VanDeest
+Spearfish [9]
+18:01.26	1	2
+3	
+Mia Wentzy
+Brandon Valley [12]
+18:12.46	1	3
+4	
+Hannah Genrich
+Harrisburg [7]
+18:21.68	1	4
+5	
+Gracie Uhre
+Rapid City Stevens [12]
+18:45.00	1	5
+6	
+Sarah VanDeBerg
+Brandon Valley [11]
+18:49.76	1	6
+7	
+Kadance Holso
+Rapid City Stevens [10]
+18:53.83	1	7
+8	
+Grace McElroy
+Watertown [7]
+18:54.21	1	8
+9	
+Kori Keil
+Spearfish [10]
+18:54.94	1	9
+10	
+Leni Olson
+Sioux Falls Lincoln [12]
+18:56.43	1	10
+11	
+Lilian Rude
+Brandon Valley [10]
+18:58.24	2	11
+12	
+Addison Scholten
+Brandon Valley [10]
+18:59.23	2	12
+13	
+Autumn Gilhooly
+Harrisburg [7]
+19:00.88	2	13
+14	
+Ruth Pardy
+O'Gorman [12]
+19:07.07	2	14
+15	
+Bria Miller
+Harrisburg [9]
+19:11.02	2	15
+16	
+Aurora Evans
+Douglas [7]
+19:11.85	2	16
+17	
+Addison Reilly
+Harrisburg [8]
+19:21.18	2	17
+18	
+Kira Ubence
+Douglas [10]
+19:22.26	2	18
+19	
+Jayne Lees
+Pierre T.F. Riggs [9]
+19:22.79	2	19
+20	
+Ellie Anders
+Brandon Valley [7]
+19:32.23	2	20
+21	
+Emma Tidemann
+Brandon Valley [7]
+19:32.49	3	21
+22	
+Brinna Sheldon
+Rapid City Stevens [9]
+19:34.68	3	22
+23	
+Madie Donovan
+Spearfish [11]
+19:36.01	3	23
+24	
+Addalai DeKam
+Sioux Falls Lincoln [12]
+19:36.20	3	24
+25	
+Juna Ramey
+Aberdeen Central [10]
+19:38.24	3	25
+26	
+Sierra Sandford
+Spearfish [9]
+19:39.96	3	26
+27	
+Rilyn Jackson
+Yankton [8]
+19:50.98	3	27
+28	
+Shelby Bergan
+Brandon Valley [9]
+19:52.76	3	28
+29	
+Iris Zylstra
+Sturgis Brown [10]
+19:53.07	3	29
+30	
+Maria Eisenbraun
+Spearfish [12]
+19:54.71	3	30
+31	
+Kate McElroy
+Watertown [9]
+19:55.30	4	31
+32	
+Laney Castelluzzo
+O'Gorman [10]
+19:58.38	4	32
+33	
+Mason Berg
+Pierre T.F. Riggs [11]
+20:05.27	4	33
+34	
+Emilie Reedy
+Sturgis Brown [9]
+20:07.57	4	34
+35	
+Morgan VanVeen
+Aberdeen Central [9]
+20:08.24	4	35
+36	
+Lily O'Connor
+O'Gorman [10]
+20:08.82	4	36
+37	
+Madeline Carcamo
+Rapid City Stevens [9]
+20:10.92	4	37
+38	
+Audrey Weiss
+Sioux Falls Lincoln [12]
+20:11.34	4	38
+39	
+Emmeline Murray
+Sioux Falls Lincoln [9]
+20:13.96	4	39
+40	
+Amelia Morgan
+Rapid City Stevens [12]
+20:14.68	4	40
+41	
+Keelin Dinkins
+Sturgis Brown [9]
+20:16.37	5	41
+42	
+Bella Dittmer
+SF Roosevelt [9]
+20:16.47	5	42
+43	
+Brooklyn Koll
+SF Roosevelt [11]
+20:18.72	5	43
+44	
+Sheridan Madden
+Rapid City Central [9]
+20:22.76	5	44
+45	
+Ruby Bearden
+Sioux Falls Lincoln [11]
+20:24.37	5	45
+46	
+Harper Shaffer
+Pierre T.F. Riggs [8]
+20:26.15	5	46
+47	
+Marissa Bouwman
+SF Washington [9]
+20:28.18	5	47
+48	
+Auna Taglioli
+Spearfish [9]
+20:28.37	5	48
+49	
+Lucy Hamer
+Sturgis Brown [10]
+20:30.10	5	49
+50	
+Abby Johanneson
+Yankton [8]
+20:32.35	5	50
+51	
+Addie Smetana
+Brookings [12]
+20:32.75	6	51
+52	
+Delaney Youmans
+Yankton [8]
+20:37.03	6	52
+53	
+Olivia Anderson
+Watertown [8]
+20:37.27	6	53
+54	
+Shae Rumsey
+Yankton [12]
+20:37.33	6	54
+55	
+Ella Bartz
+Sioux Falls Lincoln [10]
+20:39.35	6	55
+56	
+Londyn Schroeder
+Mitchell [9]
+20:43.83	6	56
+57	
+Gracen Giegling
+Harrisburg [9]
+20:47.23	6	57
+58	
+Ruby Bouwman
+Sioux Falls Lincoln [10]
+20:48.84	6	58
+59	
+Jenny Bevers
+Watertown [7]
+20:50.27	6	59
+60	
+Cecilia Christian
+O'Gorman [11]
+20:52.69	6	60
+61	
+Lia Tiangco
+O'Gorman [8]
+20:56.60	7	61
+62	
+Ansley Buus
+SF Washington [9]
+21:01.08	7	62
+63	
+Kalla Foerster
+Brookings [8]
+21:01.27	7	63
+64	
+Hailey Romans
+Rapid City Central [11]
+21:02.83	7	64
+65	
+Jazzlyn Rombough
+Pierre T.F. Riggs [12]
+21:06.76	7	65
+66	
+Kelty Silbernagel
+Rapid City Central [11]
+21:06.93	7	66
+67	
+Paige Willnerd
+Sturgis Brown [11]
+21:09.24	7	67
+68	
+Gwen Richter
+Pierre T.F. Riggs [10]
+21:09.57	7	68
+69	
+Viona Sietsema
+Rapid City Stevens [9]
+21:12.26	7	69
+70	
+Ashlynn Wellman
+Rapid City Stevens [10]
+21:12.35	7	70
+71	
+Abi Kroetch
+Sturgis Brown [9]
+21:14.63	8	71
+72	
+TyLee Tetrault
+Spearfish [8]
+21:14.85	8	72
+73	
+Claire McCallum
+Harrisburg [9]
+21:16.91	8	73
+74	
+Alyssa Novstrup
+Aberdeen Central [7]
+21:18.39	8	74
+75	
+Khloe Cochran
+Aberdeen Central [9]
+21:18.73	8	75
+76	
+Josie Vlieger
+Huron [10]
+21:27.90	8	76
+77	
+Charlee Williams-Smith
+Pierre T.F. Riggs [10]
+21:29.21	8	77
+78	
+Emma Anderson
+SF Roosevelt [12]
+21:29.36	8	78
+79	
+Ellery Stark
+Watertown [12]
+21:29.53	8	79
+80	
+Jenna Gilhooly
+Harrisburg [11]
+21:30.44	8	80
+81	
+Hadley Temple
+Rapid City Central [9]
+21:35.89	9	81
+82	
+Izzy Fischer
+Rapid City Central [9]
+21:37.84	9	82
+83	
+Charlee Bierle
+Sturgis Brown [8]
+21:41.62	9	83
+84	
+Lily Meyer
+Huron [9]
+21:47.62	9	84
+85	
+Gabby DeVries
+SF Washington [9]
+21:49.66	9	85
+86	
+Bella Kippes
+O'Gorman [12]
+21:50.46	9	86
+87	
+Tatum Peterson
+Huron [12]
+21:52.15	9	87
+88	
+Siri Knutson
+SF Washington [9]
+21:53.04	9	88
+89	
+Quinn Ulvestad
+Brookings [9]
+21:55.42	9	89
+90	
+Jasmine Jennewein
+SF Jefferson [12]
+21:56.00	9	90
+91	
+Chloe Hansen
+SF Jefferson [12]
+21:59.68	10	91
+92	
+Alivia Burgard
+Aberdeen Central [12]
+21:59.96	10	92
+93	
+Alexis Ketterling
+Aberdeen Central [12]
+22:00.27	10	93
+94	
+Millie Patterson
+Rapid City Central [9]
+22:01.78	10	94
+95	
+Stella Larson
+SF Roosevelt [12]
+22:04.63	10	95
+96	
+Erin Harms
+Douglas [10]
+22:16.54	10	96
+97	
+Mary Rounds
+Yankton [8]
+22:21.12	10	97
+98	
+Grace List
+Watertown [9]
+22:26.20	10	98
+99	
+Sophia Schmit
+Brookings [10]
+22:32.10	10	99
+100	
+Josie Nold
+Brookings [11]
+22:33.07	10	100
+101	
+Ellie Mergen
+SF Jefferson [12]
+22:36.60	11	101
+102	
+Macey Wigg
+SF Jefferson [10]
+22:38.32	11	102
+103	
+Nora Pester
+Huron [9]
+22:38.85	11	103
+104	
+Sofia Kovalenko
+SF Roosevelt [11]
+22:43.25	11	104
+105	
+Yom Kuol
+SF Washington [12]
+22:43.82	11	105
+106	
+Emily Stahlberg
+SF Washington [11]
+22:45.04	11	106
+107	
+Lainey Loeffler
+Douglas [11]
+22:45.31	11	107
+108	
+Naomi Rock
+SF Washington [12]
+22:45.55	11	108
+109	
+Aspen Evers
+Mitchell [10]
+22:48.94	11	109
+110	
+Lily Knopp
+Rapid City Central [12]
+22:52.47	11	110
+111	
+Allison Brenner
+Aberdeen Central [9]
+22:53.85	12	111
+112	
+Kaelyn LeFors
+Douglas [9]
+22:59.12	12	112
+113	
+Ava Johanneson
+Yankton [11]
+23:08.14	12	113
+114	
+Alexis Daley
+Mitchell [10]
+23:26.41	12	114
+115	
+Lizzy Dahl
+SF Roosevelt [11]
+23:29.64	12	115
+116	
+Maisie Mogard
+Brookings [8]
+23:34.82	12	116
+117	
+Sophia Petheram
+Yankton [11]
+23:39.24	12	117
+118	
+Isabella Horning
+Watertown [11]
+23:39.76	12	118
+119	
+Madeline Vogel
+Mitchell [12]
+23:45.26	12	119
+120	
+Kaylie Kuehl
+Brookings [9]
+23:47.50	12	120
+121	
+Brianna McCrae
+Douglas [10]
+24:07.21	13	121
+122	
+Lilly Moon
+SF Jefferson [12]
+24:15.11	13	122
+123	
+Reva McGaugh
+Huron [8]
+24:17.26	13	123
+124	
+Kinsley Armstrong
+Huron [8]
+24:29.95	13	124
+125	
+Kylie Gosch
+SF Roosevelt [10]
+24:42.64	13	125
+126	
+Danny Borja
+Mitchell [10]
+24:46.96	13	126
+127	
+Kelly Clauson
+Douglas [11]
+25:54.88	13	127
+128	
+Kayeleigh Bowden
+Huron [12]
+26:37.99	13	128

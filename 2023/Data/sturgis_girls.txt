@@ -1,0 +1,295 @@
+ 	
+Athlete
+Finals	Heat
+1	
+Ally Wheeler
+Natrona County [11]
+18:38.51	1
+2	
+Kayley Alicke
+Sheridan [11]
+19:42.02	1
+3	
+Ashley Gross
+Natrona County [11]
+20:00.97	1
+4	
+Brit Wheeler
+Custer [12]
+20:06.80	1
+5	
+Mallory Jones
+Thunder Basin [12]
+20:21.79	1
+6	
+Aurora Evans
+Douglas [7]
+20:23.31	1
+7	
+Alyssa Fehlauer
+Sheridan [11]
+20:30.55	1
+8	
+Alexa Miller
+Sheridan [11]
+20:36.08	1
+9	
+Iris Zylstra
+Sturgis Brown [10]
+20:49.97	1
+10	
+Lexi Longhurst
+Kelly Walsh [9]
+20:50.40	1
+11	
+Megan Doherty
+Thunder Basin [12]
+20:54.59	2
+12	
+Nichole Clark
+Natrona County [11]
+20:56.03	2
+13	
+Madison Melinkovich
+Campbell County [12]
+21:01.80	2
+14	
+Maya Rodriguez
+Kelly Walsh [11]
+21:05.45	2
+15	
+Bethany Strand
+Kelly Walsh [12]
+21:09.16	2
+16	
+Mary Hughes
+Sheridan [11]
+21:10.49	2
+17	
+Lia Mundt
+Belle Fourche [7]
+21:14.48	2
+18	
+Lucy Hamer
+Sturgis Brown [10]
+21:16.92	2
+19	
+Hadley Eckland
+Sheridan [9]
+21:17.17	2
+20	
+Keelin Dinkins
+Sturgis Brown [9]
+21:17.85	2
+21	
+Madie Donovan
+Spearfish [11]
+21:22.95	3
+22	
+Emilie Reedy
+Sturgis Brown [9]
+21:27.61	3
+23	
+Hallie Person
+Lead-Deadwood [11]
+21:31.01	3
+24	
+Kendra Jensen
+Campbell County [11]
+21:34.10	3
+25	
+Misty Drieling
+Belle Fourche [9]
+21:39.85	3
+26	
+Reese Ostrander
+Natrona County [11]
+21:48.29	3
+27	
+Ava Allen
+Belle Fourche [12]
+21:52.83	3
+28	
+Ava Titus
+Kelly Walsh [10]
+21:57.49	3
+29	
+Greysen Cawiezell
+Kelly Walsh [9]
+22:03.48	3
+30	
+Ella Schirber
+St. Thomas More [8]
+22:06.80	3
+31	
+Ellie Palmer
+St. Thomas More [8]
+22:09.28	4
+32	
+Jayden Haugen
+Campbell County [11]
+22:09.59	4
+33	
+Rhys Pearson
+Belle Fourche [8]
+22:10.02	4
+34	
+Fallon Dinkins
+Sturgis Brown [7]
+22:15.33	4
+35	
+Monica Moran
+St. Thomas More [7]
+22:16.29	4
+36	
+Sierra Swanson
+Custer [12]
+22:20.15	4
+37	
+Paige Willnerd
+Sturgis Brown [11]
+22:30.81	4
+38	
+Brynn Kirol
+Sheridan [11]
+22:31.41	4
+39	
+Brynn McCarthy
+Natrona County [9]
+22:33.96	4
+40	
+Marykate Lacko
+Natrona County [10]
+22:39.70	4
+41	
+Allison Bullard
+Kelly Walsh [12]
+22:43.52	5
+42	
+Keira Alfson
+Custer [10]
+22:44.57	5
+43	
+Hailey Woodward
+Custer [10]
+22:47.81	5
+44	
+Livie Martin-Davis
+Sheridan [10]
+22:49.29	5
+45	
+Jenna Peterson
+Kelly Walsh [9]
+22:50.94	5
+46	
+carlee Roth
+Thunder Basin [9]
+22:54.95	5
+47	
+Abi Kroetch
+Sturgis Brown [9]
+22:56.16	5
+48	
+Sammy Marshall
+Campbell County [11]
+23:03.52	5
+49	
+Averi Dewine
+Campbell County [12]
+23:12.21	5
+50	
+Payton Worthington
+Campbell County [Fr]
+23:12.99	5
+51	
+Adelynn Matthews
+Thunder Basin [11]
+23:22.18	6
+52	
+Leila Pfeil
+Thunder Basin [9]
+23:41.04	6
+53	
+Mattea Marshall
+Custer [9]
+23:44.05	6
+54	
+Rylee Hudson
+Thunder Basin [12]
+23:45.48	6
+55	
+Brooklyn Reimers
+Sheridan [9]
+23:46.80	6
+56	
+Kelsey Stiefel
+Custer [9]
+23:56.70	6
+57	
+Faith Clem
+Campbell County [12]
+24:06.69	6
+58	
+Claire Hannah
+Lead-Deadwood [11]
+24:08.75	6
+59	
+Kaelyn LeFors
+Douglas [9]
+24:11.87	6
+60	
+Makenzi Ham
+Custer [8]
+24:13.52	6
+61	
+Jade Schulte
+Natrona County [9]
+24:14.98	7
+62	
+Lexi Wilkins
+Custer [8]
+24:54.23	7
+63	
+Lily Joslyn
+Thunder Basin [9]
+25:09.53	7
+64	
+Allison Hayes
+Belle Fourche [12]
+25:14.30	7
+65	
+Hannah Pawleski
+St. Thomas More [8]
+25:22.09	7
+66	
+Lainey Loeffler
+Douglas [11]
+25:23.54	7
+67	
+Josie Reedy
+Sturgis Brown [11]
+25:32.06	7
+68	
+Nevada McMahon
+Lead-Deadwood [10]
+25:37.13	7
+69	
+Ella Schleiffarth
+St. Thomas More [8]
+26:08.56	7
+70	
+Brianna McCrae
+Douglas [10]
+26:57.84	7
+71	
+Kelly Clauson
+Douglas [11]
+27:49.71	8
+72	
+Madelynn Schlup
+Spearfish [11]
+28:31.92	8
+73	
+Jackie Heisler
+Edgemont [12]
+28:51.25	8

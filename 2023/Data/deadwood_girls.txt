@@ -1,0 +1,171 @@
+  	
+Athlete
+Finals	Heat	Points
+1	
+Iris Zylstra
+Sturgis Brown [10]
+16:14.57	1	1
+2	
+Rarity Cournoyer
+Red Cloud [9]
+16:20.67	1	 
+3	
+Lucy Hamer
+Sturgis Brown [10]
+17:05.87	1	2
+4	
+Kira Ubence
+Douglas [10]
+17:22.26	1	3
+5	
+Emilie Reedy
+Sturgis Brown [9]
+17:30.64	1	4
+6	
+Paige Willnerd
+Sturgis Brown [11]
+17:41.53	1	5
+7	
+Hallie Person
+Lead-Deadwood [11]
+17:44.86	1	 
+8	
+Ashlan Blount
+Red Cloud [10]
+18:02.44	1	 
+9	
+Keelin Dinkins
+Sturgis Brown [9]
+18:04.28	1	6
+10	
+Claire Hannah
+Lead-Deadwood [11]
+18:22.35	1	 
+11	
+Fallon Dinkins
+Sturgis Brown [7]
+18:26.15	2	7
+12	
+Misty Drieling
+Belle Fourche [9]
+18:26.33	2	8
+13	
+Lia Mundt
+Belle Fourche [7]
+18:26.39	2	9
+14	
+Shaine Weishaar
+Belle Fourche [12]
+18:28.34	2	10
+15	
+Rhys Pearson
+Belle Fourche [8]
+18:30.74	2	11
+16	
+Ava Allen
+Belle Fourche [12]
+18:38.88	2	12
+17	
+Abi Kroetch
+Sturgis Brown [9]
+18:43.89	2	 
+18	
+Charlee Bierle
+Sturgis Brown [8]
+19:03.72	2	 
+19	
+Rachel Erk
+Newell [12]
+19:08.27	2	13
+20	
+Erin Harms
+Douglas [10]
+19:38.63	2	14
+21	
+Madilyn Wulf
+New Underwood [11]
+19:39.72	3	 
+22	
+Evelyn Torberson
+Black Hills [12]
+19:41.36	3	 
+23	
+Allison Hayes
+Belle Fourche [12]
+19:42.33	3	15
+24	
+Eirelyn Bender
+Newell [11]
+20:03.37	3	16
+25	
+Lainey Loeffler
+Douglas [11]
+20:04.38	3	17
+26	
+Kaelyn LeFors
+Douglas [9]
+20:22.81	3	18
+27	
+Bethany Mahaffy
+Newell [9]
+20:52.44	3	19
+28	
+Josie Reedy
+Sturgis Brown [11]
+20:56.92	3	 
+29	
+Natalie Yates
+Newell [9]
+21:01.56	3	20
+30	
+Brianna McCrae
+Douglas [10]
+21:03.32	3	21
+31	
+Claire Verhulst
+Harding County [12]
+21:03.53	4	 
+32	
+Jayda Reinert
+Wall [12]
+21:07.20	4	 
+33	
+Rosa Ainslie
+Bennett County [9]
+21:14.66	4	 
+34	
+Nevada McMahon
+Lead-Deadwood [10]
+21:16.32	4	 
+35	
+Isabel Rios
+Douglas [9]
+22:02.61	4	22
+36	
+Kelly Clauson
+Douglas [11]
+22:06.55	4	 
+37	
+Taylee Dartt
+Wall [11]
+22:10.26	4	 
+38	
+Emilee Collins
+Douglas [10]
+22:55.25	4	 
+39	
+Callie Casjens
+Wall [8]
+24:30.28	4	 
+40	
+Emma Johnson
+Harding County [12]
+24:33.89	4	 
+41	
+Jackie Heisler
+Edgemont [12]
+24:35.84	5	 
+42	
+Elizabeth Ackerman
+Black Hills [12]
+24:38.27	5	 

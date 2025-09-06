@@ -1,0 +1,147 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Wakely Burns
+Philip [12]
+16:47.06	1	1
+2	
+Trey Larson
+Philip [11]
+17:02.81	1	2
+3	
+Asher Peterson
+Philip [12]
+17:10.43	1	3
+4	
+Baylor Burns
+Philip [10]
+17:31.85	1	4
+5	
+Jack Peterson
+Philip [10]
+17:54.13	1	5
+6	
+Tukker Boe
+Philip [12]
+18:04.41	1	 
+7	
+David McKinley
+Philip [10]
+18:20.91	1	 
+8	
+Creston Burns
+Philip [10]
+18:26.96	1	 
+9	
+Hayden Bentley
+Lemmon [12]
+18:30.19	1	6
+10	
+Gage Anderson
+Lemmon [11]
+18:33.62	1	7
+11	
+Chevy Konst
+Philip [10]
+19:07.87	2	 
+12	
+Mason Ryan
+Lyman [11]
+19:34.63	2	 
+13	
+Aidan Craven
+Wall [9]
+19:38.03	2	 
+14	
+Elijah Haukaas
+White River [8]
+19:38.89	2	8
+15	
+Trigg Odenbach
+Lemmon [8]
+19:59.36	2	9
+16	
+Damien Clown
+Cheyenne-Eag [10]
+20:23.72	2	 
+17	
+Ethan Enos
+New Underwood
+20:43.28	2	10
+18	
+Donny Forster
+Lemmon [9]
+20:49.24	2	11
+19	
+Kingston DeSersa
+White River [9]
+20:55.86	2	12
+20	
+Evan Krogman
+White River [10]
+21:05.04	2	13
+21	
+Wica Enos
+New Underwood [11]
+21:08.58	3	14
+22	
+Hudson Taylor
+Kadoka Area [11]
+21:28.17	3	15
+23	
+James Culver
+New Underwood [11]
+21:40.87	3	16
+24	
+River Solon
+Kadoka Area [10]
+21:50.21	3	17
+25	
+Brooks Foss
+Lemmon [10]
+21:58.08	3	18
+26	
+Aiden Grassrope
+Lyman [10]
+22:32.10	3	 
+27	
+Sutton Peterson
+Lemmon [7]
+22:36.64	3	 
+28	
+Wyatt Huber
+Bennett County [11]
+22:39.38	3	 
+29	
+Tyree Black Bear
+White River [10]
+24:01.50	3	19
+30	
+Jaxon Krogman
+White River [8]
+24:03.04	3	20
+31	
+Xander Jones
+New Underwood [12]
+24:38.02	4	21
+32	
+Muzyk Grey Eagle
+Tiospaye Topa [7]
+24:39.73	4	 
+33	
+Chase Johnson
+Kadoka Area [9]
+24:55.21	4	22
+34	
+Richard Smith
+Tiospaye Topa [7]
+25:13.88	4	 
+35	
+Benjamin Amundson
+Wall [12]
+26:21.34	4	 
+36	
+Connor Hakola
+New Underwood [6]
+27:36.18	4	23

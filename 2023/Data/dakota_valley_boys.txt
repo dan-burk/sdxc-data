@@ -1,0 +1,179 @@
+ 	
+ATHLETE
+FINALS	HEAT	POINTS
+1	
+Jack Brown
+Dakota Valley
+17:43.08	1	1
+2	
+Joe Cross
+Dakota Valley
+17:45.00	1	2
+3	
+Reid Hammerquist
+Tea Area
+18:56.59	1	3
+4	
+Michael Green
+Dakota Valley
+19:08.02	1	4
+5	
+Maciah Shultz
+Sioux City East
+19:31.51	1	5
+6	
+Jamison Gould
+Dakota Valley
+19:51.79	1	6
+7	
+Kris Zellner
+Sioux City East
+19:58.82	1	7
+8	
+Mason Marx
+Elk Point-Jefferson
+20:08.61	1	 
+9	
+Brayden Karkalik
+Dakota Valley
+20:11.18	1	8
+10	
+Luke Campbell
+Sioux City East
+20:13.51	1	9
+11	
+Asher Morley
+Sioux City East
+20:14.90	2	10
+12	
+Geoff Nelson
+Dakota Valley
+20:15.83	2	11
+13	
+Holden Jelen
+Tea Area
+20:16.71	2	12
+14	
+Sam Derulo
+Siouxland Christian
+20:42.59	2	 
+15	
+Tate VanLaecken
+Tea Area
+20:43.95	2	13
+16	
+Colten Wright
+Dakota Valley
+20:59.98	2	 
+17	
+Jonah Klemisch
+Tea Area
+21:24.61	2	14
+18	
+Zach Bartels
+Canton
+21:34.10	2	15
+19	
+Caden Koepke
+Sioux City East
+21:35.75	2	16
+20	
+Dylan Chwirka
+Sioux City East
+21:35.80	2	17
+21	
+Austin Clercx
+Elk Point-Jefferson
+21:36.58	3	 
+22	
+Peyton Sieber
+Tea Area
+21:47.61	3	18
+23	
+Cedric Horst
+Canton
+21:58.33	3	19
+24	
+Zach Adams
+Lawton-Bronson
+22:15.41	3	20
+25	
+Alex Kayser
+Tea Area
+22:27.63	3	21
+26	
+Dean Harkness
+Elk Point-Jefferson
+22:29.51	3	 
+27	
+Ethan Buffington
+Lawton-Bronson
+22:32.05	3	22
+28	
+Hunter Buono
+Lawton-Bronson
+22:59.76	3	23
+29	
+Micah Decker
+Canton
+23:09.20	3	24
+30	
+Alex Opland
+Canton
+23:10.06	3	25
+31	
+Jeremy Bockelman
+Canton
+23:10.36	4	26
+32	
+Camden Surdez
+Canton
+23:14.89	4	27
+33	
+Lucas Patelski
+Lawton-Bronson
+23:14.92	4	28
+34	
+Ryker Callendar
+SC West
+23:36.65	4	29
+35	
+Henry Fischer
+SC West
+23:37.39	4	30
+36	
+Rigoberto Ramos
+Sioux City East
+24:09.94	4	 
+37	
+Erik Koehler
+Siouxland Christian
+24:30.24	4	 
+38	
+Robby Doenhoefer
+Lawton-Bronson
+25:25.18	4	31
+39	
+Connor McKewon
+SC West
+25:30.73	4	32
+40	
+Brody Schoenherr
+Lawton-Bronson
+26:09.83	4	33
+41	
+Gabe Enszer
+SC West
+26:15.58	5	34
+42	
+Jojo Small
+SC West
+26:54.54	5	35
+43	
+Joseph Wilson
+SC West
+30:18.86	5	36
+44	
+Izzac Sommervold
+Alcester-Hudson
+30:31.49	5	 

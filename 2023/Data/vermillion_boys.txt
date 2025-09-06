@@ -1,0 +1,159 @@
+ 	
+Athlete
+Finals	Heat	Points
+1	
+Joe Cross
+Dakota Valley
+16:37.97	1	1
+2	
+Benjamin Strunk
+West Central
+16:47.62	1	2
+3	
+Jack Brown
+Dakota Valley
+16:58.93	1	3
+4	
+Jonathon Roth
+West Central
+17:17.76	1	4
+5	
+Henry Anderson
+Vermillion
+17:29.68	1	5
+6	
+Gage Beverly
+Vermillion
+17:35.83	1	6
+7	
+Michael Green
+Dakota Valley
+17:38.53	1	7
+8	
+Hunter Morse
+Vermillion
+18:11.54	1	8
+9	
+Peyton Tetzlaff
+West Central
+18:24.06	1	9
+10	
+Jamison Gould
+Dakota Valley
+18:43.18	1	10
+11	
+Jacob Chasing Hawk
+Vermillion
+19:12.99	2	11
+12	
+Geoff Nelson
+Dakota Valley
+19:14.69	2	12
+13	
+Mason Marx
+Elk Point-Jefferson
+19:16.91	2	13
+14	
+Brock Koth
+Beresford
+19:18.71	2	14
+15	
+Kyper Hilger
+West Central
+19:18.77	2	15
+16	
+Kade Hruby
+West Central
+19:44.78	2	16
+17	
+Hunter Penn
+Beresford
+19:48.03	2	17
+18	
+Brayden Karkalik
+Dakota Valley
+19:50.99	2	18
+19	
+Cedric Horst
+Canton
+19:56.89	2	19
+20	
+Teagin Gacke
+Tri-Valley
+20:12.09	2	 
+21	
+Oliver Merriman
+Beresford
+20:23.34	3	20
+22	
+Dean Harkness
+Elk Point-Jefferson
+20:24.17	3	21
+23	
+Jeremy Bockelman
+Canton
+20:28.85	3	22
+24	
+Zach Bartels
+Canton
+20:35.37	3	23
+25	
+Camden Surdez
+Canton
+20:36.88	3	24
+26	
+Frankie Orr
+Vermillion
+20:36.91	3	25
+27	
+Kasen Voss
+Beresford
+21:01.16	3	26
+28	
+Henry Huether
+Beresford
+21:35.75	3	27
+29	
+Espyn Klungseth
+Beresford
+21:41.49	3	28
+30	
+Scott Ridley
+Beresford
+21:47.09	3	 
+31	
+Micah Decker
+Canton
+21:48.80	4	29
+32	
+Beckett Fennel
+Elk Point-Jefferson
+21:57.15	4	30
+33	
+Ben Prouty
+Elk Point-Jefferson
+22:25.96	4	31
+34	
+Brady Aasheim
+Beresford
+22:36.24	4	 
+35	
+Jack Krell
+Vermillion
+22:36.92	4	32
+36	
+Alex Opland
+Canton
+22:53.90	4	33
+37	
+Cael Derochie
+Elk Point-Jefferson
+23:11.09	4	34
+38	
+Jayse Vande Vegte
+Elk Point-Jefferson
+23:26.68	4	35
+39	
+Vincent Even
+Tri-Valley
+23:32.94	4	 

@@ -1,0 +1,455 @@
+ 	
+Athlete
+Finals	Heat	Points
+1	
+Emery Larson
+Chester [10]
+18:21.47	1	1
+2	
+Ella Boekelheide
+Northwestern [10]
+18:57.05	1	2
+3	
+Dannika Kaup
+Potter County [10]
+19:20.09	1	3
+4	
+Kaelyn Ulschmid
+Arlington [10]
+19:23.10	1	4
+5	
+Kennadee Wagner
+Warner [9]
+19:30.30	1	5
+6	
+Autumn Fallis
+Highmore-Harrold [10]
+19:43.71	1	6
+7	
+Hadasah Olson
+James Valley Chr [9]
+20:04.60	1	7
+8	
+Emma Schlachter
+Potter County [10]
+20:11.56	1	8
+9	
+Karly Riley
+Lemmon [11]
+20:20.13	1	9
+10	
+Tara Blachford
+Northwestern [9]
+20:27.80	1	10
+11	
+Jadyn Ahlemeier
+Potter County [10]
+20:38.41	2	11
+12	
+Kylee Johnson
+Deubrook Area [9]
+20:40.58	2	 
+13	
+Emarie Vincent
+Arlington [8]
+20:43.72	2	12
+14	
+Emmerson Eppard
+Chester [10]
+20:44.77	2	13
+15	
+Kenna Wolberg
+Warner [8]
+20:48.89	2	14
+16	
+Elizabeth Vogel
+DR St. Mary [8]
+20:49.71	2	15
+17	
+Claire Verhulst
+Harding County [12]
+20:50.46	2	 
+18	
+Natalie Dreiske
+Lemmon [8]
+20:50.76	2	16
+19	
+Ashton Massey
+Menno [12]
+20:52.04	2	 
+20	
+Asia VanDerWerff
+Gregory [10]
+20:53.21	2	17
+21	
+Kendal Uttecht
+Wolsey-Wessington [10]
+20:54.00	3	 
+22	
+Madisyn Gellhaus
+Ipswich [10]
+20:54.11	3	18
+23	
+Lily Swanson
+James Valley Chr [8]
+20:55.54	3	19
+24	
+Emery Shubeck
+Centerville [8]
+20:57.61	3	20
+25	
+Briley Gebhart
+Lemmon [8]
+21:07.78	3	21
+26	
+BreAna Aske
+Jones County [8]
+21:12.74	3	22
+27	
+Abigail Engel
+Gregory [8]
+21:13.16	3	23
+28	
+Morgan Sumption
+Frederick Area [12]
+21:13.37	3	24
+29	
+Estelle Waltner
+Freeman Acad/Mar [10]
+21:20.58	3	 
+30	
+Reese Hadrick
+Faulkton Area [11]
+21:25.01	3	25
+31	
+Paige Ahlemeier
+Potter County [8]
+21:27.53	4	26
+32	
+Halley Miller
+Arlington [10]
+21:30.00	4	27
+33	
+Chel Odenbach
+Lemmon [10]
+21:30.72	4	28
+34	
+Rhyann Roseland
+Faulkton Area [7]
+21:31.58	4	29
+35	
+Jaycee Stevens
+Potter County [7]
+21:33.41	4	30
+36	
+Katie Allbee
+Herreid/Selby Area [9]
+21:34.01	4	31
+37	
+Gracyn Kadlec
+Ipswich [10]
+21:39.64	4	32
+38	
+Brynnly Huber
+Herreid/Selby Area [7]
+21:40.19	4	33
+39	
+Briella Wettlaufer
+Howard [11]
+21:42.29	4	 
+40	
+Olivia Hadrick
+Faulkton Area [12]
+21:43.90	4	34
+41	
+Rachel Erk
+Newell [12]
+21:43.97	5	35
+42	
+Adalyn Gross
+De Smet [9]
+21:52.59	5	 
+43	
+Sophia Bauld
+Burke [11]
+21:54.57	5	36
+44	
+Rhayonna Hood
+James Valley Chr [12]
+21:59.29	5	37
+45	
+Claire McDonald
+Chester [8]
+21:59.39	5	38
+46	
+Madalyn Madsen
+Arlington [9]
+22:00.57	5	39
+47	
+Cami Wolles
+DR St. Mary [10]
+22:01.31	5	40
+48	
+Jentry Hubner
+Herreid/Selby Area [9]
+22:06.12	5	41
+49	
+Madison Reiff
+DR St. Mary [11]
+22:06.55	5	42
+50	
+Aubrey Tucker
+Jones County [7]
+22:07.63	5	43
+51	
+Lucy Vargas
+DR St. Mary [10]
+22:13.48	6	44
+52	
+Laura Sumption
+Frederick Area [12]
+22:13.85	6	45
+53	
+Nora Robb
+Scotland [11]
+22:15.93	6	46
+54	
+Jillian Ellwein
+Frederick Area [8]
+22:21.04	6	47
+55	
+Taylor Zeisler
+Burke [8]
+22:24.22	6	48
+56	
+Addison Bates
+Chester [12]
+22:24.52	6	49
+57	
+Eilie DeHaan
+Andes Cen/Dak Ch [9]
+22:26.51	6	 
+58	
+Isabella Henderson
+Ipswich [8]
+22:27.65	6	50
+59	
+Brynn Odenbach
+Lemmon [9]
+22:30.35	6	51
+60	
+Tessa Eide
+Centerville [10]
+22:34.99	6	52
+61	
+Lila Chessmore
+Tripp-Delmont/Ar [9]
+22:38.69	7	 
+62	
+Sofia Losure
+Frederick Area [12]
+22:39.70	7	53
+63	
+Hannah DeLine
+Mitchell Christian [10]
+22:41.99	7	 
+64	
+Jacy Wolf
+Chester [9]
+22:42.54	7	54
+65	
+Addison Kierl
+Jones County [12]
+22:43.35	7	55
+66	
+Addisyn Heinrich
+Warner [10]
+22:43.75	7	56
+67	
+Jada Henriksen
+Arlington [12]
+22:44.89	7	57
+68	
+Abby Kolousek
+Wessington Springs [12]
+22:47.38	7	58
+69	
+Alexis Roesler
+Wessington Springs [9]
+22:49.81	7	59
+70	
+Esther Burkhalter
+Bison [10]
+22:51.02	7	 
+71	
+Vivian Kirk
+Centerville [11]
+22:53.08	8	60
+72	
+Isabelle Woodring
+Northwestern [8]
+22:54.15	8	61
+73	
+Jaylynn Knox
+Highmore-Harrold [9]
+22:58.34	8	62
+74	
+Payton Logan
+Gayville-Volin [9]
+22:59.23	8	 
+75	
+Eirelyn Bender
+Newell [11]
+23:04.05	8	63
+76	
+Katie Bretsch
+Frederick Area [9]
+23:07.18	8	64
+77	
+Taylee Dartt
+Wall [11]
+23:10.31	8	 
+78	
+Sophia Troske
+Northwestern [9]
+23:13.14	8	65
+79	
+Emily Grim
+Gregory [10]
+23:14.01	8	66
+80	
+Izzie Eide
+Centerville [8]
+23:14.72	8	67
+81	
+Mariah Peters
+Herreid/Selby Area [7]
+23:17.75	9	68
+82	
+Ella Perman
+Herreid/Selby Area [7]
+23:20.11	9	69
+83	
+Bethany Mahaffy
+Newell [9]
+23:25.45	9	70
+84	
+Kennley Sedlacek
+Gregory [7]
+23:25.75	9	71
+85	
+Paige Deuter
+DR St. Mary [7]
+23:29.71	9	72
+86	
+Kyleigh Miller
+Warner [7]
+23:31.02	9	73
+87	
+Zoe Schaeffer
+Menno [9]
+23:33.23	9	 
+88	
+Avery Zeisler
+Burke [11]
+23:36.60	9	74
+89	
+Olivia Schultz
+Freeman [7]
+23:39.88	9	 
+90	
+Elle Hlavac
+Scotland [7]
+23:40.11	9	75
+91	
+Jael Burkhalter
+Bison [8]
+23:48.62	10	 
+92	
+Evelyn Torberson
+Black Hills Chri [12]
+23:52.34	10	 
+93	
+Madilyn Wulf
+New Underwood [11]
+23:59.86	10	 
+94	
+Anneliese Holsing
+Northwestern [8]
+24:10.28	10	76
+95	
+Amy Henderson
+Mitchell Christian [9]
+24:12.55	10	 
+96	
+Masynn Mebius
+Wessington Springs [10]
+24:29.47	10	77
+97	
+Sieta Wiersema
+Freeman Acad/Mar [11]
+24:33.76	10	 
+98	
+Lyndsey Chessmore
+Tripp-Delmont/Ar [7]
+24:34.06	10	 
+99	
+Britney Rueb
+Scotland [10]
+24:35.83	10	78
+100	
+Gabbie Eichmann
+Canistota [8]
+24:36.98	10	 
+101	
+Sophie Dowling
+Jones County [12]
+24:48.06	11	79
+102	
+Elodie Wood
+Warner [7]
+24:53.99	11	80
+103	
+Anne Brakke
+Lyman [12]
+25:03.08	11	 
+104	
+Callie Casjens
+Wall [8]
+25:15.58	11	 
+105	
+April Fallis
+Highmore-Harrold [12]
+25:19.10	11	81
+106	
+Natalie Yates
+Newell [9]
+25:23.52	11	82
+107	
+Myli Weischedel
+Sully Buttes [10]
+25:46.33	11	 
+108	
+Nika Furney
+Scotland [8]
+26:02.89	11	83
+109	
+Aubrie Norman
+Jones County [8]
+26:13.53	11	84
+110	
+Ella Kolousek
+Wessington Springs [9]
+26:19.99	11	85
+111	
+Grace Vitek
+Scotland [11]
+26:27.28	12	86
+112	
+Bella Duerfeldt
+Burke [10]
+27:18.77	12	87
+113	
+Ellie Talsma
+Gregory [10]
+30:02.39	12	88

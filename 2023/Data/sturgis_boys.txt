@@ -1,0 +1,363 @@
+ 	
+Athlete
+Finals	Heat
+1	
+Landrum Wiley
+Sheridan [12]
+16:21.27	1
+2	
+Ty Petrocco
+Sturgis Brown [11]
+16:30.76	1
+3	
+Micah Colling
+Kelly Walsh [11]
+16:34.06	1
+4	
+Peyton Cast
+Douglas [12]
+16:35.13	1
+5	
+Kalel Brubaker
+Natrona County [11]
+16:39.27	1
+6	
+Quinn Bruch
+Sturgis Brown [10]
+16:44.30	1
+7	
+Lane Krautschun
+Belle Fourche [12]
+16:46.46	1
+8	
+Wyatt Balliew
+Douglas [9]
+16:46.98	1
+9	
+Aadan Luna
+Sheridan [9]
+16:51.19	1
+10	
+Patrick Hardesty
+Thunder Basin [11]
+16:56.71	1
+11	
+Sean Shipp
+Custer [11]
+16:57.81	2
+12	
+Drew Lehman
+Custer [12]
+17:11.89	2
+13	
+Morgan Papenfuss
+Sturgis Brown [12]
+17:22.93	2
+14	
+Jameson Munari
+Natrona County [11]
+17:26.10	2
+15	
+Connor Phipps
+Thunder Basin [11]
+17:27.00	2
+16	
+Ryder Charest
+Sheridan [9]
+17:27.59	2
+17	
+Jonathan Danford
+Natrona County [12]
+17:30.00	2
+18	
+Sam Cunningham
+Newcastle [10]
+17:37.69	2
+19	
+Shaun Gonda
+Sheridan [10]
+17:42.27	2
+20	
+Garrett Peterson
+Kelly Walsh [11]
+17:43.55	2
+21	
+Tage Longhurst
+Kelly Walsh [12]
+17:44.00	3
+22	
+Champ Ranson
+Natrona County [8]
+17:46.62	3
+23	
+Grayson Moore
+Sheridan [9]
+17:46.91	3
+24	
+Garrett Otto
+Sheridan [11]
+17:53.47	3
+25	
+Everett Roberson
+Kelly Walsh [10]
+17:56.16	3
+26	
+Wyatt Veal
+Sheridan [9]
+18:01.04	3
+27	
+Justus Funk
+Belle Fourche [12]
+18:02.47	3
+28	
+Ethan Nichols
+Thunder Basin [11]
+18:03.05	3
+29	
+Gavin Bright
+Natrona County [11]
+18:04.03	3
+30	
+Clayton Dickerson
+Kelly Walsh [11]
+18:04.71	3
+31	
+Jacob Alicke
+Sheridan [11]
+18:07.12	4
+32	
+Taylor Colunga
+Sturgis Brown [10]
+18:11.76	4
+33	
+Cade Webster
+Kelly Walsh [11]
+18:12.65	4
+34	
+Austin Drew
+Custer [9]
+18:15.00	4
+35	
+Ty Ferguson
+Sturgis Brown [11]
+18:15.96	4
+36	
+Jadon Shamion
+Campbell County [9]
+18:23.39	4
+37	
+Drake Schillinger
+Thunder Basin [11]
+18:24.81	4
+38	
+Kian Rusch
+Custer [10]
+18:25.80	4
+39	
+Thomas Walters
+Natrona County [11]
+18:27.39	4
+40	
+Luke Pearson
+Kelly Walsh [12]
+18:27.80	4
+41	
+Tanner Garth
+Campbell County [10]
+18:31.43	5
+42	
+Aiden Voyles
+Belle Fourche [12]
+18:36.92	5
+43	
+David McDivitt
+Natrona County [10]
+18:37.21	5
+44	
+Gavin Chiaroni
+Douglas [9]
+18:43.50	5
+45	
+Dalton Marshall
+Custer [9]
+18:45.84	5
+46	
+David Lewis
+Custer [9]
+18:46.96	5
+47	
+Deacon Cain
+Campbell County [11]
+18:48.98	5
+48	
+Harley Rivera
+Belle Fourche [12]
+18:49.88	5
+49	
+Andrew Gruner
+Natrona County [12]
+18:50.95	5
+50	
+Will Pollick
+Thunder Basin [Fr]
+18:52.28	5
+51	
+Spencer Erickson
+Thunder Basin [11]
+18:53.17	6
+52	
+Kale Fenner
+Sturgis Brown [10]
+18:55.71	6
+53	
+Linkin Hurias
+Sturgis Brown [9]
+18:56.45	6
+54	
+Diego Diaz
+Natrona County [12]
+18:57.11	6
+55	
+Seth Chase
+Thunder Basin [11]
+18:59.13	6
+56	
+Chase Erickson
+Thunder Basin [9]
+19:00.65	6
+57	
+Seldon Little
+Campbell County [9]
+19:08.67	6
+58	
+Cheldain Stephens
+Thunder Basin [10]
+19:13.70	6
+59	
+Nathan Gruner
+Natrona County [9]
+19:14.28	6
+60	
+Luke Melinkovich
+Campbell County [10]
+19:17.07	6
+61	
+Oden Walding
+Belle Fourche [10]
+19:26.68	7
+62	
+Peyton Kallstrom
+Douglas [9]
+19:28.31	7
+63	
+Jovan Weigel
+Spearfish [9]
+19:28.96	7
+64	
+Jared Melinkovich
+Thunder Basin [9]
+19:29.14	7
+65	
+Jack Faulkner
+Spearfish [11]
+19:30.38	7
+66	
+Bennie Olsen
+Douglas [9]
+19:34.69	7
+67	
+Owen Bruner
+Spearfish [11]
+19:56.49	7
+68	
+Kyler Pietzyk
+Spearfish [10]
+19:58.07	7
+69	
+Ethan O'Connor
+Custer [11]
+20:03.06	7
+70	
+Keaton Darrow
+Edgemont [11]
+20:10.67	7
+71	
+Jayse Noem
+Custer [9]
+20:20.68	8
+72	
+Cash Daigle
+Sturgis Brown [11]
+20:34.40	8
+73	
+Quentin Miller
+Douglas [9]
+20:35.09	8
+74	
+Archer Ohnstad
+Newcastle [10]
+20:36.04	8
+75	
+Matthew Israelsen
+Campbell County [11]
+20:39.66	8
+76	
+Ben Carter
+Newcastle [11]
+20:43.66	8
+77	
+Logan Olson
+Newcastle [11]
+20:50.30	8
+78	
+Ben Baloun
+Spearfish [12]
+20:51.20	8
+79	
+Kody Marshall
+Custer [12]
+20:56.62	8
+80	
+Will Scharf
+Spearfish [12]
+21:13.60	8
+81	
+Ezias Nelson
+Lead-Deadwood [11]
+21:23.15	9
+82	
+James Sich
+Campbell County [11]
+21:37.54	9
+83	
+Hugh Roles
+Spearfish [10]
+22:04.93	9
+84	
+Lane Carter
+Newcastle [9]
+22:36.49	9
+85	
+Caleb Hoover
+Newcastle [11]
+23:18.39	9
+86	
+Brevin Koehler
+Spearfish [9]
+23:52.69	9
+87	
+Jonas Runge
+Lead-Deadwood [11]
+24:03.56	9
+88	
+Markus Aschwanden
+Edgemont [11]
+25:32.21	9
+89	
+John Heisler
+Edgemont [12]
+26:32.00	9
+90	
+J.J. Ostenson
+Edgemont [12]
+29:01.76	9
