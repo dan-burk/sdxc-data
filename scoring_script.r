@@ -1,112 +1,23 @@
 
-
-
+# Import Libraries
 library(dplyr)
 library(readxl)
 library(stringr)
 
-run_augie <- TRUE
+run_augie <- TRUE #Set to TRUE to run Augie meet (Takes a while to run)
 points_wager <- 0.05 #Was 0.005
-path = "C:/Users/dburk/OneDrive - South Dakota State University - SDSU/Documents/School/STAT 651/XC Ranking/"
-
-do_scoring <- function(result, df_points, points_wager = 0.05){
-  
-  x <- nrow(result) #Number of individuals
-  n <- 0.5*(x-1)*x #Total number of comparisons.
-  
-  comparisons <- matrix(0, nrow = x * (x - 1) / 2, ncol = 2)
-  counter <- 1
-  
-  for (i in 1:(x - 1)) {
-    for (j in (i + 1):x) {
-      comparisons[counter, ] <- c(i, j)
-      counter <- counter + 1
-    }
-  }
-  
-  result_final <- result
-  for(i in 1:n){
-    t <- comparisons[i,] #Take the ith comparison
-    sub <- result_final[t,] #and subset the results to that comparison
-    result_final <- result_final %>% 
-      mutate(points_post = case_when(
-        Place == t[1] ~ points_post + points_wager*sub$points_post[2], #Add 1%  of the points from the looser to winner
-        Place == t[2] ~ points_post - points_wager*sub$points_post[2], #Take 1%  of the points from the looser and subtract
-        TRUE ~ points_post
-      ))
-    
-  }
-  
-  df_points_new <- result_final %>%
-    select(Name, School, id, points = points_post, time_min)
-  
-  get_new_points <- df_points_new %>% anti_join(df_points, by="id")
-  
-
-  df_points_rev <- df_points %>%
-    left_join(df_points_new, by=c("Name","School","id")) %>% 
-    mutate(points = case_when(!is.na(points.y) ~ points.y, TRUE ~ points.x)) %>%
-    mutate(time_min = case_when(!is.na(time_min.y) ~ time_min.y, TRUE ~ time_min.x)) %>% 
-    select(-points.x,-points.y,-time_min.x,-time_min.y)
-  
-  points_final <- rbind(df_points_rev, get_new_points) %>% 
-    arrange(desc(points))
-  
-  return(points_final)
-}
+year <- 2023
+source("functions.r")
 
 # Import XC Meet Lists
-meet_list <- readxl::read_xlsx(paste0(path, "meet_list_data_ready.xlsx")) %>% 
+meet_list <- readxl::read_xlsx(paste0(year, "/meet_list_data_ready.xlsx")) %>% 
     mutate(date = as.Date(date)) %>% 
     filter(missing == 0)
 
-# Create Initial List of Schools
-if(!file.exists(paste0(path, "Simulation/list_schools.rds"))){
-  get_state <- meet_list %>% filter(meet %in% c("sdhsaa_b", "sdhsaa_a", "sdhsaa_aa"))
-
-  state_boys <- list()
-  state_girls <- list()
-  class2 <- c("B", "A", "AA")
-  for(i in 1:nrow(get_state)){ #2x is for both boys and girls
-      tboys = paste0(get_state$meet[i], "_boys")
-      tgirls = paste0(get_state$meet[i], "_girls")
-      state_boys[[i]] <- read.csv(file=paste0(path, "Data/", tboys, ".csv")) %>% 
-                            mutate(school_class = class2[i])
-      state_girls[[i]] <- read.csv(file=paste0(path, "Data/", tgirls, ".csv")) %>% 
-                            mutate(school_class = class2[i])
-  }
-
-  state_boys_comb <- do.call(rbind, state_boys)
-  state_girls_comb <- do.call(rbind, state_girls)
-
-  list_schools_boys_pre <- state_boys_comb %>% group_by(School, school_class) %>% summarise(n=n()) %>% select(School, school_class)
-  list_schools_girls_pre <- state_girls_comb %>% group_by(School, school_class) %>% summarise(n=n()) %>% select(School, school_class)
-
-  #Getting a complete list of schools (from state)
-  list_schools_pre <- list_schools_boys_pre %>%
-    full_join(list_schools_girls_pre, by=c("School","school_class"))
-
-  #Appending Additional Schools that didn't make state
-  list_schools <- rbind(
-    list_schools_pre,
-    data.frame(
-      School= c("Alcester-Hudson", "Elk Point-Jefferson", "McCook-Central","Parker",
-                "Wagner","Iroquois/Lak","Tri-Valley", "CEB","Garretson","Kadoka", "Colman-Egan",
-                "Elkton-Lake Benton", "Oldham-Ramona-Rutland"),
-      school_class = c("B", "A", "A", "A",
-                       "A", "B", "A", "A", "A", "B", "B",
-                       "A", "B")
-    )
-    )
-
-  saveRDS(list_schools, paste0(path, "Simulation/list_schools.rds"))
-}
-
+# Import Standardized School List
+list_schools <- read.csv(paste0(year, "/Simulation/list_schools.csv"), stringsAsFactors = FALSE)
 
 # system.time({
-
-    #Read in a list of all schools to standardize to
-  list_schools <- readRDS(paste0(path, "Simulation/list_schools.rds"))
 
     #Read in Cumulative Scoring Throughout Season
   t <- readRDS(paste0(path, "Simulation/df_points_boys.rds"))
