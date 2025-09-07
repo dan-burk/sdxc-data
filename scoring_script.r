@@ -6,7 +6,7 @@ library(stringr)
 
 run_augie <- TRUE #Set to TRUE to run Augie meet (Takes a while to run)
 points_wager <- 0.05 #Was 0.005
-year <- 2023
+year <- 2025
 source("functions.r")
 
 # Import XC Meet Lists
@@ -17,19 +17,18 @@ meet_list <- readxl::read_xlsx(paste0(year, "/meet_list_data_ready.xlsx")) %>%
 # Import Standardized School List
 list_schools <- read.csv(paste0(year, "/Simulation/list_schools.csv"), stringsAsFactors = FALSE)
 
-# system.time({
-
-    #Read in Cumulative Scoring Throughout Season
-  t <- readRDS(paste0(path, "Simulation/df_points_boys.rds"))
+    # Read in Cumulative Scoring Throughout Season
+  t <- readRDS(paste0(year, "/Simulation/df_points_boys.rds"))
+  class(t)
   names(t)
   length(t)
   rm(t)
   # week_i = 7 #Important Parameter
-for(week_i in 1:7){
+for(week_i in 1:7){ #Maybe turn this into a function?
   
     if(week_i == 1){
       meet_list_i <- meet_list %>% filter(week <= week_i)
-      n_i <- nrow(meet_list_i) #There are DEPENDENCIES on n_i in the code!!
+      n_i <- nrow(meet_list_i) #Number of meets in week_i
       meet_list_i
       n_0 <- 1
     }else{
@@ -44,22 +43,20 @@ for(week_i in 1:7){
     for(k in n_0:n_i){
 
       if(k == 1){
-        #### If First Meet (i.e. Beresford)
-        # k = 1
+        #### If First Meet (i.e. Beresford), k=1
         df_name_boys <- list()
         df_points_boys <- list()
-
         df_name_girls <- list()
         df_points_girls <- list()
 
         tboys = paste0(meet_list$meet[k], "_boys")
         tgirls = paste0(meet_list$meet[k], "_girls")
-        readin_boys <- read.csv(file=paste0(path,"Data/",tboys,".csv")) %>% 
+        readin_boys <- read.csv(file=paste0(year,"/Data/",tboys,".csv")) %>% 
           mutate(Name = toupper(Name))
-        readin_girls <- read.csv(file=paste0(path,"Data/",tgirls,".csv")) %>% 
+        readin_girls <- read.csv(file=paste0(year,"/Data/",tgirls,".csv")) %>% 
           mutate(Name = toupper(Name))
 
-        #Find Missing Schools
+        #Find Missing Schools (and print)
         readin_boys %>% anti_join(list_schools, by="School") %>% group_by(School) %>% summarise(n=n())
 
         #Convert School Names to Standardized Naming
@@ -77,32 +74,20 @@ for(week_i in 1:7){
           select(-X) %>% 
           mutate(points_pre = 1000,
                 points_post = 1000) %>%
-          filter(School %in% list_schools$School)
-          # inner_join(list_schools, by="School") %>%
-          # select(-school_class) #Remove out of state schools
+          filter(School %in% list_schools$School) #Filter out of state people
+
         result_boys_pre$Place <- c(1:nrow(result_boys_pre)) #Reording places after removing out of state people
         result_boys_pre$id <- c(1:nrow(result_boys_pre)) #Giving each person an ID
 
-        #Save Schools That Have Competed
-        df_schools <- result_boys_pre %>%
-          group_by(School) %>% 
-          filter(row_number()==1) %>% #Select first runner from each school
-          select(School) %>% 
-          arrange(School) %>%
-          ungroup()
-
-        # df_schools
-        write.csv(df_schools, paste0(path,"Simulation/df_schools.csv"))
-
         df_name_boys[[k]] <- result_boys_pre %>% select(id, Name) #school_id
-        saveRDS(df_name_boys, paste0(path, "Simulation/df_name_boys.rds"))
-        # result_boys_pre %>% head()
+        saveRDS(df_name_boys, paste0(year, "/Simulation/df_name_boys.rds"))
 
+        #Create Function to do Scoring
         x <- nrow(result_boys_pre) #Number of individuals
         n <- 0.5*(x-1)*x #Total number of comparisons.
+        #Make function that creates all pairwise comparisons
         comparisons <- matrix(0, nrow = x * (x - 1) / 2, ncol = 2)
         counter <- 1
-
         for (i in 1:(x - 1)) {
           for (j in (i + 1):x) {
             comparisons[counter, ] <- c(i, j)
