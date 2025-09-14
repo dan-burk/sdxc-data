@@ -1,0 +1,287 @@
+1
+DS
+Dane Stark
+
+Watertown
+13:00.68
+PR • Yr: 11 • +1pts
+2
+GS
+Griffin Smith
+
+Harrisburg
+13:22.57
+SR • Yr: 12 • +2pts
+3
+HK
+Harrison Krajewski
+
+Yankton
+13:36.67
+PR • Yr: 12 • +3pts
+4
+MR
+Maverik Ragon
+
+Harrisburg
+13:46.04
+PR • Yr: 12 • +4pts
+5
+JS
+Jackson Schema
+
+O'Gorman
+13:47.29
+PR • Yr: 11
+6
+BO
+Bryton Olson
+
+Yankton
+13:50.39
+PR • Yr: 12 • +5pts
+7
+GC
+Greyson Cauwels
+
+Harrisburg
+13:54.94
+PR • Yr: 12 • +6pts
+8
+
+Brooks Ordway
+
+Harrisburg
+13:59.78
+PR • Yr: 11 • +7pts
+9
+GO
+Gideon Okken
+
+Harrisburg
+14:01.89
+PR • Yr: 10 • +8pts
+10
+LF
+Luke Feimer
+
+Yankton
+14:03.36
+PR • Yr: 11 • +9pts
+11
+DL
+Dawson Lowery
+
+Harrisburg
+14:03.61
+PR • Yr: 10
+12
+HS
+Henry Smith
+
+O'Gorman
+14:21.30
+PR • Yr: 10
+13
+EB
+Ethan Brenden
+
+Yankton
+14:22.21
+PR • Yr: 12 • +10pts
+14
+
+Benjamin Dirks
+
+Harrisburg
+14:22.36
+PR • Yr: 11
+15
+EM
+Elias Michailidis
+
+Brandon Valley
+14:22.58
+PR • Yr: 12 • +11pts
+16
+GR
+Gabe Rock
+
+Yankton
+14:23.90
+PR • Yr: 10 • +12pts
+17
+BS
+Blake Schierholz
+
+Harrisburg
+14:25.61
+PR • Yr: 10
+18
+WS
+Will Sorenson
+
+O'Gorman
+14:26.58
+PR • Yr: 12
+19
+BW
+Bradley Walden
+
+Brandon Valley
+14:31.35
+PR • Yr: 11 • +13pts
+20
+
+Tucker Lunde
+
+Watertown
+14:34.27
+PR • Yr: 12 • +14pts
+21
+IS
+Isaac Spahr
+
+Brandon Valley
+14:39.11
+SR • Yr: 11 • +15pts
+22
+LJ
+Luke Jacobson
+
+Yankton
+14:51.49
+PR • Yr: 10
+23
+LB
+Lance Bodeen
+
+Harrisburg
+14:54.64
+SR • Yr: 12
+24
+RM
+Ryan McKeown
+
+Harrisburg
+14:57.46
+PR • Yr: 12
+25
+KH
+Kaden Hunhoff
+
+Yankton
+15:00.35
+PR • Yr: 12
+26
+OW
+Otto Winters
+
+Brandon Valley
+15:09.44
+PR • Yr: 11 • +16pts
+27
+LB
+Logan Becker
+
+Watertown
+15:21.20
+PR • Yr: 11 • +17pts
+28
+EM
+Evan Mack
+
+Watertown
+15:24.31
+PR • Yr: 10 • +18pts
+29
+JT
+John Toates
+
+Brandon Valley
+15:24.51
+PR • Yr: 8 • +19pts
+30
+GG
+Gavin Greenfield
+
+O'Gorman
+15:27.13
+PR • Yr: 10
+31
+IP
+Isaac Petersen
+
+Yankton
+15:27.98
+PR • Yr: 12
+32
+IN
+Isaiah Norton
+
+Watertown
+15:40.03
+SR • Yr: 12 • +20pts
+33
+XW
+Xadian Waysman
+
+Brandon Valley
+15:44.66
+PR • Yr: 9
+34
+IO
+Isaac Olnes
+
+Yankton
+15:49.03
+PR • Yr: 11
+35
+IL
+Isaac Larrington
+
+Yankton
+15:51.23
+PR • Yr: 11
+36
+
+Kaiser Lunde
+
+Watertown
+15:53.19
+PR • Yr: 8
+37
+WD
+Will Dunlap
+
+Brandon Valley
+15:55.15
+PR • Yr: 9
+38
+CS
+Corbin Sorenson
+
+Brandon Valley
+16:18.00
+PR • Yr: 11
+39
+WH
+Weston Hieb
+
+Brandon Valley
+16:34.11
+PR • Yr: 11
+40
+AB
+Austin Bray
+
+Brandon Valley
+16:41.20
+PR • Yr: 11
+41
+JK
+Joe Kirkeby
+
+Brandon Valley
+17:15.47
+PR • Yr: 11

@@ -1,0 +1,89 @@
+---
+title: "Datably generated report"
+output: html_document
+author: " https://Datably.ai "
+date: "`r format(Sys.time(), '%H:%M      %m-%d-%Y')`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+
+
+
+
+## System
+
+**Act as an experienced data scientist and statistician working on a data science project. #Genal context or goal: Get result data from this link https://dakotatiming.anet.live/meets/55380/events/xc/2128307This will be achieved through multiple steps. **
+
+
+
+## Step 1. Read First 40 Lines of File
+
+ Prompt: 
+# Step 1: Read in test.txt and print first 40 lines.
+
+```{r, error = TRUE}
+
+lines <- readLines("test.txt")
+cat(lines[1:40], sep = "\n")
+
+```
+
+## Step 2. Function to Export Data to CSV
+
+ Prompt: 
+# Step 2: Now I need a function that will grab the data and give me a .csv separated file Place, Name, School, Time, Grade.
+
+```{r, error = TRUE}
+
+extract_results <- function(lines) {
+  results <- data.frame(Place = integer(),
+                        Name = character(),
+                        School = character(),
+                        Time = character(),
+                        Grade = character(),
+                        stringsAsFactors = FALSE)
+  
+  i <- 1
+  while (i <= length(lines)) {
+    if (grepl("^\\d+$", lines[i])) {
+      place <- as.integer(lines[i])
+      name <- lines[i + 2]
+      school <- lines[i + 3]
+      time <- lines[i + 4]
+      grade_line <- lines[i + 5]
+      grade <- sub(".*Yr:\\s*(\\d+).*", "\\1", grade_line)
+      results <- rbind(results, data.frame(Place = place,
+                                           Name = name,
+                                           School = school,
+                                           Time = time,
+                                           Grade = grade,
+                                           stringsAsFactors = FALSE))
+      i <- i + 6
+    } else {
+      i <- i + 1
+    }
+  }
+  write.csv(results, "results.csv", row.names = FALSE)
+  return(results)
+}
+
+results_df <- extract_results(lines)
+
+```
+
+## Step 3. Display First 5 Rows of results_df
+
+ Prompt: 
+# Step 3: Print first 5 rows of results_df
+
+```{r, error = TRUE}
+
+head(results_df, 26)
+
+
+
+```
+
