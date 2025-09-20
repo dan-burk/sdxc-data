@@ -1,0 +1,357 @@
+1
+CU
+Carson Urlacher
+
+Aberdeen Central
+16:18
+Yr: 11 • +1pts
+2
+DS
+Dane Stark
+
+Watertown
+16:23
+Yr: 11 • +2pts
+3
+EF
+Esten Foss
+
+Aberdeen Central
+16:38
+Yr: 12 • +3pts
+4
+CM
+Caleb Morris
+
+Pierre T.F. Riggs
+17:00
+SR • Yr: 12 • +4pts
+5
+MN
+Max Nelson
+
+Aberdeen Central
+17:20
+Yr: 11 • +5pts
+6
+
+Kyson Fayant
+
+Aberdeen Central
+17:55
+Yr: 12 • +6pts
+7
+EW
+Eli Weinrich
+
+Aberdeen Central
+17:56
+PR • Yr: 10 • +7pts
+8
+DM
+Daniel Mason
+
+Pierre T.F. Riggs
+18:06
+Yr: 11 • +8pts
+9
+
+Tucker Lunde
+
+Watertown
+18:08
+Yr: 12 • +9pts
+10
+RG
+Ryder Graff
+
+Sisseton
+18:09
+Yr: 11
+11
+RD
+Ryder Davis
+
+Aberdeen Central
+18:12
+Yr: 12 • +10pts
+12
+
+Brett Hansen
+
+Sisseton
+18:32
+Yr: 10
+13
+SJ
+Shane Jones
+
+Pierre T.F. Riggs
+18:53
+Yr: 10 • +11pts
+14
+JB
+Jayden Brandt
+
+Pierre T.F. Riggs
+18:57
+Yr: 12 • +12pts
+15
+LB
+Logan Becker
+
+Watertown
+19:02
+Yr: 11 • +13pts
+16
+TC
+Tristan Champagne
+
+Jamestown
+19:11
+Yr: 9 • +14pts
+17
+CL
+Camden Lamb
+
+Pierre T.F. Riggs
+19:14
+PR • Yr: 9 • +15pts
+18
+EM
+Evan Mack
+
+Watertown
+19:22
+Yr: 10 • +16pts
+19
+TL
+Teagan Lien
+
+Huron
+19:24
+SR • Yr: 11
+20
+DW
+Dax Wick
+
+Jamestown
+19:24
+Yr: 9 • +17pts
+21
+AO
+Asher Oxford
+
+Pierre T.F. Riggs
+19:35
+Yr: 10 • +18pts
+22
+JK
+Jett Kirschenmann
+
+Pierre T.F. Riggs
+19:35
+PR • Yr: 9 • +19pts
+23
+FW
+Flynn Wiley
+
+Jamestown
+19:42
+Yr: 8 • +20pts
+24
+IN
+Isaiah Norton
+
+Watertown
+19:44
+Yr: 12 • +21pts
+25
+HW
+Hayden Werlinger
+
+Aberdeen Central
+19:51
+Yr: 12 • +22pts
+26
+
+Kaiser Lunde
+
+Watertown
+19:53
+Yr: 8 • +23pts
+27
+HH
+Heath Heupel
+
+Jamestown
+20:00
+SR • Yr: 11 • +24pts
+28
+JV
+Jaydyn Velek
+
+Jamestown
+20:04
+Yr: 12 • +25pts
+29
+
+Noah Estwick
+
+Sisseton
+20:06
+Yr: 10
+30
+JS
+James Stolley
+
+Pierre T.F. Riggs
+20:15
+Yr: 11
+31
+CR
+Cashton Rausch
+
+Gettysburg
+20:17
+Yr: 7
+32
+DH
+Declan Hanten
+
+Gettysburg
+20:21
+Yr: 8
+33
+ME
+Matthew Eckert
+
+Pierre T.F. Riggs
+20:22
+Yr: 10
+34
+JW
+James Weir
+
+Huron
+20:24
+Yr: 11
+35
+
+Tryton Parmely
+
+Pierre T.F. Riggs
+20:31
+Yr: 11
+36
+TM
+Trenton Munyer
+
+Pierre T.F. Riggs
+20:37
+PR • Yr: 9
+37
+IG
+Isaiah Gortmaker
+
+Miller
+20:39
+Yr: 12
+38
+PF
+Paul Feist
+
+Watertown
+20:43
+PR • Yr: 11 • +26pts
+39
+RM
+Rhett Munger
+
+Miller
+20:53
+PR • Yr: 8
+40
+BK
+Ben Keller
+
+Aberdeen Roncalli
+21:07
+Yr: 8 • +27pts
+41
+CF
+Cole Feickert
+
+Aberdeen Roncalli
+21:33
+Yr: 9 • +28pts
+42
+LH
+Leif Hanson
+
+Jamestown
+21:54
+Yr: 11 • +29pts
+43
+GL
+Grady Lindgren
+
+Watertown
+22:11
+SR • Yr: 8
+44
+
+Teegan Arpan
+
+Gettysburg
+22:23
+Yr: 10
+45
+DP
+David Peterson
+
+Watertown
+22:32
+SR • Yr: 11
+46
+ES
+Ezra Steele
+
+Aberdeen Roncalli
+22:55
+Yr: 9 • +30pts
+47
+EG
+Ethan Gonsor
+
+Aberdeen Roncalli
+22:59
+Yr: 10 • +31pts
+48
+LM
+Leo Madsen
+
+Aberdeen Roncalli
+23:00
+Yr: 9 • +32pts
+49
+JW
+Jake Werdel
+
+Miller
+23:17
+Yr: 7
+50
+IP
+Isaac Price
+
+Aberdeen Roncalli
+23:36
+Yr: 12 • +33pts
+51
+AV
+Alexander Van Zee
+
+Miller
+25:27
+Yr: 9

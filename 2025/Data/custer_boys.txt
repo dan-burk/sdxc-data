@@ -1,0 +1,364 @@
+1
+LC
+Lennon Clarkson
+
+Belle Fourche
+17:15.15
+Yr: 11 • +1pts
+2
+QB
+Quinn Bruch
+
+Sturgis Brown
+17:52.24
+Yr: 12
+3
+MG
+Mason Gill
+
+Spearfish
+18:15.67
+Yr: 10 • +2pts
+4
+
+Kian Rusch
+
+Custer
+18:16.16
+Yr: 12 • +3pts
+5
+PK
+Peyton Krueger
+
+Custer
+18:17.31
+Yr: 10 • +4pts
+6
+RV
+Rylan VanDeest
+
+Spearfish
+18:23.59
+Yr: 9 • +5pts
+7
+CT
+Carter Thompson
+
+Spearfish
+18:28.73
+Yr: 10 • +6pts
+8
+
+James Dubios
+
+Hill City
+18:42.92
+Yr: 12
+9
+
+Zachary Cooper
+
+Custer
+18:45.54
+Yr: 10 • +7pts
+10
+
+Zane Gunnell
+
+Custer
+18:46.01
+Yr: 10 • +8pts
+11
+AD
+Austin Drew
+
+Custer
+18:49.82
+Yr: 11 • +9pts
+12
+MK
+Miles Kornegay
+
+Sturgis Brown
+18:53.59
+Yr: 11
+13
+
+Kale Fenner
+
+Sturgis Brown
+19:05.00
+Yr: 12
+14
+OW
+Oden Walding
+
+Belle Fourche
+19:09.77
+Yr: 12 • +10pts
+15
+NH
+Nathan Hudson
+
+Belle Fourche
+19:10.20
+Yr: 11 • +11pts
+16
+RC
+Rylan Cuny
+
+Lakota Tech
+19:17.48
+Yr: 10
+17
+KG
+Kadin Gonzales
+
+Spearfish
+19:22.52
+Yr: 12 • +12pts
+18
+
+Clifford Torberson
+
+Belle Fourche
+19:26.93
+Yr: 11 • +13pts
+19
+BH
+Brux Hartman
+
+Belle Fourche
+19:35.58
+Yr: 8 • +14pts
+20
+CT
+Cody Two Bulls
+
+Mahpiya Luta
+19:44.27
+Yr: 12 • +15pts
+21
+JW
+Jeremiah White
+
+Rapid City Christian
+19:59.28
+Yr: 10 • +16pts
+22
+AD
+Ayden Dooley
+
+Custer
+20:05.38
+Yr: 10 • +17pts
+23
+AA
+Alex Albrecht
+
+Spearfish
+20:11.97
+Yr: 10 • +18pts
+24
+BB
+Bloom Brown
+
+Spearfish
+20:13.21
+Yr: 10 • +19pts
+25
+CL
+Conner Lundy
+
+Custer
+20:17.59
+Yr: 10
+26
+PL
+Payton LeBeau
+
+Little Wound
+20:23.43
+PR • Yr: 10 • +20pts
+27
+KP
+Kyler Pietzyk
+
+Spearfish
+20:24.35
+Yr: 12
+28
+SR
+Saylor Rice
+
+Custer
+20:25.21
+Yr: 12
+29
+TM
+Thaddaeus McKenney
+
+Belle Fourche
+20:26.24
+Yr: 10 • +21pts
+30
+JB
+Jaydin Borden
+
+Rapid City Christian
+20:27.33
+Yr: 12 • +22pts
+31
+JF
+Jayce Fire Thunder
+
+Little Wound
+20:35.21
+PR • Yr: 10 • +23pts
+32
+RM
+Ryland Moore
+
+Spearfish
+20:43.37
+Yr: 9
+33
+AW
+Aiden Williams
+
+Hill City
+20:47.40
+Yr: 12
+34
+MT
+Memphis Tallman
+
+Little Wound
+20:55.23
+Yr: 12 • +24pts
+35
+LK
+Louis Kills Crow Indian
+
+Little Wound
+20:56.62
+Yr: 10 • +25pts
+36
+TG
+Tanner Gottlob
+
+Spearfish
+21:14.93
+Yr: 10
+37
+DM
+Dewayne Mesteth
+
+Rapid City Christian
+21:16.35
+Yr: 11 • +26pts
+38
+AV
+Andreas Volk
+
+Mahpiya Luta
+21:51.53
+Yr: 9 • +27pts
+39
+DS
+Dreysen Steele
+
+Mahpiya Luta
+22:14.11
+Yr: 9 • +28pts
+40
+BF
+Brighton Franks
+
+Mahpiya Luta
+22:16.02
+Yr: 8 • +29pts
+41
+MA
+Michael Aberle
+
+Spearfish
+22:19.71
+Yr: 10
+42
+JB
+Joe Bear
+
+Little Wound
+22:50.48
+Yr: 12 • +30pts
+43
+FR
+Francisco Richards
+
+Little Wound
+23:33.20
+SR • Yr: 10 • +31pts
+44
+LS
+Lucas Suomala
+
+Rapid City Christian
+23:36.20
+Yr: 9 • +32pts
+45
+EY
+Elisha Youpee
+
+Rapid City Christian
+24:42.68
+Yr: 9 • +33pts
+46
+TF
+Tayen Feather Earring
+
+Little Wound
+24:52.24
+Yr: 12
+47
+LN
+Lucas New Holy
+
+Mahpiya Luta
+24:57.27
+Yr: 10 • +34pts
+48
+BH
+Bruno Harms
+
+Newell
+26:35.68
+Yr: 8
+49
+RE
+Rennyjake Ecoffey
+
+Pine Ridge
+26:59.23
+Yr: 10
+50
+LB
+Lou Breed
+
+Rapid City Christian
+27:00.97
+Yr: 9 • +35pts
+51
+CP
+Corby Plenty Wounds
+
+Oelrichs
+29:17.14
+PR • Yr: 10
+52
+NR
+Nathaniel Romero
+
+Little Wound
+31:17.68
+Yr: 9
