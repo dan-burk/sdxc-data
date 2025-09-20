@@ -1,4 +1,7 @@
-extract_results <- function(lines) {
+
+#Input: A TXT file containing results from a 2025 XC meet
+#Output: A dataframe with columns: Place, Name, School, Time, & Grade
+txt_to_csv_2025 <- function(lines) {
   results <- data.frame(Place = integer(),
                         Name = character(),
                         School = character(),
@@ -26,6 +29,5 @@ extract_results <- function(lines) {
       i <- i + 1
     }
   }
-  write.csv(results, "results.csv", row.names = FALSE)
   return(results)
 }
