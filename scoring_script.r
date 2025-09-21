@@ -13,39 +13,31 @@ source("functions.r")
 meet_list <- readxl::read_xlsx(paste0(year, "/meet_list_data_ready.xlsx")) %>% 
     mutate(date = as.Date(date)) %>% 
     filter(missing == 0)
+meet_list$meet_number <- c(1:nrow(meet_list))
 
 # Import Standardized School List
 list_schools <- read.csv(paste0(year, "/Simulation/list_schools.csv"), stringsAsFactors = FALSE)
 
     # Read in Cumulative Scoring Throughout Season
-  t <- readRDS(paste0(year, "/Simulation/df_points_boys.rds"))
-  class(t)
-  names(t)
-  length(t)
-  rm(t)
-  # week_i = 7 #Important Parameter
-for(week_i in 1:7){ #Maybe turn this into a function?
-  
-    if(week_i == 1){
-      meet_list_i <- meet_list %>% filter(week <= week_i)
-      n_i <- nrow(meet_list_i) #Number of meets in week_i
-      meet_list_i
-      n_0 <- 1
-    }else{
-      meet_list_im1 <- meet_list %>% filter(week <= week_i-1)
-      meet_list_i <- meet_list %>% filter(week <= week_i)
-      n_i <- nrow(meet_list_i) #There are DEPENDENCIES on n_i in the code!!
-      n_0 <- nrow(meet_list_im1) + 1
-      meet_list_i[c(n_0:n_i),]
-    }
-    ### Loop through remaining meets
+  # t <- readRDS(paste0(2023, "/Simulation/df_points_boys.rds"))
+  # class(t)
+  # names(t)
+  # length(t)
+  # rm(t)
+  week_i = 1 #Important Parameter
+for(week_i in 1:3){ #Maybe turn this into a function?
+
+    meet_list_i <- meet_list %>% filter(week == week_i)
+    df_schools <- read.csv(paste0(path, "Simulation/df_schools.csv")) %>% select(-X)
+    lst <- get_historicals(year) # Function that gets historical information
+    names(lst)
+
     # Finished through k=11
-    for(k in n_0:n_i){
+    for(k in meet_list_i$meet_number){ #Loop through meets in week
 
       if(k == 1){
         #### If First Meet (i.e. Beresford), k=1
-        df_name_boys <- list()
-        df_points_boys <- list()
+        lst$df_points_boys <- list()
         df_name_girls <- list()
         df_points_girls <- list()
 
@@ -113,12 +105,12 @@ for(week_i in 1:7){ #Maybe turn this into a function?
                                         as.numeric(split_time[[i]][2])))
 
 
-        df_points_boys[[k]] <- result_final %>%
+        lst$df_points_boys[[k]] <- result_final %>%
           select(Name, School, id, points = points_post) %>% 
           mutate(time_min = get_time_sec)
-        names(df_points_boys)[k] <- meet_list$meet[k]
-        saveRDS(df_points_boys, paste0(path, "Simulation/df_points_boys",".rds"))
-        write.csv(df_points_boys[[k]], paste0(path, "Simulation/df_points_boys.csv"))
+        names(lst$df_points_boys)[k] <- meet_list$meet[k]
+        saveRDS(lst$df_points_boys, paste0(path, "Simulation/df_points_boys",".rds"))
+        write.csv(lst$df_points_boys[[k]], paste0(path, "Simulation/df_points_boys.csv"))
 
         ### Done with beresford boys
 
@@ -192,13 +184,6 @@ for(week_i in 1:7){ #Maybe turn this into a function?
 
         #Done with Beresford Girls
       }else{
-        df_name_boys <- readRDS(paste0(path, "Simulation/df_name_boys.rds")) #%>% select(-X)
-        df_schools <- read.csv(paste0(path, "Simulation/df_schools.csv")) %>% select(-X)
-        df_points_boys <- readRDS(paste0(path, "Simulation/df_points_boys.rds")) #%>% select(-X)
-
-        df_name_girls <- readRDS(paste0(path, "Simulation/df_name_girls.rds"))# %>% select(-X)
-        df_points_girls <- readRDS(paste0(path, "Simulation/df_points_girls.rds"))# %>% select(-X)
-
 
           # k = 2
           tboys = paste0(meet_list$meet[k], "_boys")
@@ -212,11 +197,11 @@ for(week_i in 1:7){ #Maybe turn this into a function?
 
           #Debugging code
           if(TRUE == FALSE){
-            names(df_points_boys)
-            df_points_boys[[k]] %>% View()
+            names(lst$df_points_boys)
+            lst$df_points_boys[[k]] %>% View()
             df_points_girls[[k]] %>% View()
-            df_points_boys[[9]] %>% filter(Name == "Pierce Baumberger")
-            df_points_boys[[7]] %>% View()
+            lst$df_points_boys[[9]] %>% filter(Name == "Pierce Baumberger")
+            lst$df_points_boys[[7]] %>% View()
 
             readin_boys %>% View()
           }
@@ -448,7 +433,7 @@ for(week_i in 1:7){ #Maybe turn this into a function?
           result <- readin_boys %>%
             mutate(Time_sec = get_time_sec) %>%
             select(-X) %>%
-            left_join(df_points_boys[[k-1]], by=c("Name","School")) %>%
+            left_join(lst$df_points_boys[[k-1]], by=c("Name","School")) %>%
             left_join(df_name_boys[[k]] %>% select(Name, id_new=id), by="Name") %>%
             rename(points_pre = points,
                   time_min_pre = time_min) %>%
@@ -465,7 +450,7 @@ for(week_i in 1:7){ #Maybe turn this into a function?
           result <- readin_boys %>%
             mutate(Time_sec = 9999) %>%
             select(-X) %>%
-            left_join(df_points_boys[[k-1]], by=c("Name","School")) %>%
+            left_join(lst$df_points_boys[[k-1]], by=c("Name","School")) %>%
             left_join(df_name_boys[[k]] %>% select(Name, id_new=id), by="Name") %>%
             rename(points_pre = points,
                   time_min_pre = time_min) %>%
@@ -480,14 +465,14 @@ for(week_i in 1:7){ #Maybe turn this into a function?
         }
 
 
-          df_points_boys[[k]] <- do_scoring(result, df_points_boys[[k-1]])
-          df_points_boys[[k]] %>% head()
-          names(df_points_boys)[k] <- meet_list$meet[k]
-          saveRDS(df_points_boys, paste0(path, "Simulation/df_points_boys",".rds"))
-          write.csv(df_points_boys[[k]], paste0(path, "Simulation/df_points_boys.csv"))
+          lst$df_points_boys[[k]] <- do_scoring(result, lst$df_points_boys[[k-1]])
+          lst$df_points_boys[[k]] %>% head()
+          names(lst$df_points_boys)[k] <- meet_list$meet[k]
+          saveRDS(lst$df_points_boys, paste0(path, "Simulation/df_points_boys",".rds"))
+          write.csv(lst$df_points_boys[[k]], paste0(path, "Simulation/df_points_boys.csv"))
 
         if(k == n_i){
-          df_points_boys[[k]] <- df_points_boys[[k]] %>% 
+          lst$df_points_boys[[k]] <- lst$df_points_boys[[k]] %>% 
             mutate(rnk_pts = row_number()) %>% #Already sorted by Points
             arrange(time_min) %>% 
             mutate(rnk_time = case_when(
@@ -503,7 +488,7 @@ for(week_i in 1:7){ #Maybe turn this into a function?
 
           # saveRDS(list(), paste0(path, "XC Ranking App/sdxc-basic/df_points_boys_list.rds"))
           df_points_boys_list <- readRDS(paste0(path, "XC Ranking App/sdxc-basic/df_points_boys_list.rds"))
-          df_points_boys_list[[week_i]] <- df_points_boys[[k]] %>% left_join(list_schools, by="School") # %>% View()
+          df_points_boys_list[[week_i]] <- lst$df_points_boys[[k]] %>% left_join(list_schools, by="School") # %>% View()
           saveRDS(df_points_boys_list, paste0(path, "XC Ranking App/sdxc-basic/df_points_boys_list.rds"))
 
           # write.csv(df_points_boys[[k]] %>% left_join(list_schools, by="School"), paste0(path, "XC Ranking App/sdxc-basic/df_points_boys.csv"))

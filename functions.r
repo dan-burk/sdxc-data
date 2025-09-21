@@ -44,3 +44,23 @@ do_scoring <- function(result, df_points, points_wager = 0.05){
   
   return(points_final)
 }
+
+get_historicals <- function(year){
+    lst <- list(
+      df_name_boys = list(),
+      df_name_girls = list(),
+      df_points_boys = list(),
+      df_points_girls = list()
+    )
+    name_points <- c("name","points")
+    gender <- c("_boys","_girls")
+    for(i in 1:2){
+      for(j in 1:2){
+        link <- paste0(year, "/Simulation/df_",name_points[i],gender[j],".rds")
+        if(file.exists(link)){
+          lst[[paste0("df_",name_points[i],gender[j])]] <- readRDS(link)
+        }
+      }
+    }
+    return(lst)
+}
