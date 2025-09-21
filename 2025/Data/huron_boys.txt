@@ -1,0 +1,805 @@
+1
+CU
+Carson Urlacher
+
+Aberdeen Central
+16:04.46
+Yr: 11 • +1pts
+2
+DS
+Dane Stark
+
+Watertown
+16:07.36
+Yr: 11 • +2pts
+3
+AS
+Asher Selness
+
+Brandon Valley
+16:16.42
+Yr: 10 • +3pts
+4
+EK
+Ethan Kyte
+
+Brandon Valley
+16:17.28
+Yr: 10 • +4pts
+5
+PT
+Peyton Tetzlaff
+
+West Central
+16:19.28
+Yr: 11
+6
+
+Silas Holdeman
+
+Mitchell Christian
+16:22.72
+Yr: 11 • +5pts
+7
+WB
+Wyatt Balliew
+
+Douglas
+16:39.26
+Yr: 11 • +6pts
+8
+EF
+Esten Foss
+
+Aberdeen Central
+16:47.85
+Yr: 12 • +7pts
+9
+LM
+Luke Mentele
+
+Mitchell Christian
+16:49.09
+Yr: 11 • +8pts
+10
+MN
+Max Nelson
+
+Aberdeen Central
+16:51.36
+Yr: 11 • +9pts
+11
+
+Kian Rusch
+
+Custer
+16:53.32
+Yr: 12 • +10pts
+12
+JP
+Jack Peterson
+
+Philip
+16:57.74
+SR • Yr: 12 • +11pts
+13
+CM
+Caleb Morris
+
+Pierre T.F. Riggs
+17:03.93
+Yr: 12 • +12pts
+14
+
+Tate DeVries
+
+Aberdeen Central
+17:05.36
+SR • Yr: 10 • +13pts
+15
+BB
+Baylor Burns
+
+Philip
+17:06.97
+Yr: 12 • +14pts
+16
+RM
+Ryley McKeown
+
+Brandon Valley
+17:11.71
+Yr: 12 • +15pts
+17
+JS
+Jeter Scoular
+
+Milbank
+17:12.45
+Yr: 11
+18
+
+Kaden Ober
+
+James Valley Christian
+17:13.81
+Yr: 10 • +16pts
+19
+JT
+Jayden Taken alive
+
+Cheyenne-Eagle Butte
+17:15.82
+Yr: 12
+20
+SM
+Samuel Mischke
+
+Brandon Valley
+17:18.66
+Yr: 9 • +17pts
+21
+PK
+Peyton Krueger
+
+Custer
+17:22.22
+Yr: 10 • +18pts
+22
+
+Shane Harming
+
+Brookings
+17:26.35
+Yr: 12 • +19pts
+23
+DH
+Dylan Haar
+
+Brookings
+17:27.32
+Yr: 10 • +20pts
+24
+
+Marco Springman
+
+Brookings
+17:28.39
+Yr: 12 • +21pts
+25
+RD
+Ryder Davis
+
+Aberdeen Central
+17:35.83
+Yr: 12 • +22pts
+26
+
+Kyson Fayant
+
+Aberdeen Central
+17:36.58
+Yr: 12 • +23pts
+27
+QM
+Quinntin Mischke
+
+Brandon Valley
+17:37.17
+Yr: 9 • +24pts
+28
+IS
+Isaac Spahr
+
+Brandon Valley
+17:38.02
+Yr: 11 • +25pts
+29
+CB
+Creston Burns
+
+Philip
+17:39.29
+Yr: 12 • +26pts
+30
+
+Reid Hammerquist
+
+Tea Area
+17:41.26
+Yr: 11 • +27pts
+31
+DM
+David McKinley
+
+Philip
+17:42.79
+Yr: 12 • +28pts
+32
+JT
+Jackson Taken Alive
+
+Cheyenne-Eagle Butte
+17:44.13
+PR • Yr: 11
+33
+EM
+Elias Michailidis
+
+Brandon Valley
+17:44.97
+Yr: 12 • +29pts
+34
+DM
+Daniel Mason
+
+Pierre T.F. Riggs
+17:47.72
+Yr: 11 • +30pts
+35
+
+Sawyer Holdeman
+
+Mitchell Christian
+17:50.57
+Yr: 10 • +31pts
+36
+KV
+Kolby VanDerWerff
+
+James Valley Christian
+17:51.36
+Yr: 12 • +32pts
+37
+
+Adam Hohn
+
+Custer
+17:54.37
+Yr: 8 • +33pts
+38
+EW
+Eli Weinrich
+
+Aberdeen Central
+17:56.15
+Yr: 10 • +34pts
+39
+
+Marcus Munsch
+
+Brandon Valley
+17:57.23
+Yr: 11
+40
+ZN
+Zach Nielsen
+
+West Central
+17:57.68
+Yr: 11
+41
+
+Aidan Craven
+
+Philip
+18:01.90
+SR • Yr: 11 • +35pts
+42
+
+Jonah Klemisch
+
+Tea Area
+18:08.77
+Yr: 11 • +36pts
+43
+LH
+Liam Heller
+
+Milbank
+18:08.90
+Yr: 11
+44
+
+Tucker Lunde
+
+Watertown
+18:09.62
+Yr: 12 • +37pts
+45
+XS
+Xavier Sanchez-Gonzalez
+
+Cheyenne-Eagle Butte
+18:16.28
+Yr: 11
+46
+
+Garrett Ysbrand
+
+Brookings
+18:19.49
+PR • Yr: 9 • +38pts
+47
+JB
+Jack Bierman
+
+Brookings
+18:20.98
+Yr: 12 • +39pts
+48
+
+Zachary Cooper
+
+Custer
+18:21.90
+Yr: 10 • +40pts
+49
+KH
+Kyper Hilger
+
+West Central
+18:23.10
+Yr: 12
+50
+DS
+Demetrius Sanchez-Gonzalez
+
+Cheyenne-Eagle Butte
+18:23.84
+Yr: 10
+51
+TV
+Tate VanLaecken
+
+Tea Area
+18:23.99
+Yr: 11 • +41pts
+52
+DM
+Darron Moeller
+
+Kimball/White Lake
+18:24.77
+Yr: 10
+53
+WC
+Wyatt Cooley
+
+Brookings
+18:26.63
+PR • Yr: 9 • +42pts
+54
+LQ
+Landon Quimby
+
+Douglas
+18:29.38
+Yr: 9 • +43pts
+55
+CC
+Carter Cooper
+
+Custer
+18:30.46
+PR • Yr: 8 • +44pts
+56
+IC
+Isaac Clement
+
+Douglas
+18:31.58
+Yr: 9 • +45pts
+57
+LB
+Logan Becker
+
+Watertown
+18:31.65
+Yr: 11 • +46pts
+58
+BW
+Bradley Walden
+
+Brandon Valley
+18:35.89
+Yr: 11
+59
+SS
+Sam Schmidt
+
+Flandreau
+18:37.21
+Yr: 11
+60
+NH
+Nathaniel Hobbie
+
+Flandreau
+18:38.21
+Yr: 11
+61
+LK
+Logan Kontz
+
+Flandreau
+18:40.04
+Yr: 10
+62
+EM
+Evan Mack
+
+Watertown
+18:40.64
+Yr: 10 • +47pts
+63
+RC
+Reece Christian
+
+Tea Area
+18:41.51
+Yr: 9 • +48pts
+64
+KC
+Kaden Christian
+
+Tea Area
+18:47.26
+Yr: 11 • +49pts
+65
+PK
+Peyton Kallstrom
+
+Douglas
+18:48.55
+Yr: 11 • +50pts
+66
+QM
+Quentin Miller
+
+Douglas
+18:48.81
+SR • Yr: 11 • +51pts
+67
+CC
+Case Carlson
+
+Iroquois/Lake Preston
+18:49.37
+Yr: 9
+68
+KB
+Kuddyer Baugher
+
+Brookings
+18:51.42
+PR • Yr: 9 • +52pts
+69
+SJ
+Shane Jones
+
+Pierre T.F. Riggs
+18:51.69
+Yr: 10 • +53pts
+70
+MB
+Micah Bennett
+
+Mitchell
+18:52.04
+Yr: 8 • +54pts
+71
+LG
+Liam Gill
+
+Chamberlain
+18:54.08
+Yr: 9 • +55pts
+72
+BO
+Bennie Olsen
+
+Douglas
+19:03.48
+Yr: 11 • +56pts
+73
+
+Levi Crandall
+
+James Valley Christian
+19:04.92
+Yr: 9 • +57pts
+74
+BG
+Bennett Graham
+
+Milbank
+19:05.56
+Yr: 11
+75
+IN
+Isaiah Norton
+
+Watertown
+19:10.34
+Yr: 12 • +58pts
+76
+LA
+Luke Atnip
+
+Mitchell Christian
+19:12.01
+Yr: 10 • +59pts
+77
+CL
+Conner Lundy
+
+Custer
+19:12.85
+SR • Yr: 10 • +60pts
+78
+CL
+Camden Lamb
+
+Pierre T.F. Riggs
+19:20.99
+Yr: 9 • +61pts
+79
+SR
+Saylor Rice
+
+Custer
+19:21.25
+Yr: 12 • +62pts
+80
+
+Brady Asbenson
+
+Mitchell Christian
+19:24.14
+Yr: 10 • +63pts
+81
+
+Kaiser Lunde
+
+Watertown
+19:24.77
+Yr: 8 • +64pts
+82
+HW
+Hayden Werlinger
+
+Aberdeen Central
+19:26.82
+Yr: 12
+83
+KL
+Keegan Loewen
+
+James Valley Christian
+19:28.16
+Yr: 10 • +65pts
+84
+JW
+James Weir
+
+Huron
+19:29.04
+SR • Yr: 11
+85
+ZM
+Zachery Moyer
+
+Chester
+19:29.71
+Yr: 12
+86
+
+Evan Henrie
+
+Philip
+19:30.36
+Yr: 11 • +66pts
+87
+BB
+Beckham Berry
+
+Milbank
+19:35.92
+Yr: 11
+88
+NK
+Noah Korver
+
+Tea Area
+19:38.04
+Yr: 11 • +67pts
+89
+WB
+Weston Baker
+
+Brookings
+19:52.52
+Yr: 12
+90
+BM
+Benjamin Meyer
+
+Pierre T.F. Riggs
+19:55.20
+SR • Yr: 10 • +68pts
+91
+CM
+CJ Moses
+
+Pierre T.F. Riggs
+19:57.17
+SR • Yr: 12 • +69pts
+92
+JD
+Jacob DeYoung
+
+Tea Area
+20:02.95
+Yr: 12 • +70pts
+93
+PF
+Paul Feist
+
+Watertown
+20:09.94
+PR • Yr: 11 • +71pts
+94
+GF
+Gage Frerichs
+
+Douglas
+20:16.23
+PR • Yr: 9 • +72pts
+95
+GW
+Giddeon Waldner
+
+James Valley Christian
+20:19.87
+Yr: 10 • +73pts
+96
+HM
+Hudson Metz
+
+Chamberlain
+20:24.83
+Yr: 8 • +74pts
+97
+CL
+Carter Leibeg
+
+Chester
+20:27.50
+Yr: 11
+98
+RP
+Ryker Parmely
+
+Pierre T.F. Riggs
+20:28.97
+PR • Yr: 9 • +75pts
+99
+KH
+Karsten Herges
+
+Mitchell
+20:30.43
+Yr: 9 • +76pts
+100
+AF
+Antwon Flying Hawk
+
+Huron
+20:41.30
+SR • Yr: 12
+101
+GL
+Grady Lindgren
+
+Watertown
+20:45.41
+PR • Yr: 8
+102
+JK
+Joe Kirkeby
+
+Brandon Valley
+20:55.25
+PR • Yr: 11
+103
+AP
+Andrew Peterson
+
+Douglas
+21:17.14
+PR • Yr: 11
+104
+KC
+Kaiden Colomb
+
+Mitchell
+21:20.16
+PR • Yr: 8 • +77pts
+105
+JB
+Jackson Bollinger
+
+Chamberlain
+21:20.69
+Yr: 8 • +78pts
+106
+
+Micah Menning
+
+Mitchell Christian
+21:29.14
+Yr: 10 • +79pts
+107
+DP
+David Peterson
+
+Watertown
+21:39.06
+SR • Yr: 11
+108
+
+Bryken Storms
+
+Chamberlain
+21:41.85
+SR • Yr: 10 • +80pts
+109
+
+Gabe Welch
+
+Douglas
+22:11.63
+Yr: 12
+110
+EL
+Ethan Lofgren
+
+Mitchell
+22:33.40
+Yr: 12 • +81pts
+111
+LA
+Logan Amaral
+
+Douglas
+22:58.36
+Yr: 12
+112
+WM
+Will Mullenmeister
+
+Mitchell
+23:37.82
+PR • Yr: 7 • +82pts
+113
+IS
+Isaac Shepherd
+
+Chamberlain
+24:09.03
+Yr: 12 • +83pts
+114
+DC
+Dylan Cortave
+
+Mitchell
+24:18.93
+SR • Yr: 12 • +84pts
+115
+CB
+Carter Buschbach
+
+Mitchell
+26:04.26
+PR • Yr: 9 • +85pts

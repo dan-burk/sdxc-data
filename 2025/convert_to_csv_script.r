@@ -5,7 +5,7 @@ library(readxl)
 library(stringr)
 
 source("2025/txt_to_csv_2025.r")
-week_i = 2
+week_i = 3
 
 # Import XC Meet Lists
 meet_list <- readxl::read_xlsx(paste0(2025, "/meet_list_data_ready.xlsx")) %>% 
