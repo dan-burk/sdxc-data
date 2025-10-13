@@ -197,9 +197,9 @@ for(week_i in 1:3){ #Maybe turn this into a function?
           }
 
           nam <- readin_boys %>% anti_join(list_schools, by="School") %>% group_by(School) %>% summarise(n=n())
-          nam
-          # print(paste("Browser for k =", k, meet_list$meet[k]))
-          # browser()
+          print(nam)
+          print(paste("Browser for k =", k, meet_list$meet[k]))
+          browser()
           #Here we check the variable nam:
           #If empty continue.
           #If School is missing from  list_schools, update list_schools with new name
