@@ -57,7 +57,7 @@ for(week_i in 1:3){ #Maybe turn this into a function?
             mutate(School = case_when(
                                 School == "DR Smary" ~ "DR St. Mary",
                                 School == "Freeman Acad" ~ "Freeman Acad/Mar",
-                                School == "McCook Centr" ~ "McCook-Central",
+                                School == "McCook Centr" ~ "McCook Central/Montrose",
                                 School == "SF Lincoln" ~ "Sioux Falls Lincoln",
                                 School %in% c("Mount Vernon/Plankinton","Mount Vernon") ~ "Mount Vernon/Pla",
                                 School == "Potter county" ~ "Potter County",
