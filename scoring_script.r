@@ -29,7 +29,7 @@ list_schools <- read.csv(paste0(year, "/Simulation/list_schools.csv"), stringsAs
 for(week_i in 1:3){ #Maybe turn this into a function?
 
     meet_list_i <- meet_list %>% filter(week == week_i)
-    df_schools <- read.csv(paste0(path, "Simulation/df_schools.csv")) %>% select(-X)
+    # df_schools <- read.csv(paste0(path, "/Simulation/df_schools.csv")) %>% select(-X)
     lst <- get_historicals(year) # Function that gets historical information
     names(lst)
 
@@ -54,26 +54,17 @@ for(week_i in 1:3){ #Maybe turn this into a function?
 
         #Convert School Names to Standardized Naming
         result_boys_pre <- readin_boys %>%
-            mutate(School = case_when(
-                                School == "DR Smary" ~ "DR St. Mary",
-                                School == "Freeman Acad" ~ "Freeman Acad/Mar",
-                                School == "McCook Centr" ~ "McCook Central/Montrose",
-                                School == "SF Lincoln" ~ "Sioux Falls Lincoln",
-                                School %in% c("Mount Vernon/Plankinton","Mount Vernon") ~ "Mount Vernon/Pla",
-                                School == "Potter county" ~ "Potter County",
-                                School == "SBA" ~ "Sunshine Bible A",
-                                School %in% c("Sanborn Central/Woonsocket","Sanborn Cent") ~ "Sanborn Cent/Woo",
-                                TRUE ~ School)) %>% 
-          select(-X) %>% 
-          mutate(points_pre = 1000,
-                points_post = 1000) %>%
-          filter(School %in% list_schools$School) #Filter out of state people
+          filter(School %in% list_schools$School) %>% #Filter out off state schools
+          mutate(
+            points_pre = 1000, #Initialize Points since k=1
+            points_post = 1000
+          )
 
         result_boys_pre$Place <- c(1:nrow(result_boys_pre)) #Reording places after removing out of state people
-        result_boys_pre$id <- c(1:nrow(result_boys_pre)) #Giving each person an ID
+        result_boys_pre$id <- c(1:nrow(result_boys_pre)) #Giving each person an ID, so we can keep track if they've raced or not
 
-        df_name_boys[[k]] <- result_boys_pre %>% select(id, Name) #school_id
-        saveRDS(df_name_boys, paste0(year, "/Simulation/df_name_boys.rds"))
+        lst$df_name_boys[[k]] <- result_boys_pre %>% select(id, Name) #school_id
+        saveRDS(lst$df_name_boys[[k]], paste0(year, "/Simulation/df_name_boys.rds"))
 
         #Create Function to do Scoring
         x <- nrow(result_boys_pre) #Number of individuals
@@ -90,7 +81,7 @@ for(week_i in 1:3){ #Maybe turn this into a function?
 
         result_final <- result_boys_pre
         for(i in 1:n){
-          t <- comparisons[i,] #Take the ith comparison
+          t <- comparisons[i,] #A 2xn matrix, take the ith (row) comparison
           sub <- result_final[t,] #and subset the results to that comparison
           result_final <- result_final %>% 
             mutate(points_post = case_when(
@@ -110,8 +101,8 @@ for(week_i in 1:3){ #Maybe turn this into a function?
           select(Name, School, id, points = points_post) %>% 
           mutate(time_min = get_time_sec)
         names(lst$df_points_boys)[k] <- meet_list$meet[k]
-        saveRDS(lst$df_points_boys, paste0(path, "Simulation/df_points_boys",".rds"))
-        write.csv(lst$df_points_boys[[k]], paste0(path, "Simulation/df_points_boys.csv"))
+        saveRDS(lst$df_points_boys, paste0(year, "/Simulation/df_points_boys",".rds"))
+        write.csv(lst$df_points_boys[[k]], paste0(year, "/Simulation/df_points_boys.csv"))
 
         ### Done with beresford boys
 
@@ -122,28 +113,16 @@ for(week_i in 1:3){ #Maybe turn this into a function?
 
         #Convert School Names to Standardized Naming
         result_girls_pre <- readin_girls %>%
-        mutate(School = case_when(School == "DR Smary" ~ "DR St. Mary",
-                                  School == "Freeman Acad" ~ "Freeman Acad/Mar",
-                                  School == "McCook Centr" ~ "McCook-Central",
-                                  School == "SF Lincoln" ~ "Sioux Falls Lincoln",
-                                  School %in% c("Mount Vernon/Plankinton","Mount Vernon") ~ "Mount Vernon/Pla",
-                                  School == "Potter county" ~ "Potter County",
-                                  School == "SBA" ~ "Sunshine Bible A",
-                                  School %in% c("Sanborn Central/Woonsocket","Sanborn Cent") ~ "Sanborn Cent/Woo",
-                                  TRUE ~ School)) %>% 
-          select(-X) %>% 
-          mutate(points_pre = 1000,
-                points_post = 1000) %>%
-          filter(School %in% list_schools$School)#%>% 
-          # inner_join(list_schools, by="School") %>%  #Remove out of state schools
-          # select(-school_class)
+          filter(School %in% list_schools$School) %>% 
+          mutate(
+            points_pre = 1000, #Initialize Points since k=1
+            points_post = 1000
+          )
         result_girls_pre$Place <- c(1:nrow(result_girls_pre)) #Giving each person an ID
         result_girls_pre$id <- c(1:nrow(result_girls_pre)) #Giving each person an ID
 
-        df_name_girls[[k]] <- result_girls_pre %>% select(id, Name) #school_id
-        saveRDS(df_name_girls, paste0(path, "Simulation/df_name_girls.rds"))
-
-        # result_girls_pre %>% head()
+        lst$df_name_girls[[k]] <- result_girls_pre %>% select(id, Name) #school_id
+        saveRDS(lst$df_name_girls[[k]], paste0(year, "/Simulation/df_name_girls.rds"))
 
         x <- nrow(result_girls_pre) #Number of individuals
         n <- 0.5*(x-1)*x #Total number of comparisons.
@@ -175,13 +154,13 @@ for(week_i in 1:3){ #Maybe turn this into a function?
                                         as.numeric(split_time[[i]][2])))
 
 
-        df_points_girls[[k]] <- result_final %>%
+        lst$df_points_girls[[k]] <- result_final %>%
           select(Name, School, id, points = points_post) %>% 
           mutate(time_min = get_time_sec)
 
-        names(df_points_girls)[k] <- meet_list$meet[k]
-        saveRDS(df_points_girls, paste0(path, "Simulation/df_points_girls",".rds"))
-        write.csv(df_points_girls[[k]], paste0(path, "Simulation/df_points_girls.csv"))
+        names(lst$df_points_girls)[k] <- meet_list$meet[k]
+        saveRDS(lst$df_points_girls, paste0(year, "/Simulation/df_points_girls",".rds"))
+        write.csv(df_points_girls[[k]], paste0(year, "/Simulation/df_points_girls.csv"))
 
         #Done with Beresford Girls
       }else{
@@ -189,9 +168,9 @@ for(week_i in 1:3){ #Maybe turn this into a function?
           # k = 2
           tboys = paste0(meet_list$meet[k], "_boys")
           tgirls = paste0(meet_list$meet[k], "_girls")
-          readin_boys <- read.csv(file=paste0(path,"Data/",tboys,".csv")) %>% 
+          readin_boys <- read.csv(file=paste0(year,"/Data/",tboys,".csv")) %>% 
             mutate(Name = toupper(Name))
-          readin_girls <- read.csv(file=paste0(path,"Data/",tgirls,".csv")) %>% 
+          readin_girls <- read.csv(file=paste0(year,"/Data/",tgirls,".csv")) %>% 
             mutate(Name = toupper(Name))
 
           flg_5k = meet_list$flg_5k[k]
@@ -218,177 +197,99 @@ for(week_i in 1:3){ #Maybe turn this into a function?
           }
 
           nam <- readin_boys %>% anti_join(list_schools, by="School") %>% group_by(School) %>% summarise(n=n())
-          print(paste("Browser for k =", k, meet_list$meet[k]))
+          nam
+          # print(paste("Browser for k =", k, meet_list$meet[k]))
           # browser()
           #Here we check the variable nam:
           #If empty continue.
           #If School is missing from  list_schools, update list_schools with new name
           #If School is misspelled add to mutates below, type break in command line, then restart loop at given k.
-          readin_boys <- readin_boys %>%
-            mutate(Name = case_when(
-              Name == "AARON BLACHFORD" ~ "AARON BLACKFORD",
-              Name == "ABE (ABRAM) CHANCE" ~ "ABRAM CHANCE",
-              Name == "BECKHAM CANTALOUPE" ~ "BECKHAM CANTALOPE",
-              Name == "BRAYDEN BRODEWYK" ~ "BRAYDEN BORDEWYK",
-              Name == "BRYNNLY HUBER" ~ "BRYNLY HUBER",
-              Name == "CHASE HENRIKSEN" ~ "CHASE HANRIKSEN",
-              Name == "CHEVY KONST" ~ "CHEVY KNOST",
-              Name == "COLE SCHELLPFEFFER" ~ "COLE SCHELLPEFFER",
-              Name == "COLE NOONAN" ~ "COLE NOON",
-              Name == "COOPER SCHAELFER" ~ "COOPER SCHAEFER",
-              Name == "DAVID MCKINLEY" ~ "DAVID MCKINLEY",
-              Name == "GAGE HON" ~ "GAGE HOHN",
-              Name == "ISAAC VAN SCHARREL" ~ "ISAAC VAN SCHALKWYK",
-              Name == "JEFFERY BOXCHEE" ~ "JEFFERY BOSCHEE",
-              Name == "JOSHEPH LAPRATH" ~ "JOSEPH LAPRATH",
-              Name == "JOSIA WIEBE" ~ "JOSIAH WIEBE",
-              Name == "KEGAN RUSSELL" ~ "KEEGAN RUSSELL",
-              Name == "LOGAN RUFER" ~ "LOGAN RUTER",
-              Name == "MATTHEW NEELY" ~ "MATTHEW NEELEY",
-              Name == "MATT PETERSON" ~ "MATTHEW PETERSON",
-              Name == "NATHAN MEILUS" ~ "NATHAN MELIUS",
-              Name == "NICHOL DESCHEPPER" ~ "NICHOLAS DESCHEPPER",
-              Name == "SPENCEER OLSEN" ~ "SPENCER OLSEN",
-              Name == "TATE DEVRIES" ~ "TATE DEVRIES",
-              Name == "TAY LARSON" ~ "TREY LARSON",
-              Name == "TREVIN LOUNDSBURY" ~ "TREVIN LOUNSBURY",
-              Name == "RUKKER BOE" ~ "TUKKER BOE",
-              Name == "TYLER TJERDSMA" ~ "TYLER TJEERDSMA",
-              Name %in% c("WAMNI OMNI LITTLE THUNDE", "WAMANI OMNI LITTLE THUNDER") ~ "WAMNI OMNI LITTLE THUNDER",
-              Name == "WILLIAM FIER CLOUD" ~ "William FIRE CLOUD",
-              Name == "JORDAN ERTMAN" ~ "JORDAN ERFMAN",
-              TRUE ~ Name
-            )) %>% 
-            mutate(School = case_when(
-              School %in% c("Andes Central/Dakota Christian") ~ "Andes Cen/Dak Ch",
-              School %in% c("Clark/Willow") ~ "Clark/Willow Lake",
-              School %in% c("Cheyenne-Eagle Butte","Cheyenne-Eag") ~ "CEB",
-              School %in% c("DR Smary","DR St. Marys","Dell Rapids St. Mary") ~ "DR St. Mary",
-              School == "Dell Rapis" ~ "Dell Rapids",
-              School == "Deubrook" ~ "Deubrook Area",
-              School %in% c("Elkton-Lake") ~ "Elkton-Lake Benton",
-              School %in% c("Faulkton") ~ "Faulkton Area",
-              School %in% c("Freeman ") ~ "Freeman",
-              School %in% c("Freeman Acad","Freeman Academy/Marion") ~ "Freeman Acad/Mar",
-              School %in% c("Frederick") ~ "Frederick Area",
-              School %in% c("Great Plains Lutheran","Great Plains") ~ "Great Plains Lut",
-              School %in% c("Groton") ~ "Groton Area",
-              School %in% c("Herreid/Selby") ~ "Herreid/Selby Area",
-              School %in% c("Highmore") ~ "Highmore-Harrold",
-              School %in% c("Iroquois/Lake Preston") ~ "Iroquois/Lak",
-              School %in% c("James","JVC","James Valley","James Valley Christian") ~ "James Valley Chr",
-              School %in% c("Kadoka Area") ~ "Kadoka",
-              School %in% c("Kimball White Lake") ~ "Kimball/White Lake",
-              School %in% c("Little WOund") ~ "Little Wound",
-              School %in% c("McCook Centr","McCook","McCook Central/Montrose") ~ "McCook-Central",
-              School %in% c("Mount Vernon/Plankinton","Mount Vernon") ~ "Mount Vernon/Pla",
-              School %in% c("Oldham-Ramon") ~ "Oldham-Ramona-Rutland",
-              School == "Potter county" ~ "Potter County",
-              School %in% c("Pierre") ~ "Pierre T.F. Riggs",
-              School %in% c("Rapid City C","Rapid City Christian") ~ "RC Christian",
-              School == "SF Lincoln" ~ "Sioux Falls Lincoln",
-              School %in% c("Sioux Falls Christian") ~ "SF Christian",
-              School %in% c("Sioux Falls Jefferson") ~ "SF Jefferson",
-              School %in% c("Sioux Falls Roosevelt") ~ "SF Roosevelt",
-              School %in% c("Sioux Falls Washington") ~ "SF Washington",
-              School %in% c("SBA","Sunshine","Sunshine Bible Academy") ~ "Sunshine Bible A",
-              School %in% c("Sanborn Central/Woonsocket","Sanborn Cent","Sanborn") ~ "Sanborn Cent/Woo",
-              School %in% c("Suly Buttes") ~ "Sully Buttes",
-              School %in% c(" Stanley County","Stanely County") ~ "Stanley County",
-              School %in% c("St. Francis INdian") ~ "St. Francis Indian",
-              School == "Webster" ~ "Webster Area",
-              TRUE ~ School)) %>%
+          readin_boys <- readin_boys %>% 
+            # mutate(School = case_when(
+            #   School %in% c("Andes Central/Dakota Christian") ~ "Andes Cen/Dak Ch",
+            #   School %in% c("Clark/Willow") ~ "Clark/Willow Lake",
+            #   School %in% c("Cheyenne-Eagle Butte","Cheyenne-Eag") ~ "CEB",
+            #   School %in% c("DR Smary","DR St. Marys","Dell Rapids St. Mary") ~ "DR St. Mary",
+            #   School == "Dell Rapis" ~ "Dell Rapids",
+            #   School == "Deubrook" ~ "Deubrook Area",
+            #   School %in% c("Elkton-Lake") ~ "Elkton-Lake Benton",
+            #   School %in% c("Faulkton") ~ "Faulkton Area",
+            #   School %in% c("Freeman ") ~ "Freeman",
+            #   School %in% c("Freeman Acad","Freeman Academy/Marion") ~ "Freeman Acad/Mar",
+            #   School %in% c("Frederick") ~ "Frederick Area",
+            #   School %in% c("Great Plains Lut","Great Plains") ~ "Great Plains Lutheran",
+            #   School %in% c("Groton") ~ "Groton Area",
+            #   School %in% c("Herreid/Selby") ~ "Herreid/Selby Area",
+            #   School %in% c("Highmore") ~ "Highmore-Harrold",
+            #   School %in% c("Iroquois/Lake Preston") ~ "Iroquois/Lak",
+            #   School %in% c("James","JVC","James Valley","James Valley Chr") ~ "James Valley Christian",
+            #   School %in% c("Kadoka Area") ~ "Kadoka",
+            #   School %in% c("Kimball White Lake") ~ "Kimball/White Lake",
+            #   School %in% c("Little WOund") ~ "Little Wound",
+            #   School %in% c("McCook Centr","McCook","McCook Central/Montrose") ~ "McCook-Central",
+            #   School %in% c("Mount Vernon/Pla","Mount Vernon") ~ "Mount Vernon/Plankinton",
+            #   School %in% c("Oldham-Ramon") ~ "Oldham-Ramona-Rutland",
+            #   School == "Potter county" ~ "Potter County",
+            #   School %in% c("Pierre") ~ "Pierre T.F. Riggs",
+            #   School %in% c("Rapid City C","Rapid City Christian") ~ "RC Christian",
+            #   School == "SF Lincoln" ~ "Sioux Falls Lincoln",
+            #   School %in% c("Sioux Falls Christian") ~ "SF Christian",
+            #   School %in% c("Sioux Falls Jefferson") ~ "SF Jefferson",
+            #   School %in% c("Sioux Falls Roosevelt") ~ "SF Roosevelt",
+            #   School %in% c("Sioux Falls Washington") ~ "SF Washington",
+            #   School %in% c("SBA","Sunshine","Sunshine Bible Academy") ~ "Sunshine Bible A",
+            #   School %in% c("Sanborn Central/Woo","Sanborn Cent","Sanborn") ~ "Sanborn Central/Woonsocket",
+            #   School %in% c("Suly Buttes") ~ "Sully Buttes",
+            #   School %in% c(" Stanley County","Stanely County") ~ "Stanley County",
+            #   School %in% c("St. Francis INdian") ~ "St. Francis Indian",
+            #   School == "Webster" ~ "Webster Area",
+            #   TRUE ~ School)) %>%
               filter(School %in% list_schools$School)
               # inner_join(list_schools, by="School") %>%  #Remove out of state schools
               # select(-school_class)
           readin_boys$Place <- c(1:nrow(readin_boys))
 
           readin_girls <- readin_girls %>%
-            mutate(Name = case_when(
-              Name == "ABBY JOHANNESSON" ~ "ABBY JOHANNESON",
-              Name == "AKANE METCALF" ~ "AKANE METCALFE",
-              Name == "ALEXIS (LUCY) DALEY" ~ "ALEXIS DALEY",
-              Name == "ALYSSA NOVSTUP" ~ "ALYSSA NOVSTRUP",
-              Name == "ASIA VANDERWERFF" ~ "ASIA VANDERWERFF",
-              Name == "AUSTASIA SORENSEN" ~ "AUSTINA SORENSEN",
-              Name %in% c("BRYNLYN HUBER", "BRYNNY HUBER") ~ "BRYNNLY HUBER",
-              Name == "BRIELLA WATTLAUFER" ~ "BRIELLA WETTLAUFER",
-              Name %in% c("CADENCE AMIOTTE", "Candance AMIOTTE") ~ "CADANCE AMIOTTE",
-              Name == "CLARE PETERSON" ~ "CLAIRE PETERSON",
-              Name == "CLAIRE MCCALLUM" ~ "CLAIRE MCCALLUM",
-              Name == "ELI RIEFFENBERGER" ~ "ELIZABETH RIEFFENBERGER",
-              Name == "ELLA BOEKLEHEIDE" ~ "ELLA BOEKELHEIDE",
-              Name == "ELIXABETH VOGEL" ~ "ELIZABETH VOGEL",
-              Name == "ESTELLE WALTHNER" ~ "ESTELLE WALTNER",
-              Name == "GRACE MCELROY" ~ "GRACE MCELROY",
-              Name == "JADY WOLF" ~ "JACY WOLF",
-              Name == "KATE MCELROY" ~ "KATE MCELROY",
-              Name == "HADLEY GJERDSE" ~ "HADLEY GJERDE",
-              Name == "HADASAH OLSON" ~ "HADASSAH OLSON",
-              Name == "HANNA DELINE" ~ "HANNAH DELINE",
-              Name == "HAZEL KANNEGAITER" ~ "HAZEL KANNEGIETER",
-              Name == "ISABELLE WOODING" ~ "ISABELLE WOODRING",
-              Name == "JADEYN THIN ELK" ~ "JADEN THIN ELK",
-              Name == "KATIE ALLBEE" ~ "KATIE ALBEE",
-              Name == "KEIDI OLSON" ~ "HEIDI OLSON",
-              Name == "KENNAEDEE WAGNER" ~ "KENNADEE WAGNER",
-              Name == "KINSLEY EVANS" ~ "KINSEY EVANS",
-              Name == "LIBERTY TRYGSTAD" ~ "LIBERTY TRYGSTAD",
-              Name == "LILYTH CATCHES" ~ "LILLYTH CATCHES",
-              Name == "LIVY SWANSON" ~ "LILY SWANSON",
-              Name == "MADILYN GELHAUS" ~ "MADISYN GELLHAUS",
-              Name == "MAKAYLA HEESCH" ~ "MAKAYLA HEESCH",
-              Name == "MORGAN VANVEEN" ~ "MORGAN VANVEEN",
-              Name == "MACIAH BRANTNER" ~ "MICAIAH BRANTNER",
-              Name == "RHYANN ROSELAND" ~ "RHYAN ROSELAND",
-              Name == "RHAYONNA HOOD" ~ "RAHYONNA HOOD",
-              Name == "SARAH VANDEBERG" ~ "SARAH VANDEBERG",
-              Name == "SIETA WISEREMA" ~ "SIETA WIERSEMA",
-              Name == "SOPHIE REDLER" ~ "SOPHIA REDLER",
-              Name == "TANAYA PACHECO" ~ "TANAYIA PACHECO",
-              Name %in% c("WI WANBIL WI LITTLE THUNDER","WI WANBLI WI LITTLE THUN") ~ "WI WANBLI WI LITTLE THUNDER",
-              TRUE ~ Name
-            )) %>% 
-            mutate(School = case_when(
-              School %in% c("Andes Central/Dakota Christian") ~ "Andes Cen/Dak Ch",
-              School %in% c("Clark/Willow") ~ "Clark/Willow Lake",
-              School %in% c("Cheyenne-Eagle Butte","Cheyenne-Eag") ~ "CEB",
-              School %in% c("DR Smary","DR St. Marys","Dell Rapids St. Mary") ~ "DR St. Mary",
-              School == "Dell Rapis" ~ "Dell Rapids",
-              School == "Deubrook" ~ "Deubrook Area",
-              School %in% c("Elkton-Lake") ~ "Elkton-Lake Benton",
-              School %in% c("Faulkton") ~ "Faulkton Area",
-              School %in% c("Freeman ") ~ "Freeman",
-              School %in% c("Freeman Acad","Freeman Academy/Marion") ~ "Freeman Acad/Mar",
-              School %in% c("Frederick") ~ "Frederick Area",
-              School %in% c("Great Plains Lutheran","Great Plains") ~ "Great Plains Lut",
-              School %in% c("Groton") ~ "Groton Area",
-              School %in% c("Herreid/Selby") ~ "Herreid/Selby Area",
-              School %in% c("Highmore") ~ "Highmore-Harrold",
-              School %in% c("Iroquois/Lake Preston") ~ "Iroquois/Lak",
-              School %in% c("James","JVC","James Valley","James Valley Christian") ~ "James Valley Chr",
-              School %in% c("Kadoka Area") ~ "Kadoka",
-              School %in% c("Kimball White Lake") ~ "Kimball/White Lake",
-              School %in% c("Little WOund") ~ "Little Wound",
-              School %in% c("McCook Centr","McCook","McCook Central/Montrose") ~ "McCook-Central",
-              School %in% c("Mount Vernon/Plankinton","Mount Vernon") ~ "Mount Vernon/Pla",
-              School %in% c("Oldham-Ramon") ~ "Oldham-Ramona-Rutland",
-              School == "Potter county" ~ "Potter County",
-              School %in% c("Pierre") ~ "Pierre T.F. Riggs",
-              School %in% c("Rapid City C","Rapid City Christian") ~ "RC Christian",
-              School == "SF Lincoln" ~ "Sioux Falls Lincoln",
-              School %in% c("Sioux Falls Christian") ~ "SF Christian",
-              School %in% c("Sioux Falls Jefferson") ~ "SF Jefferson",
-              School %in% c("Sioux Falls Roosevelt") ~ "SF Roosevelt",
-              School %in% c("Sioux Falls Washington") ~ "SF Washington",
-              School %in% c("SBA","Sunshine") ~ "Sunshine Bible A",
-              School %in% c("SBA","Sunshine","Sunshine Bible Academy") ~ "Sunshine Bible A",
-              School %in% c("Sanborn Central/Woonsocket","Sanborn Cent","Sanborn") ~ "Sanborn Cent/Woo",
-              School %in% c("Suly Buttes") ~ "Sully Buttes",
-              School %in% c(" Stanley County","Stanely County") ~ "Stanley County",
-              School %in% c("St. Francis INdian") ~ "St. Francis Indian",
-              School == "Webster" ~ "Webster Area",
-              TRUE ~ School)) %>% 
+            # mutate(School = case_when(
+            #   School %in% c("Andes Central/Dakota Christian") ~ "Andes Cen/Dak Ch",
+            #   School %in% c("Clark/Willow") ~ "Clark/Willow Lake",
+            #   School %in% c("Cheyenne-Eagle Butte","Cheyenne-Eag") ~ "CEB",
+            #   School %in% c("DR Smary","DR St. Marys","Dell Rapids St. Mary") ~ "DR St. Mary",
+            #   School == "Dell Rapis" ~ "Dell Rapids",
+            #   School == "Deubrook" ~ "Deubrook Area",
+            #   School %in% c("Elkton-Lake") ~ "Elkton-Lake Benton",
+            #   School %in% c("Faulkton") ~ "Faulkton Area",
+            #   School %in% c("Freeman ") ~ "Freeman",
+            #   School %in% c("Freeman Acad","Freeman Academy/Marion") ~ "Freeman Acad/Mar",
+            #   School %in% c("Frederick") ~ "Frederick Area",
+            #   School %in% c("Great Plains Lutheran","Great Plains") ~ "Great Plains Lut",
+            #   School %in% c("Groton") ~ "Groton Area",
+            #   School %in% c("Herreid/Selby") ~ "Herreid/Selby Area",
+            #   School %in% c("Highmore") ~ "Highmore-Harrold",
+            #   School %in% c("Iroquois/Lake Preston") ~ "Iroquois/Lak",
+            #   School %in% c("James","JVC","James Valley","James Valley Christian") ~ "James Valley Chr",
+            #   School %in% c("Kadoka Area") ~ "Kadoka",
+            #   School %in% c("Kimball White Lake") ~ "Kimball/White Lake",
+            #   School %in% c("Little WOund") ~ "Little Wound",
+            #   School %in% c("McCook Centr","McCook","McCook Central/Montrose") ~ "McCook-Central",
+            #   School %in% c("Mount Vernon/Plankinton","Mount Vernon") ~ "Mount Vernon/Pla",
+            #   School %in% c("Oldham-Ramon") ~ "Oldham-Ramona-Rutland",
+            #   School == "Potter county" ~ "Potter County",
+            #   School %in% c("Pierre") ~ "Pierre T.F. Riggs",
+            #   School %in% c("Rapid City C","Rapid City Christian") ~ "RC Christian",
+            #   School == "SF Lincoln" ~ "Sioux Falls Lincoln",
+            #   School %in% c("Sioux Falls Christian") ~ "SF Christian",
+            #   School %in% c("Sioux Falls Jefferson") ~ "SF Jefferson",
+            #   School %in% c("Sioux Falls Roosevelt") ~ "SF Roosevelt",
+            #   School %in% c("Sioux Falls Washington") ~ "SF Washington",
+            #   School %in% c("SBA","Sunshine") ~ "Sunshine Bible A",
+            #   School %in% c("SBA","Sunshine","Sunshine Bible Academy") ~ "Sunshine Bible A",
+            #   School %in% c("Sanborn Central/Woonsocket","Sanborn Cent","Sanborn") ~ "Sanborn Cent/Woo",
+            #   School %in% c("Suly Buttes") ~ "Sully Buttes",
+            #   School %in% c(" Stanley County","Stanely County") ~ "Stanley County",
+            #   School %in% c("St. Francis INdian") ~ "St. Francis Indian",
+            #   School == "Webster" ~ "Webster Area",
+            #   TRUE ~ School)) %>% 
               filter(School %in% list_schools$School)
               # inner_join(list_schools, by="School") %>%  #Remove out of state schools
               # select(-school_class)
