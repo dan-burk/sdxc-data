@@ -17,6 +17,7 @@ meet_list$meet_number <- c(1:nrow(meet_list))
 
 # Import Standardized School List
 list_schools <- read.csv(paste0(year, "/Simulation/list_schools.csv"), stringsAsFactors = FALSE)
+# list_schools
 
     # Read in Cumulative Scoring Throughout Season
   # t <- readRDS(paste0(2023, "/Simulation/df_points_boys.rds"))
