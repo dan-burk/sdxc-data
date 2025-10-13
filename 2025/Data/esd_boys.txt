@@ -1,0 +1,581 @@
+1
+
+Mikah Peters
+
+Brandon Valley
+15:10.16
+Yr: 12 • +1pts
+2
+CU
+Carson Urlacher
+
+Aberdeen Central
+15:49.31
+Yr: 11 • +2pts
+3
+CM
+Caleb Morris
+
+Pierre T.F. Riggs
+15:57.87
+PR • Yr: 12 • +3pts
+4
+DS
+Dane Stark
+
+Watertown
+15:58.82
+Yr: 11 • +4pts
+5
+AS
+Asher Selness
+
+Brandon Valley
+16:01.50
+Yr: 10 • +5pts
+6
+EK
+Ethan Kyte
+
+Brandon Valley
+16:05.90
+Yr: 10 • +6pts
+7
+EF
+Esten Foss
+
+Aberdeen Central
+16:20.92
+Yr: 12 • +7pts
+8
+GS
+Griffin Smith
+
+Harrisburg
+16:24.71
+SR • Yr: 12 • +8pts
+9
+MN
+Max Nelson
+
+Aberdeen Central
+16:28.94
+Yr: 11 • +9pts
+10
+HP
+Hunter Patton
+
+Mitchell
+16:29.90
+Yr: 12 • +10pts
+11
+HK
+Harrison Krajewski
+
+Yankton
+16:35.94
+Yr: 12 • +11pts
+12
+BO
+Bryton Olson
+
+Yankton
+16:37.73
+PR • Yr: 12 • +12pts
+13
+
+Benjamin Dirks
+
+Harrisburg
+16:44.41
+PR • Yr: 11 • +13pts
+14
+GO
+Gideon Okken
+
+Harrisburg
+16:44.69
+PR • Yr: 10 • +14pts
+15
+SM
+Samuel Mischke
+
+Brandon Valley
+16:45.06
+PR • Yr: 9 • +15pts
+16
+RM
+Ryley McKeown
+
+Brandon Valley
+16:45.81
+Yr: 12 • +16pts
+17
+LF
+Luke Feimer
+
+Yankton
+16:49.07
+Yr: 11 • +17pts
+18
+
+Tate DeVries
+
+Aberdeen Central
+16:50.63
+Yr: 10 • +18pts
+19
+GR
+Gabe Rock
+
+Yankton
+16:52.31
+PR • Yr: 10 • +19pts
+20
+
+Shane Harming
+
+Brookings
+16:55.91
+PR • Yr: 12 • +20pts
+21
+
+Kyson Fayant
+
+Aberdeen Central
+17:00.91
+Yr: 12 • +21pts
+22
+GC
+Greyson Cauwels
+
+Harrisburg
+17:02.32
+PR • Yr: 12 • +22pts
+23
+MR
+Maverik Ragon
+
+Harrisburg
+17:04.40
+Yr: 12 • +23pts
+24
+
+Jack Campbell
+
+Tea Area
+17:05.39
+Yr: 12 • +24pts
+25
+DH
+Dylan Haar
+
+Brookings
+17:07.76
+Yr: 10 • +25pts
+26
+DL
+Dawson Lowery
+
+Harrisburg
+17:09.69
+PR • Yr: 10 • +26pts
+27
+
+Tucker Lunde
+
+Watertown
+17:12.78
+PR • Yr: 12 • +27pts
+28
+QM
+Quinntin Mischke
+
+Brandon Valley
+17:13.66
+Yr: 9 • +28pts
+29
+DM
+Daniel Mason
+
+Pierre T.F. Riggs
+17:14.89
+PR • Yr: 11 • +29pts
+30
+IS
+Isaac Spahr
+
+Brandon Valley
+17:15.06
+SR • Yr: 11 • +30pts
+31
+
+Reid Hammerquist
+
+Tea Area
+17:15.38
+Yr: 11 • +31pts
+32
+
+Marco Springman
+
+Brookings
+17:15.76
+Yr: 12 • +32pts
+33
+IP
+Isaac Paulson
+
+Yankton
+17:21.30
+PR • Yr: 10 • +33pts
+34
+
+Marcus Munsch
+
+Brandon Valley
+17:24.18
+Yr: 11
+35
+RC
+Reece Christian
+
+Tea Area
+17:28.08
+Yr: 9 • +34pts
+36
+EW
+Eli Weinrich
+
+Aberdeen Central
+17:28.47
+PR • Yr: 10 • +35pts
+37
+TV
+Tate VanLaecken
+
+Tea Area
+17:36.43
+PR • Yr: 11 • +36pts
+38
+
+Jonah Klemisch
+
+Tea Area
+17:38.43
+Yr: 11 • +37pts
+39
+JB
+Jack Bierman
+
+Brookings
+17:39.37
+PR • Yr: 12 • +38pts
+40
+IL
+Isaac Larrington
+
+Yankton
+17:41.93
+PR • Yr: 11 • +39pts
+41
+EB
+Ethan Brenden
+
+Yankton
+17:43.50
+Yr: 12 • +40pts
+42
+EM
+Elias Michailidis
+
+Brandon Valley
+17:47.47
+Yr: 12
+43
+KB
+Kuddyer Baugher
+
+Brookings
+17:47.73
+PR • Yr: 9 • +41pts
+44
+EM
+Evan Mack
+
+Watertown
+17:47.76
+Yr: 10 • +42pts
+45
+LJ
+Luke Jacobson
+
+Yankton
+17:49.75
+Yr: 10
+46
+NF
+Nathan Flanagan
+
+Harrisburg
+17:50.61
+PR • Yr: 10 • +43pts
+47
+WC
+Wyatt Cooley
+
+Brookings
+17:52.90
+PR • Yr: 9 • +44pts
+48
+BW
+Bradley Walden
+
+Brandon Valley
+17:53.84
+Yr: 11
+49
+MB
+Micah Bennett
+
+Mitchell
+17:56.26
+PR • Yr: 8 • +45pts
+50
+BS
+Blake Schierholz
+
+Harrisburg
+17:56.90
+Yr: 10
+51
+CL
+Camden Lamb
+
+Pierre T.F. Riggs
+17:57.18
+PR • Yr: 9 • +46pts
+52
+RD
+Ryder Davis
+
+Aberdeen Central
+17:59.13
+Yr: 12 • +47pts
+53
+LB
+Lance Bodeen
+
+Harrisburg
+18:00.51
+Yr: 12
+54
+KC
+Kaden Christian
+
+Tea Area
+18:05.53
+Yr: 11 • +48pts
+55
+BG
+Ben Gerlach
+
+Mitchell
+18:13.12
+Yr: 12 • +49pts
+56
+KH
+Kaden Hunhoff
+
+Yankton
+18:17.82
+Yr: 12
+57
+KH
+Karsten Herges
+
+Mitchell
+18:25.04
+PR • Yr: 9 • +50pts
+58
+JS
+James Stolley
+
+Pierre T.F. Riggs
+18:28.36
+PR • Yr: 11 • +51pts
+59
+
+Tryton Parmely
+
+Pierre T.F. Riggs
+18:30.56
+SR • Yr: 11 • +52pts
+60
+BO
+Brooks Ordway
+
+Harrisburg
+18:31.52
+Yr: 11
+61
+TL
+Teagan Lien
+
+Huron
+18:34.26
+SR • Yr: 11 • +53pts
+62
+IN
+Isaiah Norton
+
+Watertown
+18:41.70
+Yr: 12 • +54pts
+63
+SJ
+Shane Jones
+
+Pierre T.F. Riggs
+18:44.70
+Yr: 10 • +55pts
+64
+JK
+Jett Kirschenmann
+
+Pierre T.F. Riggs
+18:45.41
+PR • Yr: 9 • +56pts
+65
+
+Kaiser Lunde
+
+Watertown
+18:47.21
+Yr: 8 • +57pts
+66
+AO
+Asher Oxford
+
+Pierre T.F. Riggs
+18:56.60
+PR • Yr: 10
+67
+
+Garrett Ysbrand
+
+Brookings
+19:05.72
+Yr: 9 • +58pts
+68
+CM
+CJ Moses
+
+Pierre T.F. Riggs
+19:10.04
+SR • Yr: 12
+69
+JW
+James Weir
+
+Huron
+19:12.41
+Yr: 11 • +59pts
+70
+HW
+Hayden Werlinger
+
+Aberdeen Central
+19:22.85
+Yr: 12
+71
+MR
+Maxwell Radke
+
+Huron
+19:32.51
+PR • Yr: 10 • +60pts
+72
+JD
+Jacob DeYoung
+
+Tea Area
+19:35.95
+Yr: 12 • +61pts
+73
+GL
+Grady Lindgren
+
+Watertown
+19:37.44
+PR • Yr: 8 • +62pts
+74
+KC
+Kaiden Colomb
+
+Mitchell
+19:49.66
+PR • Yr: 8 • +63pts
+75
+WB
+Weston Baker
+
+Brookings
+19:51.00
+Yr: 12
+76
+BR
+Blake Russell
+
+Mitchell
+20:02.94
+PR • Yr: 7 • +64pts
+77
+SO
+Sebastian Olivo
+
+Huron
+20:16.27
+PR • Yr: 11 • +65pts
+78
+EL
+Ethan Lofgren
+
+Mitchell
+20:33.80
+SR • Yr: 12 • +66pts
+79
+DP
+David Peterson
+
+Watertown
+21:02.61
+SR • Yr: 11 • +67pts
+80
+WM
+Will Mullenmeister
+
+Mitchell
+21:16.60
+Yr: 7
+81
+ES
+Emerson Sarvis
+
+Huron
+22:06.11
+Yr: 11 • +68pts
+82
+DC
+Dylan Cortave
+
+Mitchell
+22:19.98
+PR • Yr: 12
+83
+CB
+Carter Buschbach
+
+Mitchell
+24:57.82
+PR • Yr: 9

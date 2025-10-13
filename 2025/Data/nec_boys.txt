@@ -1,0 +1,343 @@
+1
+JS
+Jeter Scoular
+
+Milbank
+17:25.33
+Yr: 11
+2
+JS
+Jayden Schwan
+
+Groton Area
+17:44.12
+Yr: 12
+3
+RG
+Ryder Graff
+
+Sisseton
+18:21.32
+Yr: 11
+4
+CH
+Caden Hourigan
+
+Deuel
+18:29.13
+Yr: 11
+5
+
+Brett Hansen
+
+Sisseton
+18:39.34
+Yr: 10
+6
+TH
+Tyson Hagberg
+
+Deuel
+18:42.26
+Yr: 11
+7
+LH
+Liam Heller
+
+Milbank
+18:53.37
+Yr: 11
+8
+SB
+Sutton Benck
+
+Deuel
+19:14.37
+Yr: 11
+9
+
+Franco Flores
+
+Milbank
+19:16.60
+Yr: 10
+10
+
+Noah Estwick
+
+Sisseton
+19:23.09
+Yr: 10
+11
+DK
+Dominic Kluckman
+
+Deuel
+19:27.27
+Yr: 11
+12
+NL
+Noah Love
+
+Deuel
+19:32.82
+Yr: 10
+13
+PM
+Payton Moore
+
+Redfield
+19:42.17
+Yr: 12
+14
+BB
+Beckham Berry
+
+Milbank
+19:47.47
+Yr: 11
+15
+BG
+Bennett Graham
+
+Milbank
+19:57.42
+Yr: 11
+16
+GM
+Gavin Mattson
+
+Deuel
+20:04.23
+Yr: 10
+17
+LB
+Logan Borns
+
+Clark/Willow Lake
+20:10.22
+Yr: 7
+18
+GW
+Grady Wagner
+
+Webster Area
+20:20.39
+Yr: 11
+19
+JV
+Jase Voss
+
+Webster Area
+20:24.84
+Yr: 10
+20
+JO
+Joseph O'Brien
+
+Britton-Hecla
+20:35.16
+Yr: 9
+21
+CF
+Cole Feickert
+
+Aberdeen Roncalli
+20:45.23
+Yr: 9
+22
+AG
+Aksel Gjerde
+
+Clark/Willow Lake
+20:57.97
+Yr: 9
+23
+CG
+Chase Gustafson
+
+Hamlin
+21:14.82
+Yr: 10
+24
+BK
+Ben Keller
+
+Aberdeen Roncalli
+21:18.48
+Yr: 8
+25
+RS
+Riley Shellenberger
+
+Groton Area
+21:29.38
+Yr: 9
+26
+ES
+Ezra Steele
+
+Aberdeen Roncalli
+21:30.97
+Yr: 9
+27
+GH
+Gray Holden
+
+Deuel
+21:39.45
+Yr: 9
+28
+CH
+Coen Halverson
+
+Webster Area
+21:51.17
+PR • Yr: 7
+29
+MH
+Mason Hauck
+
+Webster Area
+22:07.87
+PR • Yr: 9
+30
+IP
+Isaac Price
+
+Aberdeen Roncalli
+22:09.80
+Yr: 12
+31
+EG
+Everett Groos
+
+Sisseton
+22:16.14
+PR • Yr: 7
+32
+WH
+Will Hovde
+
+Clark/Willow Lake
+22:17.45
+Yr: 12
+33
+AG
+Alec Garrett
+
+Webster Area
+22:18.57
+Yr: 11
+34
+LD
+Luke Donnell
+
+Sisseton
+22:20.05
+PR • Yr: 8
+35
+EG
+Ethan Gonsor
+
+Aberdeen Roncalli
+22:32.01
+Yr: 10
+36
+RW
+Rylan Wendland
+
+Milbank
+22:39.73
+Yr: 10
+37
+LM
+Leo Madsen
+
+Aberdeen Roncalli
+22:55.40
+Yr: 9
+38
+LS
+Logan Seefeldt
+
+Clark/Willow Lake
+23:10.61
+Yr: 12
+39
+CG
+Cooper Gregerson
+
+Webster Area
+23:14.48
+PR • Yr: 8
+40
+HS
+Hunter Sinner
+
+Webster Area
+23:25.62
+PR • Yr: 8
+41
+
+Aidyn Cyrus
+
+Webster Area
+23:53.04
+Yr: 10
+42
+BM
+Blake Malsam
+
+Groton Area
+24:00.39
+PR • Yr: 7
+43
+CP
+Carson Peterson
+
+Redfield
+24:14.65
+Yr: 8
+44
+G(
+Grayden (Grady) Zeck
+
+Groton Area
+24:19.12
+PR • Yr: 7
+45
+DF
+Derrick Flute
+
+Sisseton
+24:45.17
+Yr: 10
+46
+PS
+Peyton Sichmeller
+
+Webster Area
+24:52.77
+PR • Yr: 12
+47
+VT
+Vance Tolifson
+
+Webster Area
+25:44.78
+PR • Yr: 8
+48
+CA
+Colter Adams
+
+Sisseton
+27:12.79
+SR • Yr: 8
+49
+GL
+Gavon Larson
+
+Webster Area
+31:33.53
+Yr: 10
