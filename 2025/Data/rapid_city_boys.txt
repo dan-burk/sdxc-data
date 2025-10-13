@@ -1,0 +1,777 @@
+1
+EB
+Eli Balkenbush
+
+Sheridan
+15:49.78
+Yr: Fr
+2
+
+Tate Grabow
+
+Hill City
+16:07.83
+Yr: 12
+3
+AL
+Aadan Luna
+
+Sheridan
+16:13.67
+Yr: 11
+4
+WV
+Wyatt Veal
+
+Sheridan
+16:31.40
+PR • Yr: 11
+5
+LC
+Lennon Clarkson
+
+Belle Fourche
+16:36.67
+Yr: 11
+6
+CE
+Chase Erickson
+
+Thunder Basin
+16:37.11
+PR • Yr: 11
+7
+SC
+Sam Cunningham
+
+Newcastle
+16:42.44
+Yr: 12
+8
+WB
+Wyatt Balliew
+
+Douglas
+16:42.82
+Yr: 11
+9
+JG
+Joseph Gonda
+
+Sheridan
+16:46.72
+Yr: 10
+10
+SG
+Shaun Gonda
+
+Sheridan
+16:53.56
+Yr: 12
+11
+TG
+Tanner Garth
+
+Campbell County
+16:56.09
+Yr: 12
+12
+MG
+Mason Gill
+
+Spearfish
+16:58.52
+Yr: 10
+13
+BB
+Baylor Burns
+
+Philip
+16:58.56
+Yr: 12
+14
+TV
+Tate Van Beek
+
+Rapid City Stevens
+17:04.74
+Yr: 11
+15
+JS
+Jadon Shamion
+
+Campbell County
+17:06.03
+Yr: 11
+16
+JM
+Jared Melinkovich
+
+Thunder Basin
+17:08.01
+Yr: 11
+17
+TJ
+Torin Jackson
+
+Rapid City Stevens
+17:09.29
+Yr: 12
+18
+
+Grayson Moore
+
+Sheridan
+17:13.46
+Yr: 11
+19
+CM
+Caleb Morris
+
+Pierre T.F. Riggs
+17:17.73
+Yr: 12
+20
+EP
+Evan Perrigo
+
+Rapid City Stevens
+17:27.90
+Yr: 9
+21
+QB
+Quinn Bruch
+
+Sturgis Brown
+17:28.87
+Yr: 12
+22
+JT
+Jayden Taken alive
+
+Cheyenne-Eagle Butte
+17:31.01
+Yr: 12
+23
+CT
+Carter Thompson
+
+Spearfish
+17:33.80
+Yr: 10
+24
+WA
+Weston Adams
+
+Rapid City Stevens
+17:40.38
+Yr: 10
+25
+PK
+Peyton Krueger
+
+Custer
+17:42.09
+Yr: 10
+26
+
+Jeriah Alexander
+
+Rapid City Stevens
+17:43.90
+Yr: 12
+27
+WP
+William Pollick
+
+Thunder Basin
+17:47.36
+Yr: 11
+28
+RV
+Rylan VanDeest
+
+Spearfish
+17:49.83
+Yr: 9
+29
+DM
+David McKinley
+
+Philip
+17:50.90
+Yr: 12
+30
+JU
+Joshua Uhre
+
+Rapid City Stevens
+17:51.41
+Yr: 12
+31
+CW
+Campbell Wilson
+
+Laramie
+17:53.07
+Yr: 10
+32
+BB
+Barrett Bush
+
+Hill City
+17:53.71
+PR • Yr: 11
+33
+NH
+Noah Hansen
+
+Rapid City Stevens
+17:53.96
+Yr: 10
+34
+CB
+Creston Burns
+
+Philip
+17:56.18
+Yr: 12
+35
+
+Kale Fenner
+
+Sturgis Brown
+18:00.34
+SR • Yr: 12
+36
+DM
+Daniel Mason
+
+Pierre T.F. Riggs
+18:02.06
+Yr: 11
+37
+MK
+Miles Kornegay
+
+Sturgis Brown
+18:02.13
+Yr: 11
+38
+RP
+Race Pfeil
+
+Thunder Basin
+18:07.39
+PR • Yr: 12
+39
+
+Zachary Cooper
+
+Custer
+18:09.95
+Yr: 10
+40
+JW
+Jeremiah White
+
+Rapid City Christian
+18:11.07
+SR • Yr: 10
+41
+JP
+Jack Peterson
+
+Philip
+18:15.52
+Yr: 12
+42
+HH
+Hunter Holmes
+
+Thunder Basin
+18:18.41
+PR • Yr: 9
+43
+
+Gavin Chiaroni
+
+Douglas
+18:19.38
+Yr: 11
+44
+LM
+Luke Melinkovich
+
+Campbell County
+18:19.45
+Yr: 12
+45
+KG
+Kadin Gonzales
+
+Spearfish
+18:19.79
+Yr: 12
+46
+XS
+Xavier Sanchez-Gonzalez
+
+Cheyenne-Eagle Butte
+18:20.64
+Yr: 11
+47
+
+Aidan Craven
+
+Philip
+18:21.85
+Yr: 11
+48
+JT
+Jackson Taken Alive
+
+Cheyenne-Eagle Butte
+18:26.01
+Yr: 11
+49
+DM
+Darron Moeller
+
+Kimball/White Lake
+18:27.12
+Yr: 10
+50
+IC
+Isaac Clement
+
+Douglas
+18:27.50
+Yr: 9
+51
+KS
+Kallan Sparks
+
+Thunder Basin
+18:27.99
+Yr: 11
+52
+DF
+Dax Frandsen
+
+Hill City
+18:30.50
+Yr: 12
+53
+BH
+Brux Hartman
+
+Belle Fourche
+18:37.86
+Yr: 8
+54
+SL
+Seldon Little
+
+Campbell County
+18:40.60
+Yr: 11
+55
+LC
+Lawson Coleman
+
+Thunder Basin
+18:45.85
+PR • Yr: 9
+56
+
+James Dubios
+
+Hill City
+18:45.96
+Yr: 12
+57
+CT
+Cody Two Bulls
+
+Mahpiya Luta
+18:48.25
+Yr: 12
+58
+
+Canton Gingrass
+
+Hot Springs
+18:52.49
+Yr: 12
+59
+NS
+Nathan Scheinder
+
+Laramie
+18:53.08
+Yr: 11
+60
+PK
+Peyton Kallstrom
+
+Douglas
+18:54.08
+Yr: 11
+61
+CC
+Carter Cooper
+
+Custer
+18:54.34
+Yr: 8
+62
+CZ
+Cole Zimmerman
+
+Laramie
+18:55.53
+Yr: 10
+63
+DS
+Demetrius Sanchez-Gonzalez
+
+Cheyenne-Eagle Butte
+18:55.60
+Yr: 10
+64
+AR
+Aritz Rulli-Sanchez
+
+Laramie
+19:01.14
+PR • Yr: 9
+65
+IC
+Ian Cho
+
+Spearfish
+19:02.97
+Yr: 10
+66
+NH
+Nathan Hudson
+
+Belle Fourche
+19:12.44
+Yr: 11
+67
+BL
+Boris Lesueur jaunasse
+
+Laramie
+19:12.74
+Yr: 10
+68
+
+Clifford Torberson
+
+Belle Fourche
+19:15.80
+Yr: 11
+69
+DA
+Dain Aldredge
+
+Hot Springs
+19:18.47
+Yr: 11
+70
+JM
+Jace McGregor
+
+Campbell County
+19:18.70
+Yr: 12
+71
+BO
+Bennie Olsen
+
+Douglas
+19:19.33
+Yr: 11
+72
+
+Adam Hohn
+
+Custer
+19:23.97
+Yr: 8
+73
+AW
+Aiden Williams
+
+Hill City
+19:25.81
+SR • Yr: 12
+74
+LQ
+Landon Quimby
+
+Douglas
+19:27.54
+Yr: 9
+75
+CL
+Conner Lundy
+
+Custer
+19:38.12
+Yr: 10
+76
+JF
+Jayce Fire Thunder
+
+Little Wound
+19:45.32
+PR • Yr: 10
+77
+LK
+Louis Kills Crow Indian
+
+Little Wound
+19:53.03
+Yr: 10
+78
+MT
+Memphis Tallman
+
+Little Wound
+19:53.08
+Yr: 12
+79
+CL
+Cody Loseke
+
+Laramie
+19:53.38
+Yr: 11
+80
+TG
+Tanner Gottlob
+
+Spearfish
+19:55.31
+SR • Yr: 10
+81
+QM
+Quentin Miller
+
+Douglas
+19:56.14
+Yr: 11
+82
+KM
+Kade Mcgregor
+
+Campbell County
+19:57.35
+Yr: 10
+83
+TM
+Thaddaeus McKenney
+
+Belle Fourche
+20:00.93
+Yr: 10
+84
+OW
+Oden Walding
+
+Belle Fourche
+20:02.02
+Yr: 12
+85
+MO
+Micah Oliver
+
+Douglas
+20:03.01
+PR • Yr: 10
+86
+AO
+Archer Ohnstad
+
+Newcastle
+20:03.32
+Yr: 12
+87
+SR
+Saylor Rice
+
+Custer
+20:07.55
+Yr: 12
+88
+KP
+Kyler Pietzyk
+
+Spearfish
+20:09.17
+Yr: 12
+89
+CD
+Corbin Dodson
+
+Sturgis Brown
+20:10.22
+Yr: 10
+90
+JB
+Jaydin Borden
+
+Rapid City Christian
+20:11.09
+Yr: 12
+91
+JP
+Josh Parks
+
+Campbell County
+20:13.31
+PR • Yr: 11
+92
+RM
+Ryland Moore
+
+Spearfish
+20:16.80
+Yr: 9
+93
+BB
+Bloom Brown
+
+Spearfish
+20:20.04
+Yr: 10
+94
+MA
+Michael Aberle
+
+Spearfish
+20:22.20
+Yr: 10
+95
+GF
+Gage Frerichs
+
+Douglas
+20:22.41
+Yr: 9
+96
+
+Gabe Welch
+
+Douglas
+20:24.08
+Yr: 12
+97
+NC
+Nolan Chamberlin
+
+Laramie
+20:31.06
+Yr: 10
+98
+DM
+Dewayne Mesteth
+
+Rapid City Christian
+20:31.28
+Yr: 11
+99
+AE
+Alex Ekstrum
+
+Kimball/White Lake
+20:41.71
+Yr: 10
+100
+BF
+Brighton Franks
+
+Mahpiya Luta
+20:42.72
+Yr: 8
+101
+CS
+Carter Stamper
+
+St. Thomas More
+21:02.23
+Yr: 12
+102
+DD
+Dawson Deering
+
+Sturgis Brown
+21:06.39
+Yr: 9
+103
+LC
+Lane Carter
+
+Newcastle
+21:09.80
+Yr: 11
+104
+BN
+Braxton Novotny
+
+Hot Springs
+21:18.29
+Yr: 11
+105
+AP
+Andrew Peterson
+
+Douglas
+21:23.84
+Yr: 11
+106
+AA
+Alex Albrecht
+
+Spearfish
+21:25.37
+Yr: 10
+107
+JB
+Joe Bear
+
+Little Wound
+21:28.66
+Yr: 12
+108
+DS
+Dreysen Steele
+
+Mahpiya Luta
+21:34.80
+Yr: 9
+109
+AV
+Andreas Volk
+
+Mahpiya Luta
+21:48.35
+Yr: 9
+110
+LS
+Lucas Suomala
+
+Rapid City Christian
+22:13.36
+PR • Yr: 9
+111
+JB
+Jeremiah Brave Heart
+
+Little Wound
+22:47.64
+Yr: 12

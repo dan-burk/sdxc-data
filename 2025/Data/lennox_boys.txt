@@ -1,0 +1,665 @@
+1
+GB
+Gage Beverly
+
+Vermillion
+15:57.95
+Yr: 10 • +1pts
+2
+PT
+Peyton Tetzlaff
+
+West Central
+15:59.42
+Yr: 11
+3
+WL
+Wesley Lyon
+
+Sioux Falls Christian
+16:25.38
+Yr: 10 • +2pts
+4
+JS
+Jeter Scoular
+
+Milbank
+16:30.77
+Yr: 11 • +3pts
+5
+JG
+Jamison Gould
+
+Dakota Valley
+16:34.77
+Yr: 10 • +4pts
+6
+SR
+Simon Roelofs
+
+Sioux Falls Christian
+16:36.42
+Yr: 12 • +5pts
+7
+LV
+Levi Vander Leest
+
+Sioux Falls Christian
+16:45.29
+SR • Yr: 11 • +6pts
+8
+
+Mason Marx
+
+Elk Point-Jefferson
+16:58.02
+PR • Yr: 12 • +7pts
+9
+IB
+Isaak Booker
+
+Lennox
+17:00.76
+Yr: 10 • +8pts
+10
+SS
+Sam Sorensen
+
+Vermillion
+17:01.39
+PR • Yr: 9 • +9pts
+11
+IK
+Isaac Koole
+
+Sioux Falls Christian
+17:02.24
+Yr: 12 • +10pts
+12
+JL
+Jack LaFerrier
+
+Elk Point-Jefferson
+17:03.91
+PR • Yr: 9 • +11pts
+13
+LA
+Leo Aesoph
+
+Lennox
+17:04.42
+PR • Yr: 10 • +12pts
+14
+KF
+Keaton Fopma
+
+Sioux Falls Christian
+17:05.59
+Yr: 9 • +13pts
+15
+CM
+Cloy McVey
+
+Lennox
+17:08.36
+Yr: 12 • +14pts
+16
+JR
+Jaxton Rinehart
+
+Tri-Valley
+17:08.78
+PR • Yr: 10 • +15pts
+17
+
+Reid Hammerquist
+
+Tea Area
+17:12.77
+PR • Yr: 11 • +16pts
+18
+ZN
+Zach Nielsen
+
+West Central
+17:22.44
+Yr: 11
+19
+SV
+Sam VanRaalte
+
+Sioux Falls Christian
+17:24.24
+Yr: 10 • +17pts
+20
+LS
+Landon Strasser
+
+Lennox
+17:27.73
+PR • Yr: 9 • +18pts
+21
+JM
+Josh Merriman
+
+Beresford
+17:30.70
+PR • Yr: 8 • +19pts
+22
+
+Jonah Klemisch
+
+Tea Area
+17:32.78
+PR • Yr: 11 • +20pts
+23
+AK
+Andrew Koole
+
+Sioux Falls Christian
+17:36.19
+Yr: 9
+24
+LH
+Liam Heller
+
+Milbank
+17:41.34
+PR • Yr: 11 • +21pts
+25
+BC
+Brooks Clapp
+
+Sioux Falls Christian
+17:44.77
+PR • Yr: 10
+26
+TV
+Tate VanLaecken
+
+Tea Area
+17:47.53
+Yr: 11 • +22pts
+27
+KH
+Kyper Hilger
+
+West Central
+17:48.32
+SR • Yr: 12
+28
+CT
+Camden Tebay
+
+Dell Rapids
+17:54.76
+PR • Yr: 10 • +23pts
+29
+
+Jack Campbell
+
+Tea Area
+17:57.54
+Yr: 12 • +24pts
+30
+LK
+Logan Kontz
+
+Flandreau
+18:01.29
+Yr: 10 • +25pts
+31
+NB
+Noah Baumbach
+
+Sioux Falls Lutheran
+18:02.76
+PR • Yr: 9 • +26pts
+32
+LG
+Liam Gill
+
+Chamberlain
+18:03.65
+PR • Yr: 9 • +27pts
+33
+HH
+Henry Huether
+
+Beresford
+18:08.91
+PR • Yr: 10 • +28pts
+34
+NH
+Nathaniel Hobbie
+
+Flandreau
+18:14.64
+Yr: 11 • +29pts
+35
+BQ
+Ben Quail
+
+Vermillion
+18:20.37
+Yr: 10 • +30pts
+36
+KC
+Kaden Christian
+
+Tea Area
+18:26.84
+Yr: 11 • +31pts
+37
+NH
+Noah Halvorson
+
+Beresford
+18:27.07
+Yr: 10 • +32pts
+38
+OM
+Oliver Merriman
+
+Beresford
+18:27.55
+Yr: 10 • +33pts
+39
+AW
+Aleeus Wall
+
+Parker/Marion
+18:32.01
+Yr: 10 • +34pts
+40
+NK
+Nolan Katzer
+
+Dell Rapids
+18:32.24
+PR • Yr: 8 • +35pts
+41
+SK
+Sean King
+
+Tri-Valley
+18:32.27
+PR • Yr: 9 • +36pts
+42
+
+Colten Preheim
+
+Parker/Marion
+18:41.93
+Yr: 12 • +37pts
+43
+
+Alex Opland
+
+Canton
+18:43.40
+Yr: 11 • +38pts
+44
+RC
+Reece Christian
+
+Tea Area
+18:43.82
+Yr: 9 • +39pts
+45
+BB
+Beckham Berry
+
+Milbank
+18:50.57
+Yr: 11 • +40pts
+46
+SS
+Sam Schmidt
+
+Flandreau
+18:57.49
+Yr: 11 • +41pts
+47
+BF
+Beckett Fennel
+
+Elk Point-Jefferson
+18:57.87
+Yr: 10 • +42pts
+48
+JS
+Jackson Schmidt
+
+Lennox
+18:59.07
+Yr: 10 • +43pts
+49
+JB
+Jeremy Bockelman
+
+Canton
+19:00.21
+Yr: 9 • +44pts
+50
+HM
+Hudson Metz
+
+Chamberlain
+19:00.94
+Yr: 8 • +45pts
+51
+CP
+Charlie Person
+
+Dell Rapids
+19:05.09
+PR • Yr: 9 • +46pts
+52
+
+Franco Flores
+
+Milbank
+19:12.04
+Yr: 10 • +47pts
+53
+ES
+Elijah Schaap
+
+Beresford
+19:12.88
+Yr: 11 • +48pts
+54
+JV
+Jaxon Vande Vegte
+
+Elk Point-Jefferson
+19:17.88
+PR • Yr: 10 • +49pts
+55
+CH
+Caleb Hansen
+
+Beresford
+19:19.16
+Yr: 10 • +50pts
+56
+NC
+Nolan Carstensen
+
+Dell Rapids
+19:19.51
+PR • Yr: 8 • +51pts
+57
+AH
+Alex Heinemann
+
+Dell Rapids
+19:25.82
+Yr: 11 • +52pts
+58
+SM
+Sean May
+
+Vermillion
+19:26.88
+PR • Yr: 11 • +53pts
+59
+WK
+Wyatt Kontz
+
+Flandreau
+19:30.59
+Yr: 12 • +54pts
+60
+
+Hunter Penn
+
+Beresford
+19:34.85
+Yr: 12
+61
+JK
+Jaxen Kindelspire
+
+Tri-Valley
+19:51.56
+PR • Yr: 9 • +55pts
+62
+CC
+Caleb Christiansen
+
+Parker/Marion
+19:57.61
+PR • Yr: 9 • +56pts
+63
+BJ
+Bennett Jensen
+
+Dakota Valley
+19:58.22
+Yr: 12 • +57pts
+64
+JB
+Jackson Bollinger
+
+Chamberlain
+20:00.20
+PR • Yr: 8 • +58pts
+65
+BB
+Bode Biteler
+
+Sioux Falls Lutheran
+20:00.85
+PR • Yr: 8 • +59pts
+66
+NK
+Noah Korver
+
+Tea Area
+20:01.66
+Yr: 11
+67
+JD
+Jacob DeYoung
+
+Tea Area
+20:08.02
+Yr: 12
+68
+MA
+Marcus Aasheim
+
+Beresford
+20:10.62
+Yr: 11
+69
+CB
+Charley Bittner
+
+Lennox
+20:15.59
+Yr: 9 • +60pts
+70
+RB
+Ryan Bryson
+
+Canton
+20:16.28
+Yr: 9 • +61pts
+71
+CA
+Cade Aasheim
+
+Lennox
+20:18.62
+PR • Yr: 11
+72
+FD
+Franklin Donis Castillo
+
+Flandreau
+20:23.18
+Yr: 12 • +62pts
+73
+
+Josiah Newell
+
+Sioux Falls Lutheran
+20:23.76
+Yr: 8 • +63pts
+74
+TJ
+Tayte Joachims
+
+Flandreau
+20:24.49
+PR • Yr: 8 • +64pts
+75
+DR
+Dane Roberts
+
+Vermillion
+20:28.47
+PR • Yr: 8 • +65pts
+76
+GM
+Gavin Ma
+
+Vermillion
+20:29.44
+Yr: 11 • +66pts
+77
+WS
+Will Schnabel
+
+Dakota Valley
+20:32.97
+SR • Yr: 12 • +67pts
+78
+TB
+Teague Bergjord
+
+Flandreau
+20:47.40
+Yr: 12
+79
+JS
+Jonas Sattler
+
+Parker/Marion
+20:55.55
+SR • Yr: 12 • +68pts
+80
+JD
+Jasher Dixon
+
+Canton
+20:56.00
+Yr: 10 • +69pts
+81
+CG
+Collin Goosmann
+
+Dakota Valley
+21:02.26
+Yr: 8 • +70pts
+82
+EK
+Eli Kendig
+
+Tri-Valley
+21:10.84
+PR • Yr: 12 • +71pts
+83
+RR
+Rylan Richardson
+
+Canton
+21:20.86
+SR • Yr: 11 • +72pts
+84
+IK
+Isaiah Kendig
+
+Tri-Valley
+21:31.60
+SR • Yr: 10 • +73pts
+85
+
+Bryken Storms
+
+Chamberlain
+21:34.67
+Yr: 10 • +74pts
+86
+ZM
+Zachary McCully
+
+Ethan/Parkston
+21:36.67
+Yr: 12
+87
+NB
+Noah Buhian
+
+Elk Point-Jefferson
+21:37.24
+PR • Yr: 11 • +75pts
+88
+IW
+Ian Weber
+
+Dakota Valley
+21:39.87
+Yr: 11 • +76pts
+89
+RW
+Rylan Wendland
+
+Milbank
+21:49.69
+SR • Yr: 10 • +77pts
+90
+BJ
+Briggs Jarman
+
+Canton
+21:54.32
+PR • Yr: 8 • +78pts
+91
+BI
+Benjamin Iverson
+
+Sioux Falls Lutheran
+22:05.60
+PR • Yr: 12 • +79pts
+92
+CD
+Cael Derochie
+
+Elk Point-Jefferson
+22:56.30
+Yr: 10 • +80pts
+93
+CG
+Cohen Girard
+
+Elk Point-Jefferson
+22:59.02
+Yr: 11
+94
+AK
+Antone Krempges
+
+McCook Central/Montrose
+23:02.46
+Yr: 12
+95
+IS
+Isaac Shepherd
+
+Chamberlain
+23:04.06
+Yr: 12 • +81pts

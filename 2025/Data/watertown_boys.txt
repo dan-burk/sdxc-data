@@ -1,0 +1,476 @@
+1
+
+Mikah Peters
+
+Brandon Valley
+15:33.84
+Yr: 12 • +1pts
+2
+DS
+Dane Stark
+
+Watertown
+16:11.07
+Yr: 11 • +2pts
+3
+AS
+Asher Selness
+
+Brandon Valley
+16:17.59
+Yr: 10 • +3pts
+4
+EK
+Ethan Kyte
+
+Brandon Valley
+16:20.78
+Yr: 10 • +4pts
+5
+CM
+Caleb Morris
+
+Pierre T.F. Riggs
+16:35.79
+Yr: 12 • +5pts
+6
+GS
+Griffin Smith
+
+Harrisburg
+17:01.45
+Yr: 12 • +6pts
+7
+MR
+Maverik Ragon
+
+Harrisburg
+17:11.07
+Yr: 12 • +7pts
+8
+
+Benjamin Dirks
+
+Harrisburg
+17:11.80
+Yr: 11 • +8pts
+9
+SM
+Samuel Mischke
+
+Brandon Valley
+17:13.46
+Yr: 9 • +9pts
+10
+HP
+Hunter Patton
+
+Mitchell
+17:19.17
+Yr: 12 • +10pts
+11
+JS
+Jackson Schema
+
+O'Gorman
+17:20.14
+Yr: 11 • +11pts
+12
+GO
+Gideon Okken
+
+Harrisburg
+17:25.60
+Yr: 10 • +12pts
+13
+RM
+Ryley McKeown
+
+Brandon Valley
+17:33.34
+Yr: 12 • +13pts
+14
+HS
+Henry Smith
+
+O'Gorman
+17:42.11
+Yr: 10 • +14pts
+15
+
+Shane Harming
+
+Brookings
+17:45.07
+Yr: 12 • +15pts
+16
+GC
+Greyson Cauwels
+
+Harrisburg
+17:47.72
+Yr: 12 • +16pts
+17
+DH
+Dylan Haar
+
+Brookings
+17:48.32
+Yr: 10 • +17pts
+18
+QM
+Quinntin Mischke
+
+Brandon Valley
+17:48.96
+Yr: 9 • +18pts
+19
+IS
+Isaac Spahr
+
+Brandon Valley
+17:50.36
+Yr: 11 • +19pts
+20
+DL
+Dawson Lowery
+
+Harrisburg
+17:52.11
+Yr: 10 • +20pts
+21
+
+Tucker Lunde
+
+Watertown
+17:54.16
+Yr: 12 • +21pts
+22
+
+Marcus Munsch
+
+Brandon Valley
+17:56.84
+Yr: 11
+23
+DM
+Daniel Mason
+
+Pierre T.F. Riggs
+17:57.03
+Yr: 11 • +22pts
+24
+OW
+Otto Winters
+
+Brandon Valley
+18:03.87
+Yr: 11
+25
+WS
+Will Sorenson
+
+O'Gorman
+18:15.56
+Yr: 12 • +23pts
+26
+
+Marco Springman
+
+Brookings
+18:23.92
+Yr: 12 • +24pts
+27
+RH
+Ryan Heldenbrand
+
+O'Gorman
+18:24.70
+SR • Yr: 10 • +25pts
+28
+NF
+Nathan Flanagan
+
+Harrisburg
+18:26.00
+Yr: 10 • +26pts
+29
+
+Garrett Ysbrand
+
+Brookings
+18:30.92
+Yr: 9 • +27pts
+30
+LB
+Lance Bodeen
+
+Harrisburg
+18:35.72
+Yr: 12
+31
+BG
+Ben Gerlach
+
+Mitchell
+18:35.89
+Yr: 12 • +28pts
+32
+JB
+Jack Bierman
+
+Brookings
+18:41.14
+Yr: 12 • +29pts
+33
+JS
+James Stolley
+
+Pierre T.F. Riggs
+18:44.35
+Yr: 11 • +30pts
+34
+CL
+Camden Lamb
+
+Pierre T.F. Riggs
+18:45.41
+Yr: 9 • +31pts
+35
+GG
+Gavin Greenfield
+
+O'Gorman
+18:48.50
+Yr: 10 • +32pts
+36
+JT
+John Toates
+
+Brandon Valley
+18:48.91
+Yr: 8
+37
+MB
+Micah Bennett
+
+Mitchell
+18:52.83
+Yr: 8 • +33pts
+38
+JW
+James Weir
+
+Huron
+19:00.30
+SR • Yr: 11 • +34pts
+39
+TJ
+Taden Jacobs
+
+Harrisburg
+19:04.04
+Yr: 10
+40
+EM
+Elias Michailidis
+
+Brandon Valley
+19:05.39
+Yr: 12
+41
+KB
+Kuddyer Baugher
+
+Brookings
+19:08.38
+Yr: 9 • +35pts
+42
+SJ
+Shane Jones
+
+Pierre T.F. Riggs
+19:10.94
+Yr: 10 • +36pts
+43
+CM
+CJ Moses
+
+Pierre T.F. Riggs
+19:19.80
+Yr: 12 • +37pts
+44
+BW
+Bradley Walden
+
+Brandon Valley
+19:23.58
+Yr: 11
+45
+KH
+Karsten Herges
+
+Mitchell
+19:29.29
+Yr: 9 • +38pts
+46
+
+Kaiser Lunde
+
+Watertown
+19:30.29
+Yr: 8 • +39pts
+47
+JK
+Jett Kirschenmann
+
+Pierre T.F. Riggs
+19:30.91
+Yr: 9 • +40pts
+48
+AO
+Asher Oxford
+
+Pierre T.F. Riggs
+19:34.69
+Yr: 10
+49
+CE
+Carson Ewalt
+
+Northwestern
+19:38.98
+Yr: 12
+50
+WB
+Weston Baker
+
+Brookings
+19:51.41
+Yr: 12 • +41pts
+51
+TL
+Teagan Lien
+
+Huron
+19:54.96
+Yr: 11 • +42pts
+52
+
+Tryton Parmely
+
+Pierre T.F. Riggs
+19:55.14
+Yr: 11
+53
+IN
+Isaiah Norton
+
+Watertown
+19:56.80
+Yr: 12 • +43pts
+54
+MR
+Maxwell Radke
+
+Huron
+20:13.65
+Yr: 10 • +44pts
+55
+LN
+Logan Nelson
+
+O'Gorman
+20:14.60
+PR • Yr: 9 • +45pts
+56
+EM
+Evan Mack
+
+Watertown
+20:17.53
+Yr: 10 • +46pts
+57
+WC
+Wyatt Cooley
+
+Brookings
+20:28.02
+Yr: 9
+58
+RP
+Ryker Parmely
+
+Pierre T.F. Riggs
+20:34.26
+Yr: 9
+59
+WM
+Will Mullenmeister
+
+Mitchell
+20:35.99
+PR • Yr: 7 • +47pts
+60
+DV
+Dawson Vandenbos
+
+O'Gorman
+20:51.68
+PR • Yr: 9 • +48pts
+61
+TM
+Trenton Munyer
+
+Pierre T.F. Riggs
+20:52.82
+Yr: 9
+62
+SO
+Sebastian Olivo
+
+Huron
+22:00.13
+Yr: 11 • +49pts
+63
+GL
+Grady Lindgren
+
+Watertown
+22:18.27
+Yr: 8 • +50pts
+64
+JF
+Jacob Friedman
+
+O'Gorman
+22:27.84
+SR • Yr: 10
+65
+EL
+Ethan Lofgren
+
+Mitchell
+22:58.97
+Yr: 12 • +51pts
+66
+ES
+Emerson Sarvis
+
+Huron
+23:15.01
+Yr: 11 • +52pts
+67
+CF
+Colt Fenske
+
+Huron
+25:23.40
+SR • Yr: 10 • +53pts
+68
+MS
+Matthew Salmen
+
+Huron
+27:42.19
+Yr: 11 • +54pts

@@ -1,0 +1,553 @@
+1
+AL
+Aadan Luna
+
+Sheridan
+16:18.74
+Yr: 11 • +1pts
+2
+CR
+Champ Ransom
+
+Natrona County
+16:35.68
+Yr: 12 • +2pts
+3
+ER
+Everett Roberson
+
+Kelly Walsh
+16:49.94
+Yr: 12 • +3pts
+4
+LC
+Lennon Clarkson
+
+Belle Fourche
+16:59.80
+Yr: 11 • +4pts
+5
+JG
+Joseph Gonda
+
+Sheridan
+17:01.05
+Yr: 10 • +5pts
+6
+TG
+Tanner Garth
+
+Campbell County
+17:05.93
+Yr: 12 • +6pts
+7
+QB
+Quinn Bruch
+
+Sturgis Brown
+17:09.90
+Yr: 12
+8
+CE
+Chase Erickson
+
+Thunder Basin
+17:10.14
+Yr: 11 • +7pts
+9
+JW
+Jackson Webster
+
+Kelly Walsh
+17:12.69
+Yr: 11 • +8pts
+10
+WV
+Wyatt Veal
+
+Sheridan
+17:13.58
+Yr: 11 • +9pts
+11
+JS
+Jadon Shamion
+
+Campbell County
+17:18.00
+Yr: 11 • +10pts
+12
+JM
+Jared Melinkovich
+
+Thunder Basin
+17:24.72
+Yr: 11 • +11pts
+13
+BH
+Brendan Hargraves
+
+Natrona County
+17:29.57
+Yr: 10 • +12pts
+14
+
+Grayson Moore
+
+Sheridan
+17:30.08
+Yr: 11 • +13pts
+15
+SG
+Shaun Gonda
+
+Sheridan
+17:38.95
+Yr: 12 • +14pts
+16
+PK
+Peyton Krueger
+
+Custer
+17:42.70
+Yr: 10 • +15pts
+17
+WP
+William Pollick
+
+Thunder Basin
+17:53.89
+Yr: 11 • +16pts
+18
+AH
+Abraham Hughes
+
+Sheridan
+17:56.27
+SR • Yr: 11 • +17pts
+19
+SC
+Sam Cunningham
+
+Newcastle
+17:56.40
+Yr: 12 • +18pts
+20
+JB
+Jordan Bowlds
+
+Natrona County
+17:56.54
+Yr: 10 • +19pts
+21
+
+Zane Gunnell
+
+Custer
+18:02.18
+Yr: 10 • +20pts
+22
+CM
+Carter McMullen
+
+Sheridan
+18:07.73
+Yr: 10 • +21pts
+23
+JR
+Jacob Ruble
+
+Kelly Walsh
+18:17.77
+Yr: 12 • +22pts
+24
+RP
+Race Pfeil
+
+Thunder Basin
+18:21.45
+Yr: 12 • +23pts
+25
+AL
+Aiden Lien
+
+Natrona County
+18:28.06
+Yr: 12 • +24pts
+26
+ZS
+Zachary Schrader
+
+Natrona County
+18:28.14
+Yr: 10 • +25pts
+27
+SR
+Sebastian Ruiz
+
+Kelly Walsh
+18:30.63
+Yr: 12 • +26pts
+28
+
+Adam Hohn
+
+Custer
+18:36.28
+Yr: 8 • +27pts
+29
+LO
+Logan Okes
+
+Kelly Walsh
+18:37.52
+Yr: 11 • +28pts
+30
+CC
+Cameron Cook
+
+Kelly Walsh
+18:38.23
+PR • Yr: 10 • +29pts
+31
+
+Kale Fenner
+
+Sturgis Brown
+18:42.83
+Yr: 12
+32
+SL
+Seldon Little
+
+Campbell County
+18:44.27
+Yr: 11 • +30pts
+33
+GL
+Garrett Lee
+
+Kelly Walsh
+18:45.12
+PR • Yr: 9 • +31pts
+34
+CC
+Carter Cooper
+
+Custer
+18:46.89
+Yr: 8 • +32pts
+35
+HH
+Hunter Holmes
+
+Thunder Basin
+18:48.32
+Yr: 9 • +33pts
+36
+NG
+Nathan Gruner
+
+Natrona County
+18:49.10
+Yr: 11 • +34pts
+37
+JP
+Jude Pennington
+
+Thunder Basin
+18:54.28
+Yr: 11 • +35pts
+38
+DE
+Devlin Engelman
+
+Kelly Walsh
+18:54.32
+SR • Yr: 12
+39
+MK
+Miles Kornegay
+
+Sturgis Brown
+18:59.43
+Yr: 11
+40
+
+Zachary Cooper
+
+Custer
+18:59.66
+Yr: 10 • +36pts
+41
+DM
+David McDivitt
+
+Natrona County
+19:01.19
+Yr: 12 • +37pts
+42
+JS
+Jayce Sanders
+
+Natrona County
+19:05.24
+Yr: So
+43
+TT
+Tanner Tromble
+
+Kelly Walsh
+19:05.63
+Yr: 9
+44
+LM
+Luke Melinkovich
+
+Campbell County
+19:12.23
+Yr: 12 • +38pts
+45
+TD
+Tommy Dayton
+
+Kelly Walsh
+19:15.16
+Yr: 12
+46
+BH
+Brux Hartman
+
+Belle Fourche
+19:17.41
+Yr: 8 • +39pts
+47
+AD
+Austin Drew
+
+Custer
+19:21.83
+Yr: 11 • +40pts
+48
+KS
+Kallan Sparks
+
+Thunder Basin
+19:28.93
+Yr: 11 • +41pts
+49
+AO
+Archer Ohnstad
+
+Newcastle
+19:29.87
+Yr: 12 • +42pts
+50
+
+Kian Rusch
+
+Custer
+19:42.84
+Yr: 12 • +43pts
+51
+OW
+Oden Walding
+
+Belle Fourche
+19:48.28
+Yr: 12 • +44pts
+52
+BB
+Bloom Brown
+
+Spearfish
+19:59.51
+Yr: 10 • +45pts
+53
+SR
+Saylor Rice
+
+Custer
+20:02.81
+Yr: 12
+54
+
+Clifford Torberson
+
+Belle Fourche
+20:05.73
+Yr: 11 • +46pts
+55
+JM
+Jace McGregor
+
+Campbell County
+20:18.30
+Yr: 12 • +47pts
+56
+TM
+Thaddaeus McKenney
+
+Belle Fourche
+20:18.88
+Yr: 10 • +48pts
+57
+MO
+Micah Oliver
+
+Douglas
+20:30.69
+Yr: 10 • +49pts
+58
+JB
+Jaydin Borden
+
+Rapid City Christian
+20:50.70
+Yr: 12
+59
+JM
+Jaden McGuire
+
+Newcastle
+20:53.91
+Yr: 11 • +50pts
+60
+AA
+Alex Albrecht
+
+Spearfish
+20:55.38
+Yr: 10 • +51pts
+61
+JP
+Josh Parks
+
+Campbell County
+20:57.26
+Yr: 11 • +52pts
+62
+
+Gabe Welch
+
+Douglas
+21:14.47
+Yr: 12 • +53pts
+63
+TG
+Tanner Gottlob
+
+Spearfish
+21:14.57
+Yr: 10 • +54pts
+64
+RM
+Ryland Moore
+
+Spearfish
+21:18.08
+Yr: 9 • +55pts
+65
+LC
+Lane Carter
+
+Newcastle
+21:22.15
+Yr: 11 • +56pts
+66
+GF
+Gage Frerichs
+
+Douglas
+21:34.42
+Yr: 9 • +57pts
+67
+QM
+Quentin Miller
+
+Douglas
+22:01.81
+Yr: 11 • +58pts
+68
+KP
+Kyler Pietzyk
+
+Spearfish
+22:13.20
+Yr: 12 • +59pts
+69
+LS
+Lucas Suomala
+
+Rapid City Christian
+22:41.20
+Yr: 9
+70
+AP
+Andrew Peterson
+
+Douglas
+22:52.83
+Yr: 11 • +60pts
+71
+GM
+Gilberto MartinezChavez
+
+Newcastle
+23:02.35
+Yr: 9 • +61pts
+72
+DC
+Dylan Conley
+
+Newcastle
+24:26.18
+Yr: 10 • +62pts
+73
+SG
+Sean Gatzke
+
+Douglas
+24:27.87
+Yr: 11 • +63pts
+74
+LN
+Liam Novak
+
+Newcastle
+24:27.96
+Yr: 9 • +64pts
+75
+JM
+Jessie McKiven
+
+Douglas
+24:32.32
+Yr: 9 • +65pts
+76
+EH
+Elliot Harms
+
+Douglas
+24:33.40
+Yr: 9
+77
+TK
+Tristen Kjos
+
+Rapid City Christian
+25:38.52
+Yr: 9
+78
+TD
+Trevor Divis
+
+Douglas
+25:54.97
+Yr: 9
+79
+LB
+Lou Breed
+
+Rapid City Christian
+29:09.90
+Yr: 9
