@@ -137,3 +137,12 @@ The system maintains state across meets using RDS files:
 - The script processes meets sequentially - cannot skip weeks
 - Out-of-state athletes are filtered before place reassignment
 - Name matching is case-sensitive (all names converted to uppercase)
+
+## Known Issues
+
+See `ISSUES.md` for a list of known issues including:
+- Duplicate and misspelled files
+- Orphaned files without CSV equivalents
+- Files in wrong locations
+- Source files (PNG/PDF) that could be archived
+- Code with hardcoded paths
