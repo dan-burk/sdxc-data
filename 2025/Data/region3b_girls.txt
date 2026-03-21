@@ -1,0 +1,280 @@
+1
+AB
+Autumn Baker
+
+Kimball/White Lake
+19:30
+Yr: 12 • +1pts • Q
+2
+AM
+Alli McCord
+
+Kimball/White Lake
+19:55
+Yr: 11 • +2pts • Q
+3
+LB
+Lily Baker
+
+Kimball/White Lake
+20:30
+Yr: 11 • +3pts • Q
+4
+EV
+Emrie VonEye
+
+Sanborn Central/Woonsocket
+20:44
+Yr: 7 • +4pts • Q
+5
+LN
+Laura Nemec
+
+Mitchell Christian
+20:48
+Yr: 8 • +5pts • Q
+6
+EH
+Elle Hlavac
+
+Scotland
+20:54
+Yr: 9 • +6pts • Q
+7
+JC
+Jordan Chessmore
+
+Tripp-Delmont/Armour
+21:17
+Yr: 8 • Q
+8
+AE
+Abigail Engel
+
+Gregory
+21:23
+SR • Yr: 10 • +7pts • Q
+9
+AS
+April Skluzak
+
+Kimball/White Lake
+21:29
+Yr: 9 • +8pts • Q
+10
+GS
+Grace Steffen
+
+Burke
+21:36
+PR • Yr: 9 • +9pts • Q
+11
+HD
+Hannah DeLine
+
+Mitchell Christian
+21:42
+Yr: 12 • +10pts • Q
+12
+AN
+Aspen Niewenhuis
+
+Andes Central/Dakota Christian
+21:51
+SR • Yr: 8 • Q
+13
+JZ
+Jordyn Zeisler
+
+Burke
+21:53
+PR • Yr: 7 • +11pts • Q
+14
+LC
+Lyndsey Chessmore
+
+Tripp-Delmont/Armour
+22:16
+PR • Yr: 9 • Q
+15
+ZS
+Zoe Schaeffer
+
+Menno
+22:18
+Yr: 11 • +12pts • Q
+16
+AH
+Amy Henderson
+
+Mitchell Christian
+22:22
+Yr: 11 • +13pts • Q
+17
+MB
+Mina Bjorum
+
+Scotland
+22:35
+PR • Yr: 7 • +14pts • Q
+18
+
+Olivia Boyle
+
+Corsica-Stickney
+22:35.02
+PR • Yr: 8 • Q
+19
+
+Taylor Zeisler
+
+Burke
+22:37
+Yr: 10 • +15pts • Q
+20
+OS
+Olivia Schultz
+
+Freeman
+22:38
+Yr: 9 • +16pts • Q
+21
+AN
+Alexa Nanninga
+
+Freeman
+22:56
+Yr: 10 • +17pts
+22
+NF
+Nika Furney
+
+Scotland
+23:02
+PR • Yr: 10 • +18pts
+23
+AB
+Avery Birkel
+
+Gregory
+23:04
+Yr: 7 • +19pts
+24
+SW
+Savanah Wielenga
+
+Menno
+23:12
+PR • Yr: 8 • +20pts
+25
+LG
+Lainey Goertz
+
+Sanborn Central/Woonsocket
+23:31
+Yr: 10 • +21pts
+26
+AA
+Andie Aughenbaugh
+
+Sanborn Central/Woonsocket
+23:32
+Yr: 12 • +22pts
+27
+MW
+Mya Warnke
+
+Gregory
+24:10
+PR • Yr: 7 • +23pts
+28
+BN
+Breaw Neth
+
+Scotland
+24:12
+PR • Yr: 7 • +24pts
+29
+GB
+Gentrie Blasius
+
+Kimball/White Lake
+24:23
+SR • Yr: 10 • +25pts • Q
+30
+AN
+Addison Nydam
+
+Mitchell Christian
+24:45
+Yr: 10 • +26pts • Q
+31
+HR
+Hannah Rigo
+
+Freeman
+24:50
+Yr: 8 • +27pts
+32
+EB
+Elizabeth Boschee
+
+Sanborn Central/Woonsocket
+25:00
+Yr: 12 • +28pts
+33
+LC
+Leah Crick
+
+Menno
+25:16
+PR • Yr: 9 • +29pts
+34
+SC
+Sadie Carlson
+
+Gregory
+25:30
+PR • Yr: 10 • +30pts
+35
+ER
+Emma Rempfer
+
+Menno
+25:47
+Yr: 9 • +31pts
+36
+HE
+Hayden Eagle
+
+Sanborn Central/Woonsocket
+26:25
+Yr: 7 • +32pts
+37
+BR
+Britney Rueb
+
+Scotland
+26:34
+SR • Yr: 12 • +33pts
+38
+TH
+Trudie Hofer
+
+Mitchell Christian
+26:38
+PR • Yr: 11 • +34pts • Q
+39
+IS
+Ivana Schaeffer
+
+Menno
+26:43
+Yr: 8 • +35pts
+40
+AK
+Addison Krogstad
+
+Corsica-Stickney
+29:36
+Yr: 12

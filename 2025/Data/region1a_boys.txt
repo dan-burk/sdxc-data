@@ -1,0 +1,406 @@
+1
+JS
+Jeter Scoular
+
+Milbank
+17:14.97
+Yr: 11 • +1pts • Q
+2
+JS
+Jayden Schwan
+
+Groton Area
+17:29.09
+Yr: 12 • +2pts • Q
+3
+CH
+Caden Hourigan
+
+Deuel
+17:34.86
+Yr: 11 • +3pts • Q
+4
+
+Ryder Graff
+
+Sisseton
+17:55.68
+Yr: 11 • +4pts • Q
+5
+TH
+Tyson Hagberg
+
+Deuel
+18:02.18
+Yr: 11 • +5pts • Q
+6
+LH
+Liam Heller
+
+Milbank
+18:19.30
+Yr: 11 • +6pts • Q
+7
+
+Brett Hansen
+
+Sisseton
+18:36.83
+Yr: 10 • +7pts • Q
+8
+DK
+Dominic Kluckman
+
+Deuel
+18:47.20
+Yr: 11 • +8pts • Q
+9
+
+Carter Hinners
+
+Great Plains Lutheran
+18:54.51
+Yr: 12 • +9pts • Q
+10
+
+Noah Estwick
+
+Sisseton
+18:55.44
+Yr: 10 • +10pts • Q
+11
+SB
+Sutton Benck
+
+Deuel
+19:00.10
+Yr: 11 • +11pts • Q
+12
+LP
+Levi Peterson
+
+Deuel
+19:01.03
+Yr: 12 • +12pts • Q
+13
+GM
+Gavin Mattson
+
+Deuel
+19:02.40
+Yr: 10 • +13pts • Q
+14
+PM
+Payton Moore
+
+Redfield
+19:05.40
+Yr: 12 • Q
+15
+
+Franco Flores
+
+Milbank
+19:06.72
+Yr: 10 • +14pts • Q
+16
+AK
+Austin Keller
+
+Florence/Henry
+19:13.43
+Yr: 10 • +15pts • Q
+17
+TH
+Titus Hofinga
+
+Great Plains Lutheran
+19:24.75
+Yr: 11 • +16pts • Q
+18
+RS
+Riley Shellenberger
+
+Groton Area
+19:38.85
+Yr: 9 • +17pts • Q
+19
+GW
+Grady Wagner
+
+Webster Area
+19:40.05
+Yr: 11 • +18pts • Q
+20
+BG
+Bennett Graham
+
+Milbank
+19:42.36
+Yr: 11 • +19pts • Q
+21
+BB
+Beckham Berry
+
+Milbank
+19:49.78
+Yr: 11 • +20pts • Q
+22
+LB
+Logan Borns
+
+Clark/Willow Lake
+19:55.56
+Yr: 7 • +21pts
+23
+TS
+Tucker Steffens
+
+Tri-State
+19:57.15
+PR • Yr: 11 • +22pts
+24
+SM
+Sam Manian
+
+Great Plains Lutheran
+20:00.90
+Yr: 11 • +23pts
+25
+JO
+Joseph O'Brien
+
+Britton-Hecla
+20:01.22
+Yr: 9
+26
+LS
+Luke Schaeffer
+
+Great Plains Lutheran
+20:08.85
+Yr: 8 • +24pts
+27
+AF
+Adrian Flisrand
+
+Florence/Henry
+20:23.14
+Yr: 10 • +25pts
+28
+BK
+Ben Keller
+
+Aberdeen Roncalli
+20:32.49
+Yr: 8 • +26pts
+29
+
+William LaBerge
+
+Great Plains Lutheran
+20:37.36
+Yr: 11 • +27pts
+30
+JV
+Jase Voss
+
+Webster Area
+20:46.49
+Yr: 10 • +28pts
+31
+CG
+Chase Gustafson
+
+Hamlin
+20:49.17
+Yr: 10
+32
+AG
+Aksel Gjerde
+
+Clark/Willow Lake
+20:54.72
+Yr: 9 • +29pts
+33
+TK
+Tucker Keller
+
+Florence/Henry
+21:00.12
+Yr: 11 • +30pts
+34
+ES
+Ezra Steele
+
+Aberdeen Roncalli
+21:10.89
+Yr: 9 • +31pts
+35
+AG
+Alec Garrett
+
+Webster Area
+21:14.48
+Yr: 11 • +32pts
+36
+GH
+Gavin Hinners
+
+Great Plains Lutheran
+21:24.16
+PR • Yr: 10 • +33pts
+37
+DH
+Dawson Hlavacek
+
+Florence/Henry
+21:24.49
+Yr: 11 • +34pts
+38
+RW
+Rylan Wendland
+
+Milbank
+21:24.70
+Yr: 10 • +35pts • Q
+39
+CH
+Coen Halvorson
+
+Webster Area
+21:26.69
+PR • Yr: 7 • +36pts
+40
+DF
+Derek Flisrand
+
+Florence/Henry
+21:31.31
+PR • Yr: 8 • +37pts
+41
+IP
+Isaac Price
+
+Aberdeen Roncalli
+21:32.96
+SR • Yr: 12 • +38pts
+42
+
+Everett Groos
+
+Sisseton
+21:41.57
+Yr: 7 • +39pts • Q
+43
+CF
+Cole Feickert
+
+Aberdeen Roncalli
+21:46.31
+Yr: 9 • +40pts
+44
+EG
+Ethan Gonsor
+
+Aberdeen Roncalli
+21:48.59
+Yr: 10 • +41pts
+45
+G(
+Grayden (Grady) Zeck
+
+Groton Area
+21:52.66
+PR • Yr: 7 • +42pts
+46
+WH
+Will Hovde
+
+Clark/Willow Lake
+21:55.94
+Yr: 12 • +43pts
+47
+CG
+Cooper Gregerson
+
+Webster Area
+22:00.31
+PR • Yr: 8 • +44pts
+48
+BM
+Blake Malsam
+
+Groton Area
+22:09.31
+PR • Yr: 7 • +45pts
+49
+DS
+Dayton Sando
+
+Tri-State
+22:11.20
+PR • Yr: 10 • +46pts
+50
+LS
+Logan Seefeldt
+
+Clark/Willow Lake
+22:25.68
+Yr: 12 • +47pts
+51
+ZH
+Zander Hart
+
+Tri-State
+22:38.18
+Yr: 9 • +48pts
+52
+MH
+Mason Hauck
+
+Webster Area
+22:40.33
+Yr: 9 • +49pts
+53
+LM
+Leo Madsen
+
+Aberdeen Roncalli
+22:52.71
+Yr: 9 • +50pts
+54
+ZS
+Zach Schroeder
+
+Florence/Henry
+23:12.29
+Yr: 11 • +51pts
+55
+LW
+Landon Wegener
+
+Sisseton
+23:26.02
+Yr: 7 • +52pts • Q
+56
+DF
+Derrick Flute
+
+Sisseton
+23:27.39
+PR • Yr: 10 • +53pts • Q
+57
+CP
+Carson Peterson
+
+Redfield
+23:53.72
+Yr: 8
+58
+CR
+Cobin Raguse
+
+Tri-State
+26:46.39
+Yr: 11 • +54pts
