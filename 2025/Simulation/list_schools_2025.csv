@@ -25,21 +25,22 @@ De Smet,B
 Deubrook Area,B
 Deuel,A
 Douglas,AA
-Dupree,A
+Dupree,B
 Edgemont,B
-Estelline/Hendricks,A
+Estelline/Hendricks,B
 Ethan/Parkston,A
+Faith,B
 Faulkton Area,B
 Flandreau,A
 Flandreau Indian,B
 Florence/Henry,A
 Frederick Area,B
 Freeman,B
-Freeman Acad/Mar,B
 Gayville-Volin,B
 Great Plains Lutheran,A
 Gregory,B
 Harrisburg,AA
+Hamlin,A
 Herreid/Selby Area,B
 Highmore-Harrold,B
 Hill City,A
@@ -49,7 +50,7 @@ Huron,AA
 Ipswich,B
 Irene-Wakonda,B
 James Valley Christian,B
-Kimball/White Lake,A
+Kimball/White Lake,B
 Lemmon,B
 Lennox,A
 Leola,B
@@ -57,7 +58,7 @@ Lower Brule,B
 Lyman,B
 Madison,A
 McCrossan,B
-McLaughlin,A
+McLaughlin,B
 Milbank,A
 Miller,A
 Mitchell,AA
@@ -66,7 +67,7 @@ Mobridge-Pollock,A
 Mount Vernon/Plankinton,A
 New Underwood,B
 Newell,B
-North Central,A
+North Central,B
 Northwestern,B
 O'Gorman,AA
 Philip,B
@@ -76,15 +77,15 @@ Gettysburg,B
 Rapid City Christian,A
 Rapid City Central,AA
 Rapid City Stevens,AA
-Red Cloud,A
+Mahpiya Luta,A
 Redfield,A
 Sioux Falls Christian,A
 Sioux Falls Jefferson,AA
 Sioux Falls Roosevelt,AA
 Sioux Falls Washington,AA
-Sioux Falls Lincoln,B
 Sanborn Central/Woonsocket,A
 Sioux Falls Lincoln,AA
+Sioux Falls Lutheran,B
 Sioux Valley,A
 Sisseton,A
 Spearfish,AA
@@ -96,17 +97,18 @@ Sunshine Bible Academy,B
 Tea Area,A
 Timber Lake,B
 Tri-State,A
+Takini,B
 Vermillion,A
 Viborg-Hurley,B
 Wakpala,B
 Wall,B
 Warner,B
 Watertown,AA
-Waubay/Summit,A
+Waubay/Summit,B
 Wessington Springs,B
 West Central,A
 White River,B
-Winner,A
+Winner/Colome,A
 Wolsey-Wessington,B
 Yankton,AA
 Andes Central/Dakota Christian,B
@@ -119,9 +121,11 @@ Groton Area,A
 Hanson,A
 Harding County,B
 Hot Springs,A
+Hoven,B
 Jones County,B
 Lead-Deadwood,A
 Menno,B
+Oelrichs,B
 Scotland,B
 Todd County,A
 Tripp-Delmont/Armour,B
@@ -152,4 +156,5 @@ Tiospa Zina,B
 Aberdeen Christian,B
 Bridgewater-Emery,B
 Mahpiya Luta,A
-Britton-Hecla,B
+Britton-Hecla,A
+Waverly-South Shore,B

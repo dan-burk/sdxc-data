@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Overview
 
 This repository processes South Dakota high school cross country (XC) race results and generates rankings using an ELO-like scoring system. The system:
-- Converts raw meet results (TXT/XLSX) to CSV format
+- Converts raw meet results (TXT/XLSX/PNG/URL) to CSV format (Very Messy)
 - Tracks athletes across the season with unique IDs
 - Calculates cumulative point scores based on pairwise race comparisons
 - Maintains standardized school naming conventions
