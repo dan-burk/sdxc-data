@@ -20,6 +20,9 @@ When the user pastes a schedule, add rows to `{year}/meet_list.csv` with exactly
 - **`week`**: same scheme as 2025. Week 1 runs from the first meets through the *second* Saturday (2025: Thu Aug 28 to Sat Sep 6; 2026: Thu Aug 27 to Sat Sep 5). After that, each week runs Monday to Saturday.
 - **`flg_5k`**: last season's value if it's the same meet; otherwise blank (see step 3). Pierre is never a 5K.
 - **`missing`** = 1 until its TXT files arrive; **`alternative`** = 0.
+- **Skip middle-school meets:** anything with "MS" in its name (e.g. "Aberdeen MS Invite"). Rankings are high school only. The "XC | MS, HS" tag line in a pasted schedule doesn't count; only the meet name does.
+- **Listed twice** (same meet posted under two names, e.g. "NEC" and "Northeast Conference Meet"): add it once.
+- **Cancelled or postponed:** keep it, with "(Cancelled)" or "(Postponed)" in the name.
 
 ## 1. Convert
 
