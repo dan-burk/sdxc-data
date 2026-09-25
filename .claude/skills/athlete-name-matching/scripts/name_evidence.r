@@ -1,0 +1,49 @@
+# Evidence for every "possible misspelled runner" pair in a season.
+# Usage (from repo root): Rscript .claude/skills/athlete-name-matching/scripts/name_evidence.r 2025
+#
+# For each pair (same school + gender, names 1-2 letters apart) prints:
+#   races_1 / races_2    how many races each spelling appears in
+#   same_race            races where BOTH spellings ran -> two different people
+#   grade_1 / grade_2    grades listed for each spelling
+#   best_1 / best_2      best time for each spelling
+#   meets_1 / meets_2    where each spelling appears
+
+suppressPackageStartupMessages(library(dplyr))
+library(stringr)
+options(width = 250)
+source("R/load.r")
+source("R/check.r")
+
+year <- commandArgs(trailingOnly = TRUE)[1]
+if (is.na(year)) year <- "2025"
+season <- load_season(year)
+
+in_state <- season$races %>% filter(school %in% season$schools$school)
+pairs <- similar_names(in_state)
+if (nrow(pairs) == 0) {
+  cat("No similar-name pairs in", year, "\n")
+  quit(save = "no")
+}
+
+profile <- function(g, s, n) {
+  r <- in_state %>% filter(gender == g, school == s, name == n)
+  list(races = nrow(r),
+       grade = paste(unique(r$grade), collapse = ","),
+       best  = if (all(is.na(r$time_sec))) NA else r$time[which.min(r$time_sec)],
+       meets = r$meet)
+}
+
+rows <- lapply(seq_len(nrow(pairs)), function(k) {
+  p <- pairs[k, ]
+  a <- profile(p$gender, p$school, p$name_1)
+  b <- profile(p$gender, p$school, p$name_2)
+  both <- intersect(a$meets, b$meets)
+  tibble(gender = p$gender, school = p$school,
+         name_1 = p$name_1, races_1 = a$races, grade_1 = a$grade, best_1 = a$best,
+         name_2 = p$name_2, races_2 = b$races, grade_2 = b$grade, best_2 = b$best,
+         same_race = if (length(both)) paste(both, collapse = ";") else "",
+         meets_1 = paste(head(a$meets, 3), collapse = ";"),
+         meets_2 = paste(head(b$meets, 3), collapse = ";"))
+})
+
+bind_rows(rows) %>% as.data.frame() %>% print(right = FALSE, row.names = FALSE)

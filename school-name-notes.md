@@ -34,6 +34,7 @@ All schools separated by "-" (hyphen) or "/" (slash) are co-ops between towns/sc
 | North Central | Eureka-Bowdle, Edmunds Central | Restructured into North Central at some point |
 | Deuel | Grant-Deuel | Grant-Deuel collapsed into Deuel |
 | Freeman Acad/Mar | Freeman Academy, Marion | Old co-op, no longer active. Marion now co-ops with Parker; Freeman Academy now co-ops with Freeman |
+| Gettysburg | Potter County | Renamed; same school |
 | Redfield | Redfield/Doland | Historically a catch-all for Redfield/Doland; unclear if co-op still active |
 | Milbank | Wilmot | Wilmot is part of Milbank |
 
