@@ -48,7 +48,7 @@ Pass the meets you just converted (or nothing, for all meets). It reports:
 
 `flg_5k` decides whether a meet's times count as PRs. The user usually says which meets are 5Ks. Fill in only the obvious ones:
 - **Same meet as last season:** use last season's `flg_5k`. Meets that weren't 5Ks in 2025 are almost certainly not 5Ks now (Milbank Breathe Easy, North Central/Bowdle, O'Gorman, Mile High Preview/Deadwood, Pierre).
-- **Boys winner well under 14:00:** not a 5K. The 2025 non-5K winners ran 13:00–13:42.
+- **Boys winner well under 14:00:** not a 5K. Most 2025 non-5K winners ran 13:00–13:42 (Milbank Breathe Easy was 14:22, so the carry-over rule matters more).
 - **Otherwise:** leave it blank and ask. `run.r` won't score while any `flg_5k` is blank, so nothing slips through.
 
 ## 4. Parser notes (`R/convert.r`)
