@@ -7,11 +7,13 @@
 #   {year}/merged_meets.csv                        meets published as two files but run as one race
 
 suppressPackageStartupMessages(library(dplyr))
+library(stringr)
+source("R/load.r")
 source("R/convert.r")
 
 year <- 2025
 
-meets  <- readxl::read_xlsx(file.path(year, "meet_list.xlsx")) %>% filter(missing == 0)
+meets  <- read_meet_list(year) %>% filter(missing == 0)
 merges <- read.csv(file.path(year, "merged_meets.csv"), colClasses = "character")
 
 for (i in seq_len(nrow(meets))) {

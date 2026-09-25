@@ -22,7 +22,7 @@ Run from the repo root with Windows R: `"/mnt/c/Program Files/R/R-4.5.3/bin/x64/
 
 | File | Scope | Contents |
 |---|---|---|
-| `{year}/meet_list.xlsx` | per year | Every meet: `meet` (file stem), `date`, `week`, `flg_5k`, `missing`, `alternative` (1 = results from the MileSplit URLs in `alternative_boys/girls`) |
+| `{year}/meet_list.csv` | per year | Every meet: `meet` (file stem), `date`, `week`, `flg_5k`, `missing`, `alternative` (1 = results from the MileSplit URLs in `alternative_boys/girls`) |
 | `{year}/schools.csv` | per year | In-state schools and their class (AA/A/B); classes and co-ops change yearly |
 | `school_aliases.csv` | all years | raw school name -> standard name, `OUT` (out of state) or `DROP` (not a school). Never delete rows. |
 | `{year}/athlete_aliases.csv` | per year | `name,school,correct_name` for misspelled runners (school = standardized name) |
@@ -31,7 +31,7 @@ Run from the repo root with Windows R: `"/mnt/c/Program Files/R/R-4.5.3/bin/x64/
 
 Source results are `{year}/Data/{meet}_{g}.txt` (or `_milesplit.txt`), plus `{year}/merged_meets.csv` for one race published as two meets. **The Data CSVs are generated; never hand-edit them.** Fix the source TXT or the parser, then run convert.r.
 
-Don't edit `meet_list.xlsx` without asking. Don't change the scoring code to work around bad data.
+Don't edit `meet_list.csv` without asking. Don't change the scoring code to work around bad data.
 
 ## Scoring
 

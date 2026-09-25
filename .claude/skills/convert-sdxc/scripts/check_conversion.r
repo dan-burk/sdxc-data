@@ -17,7 +17,8 @@ options(width = 200)
 args  <- commandArgs(trailingOnly = TRUE)
 year  <- if (length(args) >= 1) args[1] else "2025"
 only  <- args[-1]
-meets <- readxl::read_xlsx(file.path(year, "meet_list.xlsx")) %>% filter(missing == 0)
+source("R/load.r")
+meets <- read_meet_list(year) %>% filter(missing == 0)
 if (length(only)) meets <- meets %>% filter(meet %in% only)
 
 merges <- read.csv(file.path(year, "merged_meets.csv"), colClasses = "character")

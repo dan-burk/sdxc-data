@@ -2,15 +2,14 @@
 #
 # Curated by hand:
 #   school_aliases.csv          raw_school -> school, OUT (out of state) or DROP (not a school)
-#   {year}/meet_list.xlsx       every meet: meet, date, week, flg_5k, missing
+#   {year}/meet_list.csv        every meet: meet, date, week, flg_5k, missing
 #   {year}/schools.csv          in-state schools and their class this year
 #   {year}/athlete_aliases.csv  name + school -> correct_name, for misspelled runners
 #   {year}/different_athletes.csv  similar names checked and confirmed to be different people
 #   {year}/Data/{meet}_{boys|girls}.csv   Place, Name, School, Time, Grade
 
 load_season <- function(year) {
-  meet_list <- readxl::read_xlsx(file.path(year, "meet_list.xlsx")) %>%
-    mutate(date = as.Date(date), list_row = row_number())
+  meet_list <- read_meet_list(year)
 
   season <- list(
     year            = year,
@@ -24,6 +23,14 @@ load_season <- function(year) {
   )
   season$races <- read_races(year, meet_list) %>% clean_races(season)
   season
+}
+
+# Meet list, in file order. Dates may be 2026-08-27 or 8/27/2026 (Excel's format).
+read_meet_list <- function(year) {
+  read.csv(file.path(year, "meet_list.csv"), colClasses = "character", strip.white = TRUE) %>%
+    mutate(date     = as.Date(date, tryFormats = c("%Y-%m-%d", "%m/%d/%Y")),
+           across(c(week, flg_5k, missing, alternative), as.numeric),
+           list_row = row_number())
 }
 
 read_curated <- function(path) {

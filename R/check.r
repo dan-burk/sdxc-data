@@ -22,7 +22,7 @@ check_season <- function(season) {
   # --- Meet list -------------------------------------------------------------
   report("ERROR", "Meet listed more than once",
          meets %>% count(meet) %>% filter(n > 1))
-  report("ERROR", "Meet date not in this season, or week/missing blank",
+  report("ERROR", "Meet list: date not in this season, or week, flg_5k or missing not filled in",
          meets %>%
            filter(is.na(date) | format(date, "%Y") != as.character(year) |
                   is.na(week) | !missing %in% c(0, 1) | !flg_5k %in% c(0, 1)) %>%
