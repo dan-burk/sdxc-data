@@ -18,7 +18,7 @@ When the user pastes a schedule, add rows to `{year}/meet_list.csv` with exactly
 - **`meet`**: if the meet ran last season, reuse last season's `meet` name exactly (same host/town, e.g. John Collignon → `madison`, North Central → `bowdle`), so files line up across years. Otherwise use a short lowercase name.
 - **`date`**: `YYYY-MM-DD`.
 - **`week`**: same scheme as 2025. Week 1 runs from the first meets through the *second* Saturday (2025: Thu Aug 28 to Sat Sep 6; 2026: Thu Aug 27 to Sat Sep 5). After that, each week runs Monday to Saturday.
-- **`flg_5k`**: last season's value if the meet is the same *and* it had results then. Otherwise leave it blank: the 5K check fills it in once results exist. Pierre is never a 5K.
+- **`flg_5k`**: last season's value if it's the same meet; otherwise blank (see step 3). Pierre is never a 5K.
 - **`missing`** = 1 until its TXT files arrive; **`alternative`** = 0.
 
 ## 1. Convert
@@ -44,18 +44,12 @@ Pass the meets you just converted (or nothing, for all meets). It reports:
   - *faster than the row above*: the TXT's runner blocks are out of order. Reorder the blocks in the TXT (each block starts with the place-number line).
 - **NOT SCORED**: DQ / DNF / DNS / blank-time rows. These stay in the CSV (the placing is real information) and `run.r` drops them before scoring, so they neither gain nor lose points. Glance at the list: a real runner with a time should never be here.
 
-## 3. Is it a 5K? (fill in `flg_5k`)
+## 3. Is it a 5K? (`flg_5k`)
 
-`flg_5k` decides whether a meet's times count as PRs. Most meets after the first few weeks are 5Ks; the early-season meets are the ones to check. For every meet with results and a blank `flg_5k`:
-```
-"/mnt/c/Program Files/R/R-4.5.3/bin/x64/Rscript.exe" .claude/skills/convert-sdxc/scripts/check_5k.r <year>
-```
-It compares each runner's time with their own usual 5K time (this season's other 5Ks, or last season's if they have none yet), then gives the meet's median as `pct`:
-- **`pct` < 85 → `flg_5k = 0`** (not a 5K). In 2025, the known non-5Ks came out at 75–84%.
-- **`pct` ≥ 92 → `flg_5k = 1`** (5K). In 2025, the 5Ks came out at 92–111%.
-- **85–91, or too few runners → ask the user.** This could be a short 5K (Castlewood 87%, Wall 90% were marked 5K) or a long shorter race.
-
-Write the clear cases into `{year}/meet_list.csv` yourself and list them in your report. Ask about the rest. `run.r` refuses to score while any `flg_5k` is blank, so nothing slips through. `check_5k.r <year> all` audits every meet.
+`flg_5k` decides whether a meet's times count as PRs. The user usually says which meets are 5Ks. Fill in only the obvious ones:
+- **Same meet as last season:** use last season's `flg_5k`. Meets that weren't 5Ks in 2025 are almost certainly not 5Ks now (Milbank Breathe Easy, North Central/Bowdle, O'Gorman, Mile High Preview/Deadwood, Pierre).
+- **Boys winner well under 14:00:** not a 5K. The 2025 non-5K winners ran 13:00–13:42.
+- **Otherwise:** leave it blank and ask. `run.r` won't score while any `flg_5k` is blank, so nothing slips through.
 
 ## 4. Parser notes (`R/convert.r`)
 
