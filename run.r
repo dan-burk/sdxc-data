@@ -8,7 +8,8 @@ source("R/load.r")
 source("R/check.r")
 source("R/score.r")
 
-year  <- 2025
+year  <- 2025  # or: Rscript run.r 2026
+if (length(commandArgs(trailingOnly = TRUE))) year <- as.numeric(commandArgs(trailingOnly = TRUE)[1])
 wager <- 0.05
 
 season <- load_season(year)

@@ -11,9 +11,9 @@ If there are new meet results (new TXT files, or meets in the meet list with no 
 
 From the repo root:
 ```
-"/mnt/c/Program Files/R/R-4.5.3/bin/x64/Rscript.exe" run.r
+"/mnt/c/Program Files/R/R-4.5.3/bin/x64/Rscript.exe" run.r <year>
 ```
-This is the same as `source("run.r")` in R. It checks the data first. If any ERROR is found it stops without scoring. Otherwise it writes `{year}/output/rankings_{boys,girls}.csv` (one ranking per week). The season is set by `year <- ...` in run.r.
+This is the same as `source("run.r")` in R. It checks the data first. If any ERROR is found it stops without scoring. Otherwise it writes `{year}/output/rankings_{boys,girls}.csv` (one ranking per week). The year argument picks the season (default 2025, the `year <-` line in run.r, used when the user runs `source("run.r")`).
 
 ## 2. Handle what it reports
 

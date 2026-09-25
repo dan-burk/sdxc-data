@@ -11,7 +11,8 @@ library(stringr)
 source("R/load.r")
 source("R/convert.r")
 
-year <- 2025
+year  <- 2025  # or: Rscript convert.r 2026
+if (length(commandArgs(trailingOnly = TRUE))) year <- as.numeric(commandArgs(trailingOnly = TRUE)[1])
 
 meets  <- read_meet_list(year) %>% filter(missing == 0)
 merges <- read.csv(file.path(year, "merged_meets.csv"), colClasses = "character")
