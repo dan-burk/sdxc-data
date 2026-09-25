@@ -1,6 +1,6 @@
 ---
 name: convert-sdxc
-description: Convert new South Dakota XC meet results (TXT files or MileSplit URLs) into Data CSVs with convert.r, then verify every runner parsed correctly and that DQ/DNF/no-time runners won't be scored. Use when the user types /convert-sdxc, adds new meet TXT files, adds meets to the meet list, or asks whether results parsed/converted correctly. Run this before run-sdxc whenever there are new results.
+description: Convert new South Dakota XC meet results (TXT files or MileSplit URLs) into Data CSVs with convert.r, then verify every runner parsed correctly, that DQ/DNF/no-time runners won't be scored, and whether each new meet is a 5K (flg_5k). Use when the user types /convert-sdxc, adds new meet TXT files, pastes a meet schedule to add to the meet list, asks whether a meet is a 5K, or asks whether results parsed/converted correctly. Run this before run-sdxc whenever there are new results.
 ---
 
 # Convert meet results to CSV
@@ -11,6 +11,15 @@ description: Convert new South Dakota XC meet results (TXT files or MileSplit UR
 - `{year}/merged_meets.csv` (`meet,merge_from,note`): one race published as two meets. The sources are combined, duplicates dropped, rows sorted by time and places renumbered (ECC + LCC 2025).
 
 **The source files are the truth; the CSVs are output.** Never hand-edit a CSV. The next conversion overwrites it. Fix the TXT (or add a merge row, or fix the parser) and reconvert.
+
+## Adding meets to the meet list
+
+When the user pastes a schedule, add rows to `{year}/meet_list.csv` with exactly the 2025 columns: `official_meet_name,meet,date,week,flg_5k,missing,alternative,alternative_boys,alternative_girls`.
+- **`meet`**: if the meet ran last season, reuse last season's `meet` name exactly (same host/town, e.g. John Collignon → `madison`, North Central → `bowdle`), so files line up across years. Otherwise use a short lowercase name.
+- **`date`**: `YYYY-MM-DD`.
+- **`week`**: same scheme as 2025. Week 1 runs from the first meets through the *second* Saturday (2025: Thu Aug 28 to Sat Sep 6; 2026: Thu Aug 27 to Sat Sep 5). After that, each week runs Monday to Saturday.
+- **`flg_5k`**: last season's value if the meet is the same *and* it had results then. Otherwise leave it blank: the 5K check fills it in once results exist. Pierre is never a 5K.
+- **`missing`** = 1 until its TXT files arrive; **`alternative`** = 0.
 
 ## 1. Convert
 
@@ -35,7 +44,20 @@ Pass the meets you just converted (or nothing, for all meets). It reports:
   - *faster than the row above*: the TXT's runner blocks are out of order. Reorder the blocks in the TXT (each block starts with the place-number line).
 - **NOT SCORED**: DQ / DNF / DNS / blank-time rows. These stay in the CSV (the placing is real information) and `run.r` drops them before scoring, so they neither gain nor lose points. Glance at the list: a real runner with a time should never be here.
 
-## 3. Parser notes (`R/convert.r`)
+## 3. Is it a 5K? (fill in `flg_5k`)
+
+`flg_5k` decides whether a meet's times count as PRs. Most meets after the first few weeks are 5Ks; the early-season meets are the ones to check. For every meet with results and a blank `flg_5k`:
+```
+"/mnt/c/Program Files/R/R-4.5.3/bin/x64/Rscript.exe" .claude/skills/convert-sdxc/scripts/check_5k.r <year>
+```
+It compares each runner's time with their own usual 5K time (this season's other 5Ks, or last season's if they have none yet), then gives the meet's median as `pct`:
+- **`pct` < 85 → `flg_5k = 0`** (not a 5K). In 2025, the known non-5Ks came out at 75–84%.
+- **`pct` ≥ 92 → `flg_5k = 1`** (5K). In 2025, the 5Ks came out at 92–111%.
+- **85–91, or too few runners → ask the user.** This could be a short 5K (Castlewood 87%, Wall 90% were marked 5K) or a long shorter race.
+
+Write the clear cases into `{year}/meet_list.csv` yourself and list them in your report. Ask about the rest. `run.r` refuses to score while any `flg_5k` is blank, so nothing slips through. `check_5k.r <year> all` audits every meet.
+
+## 4. Parser notes (`R/convert.r`)
 
 The TXT format per runner is: place, optional initials (`AB`, or `A(` when a nickname follows), name, school, time (or `DQ`, or nothing), then `Yr: N …` (sometimes missing). Known cases the parser handles:
 - The initials can themselves be `DQ` (Dean Quiett). Only a `DQ` in the time slot is a disqualification.
@@ -47,6 +69,6 @@ The TXT format per runner is: place, optional initials (`AB`, or `A(` when a nic
 
 If you change the parser, run convert.r and look at `git diff` on `{year}/Data/*.csv` to be sure only the intended rows changed.
 
-## 4. Then
+## 5. Then
 
 Run the **run-sdxc** skill to check and score. Report what was converted, what you fixed, and anything left for the user.
