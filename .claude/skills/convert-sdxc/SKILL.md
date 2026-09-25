@@ -18,7 +18,7 @@ When the user pastes a schedule, add rows to `{year}/meet_list.csv` with exactly
 - **`meet`**: if the meet ran last season, reuse last season's `meet` name exactly (same host/town, e.g. John Collignon → `madison`, North Central → `bowdle`), so files line up across years. Otherwise use a short lowercase name.
 - **`date`**: `YYYY-MM-DD`.
 - **`week`**: same scheme as 2025. Week 1 runs from the first meets through the *second* Saturday (2025: Thu Aug 28 to Sat Sep 6; 2026: Thu Aug 27 to Sat Sep 5). After that, each week runs Monday to Saturday.
-- **`flg_5k`**: last season's value if it's the same meet; otherwise blank (see step 3). Pierre is never a 5K.
+- **`flg_5k`**: last season's value if it's the same meet; otherwise 1 (see step 3). Pierre is never a 5K.
 - **`missing`** = 1 until its TXT files arrive; **`alternative`** = 0.
 - **Skip middle-school meets:** anything with "MS" in its name (e.g. "Aberdeen MS Invite"). Rankings are high school only. The "XC | MS, HS" tag line in a pasted schedule doesn't count; only the meet name does.
 - **Listed twice** (same meet posted under two names, e.g. "NEC" and "Northeast Conference Meet"): add it once.
@@ -52,7 +52,7 @@ Pass the meets you just converted (or nothing, for all meets). It reports:
 `flg_5k` decides whether a meet's times count as PRs. The user usually says which meets are 5Ks. Fill in only the obvious ones:
 - **Same meet as last season:** use last season's `flg_5k`. Meets that weren't 5Ks in 2025 are almost certainly not 5Ks now (Milbank Breathe Easy, North Central/Bowdle, O'Gorman, Mile High Preview/Deadwood, Pierre).
 - **Boys winner well under 14:00:** not a 5K. Most 2025 non-5K winners ran 13:00–13:42 (Milbank Breathe Easy was 14:22, so the carry-over rule matters more).
-- **Otherwise:** leave it blank and ask. `run.r` won't score while any `flg_5k` is blank, so nothing slips through.
+- **Otherwise:** assume it's a 5K (`flg_5k = 1`) and mention it in your report. The user corrects any that aren't.
 
 ## 4. Parser notes (`R/convert.r`)
 
