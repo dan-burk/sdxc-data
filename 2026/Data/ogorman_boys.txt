@@ -1,0 +1,329 @@
+1
+DS
+Dane Stark
+
+Watertown
+12:38.5
+PB • Yr: 12
+2
+AS
+Asher Selness
+
+Brandon Valley
+12:39.7
+PB • Yr: 11
+3
+EK
+Ethan Kyte
+
+Brandon Valley
+12:48.0
+PB • Yr: 11
+4
+LF
+Luke Feimer
+
+Yankton
+12:52.1
+PB • Yr: 12
+5
+JS
+Jackson Schema
+
+O'Gorman
+12:59.7
+PB • Yr: 12
+6
+
+Marcus Munsch
+
+Brandon Valley
+13:00.4
+PB • Yr: 12
+7
+SM
+Samuel Mischke
+
+Brandon Valley
+13:02.1
+PB • Yr: 10
+8
+IL
+Isaac Larrington
+
+Yankton
+13:04.0
+PB • Yr: 12
+9
+BO
+Brooks Ordway
+
+Harrisburg
+13:10.8
+PB • Yr: 12
+10
+
+Ben Dirks
+
+Harrisburg
+13:11.1
+PB • Yr: 12
+11
+DL
+Dawson Lowery
+
+Harrisburg
+13:20.9
+PB • Yr: 11
+12
+LJ
+Luke Jacobson
+
+Yankton
+13:22.9
+PB • Yr: 11
+13
+HS
+Henry Smith
+
+O'Gorman
+13:26.6
+PB • Yr: 11
+14
+JT
+John Toates
+
+Brandon Valley
+13:26.9
+PB • Yr: 9
+15
+GO
+Gideon Okken
+
+Harrisburg
+13:40.4
+PB • Yr: 11
+16
+QM
+Quinntin Mischke
+
+Brandon Valley
+13:49.8
+PB • Yr: 10
+17
+IP
+Isaac Paulson
+
+Yankton
+13:58.7
+SB • Yr: 11
+18
+NF
+Nathan Flanagan
+
+Harrisburg
+14:01.6
+SB • Yr: 11
+19
+IS
+Isaac Spahr
+
+Brandon Valley
+14:10.0
+PB • Yr: 12
+20
+OW
+Otto Winters
+
+Brandon Valley
+14:22.6
+PB • Yr: 12
+21
+WH
+Weston Hieb
+
+Brandon Valley
+14:24.1
+PB • Yr: 12
+22
+TJ
+Taden Jacobs
+
+Harrisburg
+14:24.6
+SB • Yr: 11
+23
+BW
+Bradley Walden
+
+Brandon Valley
+14:24.6
+PB • Yr: 12
+24
+BB
+Benson Bryant
+
+Harrisburg
+14:24.7
+PB • Yr: 10
+25
+BZ
+Brady Zirbel
+
+Brandon Valley
+14:25.6
+SB • Yr: 9
+26
+BS
+Blake Schierholz
+
+Harrisburg
+14:26.1
+PB • Yr: 11
+27
+CN
+Cruz Nitchals
+
+Harrisburg
+14:38.0
+PB • Yr: 10
+28
+EM
+Evan Mack
+
+Watertown
+14:47.4
+PB • Yr: 11
+29
+XW
+Xadian Waysman
+
+Brandon Valley
+14:52.0
+SB • Yr: 10
+30
+LB
+Logan Becker
+
+Watertown
+14:54.5
+PB • Yr: 12
+31
+JM
+Jace Moore
+
+Harrisburg
+14:55.5
+SB • Yr: 11
+32
+
+Kaiser Lunde
+
+Watertown
+14:57.1
+PB • Yr: 9
+33
+CD
+Channing DeBoer
+
+Watertown
+15:01.6
+SB • Yr: 8
+34
+OH
+Owen Holstein
+
+Yankton
+15:11.9
+PB • Yr: 9
+35
+CS
+Carter Sturgeon
+
+Brandon Valley
+15:42.9
+SB • Yr: 9
+36
+
+Chris Wright
+
+Yankton
+15:54.4
+SB • Yr: 11
+37
+IS
+Isaac Sandholm
+
+Brandon Valley
+16:00.8
+PB • Yr: 10
+38
+
+Ayden Van Laecken
+
+Brandon Valley
+16:11.5
+PB • Yr: 12
+39
+CS
+Corbin Sorenson
+
+Brandon Valley
+16:13.7
+SB • Yr: 12
+40
+AB
+Austin Bray
+
+Brandon Valley
+16:14.2
+SB • Yr: 12
+41
+IK
+Ivan Krajewski
+
+Yankton
+16:14.7
+PB • Yr: 11
+42
+JK
+Joe Kirkeby
+
+Brandon Valley
+16:15.6
+SB • Yr: 12
+43
+NC
+Noah Chicoine
+
+Brandon Valley
+16:32.4
+PB • Yr: 9
+44
+GL
+Grady Lindgren
+
+Watertown
+16:47.6
+SB • Yr: 9
+45
+DK
+Dylan Kirchner
+
+Yankton
+17:11.1
+SB • Yr: 12
+46
+RJ
+Reed Johnson
+
+Brandon Valley
+18:35.5
+SB • Yr: 10
+47
+LM
+Loukas Michailidis
+
+Brandon Valley
+19:11.8
+Yr: 9

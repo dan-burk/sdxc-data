@@ -1,0 +1,608 @@
+1
+CR
+Cole Reilly
+
+Sioux Falls Washington
+15:33.4
+Yr: 12
+
+2
+TN
+Tyrus Needles
+
+Sioux Falls Lincoln
+15:38.4
+Yr: 12
+
+3
+HS
+Henry Sayler
+
+Sioux Falls Lincoln
+16:13.3
+Yr: 12
+
+4
+GM
+Griffin Miller
+
+Sioux Falls Washington
+16:17.2
+Yr: 12
+
+5
+
+Ben Parsons
+
+Sioux Falls Washington
+16:21.9
+Yr: 12
+
+6
+FV
+Frank Vandy
+
+Sioux Falls Lincoln
+16:25.4
+Yr: 12
+
+7
+RG
+Reid Groher
+
+Sioux Falls Lincoln
+16:28.8
+Yr: 12
+
+8
+RI
+Riddick Iseminger
+
+Sioux Falls Lincoln
+16:30.9
+Yr: 12
+
+9
+DH
+Dayton Hill
+
+Sioux Falls Washington
+16:32.5
+Yr: 10
+
+10
+
+Alex Quinn
+
+Sioux Falls Roosevelt
+16:36.1
+Yr: 12
+
+11
+JB
+Jackson Boltjes
+
+Sioux Falls Washington
+16:52.8
+Yr: 12
+
+12
+
+Gavin Johnson
+
+Sioux Falls Jefferson
+16:54.3
+Yr: 9
+
+13
+JS
+Jackson Storm
+
+Sioux Falls Washington
+16:56.4
+Yr: 10
+
+14
+AJ
+Alex Johnikin
+
+Sioux Falls Lincoln
+17:02.1
+Yr: 9
+
+15
+SG
+Sam Gusso
+
+Sioux Falls Lincoln
+17:04.2
+Yr: 10
+
+16
+
+Braeden Raga
+
+Sioux Falls Lincoln
+17:12.5
+Yr: 11
+
+17
+AD
+Austin Dittmer
+
+Sioux Falls Roosevelt
+17:16.1
+Yr: 11
+
+18
+ES
+Edrik Saeger
+
+Sioux Falls Lincoln
+17:19.8
+Yr: 10
+
+19
+LD
+Landon Doyle
+
+Sioux Falls Washington
+17:36.0
+Yr: 12
+
+20
+JM
+Jake Malchow
+
+Sioux Falls Washington
+17:50.5
+Yr: 10
+
+21
+WT
+Will Tibbetts
+
+Sioux Falls Lincoln
+18:07.7
+Yr: 11
+
+22
+AS
+Alex Spanos
+
+Sioux Falls Lincoln
+18:10.0
+Yr: 9
+
+23
+
+Oliver Mikel
+
+Sioux Falls Lincoln
+18:28.2
+Yr: 9
+
+24
+
+Peter Quinlivan
+
+Sioux Falls Roosevelt
+18:28.8
+Yr: 9
+
+25
+EH
+Evan Hunter
+
+Sioux Falls Roosevelt
+18:44.5
+Yr: 11
+
+26
+BB
+Ben Beesley
+
+Sioux Falls Roosevelt
+18:48.3
+Yr: 10
+
+27
+AR
+Adam Robles Jr.
+
+Sioux Falls Lincoln
+18:48.5
+Yr: 11
+
+28
+
+Grant Fischer
+
+Sioux Falls Roosevelt
+18:56.9
+Yr: 11
+
+29
+
+Jack Larsen
+
+Sioux Falls Roosevelt
+18:57.0
+Yr: 10
+
+30
+JS
+Jaden Schempp
+
+Sioux Falls Lincoln
+19:03.0
+Yr: 10
+
+31
+RS
+Rowan Soper
+
+Sioux Falls Washington
+19:04.4
+Yr: 11
+
+32
+DS
+Daniel Samlaska
+
+Sioux Falls Washington
+19:08.0
+Yr: 10
+
+33
+AJ
+Aiden Johnson
+
+Sioux Falls Washington
+19:28.9
+Yr: 12
+
+34
+
+Liam Anderson
+
+Sioux Falls Roosevelt
+19:33.9
+Yr: 12
+
+35
+CR
+Caleb Rhoades
+
+Sioux Falls Roosevelt
+19:39.3
+Yr: 9
+
+36
+BS
+Brady Schwab
+
+Sioux Falls Lincoln
+19:46.3
+Yr: 9
+
+37
+EH
+Elliot Hanson
+
+Sioux Falls Lincoln
+19:47.4
+Yr: 10
+
+38
+TW
+Traedyn Webb
+
+Sioux Falls Lincoln
+19:59.2
+Yr: 10
+
+39
+BB
+Brett Bishop
+
+Sioux Falls Washington
+20:08.0
+Yr: 11
+
+40
+MB
+Max Bauer
+
+Sioux Falls Lincoln
+20:08.8
+Yr: 10
+
+41
+DF
+Deyondre Fick
+
+Sioux Falls Jefferson
+20:22.4
+Yr: 12
+
+42
+JG
+Josue Gutierrez-Escutia
+
+Sioux Falls Roosevelt
+20:24.6
+Yr: 9
+
+43
+BN
+Benton Nelson
+
+Sioux Falls Roosevelt
+20:28.4
+SB • Yr: 10
+
+44
+LJ
+Lucas Johnson
+
+Sioux Falls Jefferson
+20:30.0
+Yr: 10
+
+45
+SJ
+Samuel Jacobsen
+
+Sioux Falls Roosevelt
+20:34.2
+PB • Yr: 10
+
+46
+HS
+Hudson Schmuck
+
+Sioux Falls Washington
+20:39.2
+Yr: 11
+
+47
+EL
+Eli LaDeaux
+
+Sioux Falls Lincoln
+20:40.0
+Yr: 9
+
+48
+AA
+Arjun Agrawal
+
+Sioux Falls Lincoln
+20:44.0
+Yr: 10
+
+49
+IT
+Isaac Tolly
+
+Sioux Falls Lincoln
+21:00.2
+Yr: 11
+
+50
+EB
+Ezra Beukelman
+
+Sioux Falls Lincoln
+21:05.0
+Yr: 9
+
+51
+MB
+Matthew Burkhart
+
+Sioux Falls Washington
+21:14.5
+Yr: 10
+
+52
+NS
+Noah Smith
+
+Sioux Falls Lincoln
+21:21.7
+Yr: 12
+
+53
+CS
+Corey Schneider
+
+Sioux Falls Washington
+21:24.7
+Yr: 12
+
+54
+GB
+Gavin Bartz
+
+Sioux Falls Lincoln
+21:24.9
+Yr: 10
+
+55
+CS
+Caden Schneider
+
+Sioux Falls Washington
+21:27.7
+Yr: 9
+
+56
+BN
+Broxton Nour
+
+Sioux Falls Lincoln
+21:41.2
+Yr: 9
+
+57
+LL
+Levi Lindstrom
+
+Sioux Falls Lincoln
+21:44.5
+PB • Yr: 9
+
+58
+
+Alex Kovalenko
+
+Sioux Falls Roosevelt
+21:53.1
+SB • Yr: 11
+
+59
+WW
+Wyatt Wolfname
+
+Sioux Falls Washington
+21:55.4
+Yr: 11
+
+60
+WF
+Wyatt Fontaine
+
+Sioux Falls Roosevelt
+21:59.5
+PB • Yr: 11
+
+61
+CK
+Cole Kappenman
+
+Sioux Falls Washington
+22:24.9
+Yr: 10
+
+62
+IT
+Isaac Twa
+
+Sioux Falls Lincoln
+22:30.6
+Yr: 9
+
+63
+EK
+Emil Kramme
+
+Sioux Falls Lincoln
+23:17.3
+Yr: 9
+
+64
+HL
+Harper Lundgren
+
+Sioux Falls Lincoln
+23:44.6
+Yr: 11
+
+65
+JP
+John Pate
+
+Sioux Falls Lincoln
+23:46.0
+Yr: 10
+
+66
+ZO
+Zane Orth
+
+Sioux Falls Roosevelt
+23:52.7
+PB • Yr: 10
+
+67
+AR
+Adrian Reddog
+
+Sioux Falls Jefferson
+24:16.9
+Yr: 12
+
+68
+JH
+Jacob Hanisch
+
+Sioux Falls Lincoln
+24:17.9
+Yr: 9
+
+69
+GS
+Gunnar Smith
+
+Sioux Falls Washington
+24:22.6
+PB • Yr: 9
+
+70
+IP
+Ian Pramov
+
+Sioux Falls Roosevelt
+24:39.0
+SB • Yr: 11
+
+71
+SS
+Spencer Secrest
+
+Sioux Falls Washington
+24:51.5
+Yr: 9
+
+72
+BR
+Braden Roemmich
+
+Sioux Falls Roosevelt
+25:02.6
+PB • Yr: 11
+
+73
+LA
+Liam Archer
+
+Sioux Falls Lincoln
+25:20.3
+Yr: 10
+
+74
+ES
+Everett Smith
+
+Sioux Falls Lincoln
+25:53.4
+PB • Yr: 9
+
+75
+SS
+Samuel Soper
+
+Sioux Falls Washington
+26:17.4
+PB • Yr: 9
+
+76
+VS
+Vander Sorenson
+
+Sioux Falls Washington
+26:18.2
+Yr: 9
+
