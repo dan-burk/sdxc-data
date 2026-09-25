@@ -1,15 +1,49 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Ranks South Dakota high school cross country runners from meet results. Written in R. The owner is a statistician; keep code plain and easy to read.
 
-## Overview
+## How it works
 
-This repository processes South Dakota high school cross country (XC) race results and generates rankings using an ELO-like scoring system. The system:
-- Converts raw meet results (TXT/XLSX/PNG/URL) to CSV format (Very Messy)
-- Tracks athletes across the season with unique IDs
-- Calculates cumulative point scores based on pairwise race comparisons
-- Maintains standardized school naming conventions
-- Separates boys and girls divisions
+Every run rescores the whole season from the curated files. There is no saved state, so late results only need adding and a rerun.
+
+```
+convert.r   raw TXT / MileSplit URL -> {year}/Data/{meet}_{boys|girls}.csv   (only meets with no CSV yet)
+run.r       load -> check -> score -> {year}/output/rankings_{boys|girls}.csv (one ranking per week)
+```
+
+- `R/load.r`: reads the files and applies school and athlete aliases.
+- `R/check.r`: data checks. ERRORs stop the run; WARNINGs don't.
+- `R/score.r`: scoring and weekly ranking.
+- `R/convert.r`: TXT and MileSplit parsers.
+
+Run from the repo root with Windows R: `"/mnt/c/Program Files/R/R-4.5.3/bin/x64/Rscript.exe" run.r`. `/run-sdxc` runs it and fixes what the check reports.
+
+## Curated files (the owner maintains these)
+
+| File | Scope | Contents |
+|---|---|---|
+| `{year}/meet_list.xlsx` | per year | Every meet: `meet` (file stem), `date`, `week`, `flg_5k`, `missing`, `alternative` (1 = results from the MileSplit URLs in `alternative_boys/girls`) |
+| `{year}/schools.csv` | per year | In-state schools and their class (AA/A/B); classes and co-ops change yearly |
+| `school_aliases.csv` | all years | raw school name -> standard name, `OUT` (out of state) or `DROP` (not a school). Never delete rows. |
+| `{year}/athlete_aliases.csv` | per year | `name,school,correct_name` for misspelled runners (school = standardized name) |
+| `{year}/different_athletes.csv` | per year | Similar-name pairs confirmed to be different people |
+| `school-name-notes.md` | all years | Co-ops, renames, closures |
+
+Don't edit `meet_list.xlsx` without asking. Fix data problems in these files or the Data CSVs, not in the R code.
+
+## Scoring
+
+- Athlete = name + school, after aliases. `OUT`/`DROP` runners and DQs are removed before scoring. Row order in a CSV is finish order.
+- Everyone starts at 1000. In each race every runner takes 5% of the current points of every runner behind them, one pair at a time in finish order.
+- PRs only come from `flg_5k = 1` meets. Meets run in order of week, date, then meet-list row. A snapshot is taken at the end of each week.
+- Rank = average of the points rank and the PR rank (points rank alone if no PR).
+
+## Skills
+
+- `convert-sdxc`: convert new TXT results to CSV and verify the parse.
+- `run-sdxc`: run and fix until clean.
+- `school-matching`: unknown schools.
+- `athlete-name-matching`: misspelled runners.
 
 ## Data quirks seen before (check for these again)
 
@@ -18,140 +52,11 @@ This repository processes South Dakota high school cross country (XC) race resul
 - **Time typed with a colon.** 2025 Wagner: `16:38:48` means `16:38.48`.
 - **Name and school merged in one field.** e.g. `"A(","Addison (Addi) Muth Yankton"`: split into Name/School.
 - **Varsity runners labelled "MS".** Dupree MS, Highmore MS: alias to the school, don't drop.
+- **TXT runner with no `Yr:` line.** The old parser swallowed the next runner (2025 Murdo and Todd County girls, fixed in R/convert.r). A runner with no time is kept with a blank time and not scored.
 - **Typo dates in the meet list.** 2025 State AA was entered as 2525.
+- **Two spellings, two grades, one runner.** Timing companies copy roster errors to every meet they time (Jonathan Walters gr 10 / Watters gr 8). Trust the postseason race.
 
-## Project Structure
+## Other folders
 
-```
-/{year}/
-  Data/                    # Raw and processed meet results
-    *_boys.csv/.txt       # Boys race results
-    *_girls.csv/.txt      # Girls race results
-  Simulation/
-    df_points_{boys,girls}.{csv,rds}  # Cumulative scores
-    df_name_{boys,girls}.rds          # Athlete ID mappings
-    list_schools.csv                  # Standardized school names
-  meet_list_data_ready.xlsx           # Meet schedule metadata
-  txt_to_csv_2025.r                   # 2025 TXT parser
-  convert_to_csv_script.r             # Batch conversion
-
-Root scripts:
-  scoring_script.r        # Main scoring pipeline
-  functions.r             # Core scoring functions
-  accesory.r              # School list initialization
-```
-
-## Data Flow
-
-1. **Data Ingestion**: Meet results arrive as TXT or XLSX files in `{year}/Data/`
-2. **Conversion**: `convert_to_csv_script.r` converts TXT → CSV using year-specific parsers
-3. **School Standardization**: All school names validated against `list_schools.csv`
-4. **Scoring**: `scoring_script.r` processes meets sequentially by week
-5. **Output**: Updates RDS/CSV files in `Simulation/` with cumulative rankings
-
-## Key Data Structures
-
-### Meet Results CSV
-Columns: `Place`, `Name`, `School`, `Time`, `Grade`
-
-### Points Dataframe
-Columns: `Name`, `School`, `id`, `points`, `time_min`
-- `id`: Unique athlete identifier (persists across season)
-- `points`: ELO-like score (starts at 1000)
-- `time_min`: Personal record in seconds
-
-### School List
-Columns: `School`, `school_class`
-- `school_class`: Classification (AA, A, or B)
-- Schools must exist in this list before processing meets
-
-## Scoring Algorithm
-
-The `do_scoring()` function in `functions.r`:
-1. Takes all athletes in a race and generates pairwise comparisons
-2. For each comparison where athlete i beats athlete j:
-   - Winner gains: `points_wager * loser_points` (default: 5%)
-   - Loser loses: `points_wager * loser_points`
-3. Points transfer occurs for all n(n-1)/2 comparisons
-4. Updates cumulative points and personal records
-
-## Common Workflows
-
-### Processing New Meet Results
-
-```r
-# Set year and week in convert_to_csv_script.r
-week_i <- 6
-source("2025/convert_to_csv_script.r")  # Convert TXT to CSV
-
-# Set week_i in scoring_script.r
-week_i <- 1  # Process specific week
-source("scoring_script.r")
-```
-
-### Adding Missing Schools
-
-When the script encounters unknown schools (browser() breakpoint at line 202 of `scoring_script.r`):
-1. Check if school name is misspelled → no action needed (filtered out)
-2. Check if school is from out-of-state → no action needed (filtered out)
-3. If legitimate in-state school:
-   ```r
-   list_schools <- rbind(list_schools,
-     data.frame(School = "New School", school_class = "A"))
-   write.csv(list_schools, "2025/Simulation/list_schools.csv")
-   ```
-4. Type `c` in debugger to continue
-
-### TXT File Format Expectations
-
-**2025 Format** (parsed by `txt_to_csv_2025.r`):
-```
-1
-[optional initials]
-Athlete Name
-School Name
-MM:SS.ss
-Yr: 12
-```
-
-**2023 Format** (parsed by `txt_to_csv` in `read_dakotatiming_v2.r`):
-Tab-delimited with name, school, and time on separate lines
-
-## Important Variables
-
-- `points_wager`: Point transfer rate per comparison (default: 0.05 = 5%)
-- `year`: Processing year (2023, 2025)
-- `week_i`: Current week being processed
-- `flg_5k`: Flag in meet_list indicating if meet is 5K (vs 4K or other)
-- `run_augie`: Boolean to include/exclude Augie meet (large, slow to process)
-
-## File Naming Conventions
-
-Meet files follow pattern: `{meet_name}_{boys|girls}.{csv|txt}`
-- Example: `beresford_boys.csv`, `region3a_girls.txt`
-- Meet names must match entries in `meet_list_data_ready.xlsx`
-
-## State Management
-
-The system maintains state across meets using RDS files:
-- **First meet of season** (k=1): Initializes all athletes at 1000 points
-- **Subsequent meets**: Loads previous points, assigns new athletes 1000 points
-- **Athlete tracking**: Uses name matching to identify returning athletes
-- **School tracking**: Only processes in-state schools from `list_schools.csv`
-
-## Debugging Notes
-
-- `browser()` breakpoint at line 202 catches missing schools
-- Lines 179-197, 377-397, 459-480: Commented debug/visualization code
-- The script processes meets sequentially - cannot skip weeks
-- Out-of-state athletes are filtered before place reassignment
-- Name matching is case-sensitive (all names converted to uppercase)
-
-## Known Issues
-
-See `ISSUES.md` for a list of known issues including:
-- Duplicate and misspelled files
-- Orphaned files without CSV equivalents
-- Files in wrong locations
-- Source files (PNG/PDF) that could be archived
-- Code with hardcoded paths
+- `2023/`: the older, messier season. Not scored by this pipeline. Its data is used as evidence when matching schools.
+- `Research/`: 2023 STAT 651 class project on the ranking method.

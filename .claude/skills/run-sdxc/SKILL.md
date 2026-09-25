@@ -5,6 +5,8 @@ description: Score the South Dakota XC season by running run.r, then fix whateve
 
 # Run SDXC scoring
 
+If there are new meet results (new TXT files, or meets in the meet list with no CSV yet), run the **convert-sdxc** skill first.
+
 ## 1. Run it
 
 From the repo root:
