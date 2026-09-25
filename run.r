@@ -13,6 +13,7 @@ wager <- 0.05
 
 season <- load_season(year)
 if (check_season(season) > 0) stop("Fix the errors above, then rerun.")
+if (nrow(season$races) == 0) stop("No results for ", year, " yet: add meets to the meet list and run convert.r.")
 
 dir.create(file.path(year, "output"), showWarnings = FALSE)
 for (gender in c("boys", "girls")) {

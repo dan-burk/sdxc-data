@@ -42,6 +42,10 @@ read_races <- function(year, meet_list) {
         mutate(meet = m, gender = g, row = row_number())
     }
   }
+  if (length(races) == 0) {  # no results yet (e.g. start of a season)
+    return(tibble(Place = character(), Name = character(), School = character(), Time = character(),
+                  Grade = character(), meet = character(), gender = character(), row = integer()))
+  }
   bind_rows(races)
 }
 
