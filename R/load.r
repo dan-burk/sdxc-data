@@ -5,6 +5,7 @@
 #   {year}/meet_list.xlsx       every meet: meet, date, week, flg_5k, missing
 #   {year}/schools.csv          in-state schools and their class this year
 #   {year}/athlete_aliases.csv  name + school -> correct_name, for misspelled runners
+#   {year}/different_athletes.csv  similar names checked and confirmed to be different people
 #   {year}/Data/{meet}_{boys|girls}.csv   Place, Name, School, Time, Grade
 
 load_season <- function(year) {
@@ -17,7 +18,9 @@ load_season <- function(year) {
     schools         = read_curated(file.path(year, "schools.csv")),
     school_aliases  = read_curated("school_aliases.csv"),
     athlete_aliases = read_curated(file.path(year, "athlete_aliases.csv")) %>%
-      mutate(name = toupper(str_squish(name)), correct_name = toupper(str_squish(correct_name)))
+      mutate(name = toupper(str_squish(name)), correct_name = toupper(str_squish(correct_name))),
+    different_athletes = read_curated(file.path(year, "different_athletes.csv")) %>%
+      mutate(name_1 = toupper(str_squish(name_1)), name_2 = toupper(str_squish(name_2)))
   )
   season$races <- read_races(year, meet_list) %>% clean_races(season)
   season

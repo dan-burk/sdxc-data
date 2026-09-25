@@ -17,11 +17,11 @@ Merging two real people is worse than leaving a duplicate: it mixes their points
    ```
    Rscript .claude/skills/athlete-name-matching/scripts/name_evidence.r <year>
    ```
-   On this machine Rscript is `"/mnt/c/Program Files/R/R-4.5.3/bin/Rscript.exe"`.
+   On this machine Rscript is `"/mnt/c/Program Files/R/R-4.5.3/bin/x64/Rscript.exe"`.
    For each similar pair it shows race counts, every grade seen, best times, and `same_race`.
 
 2. **Decide each pair:**
-   - **`same_race` is not empty → different people.** One person can't finish a race twice. Siblings often differ by one or two letters (Amia/Amya Ward, Keira/Kendra Thorp). Leave them alone; the warning will keep showing, which is fine.
+   - **`same_race` is not empty → different people.** One person can't finish a race twice. Siblings often differ by one or two letters (Amia/Amya Ward, Keira/Kendra Thorp). Record them in `{year}/different_athletes.csv` (see step 4) so the warning stops.
    - **Grades differ** (e.g. 9 vs 12) → probably different people. If each spelling has its own *consistent* grade across several races, treat it as two people, or ask the user, rather than merging. A single odd grade among many matching ones is just a typo.
    - **Otherwise, same person** if the spellings are plausible typos or variants: a dropped/doubled letter, a truncation ("SCHLOTMA"), a stray digit ("MCCUNE2"), apostrophe/space differences ("DE'SERSA", "THUNDERHAWK"), or nickname versions ("Addison (Addi) Muth"). Similar best times support this.
 
@@ -32,6 +32,12 @@ Merging two real people is worse than leaving a duplicate: it mixes their points
    Lane McCune2,Freeman,Lane McCune
    ```
    Don't add a row twice for the same `name,school`. That's an error, because it duplicates race rows.
+
+   For pairs that are **different people**, add a row to `{year}/different_athletes.csv` (`school,name_1,name_2,note`) so check_season() stops warning about them:
+   ```
+   Custer,Keira Thorp,Kendra Thorp,ran in the same races; grades 12 and 9
+   ```
+   Pairs you're unsure about go in neither file. Leave them warning and ask the user.
 
 5. **Verify.** Run `Rscript run.r` (this also rewrites `{year}/output/rankings_*.csv`, which is expected). The merged pairs should disappear from the warnings, and there should be no "Same runner twice in one race" error and no "Athlete alias matches no runner" warning. If "Same runner twice" appears for a pair you merged, they're two people: remove that alias.
 

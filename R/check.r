@@ -85,8 +85,10 @@ check_season <- function(season) {
   in_state <- races %>% filter(school %in% schools$school)
   report("ERROR", "Same runner twice in one race",
          in_state %>% count(meet, gender, name, school) %>% filter(n > 1))
-  report("WARNING", "Possible misspelled runner (same school, similar name; add to athlete_aliases.csv if same person)",
-         similar_names(in_state))
+  report("WARNING", "Possible misspelled runner (same school, similar name; add to athlete_aliases.csv if same person, different_athletes.csv if not)",
+         similar_names(in_state) %>%
+           anti_join(season$different_athletes, by = c("school", "name_1", "name_2")) %>%
+           anti_join(season$different_athletes, by = c("school", "name_1" = "name_2", "name_2" = "name_1")))
 
   cat("\n", errors, " error type(s) found.\n", sep = "")
   invisible(errors)

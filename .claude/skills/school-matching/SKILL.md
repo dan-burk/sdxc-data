@@ -20,7 +20,7 @@ Getting this right matters because an unrecognised in-state school silently lose
    ```
    Rscript .claude/skills/school-matching/scripts/school_evidence.r <year>
    ```
-   On this machine Rscript is `"/mnt/c/Program Files/R/R-4.5.3/bin/Rscript.exe"` (Windows R, run from the repo directory).
+   On this machine Rscript is `"/mnt/c/Program Files/R/R-4.5.3/bin/x64/Rscript.exe"` (Windows R, run from the repo directory).
    Columns: `athletes`, `results`, `grades`, `postseason` (region/state meets; the file name gives the class), `meets`, `pct_out_at_meets`, `shared_with` (known in-state schools with same-named runners: count and years), `similar_known` (similar known names and aliases, shown as `raw -> target`, which catches truncations of existing aliases).
 
 2. **Decide each one** using the evidence, in this order of strength:
