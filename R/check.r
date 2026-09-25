@@ -82,6 +82,14 @@ check_season <- function(season) {
            filter(time_sec < lag(time_sec)) %>%
            select(meet, gender, row, name, time))
 
+  timed <- races %>% filter(!is.na(time_sec)) %>% distinct(meet, gender, name, time_sec)
+  report("ERROR", "Same race entered as two meets (3+ runners with identical times; merge into one meet)",
+         inner_join(timed, timed, by = c("gender", "name", "time_sec"), suffix = c("_1", "_2"),
+                    relationship = "many-to-many") %>%
+           filter(meet_1 < meet_2) %>%
+           count(meet_1, meet_2, gender, name = "shared_runners") %>%
+           filter(shared_runners >= 3))
+
   in_state <- races %>% filter(school %in% schools$school)
   report("ERROR", "Same runner twice in one race",
          in_state %>% count(meet, gender, name, school) %>% filter(n > 1))

@@ -11,6 +11,15 @@ This repository processes South Dakota high school cross country (XC) race resul
 - Maintains standardized school naming conventions
 - Separates boys and girls divisions
 
+## Data quirks seen before (check for these again)
+
+- **One race published as two meets.** 2025 ECC and LCC Conference ran as one combined race on 10/6. Each conference published its own results, and Deuel and Clark/Willow Lake appeared in both files with identical times. Fix: merge into one file (dedupe, sort by time, renumber Place), keep it under one meet (`ecc`), set the other to `missing = 1` in the meet list. check_season() now errors on "Same race entered as two meets".
+- **Rows out of finish order.** 2025 Viborg: two sorted blocks glued together. Sort by Place if Place is right.
+- **Time typed with a colon.** 2025 Wagner: `16:38:48` means `16:38.48`.
+- **Name and school merged in one field.** e.g. `"A(","Addison (Addi) Muth Yankton"`: split into Name/School.
+- **Varsity runners labelled "MS".** Dupree MS, Highmore MS: alias to the school, don't drop.
+- **Typo dates in the meet list.** 2025 State AA was entered as 2525.
+
 ## Project Structure
 
 ```

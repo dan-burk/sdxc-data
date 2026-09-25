@@ -23,6 +23,7 @@ Handle everything you can without asking, then rerun. Repeat until it prints `0 
 | `Possible misspelled runner` | Follow the **athlete-name-matching** skill |
 | `Same runner twice in one race` | Usually a wrong athlete alias; check `{year}/athlete_aliases.csv` first (athlete-name-matching skill). Otherwise it's a duplicated row in that meet's CSV. |
 | `Athlete alias matches no runner` | The alias uses a raw school name or a typo. Fix the row (school must be the standardized name). |
+| `Same race entered as two meets` | Usually a combined race published per conference (see CLAUDE.md, ECC/LCC 2025). Confirm with the user, then merge the files into one meet (dedupe, sort by time, renumber Place) and have the user set the other meet to `missing = 1`. |
 | `Rows not in finish order` | The CSV rows are shuffled (e.g. two sorted blocks glued together). If `Place` is correct, sort the file by `Place`; otherwise ask. |
 | `Time can't be read` | Fix obvious format slips in the CSV (e.g. `16:38:48` → `16:38.48`). Ask if the right time isn't clear. |
 | `Blank name or school` | Check the file's header is `Place,Name,School,Time,Grade`, and check for merged fields like `"A(","Addison (Addi) Muth Yankton"`. |

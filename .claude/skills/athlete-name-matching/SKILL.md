@@ -22,10 +22,10 @@ Merging two real people is worse than leaving a duplicate: it mixes their points
 
 2. **Decide each pair:**
    - **`same_race` is not empty → different people.** One person can't finish a race twice. Siblings often differ by one or two letters (Amia/Amya Ward, Keira/Kendra Thorp). Record them in `{year}/different_athletes.csv` (see step 4) so the warning stops.
-   - **Grades differ** (e.g. 9 vs 12) → probably different people. If each spelling has its own *consistent* grade across several races, treat it as two people, or ask the user, rather than merging. A single odd grade among many matching ones is just a typo.
+   - **Grades differ** → look closer rather than deciding on grade alone. Timing companies often copy a wrong roster grade across every meet they time, so each spelling can have its own "consistent" grade and still be one runner (Jonathan Walters gr 10 / Watters gr 8, Corsica-Stickney, 2025). Same school, never in the same race, and similar times → same person, and trust the postseason race's name and grade. Grades differ *and* times clearly differ → two people, or ask the user.
    - **Otherwise, same person** if the spellings are plausible typos or variants: a dropped/doubled letter, a truncation ("SCHLOTMA"), a stray digit ("MCCUNE2"), apostrophe/space differences ("DE'SERSA", "THUNDERHAWK"), or nickname versions ("Addison (Addi) Muth"). Similar best times support this.
 
-3. **Pick the correct spelling:** the one used in more races, unless it's obviously broken (digits, truncation, parenthetical nicknames), then use the clean one. Apostrophe/space variants ("DE'SERSA" vs "DESERSA") are both valid; just go with the more frequent. If it's a tie with no clue, pick one and mention it to the user.
+3. **Pick the correct spelling:** use the spelling from the runner's latest postseason race (region, state, or conference meet). Those entries come from official rosters. If there's no postseason race, use the one used in more races. Either way, skip obviously broken spellings (digits, truncation, parenthetical nicknames) and use the clean one. Apostrophe/space variants ("DE'SERSA" vs "DESERSA") are both valid; just go with the more frequent. If it's a tie with no clue, pick one and mention it to the user.
 
 4. **Write rows** to `{year}/athlete_aliases.csv`, one per wrong spelling:
    ```
