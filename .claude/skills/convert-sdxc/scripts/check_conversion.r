@@ -20,6 +20,7 @@ only  <- args[-1]
 meets <- readxl::read_xlsx(file.path(year, "meet_list.xlsx")) %>% filter(missing == 0)
 if (length(only)) meets <- meets %>% filter(meet %in% only)
 
+merges <- read.csv(file.path(year, "merged_meets.csv"), colClasses = "character")
 status <- c("DQ", "DNF", "DNS", "")  # "" = listed with no time
 problems <- list()
 not_scored <- list()
@@ -32,8 +33,11 @@ for (m in meets$meet) {
     r <- read.csv(csv, colClasses = "character")
 
     if (file.exists(txt)) {
-      lines <- trimws(readLines(txt, warn = FALSE))
-      entries <- sum(grepl("^\\d+$", lines))
+      # finishers in this TXT plus any TXT merged into it (merged_meets.csv); runners
+      # listed in both are counted once in the CSV, so merged meets can come up short
+      srcs <- file.path(year, "Data", paste0(c(m, merges$merge_from[merges$meet == m]), "_", g, ".txt"))
+      entries <- sum(sapply(srcs, function(f) sum(grepl("^\\d+$", trimws(readLines(f, warn = FALSE))))))
+      if (length(srcs) > 1) entries <- nrow(r)  # merged: can't compare counts directly
       if (entries != nrow(r)) {
         cat(sprintf("COUNT       %-28s TXT %3d entries, CSV %3d rows\n", paste0(m, "_", g), entries, nrow(r)))
       }

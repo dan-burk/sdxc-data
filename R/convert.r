@@ -53,18 +53,22 @@ txt_to_csv <- function(lines) {
       time <- L[i]
     }
     if (time != "") i <- i + 1
+    # "16:38:48" is a mistyped "16:38.48" (no XC race takes an hour)
+    if (grepl("^\\d{1,2}:\\d{2}:\\d{2}$", time)) time <- sub(":(\\d{2})$", ".\\1", time)
 
     # grade line ("Yr: 12 ...") is sometimes missing; don't eat the next runner's place
     grade <- NA_character_
     if (i <= n && grepl("Yr:", L[i])) {
-      grade <- sub(".*Yr:\\s*(\\d+).*", "\\1", L[i])
+      yr <- sub(".*Yr:\\s*(\\w+).*", "\\1", L[i])
+      grade <- c(Fr = "9", So = "10", Jr = "11", Sr = "12")[yr]  # word or number
+      if (is.na(grade) && grepl("^\\d+$", yr)) grade <- yr
       i <- i + 1
     }
 
     results <- rbind(
       results,
       data.frame(Place = place, Name = name, School = school,
-                 Time = time, Grade = grade, stringsAsFactors = FALSE)
+                 Time = time, Grade = unname(grade), stringsAsFactors = FALSE)
     )
   }
   results
@@ -96,5 +100,28 @@ fetch_milesplit_raw <- function(url) {
                stringsAsFactors = FALSE)
   }))
 
+  results
+}
+
+# Parsed results for one meet and gender, from whichever source file it has:
+# {meet}_{g}.txt (timing TXT) or {meet}_{g}_milesplit.txt (saved MileSplit page).
+# If a MileSplit page isn't saved yet and a URL is given, download it first.
+read_meet_source <- function(year, meet, g, url = NA) {
+  txt <- file.path(year, "Data", paste0(meet, "_", g, ".txt"))
+  ms  <- file.path(year, "Data", paste0(meet, "_", g, "_milesplit.txt"))
+  if (file.exists(txt)) return(txt_to_csv(readLines(txt, warn = FALSE)))
+  if (!file.exists(ms) && !is.na(url)) writeLines(readLines(url, warn = FALSE), ms)
+  if (file.exists(ms)) return(fetch_milesplit_raw(ms))
+  NULL
+}
+
+# Combine results that were published separately for one race: drop runners
+# listed twice, then order by time (no-time/DQ last) and renumber places.
+merge_races <- function(results) {
+  results <- results[!duplicated(toupper(paste(results$Name, results$School, results$Time))), ]
+  parts <- regmatches(results$Time, regexec("^(\\d{1,2}):(\\d{2}(?:\\.\\d+)?)$", results$Time))
+  secs <- sapply(parts, function(p) if (length(p)) as.numeric(p[2]) * 60 + as.numeric(p[3]) else Inf)
+  results <- results[order(secs), ]
+  results$Place <- seq_len(nrow(results))
   results
 }

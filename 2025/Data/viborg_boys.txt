@@ -54,83 +54,6 @@ Henry Huether
 Beresford
 19:48.79
 Yr: 10 • +8pts
-12
-
-Alex Opland
-
-Canton
-20:32.41
-Yr: 11 • +12pts
-14
-BF
-Beckett Fennel
-
-Elk Point-Jefferson
-20:47.73
-Yr: 10 • +13pts
-15
-JM
-Jeferson Montepeque
-
-Irene-Wakonda
-21:04.45
-Yr: 9
-16
-IH
-Isaac Haich
-
-Irene-Wakonda
-21:08.13
-Yr: 10
-18
-JB
-Jeremy Bockelman
-
-Canton
-21:29.48
-Yr: 9 • +14pts
-19
-BF
-Ben Ferdig
-
-Viborg-Hurley
-21:35.10
-Yr: 11
-22
-CH
-Cedric Horst
-
-Canton
-22:25.59
-Yr: 11 • +16pts
-27
-
-Mason Fredrich
-
-Hanson
-23:05.62
-Yr: 8 • +19pts
-33
-RA
-Ryder Andersen
-
-Viborg-Hurley
-26:10.47
-SR • Yr: 10
-34
-EB
-Elias Bumgardner
-
-Hanson
-28:05.65
-Yr: 10 • +22pts
-35
-CJ
-Cooper Jarding
-
-Hanson
-31:19.81
-Yr: 8 • +23pts
 9
 NH
 Noah Halvorson
@@ -152,6 +75,13 @@ Miles Sievers
 Garretson
 20:19.34
 Yr: 9 • +11pts
+12
+
+Alex Opland
+
+Canton
+20:32.41
+Yr: 11 • +12pts
 13
 MA
 Marcus Aasheim
@@ -159,6 +89,27 @@ Marcus Aasheim
 Beresford
 20:37.53
 Yr: 11
+14
+BF
+Beckett Fennel
+
+Elk Point-Jefferson
+20:47.73
+Yr: 10 • +13pts
+15
+JM
+Jeferson Montepeque
+
+Irene-Wakonda
+21:04.45
+Yr: 9
+16
+IH
+Isaac Haich
+
+Irene-Wakonda
+21:08.13
+Yr: 10
 17
 CH
 Caleb Hansen
@@ -166,6 +117,20 @@ Caleb Hansen
 Beresford
 21:13.37
 Yr: 10
+18
+JB
+Jeremy Bockelman
+
+Canton
+21:29.48
+Yr: 9 • +14pts
+19
+BF
+Ben Ferdig
+
+Viborg-Hurley
+21:35.10
+Yr: 11
 20
 ES
 Elijah Schaap
@@ -180,6 +145,13 @@ Austin Clercx
 Elk Point-Jefferson
 22:07.75
 Yr: 12 • +15pts
+22
+CH
+Cedric Horst
+
+Canton
+22:25.59
+Yr: 11 • +16pts
 23
 SS
 Shea Smidt
@@ -208,6 +180,13 @@ Cooper Smith
 Garretson
 22:45.92
 Yr: 10
+27
+
+Mason Fredrich
+
+Hanson
+23:05.62
+Yr: 8 • +19pts
 28
 RB
 Ryan Bryson
@@ -243,3 +222,24 @@ Gabe Edminson
 Elk Point-Jefferson
 26:09.31
 Yr: 11
+33
+RA
+Ryder Andersen
+
+Viborg-Hurley
+26:10.47
+SR • Yr: 10
+34
+EB
+Elias Bumgardner
+
+Hanson
+28:05.65
+Yr: 10 • +22pts
+35
+CJ
+Cooper Jarding
+
+Hanson
+31:19.81
+Yr: 8 • +23pts

@@ -7,7 +7,7 @@ Ranks South Dakota high school cross country runners from meet results. Written 
 Every run rescores the whole season from the curated files. There is no saved state, so late results only need adding and a rerun.
 
 ```
-convert.r   raw TXT / MileSplit URL -> {year}/Data/{meet}_{boys|girls}.csv   (only meets with no CSV yet)
+convert.r   source TXT / saved MileSplit page -> {year}/Data/{meet}_{boys|girls}.csv   (rebuilds all)
 run.r       load -> check -> score -> {year}/output/rankings_{boys|girls}.csv (one ranking per week)
 ```
 
@@ -29,7 +29,9 @@ Run from the repo root with Windows R: `"/mnt/c/Program Files/R/R-4.5.3/bin/x64/
 | `{year}/different_athletes.csv` | per year | Similar-name pairs confirmed to be different people |
 | `school-name-notes.md` | all years | Co-ops, renames, closures |
 
-Don't edit `meet_list.xlsx` without asking. Fix data problems in these files or the Data CSVs, not in the R code.
+Source results are `{year}/Data/{meet}_{g}.txt` (or `_milesplit.txt`), plus `{year}/merged_meets.csv` for one race published as two meets. **The Data CSVs are generated; never hand-edit them.** Fix the source TXT or the parser, then run convert.r.
+
+Don't edit `meet_list.xlsx` without asking. Don't change the scoring code to work around bad data.
 
 ## Scoring
 
@@ -47,10 +49,10 @@ Don't edit `meet_list.xlsx` without asking. Fix data problems in these files or 
 
 ## Data quirks seen before (check for these again)
 
-- **One race published as two meets.** 2025 ECC and LCC Conference ran as one combined race on 10/6. Each conference published its own results, and Deuel and Clark/Willow Lake appeared in both files with identical times. Fix: merge into one file (dedupe, sort by time, renumber Place), keep it under one meet (`ecc`), set the other to `missing = 1` in the meet list. check_season() now errors on "Same race entered as two meets".
-- **Rows out of finish order.** 2025 Viborg: two sorted blocks glued together. Sort by Place if Place is right.
-- **Time typed with a colon.** 2025 Wagner: `16:38:48` means `16:38.48`.
-- **Name and school merged in one field.** e.g. `"A(","Addison (Addi) Muth Yankton"`: split into Name/School.
+- **One race published as two meets.** 2025 ECC and LCC Conference ran as one combined race on 10/6. Each conference published its own results, and Deuel and Clark/Willow Lake appeared in both files with identical times. Fix: row `ecc,lcc` in `2025/merged_meets.csv` (convert.r merges, dedupes, sorts by time), LCC set to `missing = 1` in the meet list. check_season() now errors on "Same race entered as two meets".
+- **Rows out of finish order.** 2025 Viborg: two sorted blocks glued together. Fixed by reordering the runner blocks in the TXT.
+- **Time typed with a colon.** 2025 Wagner: `16:38:48` means `16:38.48`. The parser now converts this.
+- **Name and school merged in one field.** The initials line was `A(` for "Addison (Addi) Muth". The parser now recognises it and drops nicknames.
 - **Varsity runners labelled "MS".** Dupree MS, Highmore MS: alias to the school, don't drop.
 - **TXT runner with no `Yr:` line.** The old parser swallowed the next runner (2025 Murdo and Todd County girls, fixed in R/convert.r). A runner with no time is kept with a blank time and not scored.
 - **Typo dates in the meet list.** 2025 State AA was entered as 2525.
