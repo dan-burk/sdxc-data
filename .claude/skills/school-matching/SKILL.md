@@ -37,7 +37,7 @@ Getting this right matters because an unrecognised in-state school silently lose
    - Don't guess a class. Use the region/state meet the school ran in; if it ran none, ask the user.
    - If raw school text contains a runner's name (e.g. "Addison (Addi) Muth Yankton"), that's a parsing error in the data file. Fix the CSV row (Name/School) rather than adding an alias.
 
-4. **Write the changes.**
+4. **Write the changes.** Only add or correct rows; never delete alias rows, even ones that don't appear in the current year's data. Old spellings come back in future results and must keep mapping to the standard names.
    - Append rows to `school_aliases.csv`. Quote values containing commas. Put a short `note` when the reason isn't obvious (e.g. "same runners as BHCA", "Waverly NE at Augie").
    - Keep the file sorted: in-state targets A–Z, then DROP, then OUT (sort by target, then raw name).
    - New in-state schools go in `{year}/schools.csv` as `school,class`.
