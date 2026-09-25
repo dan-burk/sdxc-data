@@ -32,7 +32,7 @@ Getting this right matters because an unrecognised in-state school silently lose
 3. **Apply these rules:**
    - An alias means *the same team, spelled differently* (truncations like "McCook Centr", abbreviations like "CEB", "Sioux Falls X" ↔ "SF X", renames like Potter County → Gettysburg).
    - A co-op change makes a *different team*: don't alias "Parker" to "Parker/Marion". If a team is legitimately new for this year, add it to `{year}/schools.csv` instead.
-   - Labels like "Dupree MS" or "Highmore MS" on runners who also run for the varsity school are the varsity school — alias them, don't DROP. Check `shared_with` and grades.
+   - A school labelled "MS" ("Dupree MS", "Chamberlain MS") in a varsity race is the varsity school: alias it, don't DROP. 7th and 8th graders can run varsity in South Dakota, so a single race or a grade of 7 doesn't change this. Only middle-school *meets* are excluded, and those never get into the meet list.
    - An alias target must be `OUT`, `DROP`, or a school in that year's `schools.csv`. Aliases for past years can point at a past-year school name.
    - Don't guess a class. Use the region/state meet the school ran in; if it ran none, ask the user.
    - If raw school text contains a runner's name (e.g. "Addison (Addi) Muth Yankton"), that's a parsing error in the data file. Fix the CSV row (Name/School) rather than adding an alias.
