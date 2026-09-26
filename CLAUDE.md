@@ -9,6 +9,7 @@ Every run rescores the whole season from the curated files. There is no saved st
 ```
 convert.r   source TXT / saved MileSplit page -> {year}/Data/{meet}_{boys|girls}.csv   (rebuilds all)
 run.r       load -> check -> score -> {year}/output/rankings_{boys|girls}.csv (one ranking per week)
+export.r    rankings CSVs -> ../sdxc/data/{boys|girls}_{year}_week{N}.json + schools_{year}.json for the website (sister repo)
 ```
 
 - `R/load.r`: reads the files and applies school and athlete aliases.
@@ -16,14 +17,14 @@ run.r       load -> check -> score -> {year}/output/rankings_{boys|girls}.csv (o
 - `R/score.r`: scoring and weekly ranking.
 - `R/convert.r`: TXT and MileSplit parsers.
 
-Run from the repo root with Windows R: `"/mnt/c/Program Files/R/R-4.5.3/bin/x64/Rscript.exe" run.r`. `/run-sdxc` runs it and fixes what the check reports.
+Run from the repo root with Windows R: `"/mnt/c/Program Files/R/R-4.5.3/bin/x64/Rscript.exe" run.r`. `/run-sdxc` runs it, fixes what the check reports, then runs export.r.
 
 ## Curated files (the owner maintains these)
 
 | File | Scope | Contents |
 |---|---|---|
 | `{year}/meet_list.csv` | per year | Every meet: `meet` (file stem), `date`, `week`, `flg_5k`, `missing`, `alternative` (1 = results from the MileSplit URLs in `alternative_boys/girls`) |
-| `{year}/schools.csv` | per year | In-state schools and their class (AA/A/B); classes and co-ops change yearly |
+| `{year}/schools.csv` | per year | In-state schools, their class (AA/A/B) and region (1A–5A, 1B–5B; blank for AA); classes, regions and co-ops change yearly. Regions come from GoBound's teams page (`gobound.com/sd/sdhsaa/boyscrosscountry/{2026-27}/Teams?sortby=Region`, and girls), checked by hand once per season. |
 | `school_aliases.csv` | all years | raw school name -> standard name, `OUT` (out of state) or `DROP` (not a school). Never delete rows. |
 | `{year}/athlete_aliases.csv` | per year | `name,school,correct_name` for misspelled runners (school = standardized name) |
 | `{year}/different_athletes.csv` | per year | Similar-name pairs confirmed to be different people |

@@ -38,10 +38,19 @@ Rules that apply throughout:
 - Never delete rows from `school_aliases.csv`; only add or correct them.
 - Don't guess on uncertain calls (a school's class, whether two runners are the same person). Leave them for the user.
 
-## 3. Report
+## 3. Export for the website
+
+Once the run is clean, write the JSON files the website reads:
+```
+"/mnt/c/Program Files/R/R-4.5.3/bin/x64/Rscript.exe" export.r <year>
+```
+It writes `../sdxc/data/{boys|girls}_{year}_week{N}.json` (one per week) and `schools_{year}.json` into the sister `sdxc` repo. Don't commit or push in `sdxc`: pushing publishes to the live site, so the user does that.
+
+## 4. Report
 
 Keep it short:
 - Clean run: say so, give the latest week, and list the top 5 boys and girls from the output files.
+- Which JSON files were exported.
 - What you changed, as a short list (file → change), for the user to review before committing.
 - Anything you left for the user to decide.
 

@@ -1,160 +1,160 @@
-school,class
-Aberdeen Central,AA
-Aberdeen Roncalli,A
-Arlington,B
-Avon,B
-Baltic,A
-Belle Fourche,A
-Beresford,A
-Bison,B
-Brandon Valley,AA
-Brookings,AA
-Canistota,B
-Castlewood,B
-Centerville,B
-Chamberlain,A
-Chester,B
-Clark/Willow Lake,A
-Corsica-Stickney,B
-Crazy Horse,B
-Crow Creek,A
-Custer,A
-St. Mary's,B
-Dakota Valley,A
-De Smet,B
-Deubrook Area,B
-Deuel,A
-Douglas,AA
-Dupree,B
-Edgemont,B
-Estelline/Hendricks,B
-Ethan/Parkston,A
-Faith,B
-Faulkton Area,B
-Flandreau,A
-Flandreau Indian,B
-Florence/Henry,A
-Frederick Area,B
-Freeman,B
-Gayville-Volin,B
-Great Plains Lutheran,A
-Gregory,B
-Harrisburg,AA
-Hamlin,A
-Herreid/Selby Area,B
-Highmore-Harrold,B
-Hill City,A
-Hitchcock-Tulare,B
-Howard,B
-Huron,AA
-Ipswich,B
-Irene-Wakonda,B
-James Valley Christian,B
-Kimball/White Lake,B
-Lemmon,B
-Lennox,A
-Leola,B
-Lower Brule,B
-Lyman,B
-Madison,A
-McCrossan,B
-McLaughlin,B
-Milbank,A
-Miller,A
-Mitchell,AA
-Mitchell Christian,B
-Mobridge-Pollock,A
-Mount Vernon/Plankinton,A
-New Underwood,B
-Newell,B
-North Central,B
-Northwestern,B
-O'Gorman,AA
-Philip,B
-Pierre T.F. Riggs,AA
-Platte-Geddes,A
-Gettysburg,B
-Rapid City Christian,A
-Rapid City Central,AA
-Rapid City Stevens,AA
-Mahpiya Luta,A
-Redfield,A
-SF Christian,A
-SF Jefferson,AA
-SF Roosevelt,AA
-SF Washington,AA
-Sanborn Central/Woonsocket,B
-SF Lincoln,AA
-SF Lutheran,B
-Sioux Valley,A
-Sisseton,A
-Spearfish,AA
-St. Thomas More,A
-Stanley County,A
-Sturgis Brown,AA
-Sully Buttes,B
-Sunshine Bible Academy,B
-Tea Area,AA
-Timber Lake,B
-Tri-State,A
-Takini,B
-Vermillion,A
-Viborg-Hurley,B
-Wakpala,B
-Wall,B
-Warner,B
-Watertown,AA
-Waubay/Summit,B
-Wessington Springs,B
-West Central,A
-White River,B
-Winner/Colome,A
-Wolsey-Wessington,B
-Yankton,AA
-Andes Central/Dakota Christian,B
-Black Hills Christian Academy,B
-Bon Homme,A
-Burke,B
-Canton,A
-Dell Rapids,A
-Groton Area,A
-Hanson,A
-Harding County,B
-Hot Springs,A
-Hoven,B
-Jones County,B
-Lead-Deadwood,A
-Menno,B
-Oelrichs,B
-Scotland,B
-Todd County,A
-Tripp-Delmont/Armour,B
-Webster Area,A
-Alcester-Hudson,B
-Elk Point-Jefferson,A
-McCook Central/Montrose,A
-Parker/Marion,A
-Wagner,A
-Iroquois/Lake Preston,B
-Tri-Valley,A
-Cheyenne-Eagle Butte,A
-Garretson,A
-Kadoka Area,B
-Colman-Egan,B
-Elkton-Lake Benton,A
-Oldham-Ramona-Rutland,B
-McIntosh,B
-Tiospaye Topa,B
-St. Francis Indian,A
-Bennett County,B
-Little Wound,A
-Marty,B
-Lakota Tech,A
-Pine Ridge,A
-Langford Area,B
-Tiospa Zina,B
-Aberdeen Christian,B
-Bridgewater-Emery,B
-Britton-Hecla,A
-Waverly-South Shore,B
-Leola/Frederick Area,B
+school,class,region
+Aberdeen Central,AA,
+Aberdeen Roncalli,A,1A
+Arlington,B,2B
+Avon,B,3B
+Baltic,A,2A
+Belle Fourche,A,5A
+Beresford,A,3A
+Bison,B,5B
+Brandon Valley,AA,
+Brookings,AA,
+Canistota,B,2B
+Castlewood,B,1B
+Centerville,B,2B
+Chamberlain,A,4A
+Chester,B,2B
+Clark/Willow Lake,A,1A
+Corsica-Stickney,B,3B
+Crazy Horse,B,5B
+Crow Creek,B,4B
+Custer,A,5A
+St. Mary's,B,2B
+Dakota Valley,A,3A
+De Smet,B,2B
+Deubrook Area,B,1B
+Deuel,A,1A
+Douglas,AA,
+Dupree,B,5B
+Edgemont,B,5B
+Estelline/Hendricks,B,1B
+Ethan/Parkston,A,3A
+Faith,B,5B
+Faulkton Area,B,1B
+Flandreau,A,2A
+Flandreau Indian,B,2B
+Florence/Henry,A,1A
+Frederick Area,B,1B
+Freeman,B,3B
+Gayville-Volin,B,2B
+Great Plains Lutheran,A,1A
+Gregory,B,3B
+Harrisburg,AA,
+Hamlin,A,1A
+Herreid/Selby Area,B,4B
+Highmore-Harrold,B,4B
+Hill City,A,5A
+Hitchcock-Tulare,B,1B
+Howard,B,2B
+Huron,AA,
+Ipswich,B,1B
+Irene-Wakonda,B,2B
+James Valley Christian,B,1B
+Kimball/White Lake,B,3B
+Lemmon,B,5B
+Lennox,A,3A
+Leola,B,1B
+Lower Brule,B,4B
+Lyman,B,4B
+Madison,A,2A
+McCrossan,B,2B
+McLaughlin,B,4B
+Milbank,A,1A
+Miller,B,4B
+Mitchell,AA,
+Mitchell Christian,B,3B
+Mobridge-Pollock,A,4A
+Mount Vernon/Plankinton,A,4A
+New Underwood,B,5B
+Newell,B,5B
+North Central,B,4B
+Northwestern,B,1B
+O'Gorman,AA,
+Philip,B,5B
+Pierre T.F. Riggs,AA,
+Platte-Geddes,A,4A
+Gettysburg,B,4B
+Rapid City Christian,A,5A
+Rapid City Central,AA,
+Rapid City Stevens,AA,
+Mahpiya Luta,A,5A
+Redfield,A,4A
+SF Christian,A,2A
+SF Jefferson,AA,
+SF Roosevelt,AA,
+SF Washington,AA,
+Sanborn Central/Woonsocket,B,3B
+SF Lincoln,AA,
+SF Lutheran,B,2B
+Sioux Valley,A,2A
+Sisseton,A,1A
+Spearfish,AA,
+St. Thomas More,A,5A
+Stanley County,A,4A
+Sturgis Brown,AA,
+Sully Buttes,B,4B
+Sunshine Bible Academy,B,4B
+Tea Area,AA,
+Timber Lake,B,4B
+Tri-State,B,1B
+Takini,B,5B
+Vermillion,A,3A
+Viborg-Hurley,B,2B
+Wakpala,B,4B
+Wall,B,5B
+Warner,B,1B
+Watertown,AA,
+Waubay/Summit,B,1B
+Wessington Springs,B,3B
+West Central,A,2A
+White River,B,5B
+Winner/Colome,A,4A
+Wolsey-Wessington,B,4B
+Yankton,AA,
+Andes Central/Dakota Christian,B,3B
+Black Hills Christian Academy,B,5B
+Bon Homme,A,3A
+Burke,B,3B
+Canton,A,3A
+Dell Rapids,A,2A
+Groton Area,A,1A
+Hanson,B,3B
+Harding County,B,5B
+Hot Springs,A,5A
+Hoven,B,4B
+Jones County,B,5B
+Lead-Deadwood,A,5A
+Menno,B,3B
+Oelrichs,B,5B
+Scotland,B,3B
+Todd County,A,4A
+Tripp-Delmont/Armour,B,3B
+Webster Area,A,1A
+Alcester-Hudson,B,2B
+Elk Point-Jefferson,A,3A
+McCook Central/Montrose,A,2A
+Parker/Marion,A,3A
+Wagner,A,3A
+Iroquois/Lake Preston,B,2B
+Tri-Valley,A,2A
+Cheyenne-Eagle Butte,A,4A
+Garretson,A,2A
+Kadoka Area,B,5B
+Colman-Egan,B,2B
+Elkton-Lake Benton,A,2A
+Oldham-Ramona-Rutland,B,2B
+McIntosh,B,5B
+Tiospaye Topa,B,4B
+St. Francis Indian,A,4A
+Bennett County,B,5B
+Little Wound,A,5A
+Marty,B,3B
+Lakota Tech,A,5A
+Pine Ridge,A,5A
+Langford Area,B,1B
+Tiospa Zina,B,1B
+Aberdeen Christian,B,1B
+Bridgewater-Emery,B,3B
+Britton-Hecla,A,1A
+Waverly-South Shore,B,1B
+Leola/Frederick Area,B,1B
