@@ -1,0 +1,438 @@
+1
+CS
+Carter Siemonsma
+
+Garretson
+17:14.4
+Yr: 12
+
+2
+
+Jaxton Rinehart
+
+Tri-Valley
+17:16.7
+Yr: 11
+
+3
+
+Ethan McGregor
+
+Garretson
+18:12.6
+Yr: 12
+
+4
+LK
+Logan Kontz
+
+Flandreau
+18:25.4
+Yr: 11
+
+5
+CT
+Camden Tebay
+
+Dell Rapids
+18:33.2
+Yr: 11
+
+6
+JM
+Josh Merriman
+
+Beresford
+18:50.2
+Yr: 9
+
+7
+
+Charles Meyer
+
+Madison
+19:16.8
+Yr: 10
+
+8
+BF
+Bennett Farley
+
+Beresford
+19:19.2
+Yr: 11
+
+9
+NH
+Noah Halvorson
+
+Beresford
+19:19.8
+Yr: 11
+
+10
+TJ
+Tayte Joachims
+
+Flandreau
+19:21.6
+Yr: 9
+
+11
+GF
+Gabe Frias
+
+Flandreau
+19:23.2
+Yr: 11
+
+12
+OM
+Oliver Merriman
+
+Beresford
+19:24.2
+Yr: 11
+
+13
+TT
+Teagen Teel
+
+Tri-Valley
+19:26.3
+Yr: 11
+
+14
+
+Cooper Libis
+
+St. Mary's
+19:27.4
+Yr: 9
+
+15
+
+Nolan Katzer
+
+Dell Rapids
+19:29.0
+Yr: 9
+
+16
+SK
+Sean King
+
+Tri-Valley
+19:34.9
+Yr: 10
+
+17
+BV
+Beckett Vargas
+
+Madison
+19:40.1
+Yr: 10
+
+18
+MH
+Matthew Heinemann
+
+St. Mary's
+19:41.7
+Yr: 12
+
+19
+CS
+Caleb Schroeder
+
+Canistota
+19:41.9
+Yr: 11
+
+20
+
+Brock Koth
+
+Beresford
+19:53.0
+Yr: 12
+
+21
+PP
+Paxton Peterson
+
+Beresford
+19:56.4
+Yr: 9
+
+22
+NC
+Nolan Carstensen
+
+Dell Rapids
+19:59.2
+Yr: 9
+
+23
+SS
+Sam Schmidt
+
+Flandreau
+20:02.0
+Yr: 12
+
+24
+CP
+Charlie Person
+
+Dell Rapids
+20:03.7
+Yr: 10
+
+25
+CS
+Cooper Smith
+
+Garretson
+20:10.9
+Yr: 11
+
+26
+NH
+Nathaniel Hobbie
+
+Flandreau
+20:16.0
+Yr: 12
+
+27
+JK
+Jaxen Kindelspire
+
+Tri-Valley
+20:22.2
+Yr: 10
+
+28
+EZ
+Ethan Zemlicka
+
+Clark/Willow Lake
+20:32.2
+Yr: 10
+
+29
+ES
+Elijah Schaap
+
+Beresford
+20:38.8
+Yr: 12
+
+30
+TC
+Thomas Christensen
+
+Dell Rapids
+20:50.2
+Yr: 9
+
+31
+MS
+Miles Sievers
+
+Garretson
+20:51.7
+Yr: 10
+
+32
+JP
+Jaxon Puetz
+
+Canistota
+20:53.5
+PB • Yr: 11
+
+33
+TK
+Tommy Kurtz
+
+Madison
+21:03.6
+Yr: 11
+
+34
+DA
+Devon Andersen
+
+Dell Rapids
+21:05.9
+PB • Yr: 8
+35
+LB
+Logan Borns
+
+Clark/Willow Lake
+21:10.9
+Yr: 8
+
+36
+EG
+Eli Gauthier
+
+Dell Rapids
+21:14.0
+Yr: 9
+
+37
+LR
+Logan Robinson
+
+St. Mary's
+21:15.5
+Yr: 10
+
+38
+SS
+Shea Smidt
+
+Garretson
+21:25.4
+Yr: 11
+
+39
+MH
+Michael Hanisch
+
+Garretson
+21:33.0
+Yr: 12
+
+40
+JT
+Joe Trumbauer
+
+St. Mary's
+21:49.9
+Yr: 11
+
+41
+MA
+Marcus Aasheim
+
+Beresford
+21:55.9
+Yr: 12
+
+42
+TF
+Timmy Felix
+
+Madison
+22:02.2
+Yr: 10
+
+43
+OM
+Oliver Meyer
+
+Madison
+22:03.4
+Yr: 12
+
+44
+AH
+Alex Heinemann
+
+Dell Rapids
+22:04.5
+Yr: 12
+
+45
+AH
+Adam Heumiller
+
+McCook Central/Montrose
+22:20.1
+Yr: 11
+
+46
+AG
+Aksel Gjerde
+
+Clark/Willow Lake
+22:28.8
+Yr: 10
+
+47
+KK
+Klayton Kemler
+
+Colman-Egan
+22:33.6
+Yr: 9
+
+48
+MC
+Milo Carlson
+
+Tri-Valley
+22:45.2
+Yr: 9
+
+49
+GM
+Giobbe Meyer
+
+Madison
+22:52.3
+Yr: 10
+
+50
+KL
+Kade Lutt
+
+St. Mary's
+23:53.8
+Yr: 12
+
+51
+TB
+Tristan Brown
+
+Madison
+24:00.5
+Yr: 12
+
+52
+CB
+Coop Birrittier
+
+Clark/Willow Lake
+24:23.6
+Yr: 9
+
+53
+GO
+Gordon Olson
+
+Madison
+25:11.0
+Yr: 11
+
+54
+HB
+Houston Bryant
+
+Madison
+26:19.1
+Yr: 11
+
+55
+GT
+Gavin Taylor
+
+Madison
+27:48.2
+Yr: 12

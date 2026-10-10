@@ -1,0 +1,315 @@
+1
+RB
+Ruben Bokegard
+
+Sturgis Brown
+16:40.5
+Yr: 12 • +1pts
+2
+WB
+Wyatt Balliew
+
+Douglas
+17:02.0
+Yr: 12 • +2pts
+3
+LC
+Lennon Clarkson
+
+Belle Fourche
+17:06.4
+Yr: 12 • +3pts
+4
+
+Dawson Deering
+
+Sturgis Brown
+17:36.2
+Yr: 10 • +4pts
+5
+CC
+Carter Cooper
+
+Custer
+17:36.2
+Yr: 9 • +5pts
+6
+
+Adam Hohn
+
+Custer
+18:00.2
+Yr: 9 • +6pts
+7
+PK
+Peyton Krueger
+
+Custer
+18:06.2
+Yr: 11 • +7pts
+8
+CD
+Corbin Dodson
+
+Sturgis Brown
+18:07.6
+Yr: 11 • +8pts
+9
+
+Zachary Cooper
+
+Custer
+18:09.1
+Yr: 11 • +9pts
+10
+BH
+Brux Hartman
+
+Belle Fourche
+18:16.3
+Yr: 9 • +10pts
+11
+RC
+Rylan Cuny
+
+Mahpiya Luta
+18:28.4
+Yr: 11 • +11pts
+12
+BO
+Bennie Olsen
+
+Douglas
+18:35.2
+Yr: 12 • +12pts
+13
+NH
+Nathan Hudson
+
+Belle Fourche
+18:50.3
+Yr: 12 • +13pts
+14
+JF
+Jayce Fire Thunder
+
+Little Wound
+18:53.0
+Yr: 11 • +14pts
+15
+IC
+Isaac Clement
+
+Douglas
+18:54.0
+Yr: 10 • +15pts
+16
+
+Zane Gunnell
+
+Custer
+18:55.7
+Yr: 11 • +16pts
+17
+MK
+Miles Kornegay
+
+Sturgis Brown
+19:18.5
+Yr: 12 • +17pts
+18
+PK
+Peyton Kallstrom
+
+Douglas
+19:33.1
+Yr: 12 • +18pts
+19
+GF
+Gage Frerichs
+
+Douglas
+19:37.6
+Yr: 10 • +19pts
+20
+TM
+Thaddaeus McKenney
+
+Belle Fourche
+19:37.9
+Yr: 11 • +20pts
+21
+JB
+Jaxon Bach
+
+Belle Fourche
+19:38.4
+Yr: 11 • +21pts
+22
+
+Clifford Torberson
+
+Belle Fourche
+19:39.1
+Yr: 12 • +22pts
+23
+CL
+Conner Lundy
+
+Custer
+19:48.5
+Yr: 11 • +23pts
+24
+LK
+Louis Kills Crow Indian
+
+Little Wound
+19:58.2
+Yr: 11 • +24pts
+25
+
+Cyrus Sundberg
+
+Sturgis Brown
+20:04.0
+Yr: 11 • +25pts
+26
+AD
+Austin Drew
+
+Custer
+20:05.6
+Yr: 12
+27
+ED
+Easton Dooley
+
+Custer
+20:11.4
+Yr: 8
+28
+HS
+Hoksila Sharpfish
+
+Mahpiya Luta
+20:13.8
+Yr: 9 • +26pts
+29
+AG
+Antoine Garnier
+
+Mahpiya Luta
+20:19.6
+Yr: 9 • +27pts
+30
+EB
+Eli Brown
+
+Rapid City Central
+20:22.5
+Yr: 11 • +28pts
+31
+
+Jared Cooper
+
+Custer
+20:32.5
+Yr: 12
+32
+AP
+Andrew Peterson
+
+Douglas
+20:34.4
+Yr: 12 • +29pts
+33
+QM
+Quentin Miller
+
+Douglas
+20:58.9
+Yr: 12
+34
+BF
+Bryghton Franks
+
+Mahpiya Luta
+21:02.9
+Yr: 9 • +30pts
+35
+DR
+Dayton Red Owl
+
+Little Wound
+21:24.8
+Yr: 10 • +31pts
+36
+AG
+Anson Griffin
+
+Rapid City Central
+21:28.2
+Yr: 12 • +32pts
+37
+LS
+Lucas Suomala
+
+Rapid City Christian
+21:29.4
+Yr: 10
+38
+DL
+David Lethlean
+
+Rapid City Central
+21:51.1
+Yr: 10 • +33pts
+39
+JC
+John Cloud VI
+
+Little Wound
+21:56.3
+Yr: 9 • +34pts
+40
+OF
+Owen Fronk
+
+Rapid City Central
+22:00.6
+Yr: 11 • +35pts
+41
+FR
+Francisco Richards
+
+Little Wound
+22:00.9
+Yr: 11 • +36pts
+42
+JZ
+Jackson Zamora
+
+Rapid City Christian
+22:09.0
+PB • Yr: 9
+43
+NR
+Nolan Radke
+
+Rapid City Central
+22:29.4
+SB • Yr: 12 • +37pts
+44
+RT
+Riley Two Eagles
+
+Mahpiya Luta
+22:34.5
+PB • Yr: 9 • +38pts
+45
+SG
+Sean Gatzke
+
+Douglas
+22:57.3
+Yr: 12

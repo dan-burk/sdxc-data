@@ -1,0 +1,408 @@
+1
+JS
+Jeter Scoular
+
+Milbank
+16:21.0
+SB • Yr: 12 • +1pts
+2
+BS
+Ben Sickler
+
+Grand Forks Central
+16:25.2
+PB • Yr: 10 • +2pts
+3
+GS
+Gage Selby
+
+Grand Forks Central
+16:29.3
+PB • Yr: 8 • +3pts
+4
+
+Ryder Graff
+
+Sisseton
+16:54.0
+PB • Yr: 12
+5
+GM
+Grant Martin
+
+Grand Forks Central
+16:59.7
+SB • Yr: 12 • +4pts
+6
+LK
+Logan Kontz
+
+Flandreau
+17:19.3
+PB • Yr: 11 • +5pts
+7
+
+Jack Montgomery
+
+PACT/Legacy
+17:35.0
+PB • Yr: 12 • +6pts
+8
+
+Ty Uhlir
+
+Grand Forks Central
+17:43.8
+Yr: 12 • +7pts
+9
+BS
+Ben Sapaugh
+
+Grand Forks Central
+17:56.4
+Yr: 9 • +8pts
+10
+JD
+Jace Dauer
+
+Breckenridge/Wahpeton
+17:57.8
+PB • Yr: 10 • +9pts
+11
+TJ
+Tayte Joachims
+
+Flandreau
+17:58.3
+PB • Yr: 9 • +10pts
+12
+CC
+Calvin Craycraft
+
+Grand Forks Central
+18:07.9
+PB • Yr: 10 • +11pts
+13
+BB
+Blaine Bulger
+
+Grand Forks Central
+18:09.6
+PB • Yr: 9
+14
+
+Hunter Montgomery
+
+PACT/Legacy
+18:15.0
+PB • Yr: 10 • +12pts
+
+15
+KS
+Kaden Sailer
+
+Grand Forks Central
+18:17.4
+PB • Yr: 12
+
+16
+MB
+Matthew Bothun
+
+Lac qui Parle Valley/Dawson-Boyd
+18:20.3
+PB • Yr: 10 • +13pts
+17
+DB
+Dallas Berry
+
+PACT/Legacy
+18:30.4
+SB • Yr: 12 • +14pts
+18
+
+Charles Meyer
+
+Madison
+18:37.5
+PB • Yr: 10 • +15pts
+19
+TB
+Troy Berndt
+
+Breckenridge/Wahpeton
+18:39.3
+Yr: 12 • +16pts
+20
+JE
+Jack Ekren
+
+Breckenridge/Wahpeton
+18:44.1
+Yr: 12 • +17pts
+21
+NH
+Nathaniel Hobbie
+
+Flandreau
+18:48.7
+Yr: 12 • +18pts
+22
+
+Jack Stuehrenberg
+
+Breckenridge/Wahpeton
+18:56.4
+Yr: 9 • +19pts
+23
+SS
+Sam Schmidt
+
+Flandreau
+18:59.7
+Yr: 12 • +20pts
+24
+KH
+Kolden Heinecke
+
+Lac qui Parle Valley/Dawson-Boyd
+19:02.8
+PB • Yr: 10 • +21pts
+25
+
+David Van Gorp
+
+PACT/Legacy
+19:06.6
+PB • Yr: 12 • +22pts
+26
+
+Kintaro Sarol
+
+Lac qui Parle Valley/Dawson-Boyd
+19:09.8
+PB • Yr: 10 • +23pts
+27
+TS
+Theo Steinberger
+
+Breckenridge/Wahpeton
+19:14.6
+Yr: 10 • +24pts
+28
+GF
+Gabe Frias
+
+Flandreau
+19:14.8
+PB • Yr: 11 • +25pts
+29
+JH
+Jaded Halvorson
+
+Grand Forks Central
+19:21.1
+Yr: 12
+30
+TK
+Tommy Kurtz
+
+Madison
+19:21.4
+PB • Yr: 11 • +26pts
+31
+
+Franco Flores
+
+Milbank
+19:23.7
+Yr: 11 • +27pts
+32
+BV
+Beckett Vargas
+
+Madison
+19:33.8
+Yr: 10 • +28pts
+33
+AW
+Aaron Will
+
+Lac qui Parle Valley/Dawson-Boyd
+19:35.8
+SB • Yr: 10 • +29pts
+34
+BB
+Beckham Berry
+
+Milbank
+19:37.3
+SB • Yr: 12 • +30pts
+35
+RE
+Rudy Ekren
+
+Breckenridge/Wahpeton
+19:42.2
+PB • Yr: 9 • +31pts
+36
+RW
+Rylan Wendland
+
+Milbank
+19:52.5
+SB • Yr: 11 • +32pts
+37
+NF
+Nolan Findlay
+
+Border West
+19:57.8
+SB • Yr: 10 • +33pts
+38
+CL
+Corey Loren
+
+PACT/Legacy
+19:59.8
+SB • Yr: 10 • +34pts
+39
+GM
+Garrett Malik
+
+PACT/Legacy
+20:01.8
+SB • Yr: 12 • +35pts
+40
+
+Luke Young
+
+Border West
+20:02.3
+PB • Yr: 10 • +36pts
+41
+RN
+Rhett Noyes
+
+PACT/Legacy
+20:03.5
+SB • Yr: 12
+42
+TS
+Tucker Steffens
+
+Tri-State
+20:14.5
+Yr: 12
+43
+OM
+Oliver Meyer
+
+Madison
+20:31.8
+SB • Yr: 12 • +37pts
+44
+EF
+Eddie Felton
+
+Lac qui Parle Valley/Dawson-Boyd
+20:51.3
+PB • Yr: 10 • +38pts
+45
+
+Braulio Chapa
+
+Border West
+21:15.5
+Yr: 11 • +39pts
+46
+TF
+Timmy Felix
+
+Madison
+21:33.6
+PB • Yr: 10 • +40pts
+47
+OC
+Odin Carlson
+
+Breckenridge/Wahpeton
+21:37.1
+Yr: 11
+48
+JV
+Jacob Voss
+
+Breckenridge/Wahpeton
+21:44.1
+Yr: 10
+49
+GO
+Gordon Olson
+
+Madison
+21:53.4
+SB • Yr: 11 • +41pts
+50
+GM
+Giobbe Meyer
+
+Madison
+21:53.9
+PB • Yr: 10
+51
+HS
+Henry Stav
+
+Breckenridge/Wahpeton
+22:12.1
+PB • Yr: 9
+52
+AL
+AJ Lindblad
+
+Breckenridge/Wahpeton
+22:16.2
+Yr: 10
+53
+ON
+Owen Nelson
+
+Waubay/Summit
+22:59.0
+PB • Yr: 8
+54
+TB
+Tristan Brown
+
+Madison
+23:06.2
+PB • Yr: 12
+55
+CF
+Carter Fickes
+
+Border West
+23:51.0
+Yr: 12 • +42pts
+56
+GT
+Gavin Taylor
+
+Madison
+24:46.7
+Yr: 12
+57
+NR
+Nathan Ross
+
+Flandreau
+25:43.1
+PB • Yr: 11 • +43pts
+58
+
+Carsyn Grebner
+
+Waubay/Summit
+27:31.4
+Yr: 10

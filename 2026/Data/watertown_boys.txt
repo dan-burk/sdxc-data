@@ -1,0 +1,686 @@
+1
+CR
+Cole Reilly
+
+Sioux Falls Washington
+15:29.1
+Yr: 12 • +1pts
+2
+
+Tate DeVries
+
+Aberdeen Central
+15:32.4
+PB • Yr: 11 • +2pts
+3
+EK
+Ethan Kyte
+
+Brandon Valley
+15:47.2
+Yr: 11 • +3pts
+4
+DS
+Dane Stark
+
+Watertown
+15:49.0
+Yr: 12 • +4pts
+5
+
+Dylan Haar
+
+Brookings
+15:55.6
+Yr: 11 • +5pts
+6
+
+Ben Parsons
+
+Sioux Falls Washington
+16:02.5
+Yr: 12 • +6pts
+7
+SP
+Sawyer Pettengill
+
+Sioux Falls Christian
+16:25.2
+Yr: 8 • +7pts
+8
+
+Ben Dirks
+
+Harrisburg
+16:25.9
+Yr: 12
+9
+JS
+Jackson Schema
+
+O'Gorman
+16:26.8
+Yr: 12 • +9pts
+10
+JS
+Jackson Storm
+
+Sioux Falls Washington
+16:27.2
+Yr: 10 • +10pts
+11
+GM
+Griffin Miller
+
+Sioux Falls Washington
+16:29.0
+Yr: 12 • +11pts
+12
+JB
+Jackson Boltjes
+
+Sioux Falls Washington
+16:29.7
+Yr: 12 • +12pts
+13
+QM
+Quinntin Mischke
+
+Brandon Valley
+16:30.8
+Yr: 10 • +13pts
+14
+
+Dayton Hill
+
+Sioux Falls Washington
+16:40.6
+Yr: 10 • +14pts
+15
+SM
+Samuel Mischke
+
+Brandon Valley
+16:45.4
+Yr: 10 • +15pts
+16
+
+Marcus Munsch
+
+Brandon Valley
+16:49.6
+Yr: 12 • +16pts
+17
+
+Gavin Johnson
+
+Sioux Falls Jefferson
+16:52.1
+PB • Yr: 9
+18
+HS
+Henry Smith
+
+O'Gorman
+16:54.6
+Yr: 11 • +17pts
+19
+LD
+Landon Doyle
+
+Sioux Falls Washington
+17:03.0
+Yr: 12 • +18pts
+20
+WL
+Wesley Lyon
+
+Sioux Falls Christian
+17:03.8
+Yr: 11 • +19pts
+21
+MN
+Max Nelson
+
+Aberdeen Central
+17:04.2
+Yr: 12 • +20pts
+22
+JN
+Jim Neddo
+
+Pierre T.F. Riggs
+17:24.3
+Yr: 11 • +21pts
+23
+DM
+Daniel Mason
+
+Pierre T.F. Riggs
+17:26.4
+Yr: 12 • +22pts
+24
+BO
+Brooks Ordway
+
+Harrisburg
+17:27.0
+Yr: 12 • +23pts
+25
+LM
+Luke Minor
+
+O'Gorman
+17:28.3
+Yr: 9 • +24pts
+26
+
+Sam VanRaalte
+
+Sioux Falls Christian
+17:29.0
+Yr: 11 • +25pts
+27
+NE
+Nolan Eidson
+
+Castlewood
+17:32.6
+Yr: 12
+28
+JT
+John Toates
+
+Brandon Valley
+17:38.7
+Yr: 9 • +26pts
+29
+IS
+Isaac Spahr
+
+Brandon Valley
+17:39.6
+Yr: 12 • +27pts
+30
+JM
+Jake Malchow
+
+Sioux Falls Washington
+17:48.9
+Yr: 10
+31
+NF
+Nathan Flanagan
+
+Harrisburg
+17:53.3
+Yr: 11 • +28pts
+32
+BZ
+Brady Zirbel
+
+Brandon Valley
+17:53.4
+PB • Yr: 9 • +29pts
+33
+MM
+Max McDonald
+
+Sioux Falls Christian
+17:56.5
+Yr: 11 • +30pts
+34
+CN
+Cruz Nitchals
+
+Harrisburg
+17:57.4
+PB • Yr: 10 • +31pts
+35
+BB
+Benson Bryant
+
+Harrisburg
+17:57.9
+Yr: 10 • +32pts
+36
+KB
+Kuddyer Baugher
+
+Brookings
+17:58.1
+SB • Yr: 10 • +33pts
+37
+GG
+Gavin Greenfield
+
+O'Gorman
+18:00.3
+Yr: 11 • +34pts
+38
+TJ
+Taden Jacobs
+
+Harrisburg
+18:02.5
+Yr: 11 • +35pts
+39
+ZC
+Zaden Crane
+
+Pierre T.F. Riggs
+18:04.4
+PB • Yr: 9 • +36pts
+40
+LU
+Lucas Underwood
+
+Brookings
+18:05.1
+Yr: 11 • +37pts
+41
+WC
+Wyatt Cooley
+
+Brookings
+18:05.1
+Yr: 10 • +38pts
+42
+CD
+Channing DeBoer
+
+Watertown
+18:06.9
+Yr: 8 • +39pts
+43
+RH
+Ryan Heldenbrand
+
+O'Gorman
+18:11.4
+Yr: 11 • +40pts
+44
+JK
+Jett Kirschenmann
+
+Pierre T.F. Riggs
+18:12.7
+Yr: 10 • +41pts
+45
+ES
+Eli Scheibe
+
+Pierre T.F. Riggs
+18:17.0
+PB • Yr: 9 • +42pts
+46
+BW
+Bradley Walden
+
+Brandon Valley
+18:17.0
+Yr: 12
+47
+XW
+Xadian Waysman
+
+Brandon Valley
+18:20.3
+Yr: 10
+48
+WH
+Weston Hieb
+
+Brandon Valley
+18:27.1
+Yr: 12
+49
+DV
+Drew VanStryland
+
+Sioux Falls Christian
+18:28.0
+Yr: 10 • +43pts
+50
+BS
+Blake Schierholz
+
+Harrisburg
+18:33.0
+SB • Yr: 11 • +44pts
+51
+HA
+Howie Anderson
+
+O'Gorman
+18:36.4
+Yr: 11 • +45pts
+52
+MD
+Martin Diedrich
+
+Brookings
+18:45.0
+PB • Yr: 10 • +46pts
+53
+JM
+Jace Moore
+
+Harrisburg
+18:45.7
+Yr: 11
+54
+
+Eli Smith
+
+Sioux Falls Christian
+18:47.2
+Yr: 10 • +47pts
+55
+MB
+Micah Bennett
+
+Mitchell
+18:52.2
+Yr: 9 • +48pts
+56
+LB
+Logan Becker
+
+Watertown
+18:52.9
+Yr: 12 • +49pts
+57
+OW
+Otto Winters
+
+Brandon Valley
+18:55.1
+Yr: 12
+58
+JW
+James Weir
+
+Huron
+18:55.5
+SB • Yr: 12 • +50pts
+59
+KH
+Kyler Hanigan
+
+Aberdeen Central
+18:55.9
+Yr: 8 • +51pts
+60
+JC
+Jackson Craig
+
+Brookings
+18:56.3
+PB • Yr: 11 • +52pts
+61
+AO
+Asher Oxford
+
+Pierre T.F. Riggs
+18:58.3
+Yr: 11 • +53pts
+62
+HC
+Henry Clayton
+
+Pierre T.F. Riggs
+19:04.0
+Yr: 10 • +54pts
+63
+EM
+Evan Mack
+
+Watertown
+19:06.3
+Yr: 11 • +55pts
+64
+JV
+Jonah Vermulm
+
+Sioux Falls Christian
+19:07.0
+PB • Yr: 11 • +56pts
+65
+RT
+Riley Tople
+
+Aberdeen Central
+19:07.4
+Yr: 9 • +57pts
+66
+AJ
+Aiden Johnson
+
+Sioux Falls Washington
+19:08.7
+Yr: 12
+67
+ET
+Eyosiyas Tarekegn
+
+Sioux Falls Jefferson
+19:10.6
+PB • Yr: 12
+68
+
+Kaiser Lunde
+
+Watertown
+19:11.3
+Yr: 9 • +58pts
+69
+JJ
+Jorgen Johnson
+
+Brookings
+19:16.0
+Yr: 11 • +59pts
+70
+KC
+Kaiden Colomb
+
+Mitchell
+19:20.3
+Yr: 9 • +60pts
+71
+DP
+Drew Pociask
+
+O'Gorman
+19:24.3
+Yr: 12 • +61pts
+72
+MR
+Maxwell Radke
+
+Huron
+19:25.8
+PB • Yr: 11 • +62pts
+73
+TL
+Teagan Lien
+
+Huron
+19:31.4
+Yr: 12 • +63pts
+74
+JF
+Jacob Friedman
+
+O'Gorman
+19:35.1
+Yr: 11
+75
+JM
+Jaxon McPartland
+
+Aberdeen Central
+19:39.8
+PB • Yr: 10 • +64pts
+76
+DP
+David Peterson
+
+Watertown
+19:40.4
+PB • Yr: 12 • +65pts
+77
+GL
+Grady Lindgren
+
+Watertown
+19:42.5
+SB • Yr: 9 • +66pts
+78
+ME
+Matthew Eckert
+
+Pierre T.F. Riggs
+19:53.9
+SB • Yr: 11
+79
+DF
+Deyondre Fick
+
+Sioux Falls Jefferson
+19:54.9
+Yr: 12
+80
+IP
+Iver Pospisil
+
+Watertown
+20:04.4
+PB • Yr: 10
+81
+HK
+Henry Kruse
+
+Huron
+20:06.8
+Yr: 11 • +67pts
+82
+SJ
+Shane Jones
+
+Pierre T.F. Riggs
+20:07.5
+Yr: 11
+83
+KH
+Karsten Herges
+
+Mitchell
+20:09.1
+Yr: 10 • +68pts
+84
+TW
+TJ Weidner
+
+Aberdeen Central
+20:10.0
+Yr: 7 • +69pts
+85
+LJ
+Lucas Johnson
+
+Sioux Falls Jefferson
+20:13.7
+Yr: 10
+86
+CT
+Cole Tingle
+
+Mitchell
+20:15.4
+PB • Yr: 7 • +70pts
+87
+
+Zayne Hartwig
+
+Watertown
+20:18.9
+Yr: 8
+88
+BR
+Blake Russell
+
+Mitchell
+20:20.2
+SB • Yr: 8 • +71pts
+89
+JM
+Jace Mashburn
+
+Watertown
+20:22.7
+PB • Yr: 9
+90
+MM
+Mason Magee
+
+Pierre T.F. Riggs
+20:28.3
+PB • Yr: 11
+91
+JH
+Jun Hu
+
+Aberdeen Central
+20:44.0
+Yr: 12 • +72pts
+92
+KE
+Kypton Eidson
+
+Castlewood
+20:44.2
+Yr: 10
+93
+ES
+Emerson Sarvis
+
+Huron
+21:22.8
+Yr: 12 • +73pts
+94
+SO
+Sebastian Olivo
+
+Huron
+21:23.6
+SB • Yr: 12 • +74pts
+95
+LR
+Landyn Rhoades
+
+Mitchell
+22:01.3
+Yr: 11 • +75pts
+96
+EL
+Enric Lapka
+
+Mitchell
+22:05.8
+PB • Yr: 10 • +76pts
+97
+CB
+Carter Buschbach
+
+Mitchell
+22:06.5
+Yr: 10
+98
+RW
+Riley Weber
+
+Mitchell
+23:29.4
+PB • Yr: 8

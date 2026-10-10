@@ -1,0 +1,952 @@
+1
+EE
+Eric Errea
+
+Rapid City Central
+15:16.4
+PB • Yr: 12 • +1pts
+2
+DS
+Dane Stark
+
+Watertown
+15:38.1
+Yr: 12 • +2pts
+3
+RV
+Rylan VanDeest
+
+Spearfish
+15:53.9
+PB • Yr: 10 • +3pts
+4
+PT
+Peyton Tetzlaff
+
+West Central
+15:59.2
+SB • Yr: 12 • +4pts
+5
+RB
+Ruben Bokegard
+
+Sturgis Brown
+16:00.2
+PB • Yr: 12 • +5pts
+6
+WB
+Wyatt Balliew
+
+Douglas
+16:03.9
+Yr: 12 • +6pts
+7
+EP
+Evan Perrigo
+
+Rapid City Stevens
+16:04.3
+PB • Yr: 10 • +7pts
+8
+TV
+Tate Van Beek
+
+Rapid City Stevens
+16:16.2
+SB • Yr: 12 • +8pts
+9
+CC
+Carter Cooper
+
+Custer
+16:20.4
+PB • Yr: 9 • +9pts
+10
+CE
+Chase Erickson
+
+Thunder Basin
+16:23.9
+PB • Yr: 12 • +10pts
+11
+JS
+Jadon Shamion
+
+Campbell County
+16:26.7
+PB • Yr: 12 • +11pts
+12
+LC
+Lennon Clarkson
+
+Belle Fourche
+16:30.0
+Yr: 12 • +12pts
+13
+
+Jackson Taken Alive
+
+Cheyenne-Eagle Butte
+16:30.5
+Yr: 12 • +13pts
+14
+CT
+Carter Thompson
+
+Spearfish
+16:31.0
+PB • Yr: 11 • +14pts
+15
+
+Mylan McDaniel
+
+Rapid City Central
+16:32.2
+PB • Yr: 11 • +15pts
+16
+MG
+Mason Gill
+
+Spearfish
+16:37.5
+Yr: 11 • +16pts
+17
+WA
+Weston Adams
+
+Rapid City Stevens
+16:45.0
+PB • Yr: 11 • +17pts
+18
+
+Dawson Deering
+
+Sturgis Brown
+16:45.9
+PB • Yr: 10 • +18pts
+19
+LH
+Luke Hall
+
+Thunder Basin
+16:51.6
+PB • Yr: 9 • +19pts
+20
+NH
+Noah Hansen
+
+Rapid City Stevens
+16:56.3
+Yr: 11 • +20pts
+21
+JM
+Jared Melinkovich
+
+Thunder Basin
+16:57.8
+SB • Yr: 12 • +21pts
+22
+PK
+Peyton Krueger
+
+Custer
+16:58.8
+SB • Yr: 11 • +22pts
+23
+DM
+Daniel Mason
+
+Pierre T.F. Riggs
+17:01.1
+PB • Yr: 12 • +23pts
+24
+AR
+Andrew Rigsby
+
+Campbell County
+17:01.6
+PB • Yr: 9 • +24pts
+25
+JH
+Jayden Hull
+
+Thunder Basin
+17:02.8
+PB • Yr: 10 • +25pts
+26
+WG
+Wyatt Gaeta
+
+Rapid City Stevens
+17:03.8
+PB • Yr: 10 • +26pts
+27
+RC
+Rylan Cuny
+
+Mahpiya Luta
+17:06.6
+PB • Yr: 11
+28
+JT
+John Titus (J.T.) Isakson
+
+Hill City
+17:07.7
+Yr: 10 • +27pts
+29
+XS
+Xavier Sanchez-Gonzalez
+
+Cheyenne-Eagle Butte
+17:08.4
+Yr: 12 • +28pts
+30
+
+Reid Hammerquist
+
+Tea Area
+17:09.7
+Yr: 12 • +29pts
+31
+WP
+William Pollick
+
+Thunder Basin
+17:12.1
+PB • Yr: 12 • +30pts
+32
+RJ
+Roman Jeffery
+
+Spearfish
+17:12.1
+PB • Yr: 9 • +31pts
+33
+AB
+Ayden Berndt
+
+Rapid City Central
+17:14.2
+PB • Yr: 11 • +32pts
+34
+
+Teegan Grosz
+
+Rapid City Central
+17:15.1
+Yr: 11 • +33pts
+35
+JW
+Jeremiah White
+
+Hill City
+17:17.4
+PB • Yr: 11 • +34pts
+36
+
+Zachary Cooper
+
+Custer
+17:18.9
+Yr: 11 • +35pts
+37
+BH
+Briar Horn
+
+West Central
+17:19.4
+PB • Yr: 9 • +36pts
+38
+MR
+Micah Reede
+
+Lemmon
+17:23.6
+Yr: 9
+39
+LG
+Liam Gill
+
+Chamberlain
+17:24.3
+Yr: 10 • +37pts
+40
+BG
+Bastian Gonzales
+
+Spearfish
+17:25.7
+PB • Yr: 8 • +38pts
+41
+
+Demetrius Sanchez-Gonzalez
+
+Cheyenne-Eagle Butte
+17:27.6
+Yr: 11 • +39pts
+42
+JN
+Jim Neddo
+
+Pierre T.F. Riggs
+17:27.9
+Yr: 11 • +40pts
+43
+CD
+Corbin Dodson
+
+Sturgis Brown
+17:28.3
+PB • Yr: 11 • +41pts
+44
+BP
+Blake Peterson
+
+Rapid City Stevens
+17:29.1
+PB • Yr: 9 • +42pts
+45
+
+Darron Moeller
+
+Kimball/White Lake
+17:30.9
+Yr: 11
+46
+
+Adam Hohn
+
+Custer
+17:31.4
+Yr: 9 • +43pts
+47
+DC
+Drew Chavez
+
+Rapid City Central
+17:33.2
+PB • Yr: 11 • +44pts
+48
+BH
+Brux Hartman
+
+Belle Fourche
+17:35.8
+PB • Yr: 9 • +45pts
+49
+JP
+Jude Pennington
+
+Thunder Basin
+17:40.0
+Yr: 12 • +46pts
+50
+RC
+Reece Christian
+
+Tea Area
+17:42.7
+SB • Yr: 10 • +47pts
+51
+ZC
+Zane Clem
+
+Campbell County
+17:45.7
+PB • Yr: 9 • +48pts
+52
+NH
+Nathan Hudson
+
+Belle Fourche
+17:47.1
+SB • Yr: 12 • +49pts
+53
+ZN
+Zach Nielsen
+
+West Central
+17:51.4
+Yr: 12 • +50pts
+54
+AS
+Anthony Stevens
+
+Spearfish
+17:51.5
+Yr: 9 • +51pts
+55
+JC
+Jace Cross
+
+Thunder Basin
+17:53.6
+PB • Yr: 9 • +52pts
+56
+
+Espn Magelky
+
+Rapid City Central
+17:53.8
+PB • Yr: 11 • +53pts
+57
+LC
+Lindy Cosgrove
+
+Chamberlain
+17:54.8
+Yr: 11 • +54pts
+58
+TV
+Tate VanLaecken
+
+Tea Area
+17:55.8
+SB • Yr: 12 • +55pts
+59
+IC
+Isaac Clement
+
+Douglas
+17:56.9
+Yr: 10 • +56pts
+60
+CD
+Channing DeBoer
+
+Watertown
+18:01.1
+PB • Yr: 8 • +57pts
+61
+JH
+Jackson Hare
+
+Rapid City Central
+18:01.3
+PB • Yr: 11 • +58pts
+62
+
+Zane Gunnell
+
+Custer
+18:03.5
+Yr: 11 • +59pts
+63
+CM
+Carson McDowell
+
+Rapid City Stevens
+18:04.1
+PB • Yr: 11 • +60pts
+64
+KC
+Kaden Christian
+
+Tea Area
+18:05.2
+Yr: 12 • +61pts
+65
+
+Gavin Chiaroni
+
+Douglas
+18:08.1
+Yr: 12 • +62pts
+66
+JK
+Jett Kirschenmann
+
+Pierre T.F. Riggs
+18:11.9
+Yr: 10 • +63pts
+67
+LB
+Logan Becker
+
+Watertown
+18:15.7
+SB • Yr: 12 • +64pts
+68
+ZC
+Zaden Crane
+
+Pierre T.F. Riggs
+18:15.9
+PB • Yr: 9 • +65pts
+69
+MK
+Miles Kornegay
+
+Sturgis Brown
+18:17.1
+SB • Yr: 12 • +66pts
+70
+ES
+Eli Scheibe
+
+Pierre T.F. Riggs
+18:19.1
+PB • Yr: 9 • +67pts
+71
+GC
+Grant Curtis
+
+Tea Area
+18:24.2
+Yr: 10 • +68pts
+72
+TO
+Trigg Odenbach
+
+Lemmon
+18:24.3
+PB • Yr: 11
+73
+SL
+Seldon Little
+
+Campbell County
+18:27.0
+SB • Yr: 12 • +69pts
+74
+AE
+Alex Ekstrum
+
+Kimball/White Lake
+18:29.7
+Yr: 11
+75
+LQ
+Landon Quimby
+
+Douglas
+18:30.8
+Yr: 10 • +70pts
+76
+SP
+Sutton Peterson
+
+Lemmon
+18:33.3
+Yr: 10
+77
+MP
+Michael Prue
+
+Todd County
+18:34.3
+Yr: 10
+78
+CL
+Christoffe Lee
+
+Douglas
+18:39.2
+PB • Yr: 12 • +71pts
+79
+CL
+Conner Lundy
+
+Custer
+18:40.5
+SB • Yr: 11 • +72pts
+80
+BC
+Byron Condon
+
+Cheyenne-Eagle Butte
+18:41.6
+Yr: 10 • +73pts
+81
+
+Jonah Klemisch
+
+Tea Area
+18:44.3
+Yr: 12 • +74pts
+82
+
+Clifford Torberson
+
+Belle Fourche
+18:45.4
+Yr: 12 • +75pts
+83
+AG
+AJ Green
+
+Stanley County
+18:47.6
+PB • Yr: 9
+84
+CH
+Cameron Hogan
+
+Campbell County
+18:48.9
+Yr: 12 • +76pts
+85
+JB
+Jaxon Bach
+
+Belle Fourche
+18:49.3
+Yr: 11 • +77pts
+86
+JP
+Josh Parks
+
+Campbell County
+18:49.7
+PB • Yr: 12 • +78pts
+87
+GF
+Gage Frerichs
+
+Douglas
+18:51.2
+PB • Yr: 10 • +79pts
+88
+RM
+Ryland Magee
+
+Stanley County
+18:52.0
+Yr: 11
+89
+AO
+Asher Oxford
+
+Pierre T.F. Riggs
+18:52.8
+PB • Yr: 11 • +80pts
+90
+IC
+Ian Cho
+
+Spearfish
+18:53.7
+SB • Yr: 11 • +81pts
+91
+HM
+Hudson Metz
+
+Chamberlain
+18:54.5
+Yr: 9 • +82pts
+92
+
+Soren Farrar
+
+Hill City
+18:56.4
+Yr: 8 • +83pts
+93
+TM
+Thaddaeus McKenney
+
+Belle Fourche
+18:59.9
+Yr: 11 • +84pts
+94
+JM
+Jaden McGuire
+
+Newcastle
+18:59.9
+PB • Yr: 12 • +85pts
+95
+
+Kaiser Lunde
+
+Watertown
+19:03.7
+Yr: 9 • +86pts
+96
+BB
+Brayden Brave Heart
+
+Pierre T.F. Riggs
+19:05.3
+Yr: 9 • +87pts
+97
+EB
+Eli Brown
+
+Rapid City Central
+19:06.8
+PB • Yr: 11
+98
+JB
+Jackson Bollinger
+
+Chamberlain
+19:10.3
+Yr: 9 • +88pts
+99
+HS
+Hoksila Sharpfish
+
+Mahpiya Luta
+19:10.4
+PB • Yr: 9
+100
+EM
+Evan Mack
+
+Watertown
+19:13.6
+Yr: 11 • +89pts
+101
+
+Cyrus Sundberg
+
+Sturgis Brown
+19:22.3
+PB • Yr: 11 • +90pts
+102
+PK
+Peyton Kallstrom
+
+Douglas
+19:26.3
+Yr: 12 • +91pts
+103
+
+Keagan Gerlick
+
+St. Thomas More
+19:27.0
+PB • Yr: 10
+104
+TG
+Tanner Gottlob
+
+Spearfish
+19:28.9
+Yr: 11
+105
+BG
+Bridger Gruber
+
+Stanley County
+19:29.6
+SB • Yr: 8
+106
+TD
+Tristan Day
+
+St. Thomas More
+19:31.1
+PB • Yr: 9
+107
+AG
+Antoine Garnier
+
+Mahpiya Luta
+19:40.2
+PB • Yr: 9
+108
+SS
+Samuel Spisak
+
+West Central
+19:40.7
+SB • Yr: 8 • +92pts
+109
+RT
+Robert Trigg
+
+Campbell County
+19:41.0
+Yr: 9 • +93pts
+110
+AP
+Andrew Peterson
+
+Douglas
+19:42.1
+PB • Yr: 12
+111
+QM
+Quentin Miller
+
+Douglas
+19:47.9
+SB • Yr: 12
+112
+DD
+Drayden Deffenbaugh
+
+West Central
+19:48.4
+PB • Yr: 12 • +94pts
+113
+AA
+Alex Albrecht
+
+Spearfish
+19:51.6
+Yr: 11
+114
+BF
+Bryghton Franks
+
+Mahpiya Luta
+20:08.0
+Yr: 9
+115
+DM
+Daeson Moncur
+
+Harding County
+20:14.2
+SB • Yr: 10
+116
+DC
+Dylan Conley
+
+Newcastle
+20:22.4
+PB • Yr: 11 • +95pts
+117
+LC
+Lane Carter
+
+Newcastle
+20:25.0
+PB • Yr: 12 • +96pts
+118
+DD
+Dontae Davis
+
+Todd County
+20:29.8
+Yr: 11
+119
+MM
+Maddox McKie
+
+St. Thomas More
+20:33.1
+PB • Yr: 8
+120
+SN
+Sutton Newbrough
+
+Cheyenne-Eagle Butte
+20:45.8
+PB • Yr: 8 • +97pts
+121
+JD
+Jacobie Demarce
+
+Todd County
+20:52.2
+Yr: 12
+122
+LS
+Lucas Suomala
+
+Rapid City Christian
+20:53.2
+SB • Yr: 10
+123
+BJ
+Brody Johnson
+
+West Central
+21:09.0
+SB • Yr: 12 • +98pts
+124
+EG
+Ezekiel Gardner
+
+Hill City
+21:14.5
+PB • Yr: 10 • +99pts
+125
+RB
+Rylie Barker
+
+Chamberlain
+21:16.3
+PB • Yr: 9 • +100pts
+126
+CD
+Caius DuBray
+
+Cheyenne-Eagle Butte
+21:36.9
+Yr: 11 • +101pts
+127
+KB
+Kendrick Blumenthal
+
+Newcastle
+21:54.8
+SB • Yr: 12 • +102pts
+128
+LS
+Lucas Scribner
+
+Newcastle
+22:17.8
+SB • Yr: 12 • +103pts
+129
+KH
+Kamden Hamiel
+
+Kimball/White Lake
+22:41.7
+SB • Yr: 9
+130
+MD
+Marco DuBois
+
+Hill City
+22:44.0
+Yr: 10 • +104pts
+131
+NC
+Nick Carpenter
+
+St. Thomas More
+22:57.6
+Yr: 10
+132
+BP
+Brylen Padden
+
+Harding County
+22:59.2
+Yr: 10
+133
+TF
+Teo Ferraris
+
+Hot Springs
+23:26.2
+PB • Yr: 11
+134
+MS
+Marty Stadel
+
+Cheyenne-Eagle Butte
+23:28.9
+Yr: 11 • +105pts
+135
+BL
+Brody Lout
+
+Hot Springs
+23:31.8
+PB • Yr: 11
+136
+MW
+Malachi Whitacre
+
+Newell
+23:52.6
+Yr: 12

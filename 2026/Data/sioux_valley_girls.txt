@@ -1,0 +1,371 @@
+1
+BS
+Brooklyn Sundermann
+
+West Central
+20:19.0
+Yr: 10
+2
+SJ
+Sarah Johnson
+
+West Central
+20:36.0
+Yr: 11
+3
+WS
+Willow Stephens
+
+Flandreau
+21:14.0
+PB • Yr: 8
+4
+AW
+Amia Ward
+
+Sioux Valley
+21:20.0
+Yr: 9
+5
+SW
+Sadie Wuebben
+
+West Central
+21:27.0
+Yr: 8
+6
+EO
+Evelyn Ostrem
+
+Sioux Valley
+21:39.0
+Yr: 7
+7
+EC
+Ella Coomes
+
+Madison
+22:20.0
+Yr: 9
+8
+ST
+Shyla Tvedt
+
+Deuel
+22:27.0
+Yr: 12
+9
+
+Hannah Sonstebo
+
+Webster Area
+22:29.0
+Yr: 10
+10
+
+Kiley Westberry
+
+Flandreau
+22:32.0
+Yr: 12
+11
+JV
+Johanna Vandersnick
+
+Clark/Willow Lake
+22:51.0
+Yr: 12
+12
+
+Lillie Schmit
+
+Sioux Valley
+22:55.0
+Yr: 8
+13
+KS
+Kelsey Sundermann
+
+West Central
+22:55.0
+Yr: 8
+14
+TL
+Tenley LeBrun
+
+Flandreau
+23:10.0
+Yr: 9
+15
+EB
+Emma Bochek
+
+Clark/Willow Lake
+23:22.0
+Yr: 11
+16
+LA
+Lucy Anderson
+
+West Central
+23:31.0
+Yr: 8
+17
+AG
+Ava Gatzke
+
+Sioux Valley
+23:35.0
+Yr: 11
+18
+EA
+Emma Andreasen
+
+Sioux Valley
+23:35.0
+PB • Yr: 7
+19
+SA
+Sophia Aldana
+
+Madison
+23:43.0
+PB • Yr: 7
+20
+
+Genesis Martinez Soto
+
+Flandreau
+23:49.0
+Yr: 8
+21
+AS
+Ava Sunne
+
+Sioux Valley
+24:19.0
+PB • Yr: 7
+22
+AH
+Alexis Hopewell
+
+Hamlin
+24:20.0
+Yr: 7
+23
+KG
+Kyra Graham
+
+West Central
+24:50.0
+Yr: 10
+24
+AG
+Aleah Graham
+
+West Central
+24:53.0
+Yr: 12
+25
+AH
+Avaley Hestermann
+
+Sioux Valley
+24:56.0
+PB • Yr: 7
+26
+
+Laynie Wire
+
+Madison
+25:02.0
+Yr: 9
+27
+AQ
+Avery Quam
+
+Madison
+25:11.0
+Yr: 9
+28
+AT
+Alora Tuschen
+
+West Central
+25:13.0
+SB • Yr: 10
+29
+MM
+Miriam Meyer
+
+Madison
+25:23.0
+Yr: 9
+30
+AG
+Amelia Giese
+
+Deuel
+25:34.0
+Yr: 12
+31
+AM
+Ada Maddox
+
+Great Plains Lutheran
+25:39.0
+Yr: 10
+32
+AM
+Autumn Mikel
+
+Madison
+25:52.0
+PB • Yr: 10
+33
+AW
+Amya Ward
+
+Sioux Valley
+25:58.0
+Yr: 9
+34
+EH
+Elyse Heninger
+
+Sioux Valley
+25:58.0
+PB • Yr: 7
+35
+HF
+Hazel Francis
+
+Madison
+26:02.0
+Yr: 11
+36
+HG
+Hadley Gjerde
+
+Clark/Willow Lake
+26:07.0
+Yr: 12
+37
+
+Amelia Loban
+
+Hamlin
+26:32.0
+Yr: 11
+38
+
+Nevaeh Reitz
+
+Clark/Willow Lake
+26:40.0
+Yr: 10
+39
+RP
+Rylee Pickrel
+
+Clark/Willow Lake
+26:41.0
+SB • Yr: 11
+40
+
+Paycee Lee
+
+Deuel
+26:42.0
+Yr: 10
+41
+RS
+Rona Streitz
+
+Flandreau
+26:52.0
+Yr: 10
+42
+CH
+Charlotte Hasleton
+
+Madison
+27:01.0
+Yr: 12
+43
+AD
+Addyson Dorwart
+
+Madison
+27:02.0
+PB • Yr: 7
+44
+BH
+Britton Hasleton
+
+Madison
+27:10.0
+PB • Yr: 8
+45
+AS
+Alexis Sodren
+
+Deuel
+27:17.0
+Yr: 12
+46
+LS
+Lou Schladweiler
+
+Madison
+27:49.0
+Yr: 11
+47
+AP
+Alex Premus
+
+Madison
+27:55.0
+PB • Yr: 7
+48
+TC
+Taylee Cyrus
+
+Webster Area
+27:59.0
+Yr: 9
+49
+CT
+Caidance Trigg
+
+Madison
+27:59.0
+PB • Yr: 7
+50
+IW
+Ivy Wegner
+
+Flandreau
+29:48.0
+Yr: 10
+51
+RH
+Remi Hubsch
+
+Webster Area
+30:22.0
+Yr: 10
+52
+ME
+Madelyn Engebretson
+
+Madison
+30:56.0
+PB • Yr: 7
+53
+HH
+Hayden Hansen
+
+Madison
+33:38.0
+Yr: 11

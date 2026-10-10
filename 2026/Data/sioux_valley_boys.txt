@@ -1,0 +1,616 @@
+1
+PT
+Peyton Tetzlaff
+
+West Central
+17:11.0
+Yr: 12
+2
+
+Carter Siemonsma
+
+Garretson
+17:34.0
+Yr: 12
+3
+CH
+Caden Hourigan
+
+Deuel
+17:59.0
+Yr: 12
+4
+SB
+Sutton Benck
+
+Deuel
+18:00.0
+Yr: 12
+5
+ZN
+Zach Nielsen
+
+West Central
+18:02.0
+Yr: 12
+6
+BH
+Briar Horn
+
+West Central
+18:03.0
+Yr: 9
+7
+LK
+Logan Kontz
+
+Flandreau
+18:10.0
+Yr: 11
+8
+GM
+Gavin Mattson
+
+Deuel
+18:55.0
+Yr: 11
+9
+TH
+Tyson Hagberg
+
+Deuel
+18:56.0
+Yr: 12
+10
+NH
+Nathaniel Hobbie
+
+Flandreau
+19:00.0
+Yr: 12
+11
+
+Ethan McGregor
+
+Garretson
+19:01.0
+Yr: 12
+12
+SM
+Sam Manian
+
+Great Plains Lutheran
+19:06.0
+Yr: 12
+13
+TS
+Tyrus Schulz
+
+Sioux Valley
+19:08.0
+Yr: 12
+14
+SS
+Sam Schmidt
+
+Flandreau
+19:12.0
+Yr: 12
+15
+GF
+Gabe Frias
+
+Flandreau
+19:13.0
+PB • Yr: 11
+16
+LA
+Levi Axtell
+
+Sioux Valley
+19:20.0
+Yr: 11
+17
+CH
+Coen Halvorson
+
+Webster Area
+19:22.0
+Yr: 8
+18
+
+Charles Meyer
+
+Madison
+19:23.0
+Yr: 10
+19
+BV
+Beckett Vargas
+
+Madison
+19:38.0
+Yr: 10
+20
+TK
+Tommy Kurtz
+
+Madison
+19:38.0
+Yr: 11
+21
+MS
+Miles Sievers
+
+Garretson
+19:39.0
+Yr: 10
+22
+TH
+Titus Hofinga
+
+Great Plains Lutheran
+19:48.0
+SB • Yr: 12
+23
+CS
+Cooper Smith
+
+Garretson
+19:55.0
+Yr: 11
+24
+NR
+Nathan Ross
+
+Flandreau
+19:56.0
+PB • Yr: 11
+25
+EZ
+Ethan Zemlicka
+
+Clark/Willow Lake
+20:02.0
+Yr: 10
+26
+CG
+Camron Gross
+
+Sioux Valley
+20:03.0
+PB • Yr: 8
+27
+
+Luke Schaeffer
+
+Great Plains Lutheran
+20:04.0
+Yr: 9
+28
+AG
+Aksel Gjerde
+
+Clark/Willow Lake
+20:09.0
+Yr: 10
+29
+SS
+Samuel Spisak
+
+West Central
+20:12.0
+Yr: 8
+30
+CD
+Cooper Danforth
+
+Garretson
+20:14.0
+Yr: 9
+31
+MP
+Malachi Peterson
+
+Deuel
+20:16.0
+Yr: 8
+32
+LB
+Logan Borns
+
+Clark/Willow Lake
+20:27.0
+Yr: 8
+33
+
+William LaBerge
+
+Great Plains Lutheran
+20:37.0
+Yr: 12
+34
+DK
+Dominic Kluckman
+
+Deuel
+20:41.0
+Yr: 12
+35
+CH
+Carter Hanssen
+
+Sioux Valley
+20:45.0
+Yr: 8
+36
+JH
+Jake Harmdierks
+
+Madison
+20:47.0
+PB • Yr: 9
+37
+ES
+Easton Schwebach
+
+Garretson
+20:52.0
+Yr: 7
+38
+CB
+Corban Barclay
+
+Sioux Valley
+20:54.0
+PB • Yr: 10
+39
+WJ
+William Jaquet
+
+Sioux Valley
+20:55.0
+PB • Yr: 7
+40
+CR
+Cameron Roberts
+
+Garretson
+21:08.0
+PB • Yr: 10
+41
+GH
+Gray Holden
+
+Deuel
+21:13.0
+Yr: 10
+42
+WF
+Wyatt Fox
+
+Madison
+21:17.0
+PB • Yr: 7
+43
+SS
+Shea Smidt
+
+Garretson
+21:22.0
+Yr: 11
+44
+NB
+Nikola Bietz
+
+Flandreau
+21:22.0
+PB • Yr: 8
+45
+PL
+Peter LaBerge
+
+Great Plains Lutheran
+21:23.0
+Yr: 10
+46
+OL
+Oliver Larsen
+
+Sioux Valley
+21:25.0
+Yr: 8
+47
+
+Jackson Hestermann
+
+Sioux Valley
+21:30.0
+Yr: 9
+48
+KB
+Kellin Boik
+
+Webster Area
+21:34.0
+Yr: 10
+49
+AB
+Aiden Bowers
+
+Clark/Willow Lake
+21:38.0
+Yr: 10
+50
+OM
+Oliver Meyer
+
+Madison
+21:40.0
+Yr: 12
+51
+DD
+Drayden Deffenbaugh
+
+West Central
+21:43.0
+Yr: 12
+52
+GW
+Grady Wagner
+
+Webster Area
+21:55.0
+Yr: 12
+53
+MH
+Michael Hanisch
+
+Garretson
+22:03.0
+Yr: 12
+54
+TK
+Treyden Keating
+
+Great Plains Lutheran
+22:07.0
+SB • Yr: 11
+55
+CB
+Coop Birrittier
+
+Clark/Willow Lake
+22:11.0
+Yr: 9
+56
+GM
+Giobbe Meyer
+
+Madison
+22:17.0
+Yr: 10
+57
+TF
+Timmy Felix
+
+Madison
+22:17.0
+Yr: 10
+58
+CB
+Charles Beving
+
+Clark/Willow Lake
+22:22.0
+Yr: 8
+59
+MS
+Mason Snyders
+
+Garretson
+22:24.0
+PB • Yr: 9
+60
+WB
+Wakinyan Brushbreaker
+
+Flandreau
+22:25.0
+PB • Yr: 8
+61
+LS
+Leo Schumacher
+
+Great Plains Lutheran
+22:28.0
+Yr: 9
+62
+EP
+Easton Parsons
+
+West Central
+22:28.0
+SB • Yr: 9
+63
+MA
+Maximus Aldana
+
+Madison
+22:31.0
+PB • Yr: 9
+64
+AG
+Alec Garrett
+
+Webster Area
+22:34.0
+Yr: 12
+65
+HM
+Holbrook Meyer
+
+Madison
+22:39.0
+PB • Yr: 8
+66
+MM
+Maddox Materese
+
+Madison
+22:50.0
+PB • Yr: 7
+67
+TB
+Tristan Brown
+
+Madison
+23:00.0
+PB • Yr: 12
+68
+
+Aidyn Cyrus
+
+Webster Area
+23:01.0
+Yr: 11
+69
+RH
+Richie Hauge
+
+Madison
+23:11.0
+PB • Yr: 8
+70
+CK
+Calvin Koopmans
+
+Great Plains Lutheran
+23:13.0
+PB • Yr: 7
+71
+KM
+Kobi Martin
+
+Flandreau
+23:20.0
+Yr: 11
+72
+MH
+Maxen Hansen
+
+Madison
+23:20.0
+PB • Yr: 8
+73
+AL
+Ace Lesnar
+
+Webster Area
+23:33.0
+Yr: 10
+74
+HS
+Hunter Sinner
+
+Webster Area
+23:45.0
+Yr: 9
+75
+GO
+Gordon Olson
+
+Madison
+23:47.0
+Yr: 11
+76
+VT
+Vance Tolifson
+
+Webster Area
+24:01.0
+PB • Yr: 9
+77
+CG
+Cooper Gregerson
+
+Webster Area
+24:02.0
+Yr: 9
+78
+MM
+Max Mills
+
+Sioux Valley
+24:10.0
+PB • Yr: 7
+79
+TG
+Torger Gjerde
+
+Clark/Willow Lake
+24:10.0
+PB • Yr: 7
+80
+LN
+Liam Nielsen
+
+Madison
+24:14.0
+PB • Yr: 7
+81
+BW
+Brenden Warne
+
+West Central
+24:20.0
+PB • Yr: 10
+82
+WF
+Waylon Fitzgerald
+
+Clark/Willow Lake
+24:31.0
+Yr: 9
+83
+BG
+Brody Graves
+
+Clark/Willow Lake
+24:33.0
+PB • Yr: 9
+84
+TE
+Trystan Engels
+
+Sioux Valley
+24:33.0
+PB • Yr: 8
+85
+HB
+Houston Bryant
+
+Madison
+24:55.0
+Yr: 11
+86
+GT
+Gavin Taylor
+
+Madison
+25:05.0
+Yr: 12
+87
+NS
+Nolan Schmidt
+
+Madison
+25:24.0
+PB • Yr: 8
+88
+
+Gage Klein
+
+Madison
+30:45.0
+PB • Yr: 9

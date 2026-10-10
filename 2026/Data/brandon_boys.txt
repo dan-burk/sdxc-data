@@ -1,0 +1,454 @@
+1
+EK
+Ethan Kyte
+
+Brandon Valley
+16:16.4
+Yr: 11
+
+2
+QM
+Quinntin Mischke
+
+Brandon Valley
+16:44.2
+Yr: 10
+
+3
+
+Marcus Munsch
+
+Brandon Valley
+16:48.9
+Yr: 12
+
+4
+SM
+Samuel Mischke
+
+Brandon Valley
+16:59.2
+Yr: 10
+
+5
+PT
+Peyton Tetzlaff
+
+West Central
+17:12.5
+Yr: 12
+
+6
+AS
+Alex Spanos
+
+Sioux Falls Lincoln
+17:19.2
+Yr: 9
+
+7
+
+Braeden Raga
+
+Sioux Falls Lincoln
+17:22.6
+Yr: 11
+
+8
+IL
+Isaac Larrington
+
+Yankton
+17:23.6
+Yr: 12
+
+9
+IP
+Isaac Paulson
+
+Yankton
+17:35.6
+Yr: 11
+
+10
+JT
+John Toates
+
+Brandon Valley
+17:47.1
+Yr: 9
+
+11
+WT
+Will Tibbetts
+
+Sioux Falls Lincoln
+17:55.3
+Yr: 11
+
+12
+
+Oliver Mikel
+
+Sioux Falls Lincoln
+17:56.2
+Yr: 9
+13
+IS
+Isaac Spahr
+
+Brandon Valley
+17:56.9
+Yr: 12
+
+14
+ZN
+Zach Nielsen
+
+West Central
+18:16.3
+Yr: 12
+
+15
+BH
+Briar Horn
+
+West Central
+18:25.1
+Yr: 9
+
+16
+BW
+Bradley Walden
+
+Brandon Valley
+18:33.4
+Yr: 12
+
+17
+JS
+Jaden Schempp
+
+Sioux Falls Lincoln
+18:36.5
+Yr: 10
+
+18
+AR
+Adam Robles Jr.
+
+Sioux Falls Lincoln
+18:37.7
+Yr: 11
+
+19
+XW
+Xadian Waysman
+
+Brandon Valley
+18:40.6
+Yr: 10
+
+20
+WH
+Weston Hieb
+
+Brandon Valley
+18:41.6
+Yr: 12
+
+21
+BS
+Brady Schwab
+
+Sioux Falls Lincoln
+18:54.0
+Yr: 9
+
+22
+JJ
+John Jacobson
+
+Yankton
+19:03.0
+PB • Yr: 8
+
+23
+TW
+Traedyn Webb
+
+Sioux Falls Lincoln
+19:04.2
+Yr: 10
+
+24
+EL
+Eli LaDeaux
+
+Sioux Falls Lincoln
+19:10.9
+Yr: 9
+
+25
+JH
+Joseph Hornbeck-Lush
+
+Brandon Valley
+19:17.6
+PB • Yr: 9
+
+26
+JW
+Jeffery Weaver
+
+Yankton
+19:17.7
+PB • Yr: 8
+
+27
+
+Ayden Van Laecken
+
+Brandon Valley
+19:25.2
+PB • Yr: 12
+
+28
+EH
+Elliot Hanson
+
+Sioux Falls Lincoln
+19:31.9
+Yr: 10
+
+29
+
+Max Peterson
+
+Brandon Valley
+19:32.8
+Yr: 8
+
+30
+MB
+Max Bauer
+
+Sioux Falls Lincoln
+19:41.2
+Yr: 10
+
+31
+CS
+Carter Sturgeon
+
+Brandon Valley
+19:43.0
+Yr: 9
+
+32
+OH
+Owen Holstein
+
+Yankton
+19:45.4
+PB • Yr: 9
+
+33
+AA
+Arjun Agrawal
+
+Sioux Falls Lincoln
+19:58.4
+Yr: 10
+
+34
+SH
+Shaw Howard
+
+Flandreau Indian
+20:02.4
+SB • Yr: 12
+
+35
+WD
+Will Dunlap
+
+Brandon Valley
+20:02.7
+SB • Yr: 10
+
+36
+SS
+Samuel Spisak
+
+West Central
+20:03.4
+Yr: 8
+
+37
+LL
+Luke Lyngstad
+
+Brandon Valley
+20:04.6
+PB • Yr: 8
+
+38
+KJ
+Kenton James
+
+Flandreau Indian
+20:05.8
+SB • Yr: 12
+
+39
+IS
+Isaac Sandholm
+
+Brandon Valley
+20:19.7
+PB • Yr: 10
+
+40
+DD
+Drayden Deffenbaugh
+
+West Central
+20:20.7
+Yr: 12
+
+41
+IT
+Isaac Tolly
+
+Sioux Falls Lincoln
+20:25.6
+Yr: 11
+
+42
+BN
+Broxton Nour
+
+Sioux Falls Lincoln
+20:27.8
+Yr: 9
+
+43
+EB
+Ezra Beukelman
+
+Sioux Falls Lincoln
+20:32.6
+Yr: 9
+
+44
+
+Chris Wright
+
+Yankton
+20:37.2
+PB • Yr: 11
+
+45
+NC
+Noah Chicoine
+
+Brandon Valley
+20:38.3
+PB • Yr: 9
+46
+JK
+Joe Kirkeby
+
+Brandon Valley
+20:41.7
+Yr: 12
+
+47
+IK
+Ivan Krajewski
+
+Yankton
+20:56.4
+Yr: 11
+
+48
+BB
+Brett Boll
+
+West Central
+20:56.6
+SB • Yr: 9
+
+49
+AL
+Ashton Lutter
+
+West Central
+20:58.7
+PB • Yr: 12
+
+50
+CS
+Corbin Sorenson
+
+Brandon Valley
+21:11.7
+Yr: 12
+
+51
+NS
+Noah Smith
+
+Sioux Falls Lincoln
+21:17.1
+Yr: 12
+
+52
+GB
+Gavin Bartz
+
+Sioux Falls Lincoln
+21:19.3
+PB • Yr: 10
+
+53
+AB
+Austin Bray
+
+Brandon Valley
+21:49.5
+SB • Yr: 12
+
+54
+BK
+Brady Kyte
+
+Brandon Valley
+22:31.9
+Yr: 9
+
+55
+DK
+Dylan Kirchner
+
+Yankton
+22:52.1
+Yr: 12
+
+56
+AC
+Asa Cavanaugh
+
+Flandreau Indian
+26:23.5
+PB • Yr: 10
+
+57
+AA
+Aric Arnell
+
+Flandreau Indian
+26:50.2
+SB • Yr: 12
+
