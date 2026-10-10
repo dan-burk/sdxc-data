@@ -1,0 +1,379 @@
+1
+
+Ryder Graff
+
+Sisseton
+19:19.0
+Yr: 10
+2
+CH
+Caden Hourigan
+
+Deuel
+19:43.1
+Yr: 10 • +1pts
+3
+TK
+Thad Kratz
+
+Great Plains Lutheran
+19:59.4
+Yr: 12 • +2pts
+4
+TH
+Tyson Hagberg
+
+Deuel
+20:00.8
+Yr: 10 • +3pts
+5
+SB
+Sutton Benck
+
+Deuel
+20:23.5
+Yr: 10 • +4pts
+6
+LP
+Levi Peterson
+
+Deuel
+20:57.8
+Yr: 11 • +5pts
+7
+EW
+Eli Weinrich
+
+Aberdeen Central
+21:01.7
+Yr: 9 • +6pts
+8
+SM
+Sam Manian
+
+Great Plains Lutheran
+21:02.5
+Yr: 10 • +7pts
+9
+
+Matt Peterson
+
+Aberdeen Roncalli
+21:03.6
+Yr: 10
+10
+DH
+Detrich Hammer
+
+Aberdeen Central
+21:13.7
+Yr: 9 • +8pts
+11
+TH
+Titus Hofinga
+
+Great Plains Lutheran
+21:18.0
+Yr: 10 • +9pts
+12
+GM
+Gavin Mattson
+
+Deuel
+21:31.0
+Yr: 9 • +10pts
+13
+BH
+Blake Hauge
+
+Aberdeen Central
+21:37.6
+Yr: 7 • +11pts
+14
+AK
+Austin Keller
+
+Florence/Henry
+21:48.9
+Yr: 9 • +12pts
+15
+CR
+Caleb Ronne
+
+Deuel
+21:52.4
+Yr: 12
+16
+JV
+Jase Voss
+
+Webster Area
+21:53.3
+Yr: 9 • +13pts
+17
+JS
+Jayden Schwan
+
+Groton Area
+21:59.9
+Yr: 11
+18
+CA
+Charley Albert
+
+Aberdeen Central
+22:02.1
+Yr: 10 • +14pts
+19
+NL
+Noah Love
+
+Deuel
+22:08.7
+Yr: 9
+20
+AF
+Adrian Flisrand
+
+Florence/Henry
+22:10.9
+Yr: 9 • +15pts
+21
+PR
+Peter Ramey
+
+Aberdeen Central
+22:21.8
+Yr: 9 • +16pts
+22
+IP
+Isaac Price
+
+Aberdeen Roncalli
+22:24.0
+Yr: 11
+23
+GW
+Grady Wagner
+
+Webster Area
+22:24.7
+Yr: 10 • +17pts
+24
+
+Isaiah Berg
+
+Great Plains Lutheran
+22:28.3
+Yr: 12 • +18pts
+25
+WH
+Will Hovde
+
+Clark/Willow Lake
+22:41.3
+Yr: 11 • +19pts
+26
+
+William LaBerge
+
+Great Plains Lutheran
+22:41.7
+Yr: 10 • +20pts
+
+27
+KR
+Kadin Raguse
+
+Tri-State
+22:48.9
+Yr: 12 • +21pts
+28
+JR
+Joseph Richards
+
+Aberdeen Christian
+23:01.4
+Yr: 9
+29
+
+Noah Estwick
+
+Sisseton
+23:25.0
+Yr: 9
+30
+SG
+Seth Grams
+
+Great Plains Lutheran
+23:27.3
+Yr: 12
+31
+DK
+Dominic Kluckman
+
+Deuel
+23:41.3
+Yr: 10
+32
+AP
+Amsden Piotter
+
+Tri-State
+23:46.3
+Yr: 12 • +22pts
+33
+ZS
+Zach Schroeder
+
+Florence/Henry
+23:48.8
+Yr: 10 • +23pts
+34
+JO
+Joseph O'Brien
+
+Britton-Hecla
+23:52.5
+Yr: 8
+35
+CK
+Colton Kolb
+
+Aberdeen Central
+23:57.9
+Yr: 12
+36
+PM
+Payton Moore
+
+Redfield
+24:03.6
+Yr: 11
+37
+AG
+Aksel Gjerde
+
+Clark/Willow Lake
+24:04.6
+Yr: 8 • +24pts
+38
+JF
+James Ferguson
+
+Aberdeen Central
+24:20.8
+Yr: 10
+39
+CP
+Carson Peterson
+
+Redfield
+24:33.1
+Yr: 7
+40
+JK
+Joshua Klein
+
+Tri-State
+24:41.9
+Yr: 10 • +25pts
+41
+TS
+Tucker Steffens
+
+Tri-State
+24:46.1
+Yr: 10 • +26pts
+42
+GS
+Gavin Schneider
+
+Hitchcock-Tulare
+24:48.8
+Yr: 10 • +27pts
+43
+AG
+Alec Garrett
+
+Webster Area
+24:49.6
+Yr: 10 • +28pts
+44
+BE
+Brecken Estey
+
+Hitchcock-Tulare
+25:18.3
+Yr: 8 • +29pts
+45
+LS
+Logan Seefeldt
+
+Clark/Willow Lake
+25:41.4
+Yr: 11 • +30pts
+46
+JN
+Jaxon Nimmer
+
+Webster Area
+25:51.2
+Yr: 11 • +31pts
+47
+GG
+Gabriel Gaikowski
+
+Webster Area
+25:51.5
+Yr: 9 • +32pts
+48
+JP
+Justin Ponce
+
+Webster Area
+26:03.8
+Yr: 12
+49
+BM
+Blaise McGregor
+
+Webster Area
+26:23.1
+Yr: 12
+50
+KO
+Kason Oswald
+
+Groton Area
+26:37.4
+Yr: 9
+51
+
+Aidyn Cyrus
+
+Webster Area
+26:39.8
+Yr: 9
+52
+MS
+Matthew Salmen
+
+Hitchcock-Tulare
+26:49.4
+Yr: 10 • +33pts
+53
+CR
+Cobin Raguse
+
+Tri-State
+27:49.3
+Yr: 10 • +34pts
+54
+GL
+Gavon Larson
+
+Webster Area
+28:23.4
+PB • Yr: 9

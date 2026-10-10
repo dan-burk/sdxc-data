@@ -1,0 +1,623 @@
+1
+TL
+Trevin Lounsbury
+
+Brookings
+16:07.7
+Yr: 10 • +1pts
+2
+CU
+Carson Urlacher
+
+Aberdeen Central
+16:20.3
+Yr: 10 • +2pts
+3
+
+Sean Shipp
+
+Custer
+16:22.4
+Yr: 12 • +3pts
+4
+
+Ernest Ting
+
+Brookings
+16:25.4
+Yr: 12 • +4pts
+5
+CM
+Caleb Morris
+
+Pierre T.F. Riggs
+16:26.9
+Yr: 11 • +5pts
+6
+DS
+Dane Stark
+
+Watertown
+16:29.1
+Yr: 10 • +6pts
+7
+CN
+Casey Nauta
+
+Spearfish
+16:32.9
+Yr: 12 • +7pts
+8
+
+Patrick Severson
+
+Aberdeen Central
+16:36.4
+Yr: 12 • +8pts
+9
+
+Ty Sullivan
+
+Watertown
+16:44.0
+Yr: 11 • +9pts
+10
+
+Tate DeVries
+
+Aberdeen Central
+16:49.3
+Yr: 9 • +10pts
+11
+
+Silas Holdeman
+
+Mitchell Christian
+16:50.6
+Yr: 10 • +11pts
+12
+LM
+Luke Mentele
+
+Mitchell Christian
+16:54.1
+Yr: 10 • +12pts
+13
+JK
+Jonathan Kahler
+
+Brookings
+16:57.6
+Yr: 12 • +13pts
+14
+MN
+Max Nelson
+
+Aberdeen Central
+17:05.1
+Yr: 10 • +14pts
+15
+EF
+Esten Foss
+
+Aberdeen Central
+17:08.3
+Yr: 11 • +15pts
+16
+AD
+Alex Diersen
+
+Brookings
+17:15.3
+Yr: 12 • +16pts
+17
+
+Dylan Haar
+
+Brookings
+17:23.4
+Yr: 9 • +17pts
+18
+
+Kian Rusch
+
+Custer
+17:30.4
+Yr: 11 • +18pts
+19
+
+Sawyer Holdeman
+
+Mitchell Christian
+17:34.2
+Yr: 9 • +19pts
+20
+
+Marco Springman
+
+Brookings
+17:36.8
+Yr: 11 • +20pts
+21
+EM
+Elias Michailidis
+
+Brandon Valley
+17:37.3
+Yr: 11 • +21pts
+22
+
+Floyd Korzan
+
+Mitchell
+17:42.6
+Yr: 12 • +22pts
+23
+PK
+Peyton Krueger
+
+Custer
+17:45.1
+Yr: 9 • +23pts
+24
+AD
+Austin Drew
+
+Custer
+17:49.1
+Yr: 10 • +24pts
+25
+
+Kaden Ober
+
+James Valley Christian
+17:51.6
+Yr: 9 • +25pts
+26
+
+Isaiah Norton
+
+Watertown
+18:01.1
+Yr: 11 • +26pts
+27
+JB
+Jayden Brandt
+
+Pierre T.F. Riggs
+18:01.1
+Yr: 11 • +27pts
+28
+MG
+Mason Gill
+
+Spearfish
+18:01.6
+Yr: 9 • +28pts
+29
+CT
+Carter Thompson
+
+Spearfish
+18:07.1
+Yr: 9 • +29pts
+30
+TL
+TJ Lien
+
+Huron
+18:07.6
+Yr: 12 • +30pts
+31
+
+Tucker Lunde
+
+Watertown
+18:10.8
+Yr: 11 • +31pts
+32
+JN
+Jim Neddo
+
+Pierre T.F. Riggs
+18:21.4
+Yr: 9 • +32pts
+33
+RD
+Ryder Davis
+
+Aberdeen Central
+18:23.8
+Yr: 11 • +33pts
+34
+SS
+Sam Schultz
+
+Aberdeen Central
+18:25.7
+Yr: 11 • +34pts
+35
+
+Tryton Parmely
+
+Pierre T.F. Riggs
+18:30.2
+Yr: 10 • +35pts
+36
+
+Jonah Klemisch
+
+Tea Area
+18:30.8
+Yr: 10 • +36pts
+37
+CK
+Cody Kiesz
+
+Aberdeen Central
+18:31.4
+Yr: 9
+38
+QM
+Quinntin Mischke
+
+Brandon Valley
+18:33.5
+Yr: 8 • +37pts
+39
+KC
+Kaden Christian
+
+Tea Area
+18:36.8
+Yr: 10 • +38pts
+40
+
+Marcus Munsch
+
+Brandon Valley
+18:36.8
+Yr: 10 • +39pts
+41
+
+Shane Harming
+
+Brookings
+18:42.7
+Yr: 11 • +40pts
+42
+DM
+Daniel Mason
+
+Pierre T.F. Riggs
+18:45.0
+Yr: 10 • +41pts
+43
+LR
+Layke Roberdeau
+
+Spearfish
+18:45.3
+Yr: 12 • +42pts
+44
+JF
+Jack Faulkner
+
+Spearfish
+18:46.2
+Yr: 12 • +43pts
+45
+TL
+Teagan Lien
+
+Huron
+18:48.3
+Yr: 10 • +44pts
+46
+CB
+Caleb Bridgman
+
+Brandon Valley
+18:48.8
+Yr: 9 • +45pts
+47
+IC
+Ian Cho
+
+Spearfish
+18:50.3
+Yr: 9 • +46pts
+48
+BG
+Benjamin Gerlach
+
+Mitchell
+18:56.0
+Yr: 11 • +47pts
+49
+TV
+Tate VanLaecken
+
+Tea Area
+18:56.6
+Yr: 10 • +48pts
+50
+GL
+Gabe List
+
+Watertown
+18:57.2
+Yr: 12 • +49pts
+51
+AD
+Ayden Dooley
+
+Custer
+18:57.4
+Yr: 9 • +50pts
+52
+DF
+Dax Frandsen
+
+James Valley Christian
+18:57.6
+Yr: 11 • +51pts
+53
+IR
+Ian Rounds
+
+Pierre T.F. Riggs
+19:06.3
+Yr: 12 • +52pts
+54
+JM
+Jacob Mason
+
+Pierre T.F. Riggs
+19:07.8
+Yr: 12 • +53pts
+55
+KP
+Kyler Pietzyk
+
+Spearfish
+19:08.5
+Yr: 11 • +54pts
+56
+BS
+Bayley Steiner
+
+Watertown
+19:14.9
+Yr: 12 • +55pts
+57
+LB
+Logan Brakke
+
+Brandon Valley
+19:14.9
+Yr: 12 • +56pts
+58
+LK
+Logan Kontz
+
+Flandreau
+19:15.8
+Yr: 9 • +57pts
+59
+NK
+Noah Korver
+
+Tea Area
+19:22.5
+Yr: 10 • +58pts
+60
+
+Tayne Herrmann
+
+James Valley Christian
+19:23.2
+Yr: 12 • +59pts
+61
+LB
+Logan Becker
+
+Watertown
+19:26.1
+Yr: 10 • +60pts
+62
+LA
+Luke Atnip
+
+Mitchell Christian
+19:33.7
+Yr: 9 • +61pts
+63
+GW
+Giddeon Waldner
+
+James Valley Christian
+19:36.5
+Yr: 9 • +62pts
+64
+WH
+William Hanzlik
+
+Chamberlain
+19:37.8
+Yr: 12
+65
+DL
+Dawson Lowery
+
+Tea Area
+19:39.3
+Yr: 9 • +63pts
+66
+
+Zane Gunnell
+
+Custer
+19:40.4
+Yr: 9 • +64pts
+67
+
+Levi Crandall
+
+James Valley Christian
+19:41.4
+Yr: 8 • +65pts
+68
+
+Brady Asbenson
+
+Mitchell Christian
+19:47.8
+Yr: 9 • +66pts
+69
+JW
+James Weir
+
+Huron
+19:51.8
+Yr: 10 • +67pts
+70
+WK
+Wyatt Kontz
+
+Flandreau
+19:52.6
+Yr: 11 • +68pts
+71
+SS
+Sam Schmidt
+
+Flandreau
+19:53.2
+Yr: 10 • +69pts
+72
+SR
+Saylor Rice
+
+Custer
+19:56.7
+Yr: 11 • +70pts
+73
+JD
+Jacob DeYoung
+
+Tea Area
+20:05.2
+Yr: 11 • +71pts
+74
+BW
+Brenton Westberry
+
+Flandreau
+20:06.8
+Yr: 12 • +72pts
+75
+FD
+Franklin Donis Castillo
+
+Flandreau
+20:07.0
+Yr: 11 • +73pts
+76
+AM
+Angelo Medina
+
+Huron
+20:30.1
+Yr: 12 • +74pts
+77
+BE
+Blake Engelsman
+
+Brandon Valley
+20:30.3
+Yr: 12 • +75pts
+78
+DH
+Daniel Hobbie
+
+Flandreau
+20:33.6
+Yr: 12 • +76pts
+79
+JO
+Joel Olson
+
+James Valley Christian
+20:41.4
+Yr: 12 • +77pts
+80
+KH
+Karsten Herges
+
+Mitchell
+20:41.5
+Yr: 8 • +78pts
+81
+AP
+Alec Pester
+
+Huron
+20:45.1
+Yr: 12 • +79pts
+82
+AB
+Austin Bray
+
+Brandon Valley
+20:47.2
+Yr: 10 • +80pts
+83
+EL
+Ethan Lofgren
+
+Mitchell
+20:57.9
+Yr: 11 • +81pts
+84
+WD
+Will Dunlap
+
+Brandon Valley
+21:05.4
+Yr: 8
+85
+IS
+Isaac Shepherd
+
+Chamberlain
+21:07.8
+Yr: 11
+86
+AH
+Aadyn Hosek
+
+Chamberlain
+21:13.1
+Yr: 12
+87
+AR
+Axel Reimnitz
+
+Mitchell
+21:19.8
+Yr: 9 • +82pts
+88
+CS
+Corbin Sorenson
+
+Brandon Valley
+21:33.6
+Yr: 10
+89
+KG
+Kane Grajkowske
+
+Mitchell
+22:13.5
+Yr: 12 • +83pts

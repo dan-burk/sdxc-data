@@ -1,0 +1,413 @@
+1
+
+Sean Shipp
+
+Custer
+17:22.4
+Yr: 12 • +1pts
+2
+LC
+Lennon Clarkson
+
+Belle Fourche
+17:40.3
+Yr: 10 • +2pts
+3
+LH
+Lionel Hinson
+
+Rapid City Christian
+18:13.3
+Yr: 12 • +3pts
+4
+SC
+Sam Cunningham
+
+Newcastle
+18:16.7
+Yr: 11 • +4pts
+5
+AD
+Austin Drew
+
+Custer
+18:41.1
+Yr: 10 • +5pts
+6
+CP
+Caden Pourier
+
+Mahpiya Luta
+18:51.9
+Yr: 12
+7
+PK
+Peyton Krueger
+
+Custer
+18:55.1
+Yr: 9 • +6pts
+8
+
+Landen Hill
+
+Newcastle
+18:57.9
+Yr: 9 • +7pts
+9
+JW
+Jeremiah White
+
+Rapid City Christian
+18:58.3
+Yr: 9 • +8pts
+10
+HS
+Hudson Selfridge
+
+Rapid City Christian
+19:00.3
+Yr: 12 • +9pts
+11
+RC
+Rylan Cuny
+
+Lakota Tech
+19:17.2
+Yr: 9
+12
+
+Zane Gunnell
+
+Custer
+19:22.2
+Yr: 9 • +10pts
+13
+MK
+Miles Kornegay
+
+Sturgis Brown
+19:23.9
+Yr: 10
+14
+BO
+Bennie Olsen
+
+Douglas
+19:50.0
+Yr: 10 • +11pts
+15
+
+Gavin Chiaroni
+
+Douglas
+19:55.5
+Yr: 10 • +12pts
+16
+JP
+James Palecek
+
+Rapid City Central
+19:55.7
+Yr: 11 • +13pts
+17
+NH
+Nathan Hudson
+
+Belle Fourche
+20:04.1
+Yr: 10 • +14pts
+18
+JB
+Johnny Bossingham
+
+Hot Springs
+20:18.0
+Yr: 12
+19
+TM
+Thaddaeus McKenney
+
+Belle Fourche
+20:18.3
+Yr: 9 • +15pts
+20
+OW
+Oden Walding
+
+Belle Fourche
+20:21.9
+Yr: 11 • +16pts
+21
+AD
+Ayden Dooley
+
+Custer
+20:22.5
+Yr: 9 • +17pts
+22
+SH
+Sean Hare
+
+Rapid City Central
+20:35.9
+Yr: 12 • +18pts
+23
+
+Clifford Torberson
+
+Belle Fourche
+20:36.9
+Yr: 10 • +19pts
+24
+JB
+Jaxon Bach
+
+Belle Fourche
+20:36.9
+Yr: 9 • +20pts
+25
+CL
+Conner Lundy
+
+Custer
+20:41.6
+Yr: 9 • +21pts
+26
+TJ
+Teton Janis
+
+Little Wound
+20:47.9
+Yr: 12 • +22pts
+27
+QM
+Quentin Miller
+
+Douglas
+20:49.6
+Yr: 10 • +23pts
+28
+DA
+Dain Aldredge
+
+Hot Springs
+20:49.8
+Yr: 10
+29
+AO
+Archer Ohnstad
+
+Newcastle
+20:50.0
+Yr: 11 • +24pts
+30
+KW
+Kale Williams
+
+Belle Fourche
+20:52.1
+Yr: 10
+31
+
+Canton Gingrass
+
+Hot Springs
+20:52.8
+Yr: 11
+32
+MF
+Matthew Fox
+
+Rapid City Central
+20:54.9
+Yr: 11 • +25pts
+33
+SR
+Saylor Rice
+
+Custer
+20:55.0
+Yr: 11
+34
+
+Darian Anderson
+
+Rapid City Central
+21:00.7
+Yr: 11 • +26pts
+35
+QA
+Quinn Aschwege
+
+Rapid City Central
+21:02.6
+Yr: 10 • +27pts
+36
+CT
+Charles Torres
+
+Rapid City Central
+21:02.9
+Yr: 11 • +28pts
+37
+LK
+Louis Kills Crow Indian
+
+Little Wound
+21:07.9
+Yr: 9 • +29pts
+38
+TJ
+Tyrone Janis
+
+Lakota Tech
+21:19.3
+Yr: 12
+39
+DF
+Dylan Frank
+
+Custer
+21:22.5
+Yr: 12
+40
+LC
+Lane Carter
+
+Newcastle
+21:34.1
+Yr: 10 • +30pts
+41
+DM
+Dewayne Mesteth
+
+Rapid City Christian
+21:37.5
+Yr: 10 • +31pts
+42
+WD
+Wesley Delaney
+
+Rapid City Christian
+21:41.0
+Yr: 12 • +32pts
+43
+
+Samuel Biberdorf
+
+Douglas
+21:44.4
+Yr: 12 • +33pts
+44
+CH
+Caleb Hoover
+
+Newcastle
+21:50.7
+Yr: 12 • +34pts
+45
+EN
+Ezias Nelson
+
+Lead-Deadwood
+21:51.0
+Yr: 12
+46
+JC
+James Culver
+
+New Underwood
+22:18.1
+Yr: 11
+47
+HF
+Hunter Frerichs
+
+Douglas
+22:34.7
+Yr: 10 • +35pts
+48
+JB
+Jeremiah Brave Heart
+
+Little Wound
+22:35.4
+Yr: 11 • +36pts
+49
+BC
+Ben Carter
+
+Newcastle
+22:41.3
+Yr: 12 • +37pts
+50
+RE
+Rennyjake Ecoffey
+
+Pine Ridge
+22:41.5
+Yr: 9
+51
+
+Gabe Welch
+
+Douglas
+23:07.8
+Yr: 11 • +38pts
+52
+ML
+Mahto Looking Horse
+
+Lakota Tech
+24:08.9
+Yr: 11
+53
+FR
+Francisco Richards
+
+Little Wound
+24:09.5
+Yr: 9 • +39pts
+54
+JR
+Jonas Runge
+
+Lead-Deadwood
+24:18.5
+Yr: 12
+55
+CH
+Connor Hakola
+
+New Underwood
+24:20.9
+Yr: 9
+56
+BN
+Bobby Nelson
+
+Douglas
+24:47.5
+Yr: 11
+57
+DP
+Dylan Park
+
+Belle Fourche
+24:50.5
+Yr: 10
+58
+JR
+Josh Red Owl
+
+Little Wound
+28:26.9
+Yr: 10 • +40pts
+59
+JR
+Jayden Red Owl
+
+Little Wound
+28:46.6
+SB • Yr: 11 • +41pts

@@ -1,0 +1,364 @@
+1
+
+Peyton VanDeest
+
+Spearfish
+20:05.8
+Yr: 10
+2
+
+Kori Keil
+
+Spearfish
+20:19.8
+Yr: 11
+3
+AA
+Adison Armstrong
+
+Rapid City Stevens
+20:24.6
+Yr: 11
+4
+LM
+Lia Mundt
+
+Belle Fourche
+20:33.3
+Yr: 8
+5
+BS
+Brinna Sheldon
+
+Rapid City Stevens
+20:52.4
+Yr: 10
+6
+
+Whitli Adams
+
+Rapid City Stevens
+20:56.0
+Yr: 11
+7
+MD
+Madie Donovan
+
+Spearfish
+21:09.2
+Yr: 12
+8
+LH
+Lucy Hamer
+
+Sturgis Brown
+21:11.7
+Yr: 11
+9
+KU
+Kira Ubence
+
+Douglas
+21:16.7
+Yr: 11
+10
+
+Brooke Thayer-Burke
+
+Hill City
+21:33.4
+Yr: 11
+11
+IZ
+Iris Zylstra
+
+Sturgis Brown
+21:37.5
+Yr: 11
+12
+KD
+Keelin Dinkins
+
+Sturgis Brown
+21:37.6
+Yr: 10
+13
+TH
+Taylor Harrelson
+
+Rapid City Christian
+21:43.2
+Yr: 10
+14
+ER
+Emilie Reedy
+
+Sturgis Brown
+21:55.5
+Yr: 10
+15
+
+Rhys Pearson
+
+Belle Fourche
+21:57.5
+Yr: 9
+16
+KH
+Kadance Holso
+
+Rapid City Stevens
+21:57.5
+Yr: 11
+17
+PW
+Paige Willnerd
+
+Sturgis Brown
+22:02.9
+Yr: 12
+18
+TT
+TyLee Tetrault
+
+Spearfish
+22:04.3
+Yr: 9
+19
+VS
+Viona Sietsema
+
+Rapid City Stevens
+22:05.3
+Yr: 10
+20
+BL
+Bella Linn
+
+Spearfish
+22:06.9
+Yr: 11
+21
+AV
+Aspen Veneklasen
+
+Hill City
+22:25.6
+Yr: 10
+22
+AK
+Adelaide Kleinschmidt
+
+Rapid City Stevens
+22:38.7
+Yr: 11
+23
+MM
+Monica Moran
+
+St. Thomas More
+23:10.6
+Yr: 8
+24
+SH
+Sophia Hatleli
+
+Spearfish
+23:11.7
+Yr: 9
+25
+
+Aurora Evans
+
+Douglas
+23:33.9
+Yr: 8
+26
+ES
+Ella Schirber
+
+St. Thomas More
+24:16.2
+Yr: 9
+27
+
+Erin Harms
+
+Douglas
+24:52.5
+Yr: 11
+28
+MD
+Misty Drieling
+
+Belle Fourche
+24:57.9
+Yr: 10
+29
+KK
+Kaelyn Knudson
+
+Douglas
+25:04.2
+Yr: 10
+30
+EB
+Eirelyn Bender
+
+Newell
+25:04.3
+Yr: 12
+31
+BM
+Brandy Marshall
+
+Lakota Tech
+25:06.2
+Yr: 11
+32
+JR
+Josie Reedy
+
+Sturgis Brown
+25:12.5
+Yr: 12
+33
+AS
+Alexa Stone
+
+Belle Fourche
+25:13.2
+Yr: 9
+34
+TD
+Taylee Dartt
+
+Wall
+25:14.0
+Yr: 12
+35
+CB
+Charlee Bierle
+
+Sturgis Brown
+25:51.7
+Yr: 9
+36
+KB
+Kate Blair
+
+Belle Fourche
+26:18.6
+Yr: 9
+37
+JR
+Jay Rios
+
+Douglas
+26:29.7
+Yr: 10
+38
+
+Paiton Flick
+
+Hill City
+26:42.6
+Yr: 12
+39
+LL
+Lainey Loeffler
+
+Douglas
+27:41.3
+Yr: 12
+40
+
+Madilyn Wulf
+
+New Underwood
+27:51.8
+Yr: 12
+41
+KC
+Kelly Clauson
+
+Douglas
+28:17.9
+Yr: 12
+42
+BF
+Briley Ferguson
+
+Little Wound
+28:37.6
+SB • Yr: 11
+43
+CF
+Chloe Fire Thunder
+
+Lakota Tech
+29:42.7
+Yr: 11
+44
+KO
+Katherine O'Neal
+
+Rapid City Christian
+30:15.6
+Yr: 11
+45
+LR
+Lakota Rogers
+
+Lakota Tech
+31:04.1
+Yr: 12
+46
+HR
+Honey Reddy
+
+Little Wound
+31:54.9
+Yr: 12
+47
+AT
+Amelia Three Fingers
+
+Lakota Tech
+32:01.4
+Yr: 10
+48
+JR
+Jadis Reddy
+
+Little Wound
+32:09.8
+Yr: 11
+49
+AH
+Amberlyn Homer
+
+Lakota Tech
+32:49.9
+Yr: 7
+50
+
+Danica Clifford
+
+Little Wound
+34:14.4
+Yr: 12
+51
+AS
+AntiNiah Siquieros
+
+Little Wound
+39:15.1
+Yr: 9
+52
+SH
+Shannan Homer
+
+Lakota Tech
+40:43.4
+Yr: 12

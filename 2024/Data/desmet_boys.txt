@@ -1,0 +1,315 @@
+1
+PB
+Pierce Baumberger
+
+Miller
+18:30.5
+Yr: 12
+2
+HS
+Hudson Schmidt
+
+Mount Vernon/Plankinton
+18:50.8
+Yr: 10
+3
+KW
+Karter Weber
+
+Mount Vernon/Plankinton
+19:14.9
+Yr: 11
+4
+NE
+Nolan Eidson
+
+Castlewood
+19:23.0
+Yr: 10
+5
+LK
+Lance Kaufman
+
+Arlington
+19:36.6
+Yr: 12
+6
+CS
+Caden Schwader
+
+Howard
+19:54.0
+Yr: 11
+7
+IG
+Isaiah Gortmaker
+
+Miller
+20:07.1
+Yr: 11
+8
+
+Kyler Marson
+
+Estelline/Hendricks
+20:08.9
+Yr: 9
+9
+JB
+Jordan Botkin
+
+De Smet
+20:38.3
+Yr: 10
+10
+CH
+Cade Hexem
+
+Estelline/Hendricks
+20:40.3
+Yr: 10
+11
+AK
+Austin Keller
+
+Florence/Henry
+20:43.3
+Yr: 9
+12
+AF
+Adrian Flisrand
+
+Florence/Henry
+20:44.5
+Yr: 9
+13
+CT
+Chase Temme
+
+De Smet
+20:48.3
+Yr: 11
+14
+OU
+Otto Uberty
+
+McCook Central/Montrose
+20:52.4
+Yr: 11
+15
+WH
+Will Hovde
+
+Clark/Willow Lake
+21:03.8
+Yr: 11
+16
+JV
+Jase Voss
+
+Webster Area
+21:11.9
+Yr: 9
+17
+DK
+Dorian Kaufman
+
+Arlington
+21:17.5
+Yr: 10
+18
+ZA
+Zayd Anderson
+
+Oldham-Ramona-Rutland
+21:27.4
+Yr: 12
+19
+GW
+Grady Wagner
+
+Webster Area
+21:34.6
+Yr: 10
+20
+TW
+Tayven Weber
+
+Mount Vernon/Plankinton
+21:36.2
+Yr: 8
+21
+NL
+Noah Luethmers
+
+De Smet
+21:38.7
+Yr: 10
+22
+JV
+Jaymin VanDerWerff
+
+Miller
+21:46.1
+Yr: 10
+23
+ZS
+Zach Schroeder
+
+Florence/Henry
+21:56.0
+Yr: 10
+24
+OA
+Owen Anderson
+
+De Smet
+21:59.6
+Yr: 10
+25
+RS
+Rylan Skorczewski
+
+Estelline/Hendricks
+22:01.3
+Yr: 10
+26
+GA
+Gabriel Aughenbaugh
+
+De Smet
+22:04.3
+Yr: 10
+27
+
+Jaxson Tollefson
+
+Mount Vernon/Plankinton
+22:13.8
+Yr: 9
+28
+AG
+Aksel Gjerde
+
+Clark/Willow Lake
+22:15.4
+SB • Yr: 8
+29
+AV
+Alexander Van Zee
+
+Miller
+22:38.4
+Yr: 8
+30
+AH
+Adam Heumiller
+
+McCook Central/Montrose
+22:49.8
+Yr: 9
+31
+AG
+Alec Garrett
+
+Webster Area
+23:10.9
+Yr: 10
+32
+BW
+Blaten Werdel
+
+Miller
+23:38.4
+Yr: 8
+33
+JN
+Jaxon Nimmer
+
+Webster Area
+23:45.2
+Yr: 11
+34
+KB
+Kaleb Bormann
+
+Deubrook Area
+24:00.8
+Yr: 9
+35
+SA
+Spencer Antonen
+
+Arlington
+24:06.1
+Yr: 8
+36
+JP
+Justin Ponce
+
+Webster Area
+24:27.7
+Yr: 12
+37
+AR
+Alex Reil
+
+Clark/Willow Lake
+24:48.6
+Yr: 12
+38
+KJ
+Kaleb Johnson
+
+De Smet
+25:22.7
+Yr: 12
+39
+TM
+Tommy Mullen
+
+Castlewood
+25:32.8
+Yr: 9
+40
+JL
+James Lesher
+
+Estelline/Hendricks
+25:54.1
+Yr: 11
+41
+
+Grant Clelland
+
+Arlington
+25:59.8
+Yr: 9
+42
+DP
+David Pickard
+
+Deubrook Area
+26:21.3
+Yr: 10
+43
+BM
+Blaise McGregor
+
+Webster Area
+26:47.6
+Yr: 12
+44
+CH
+Carter Hawks
+
+Deubrook Area
+27:43.5
+Yr: 9
+45
+RB
+Rowan Brok
+
+Howard
+30:29.6
+Yr: 11

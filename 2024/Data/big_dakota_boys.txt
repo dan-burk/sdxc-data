@@ -1,0 +1,385 @@
+1
+PB
+Pierce Baumberger
+
+Miller
+17:57.0
+Yr: 12 • +1pts
+2
+
+Jack Peterson
+
+Philip
+18:14.0
+Yr: 11 • +2pts
+3
+CW
+Carson Wosje
+
+Sioux Valley
+18:18.0
+Yr: 11 • +3pts
+4
+
+Baylor Burns
+
+Philip
+18:24.0
+Yr: 11 • +4pts
+5
+
+Carter Siemonsma
+
+Garretson
+18:27.0
+Yr: 10 • +5pts
+6
+
+Trey Larson
+
+Philip
+18:31.0
+Yr: 12 • +6pts
+7
+WG
+Walter Graesser
+
+Platte-Geddes
+18:40.0
+Yr: 9 • +7pts
+8
+BM
+Brooks McPeak
+
+Highmore-Harrold
+18:42.0
+Yr: 9 • +8pts
+9
+WK
+Wamni Kills Crow
+
+McLaughlin
+19:05.0
+Yr: 12
+10
+CB
+Creston Burns
+
+Philip
+19:17.0
+Yr: 11 • +9pts
+11
+EH
+Elijah Haukaas
+
+White River
+19:25.0
+Yr: 9 • +10pts
+12
+TS
+Tyrus Schulz
+
+Sioux Valley
+19:30.0
+Yr: 10 • +11pts
+13
+
+Daniel Leiferman
+
+Kimball/White Lake
+19:36.0
+Yr: 12 • +12pts
+14
+SS
+Spencer Sargent
+
+Stanley County
+19:44.0
+Yr: 12
+15
+
+Aidan Craven
+
+Philip
+19:50.0
+Yr: 10 • +13pts
+16
+IG
+Isaiah Gortmaker
+
+Miller
+19:50.0
+Yr: 11 • +14pts
+17
+XS
+Xavier Sanchez-Gonzalez
+
+Cheyenne-Eagle Butte
+19:51.0
+Yr: 10 • +15pts
+18
+IL
+Isaac Leader
+
+Platte-Geddes
+19:55.0
+Yr: 9 • +16pts
+19
+MP
+Michael Prue
+
+Todd County
+20:03.0
+Yr: 8
+20
+AE
+Alex Ekstrum
+
+Kimball/White Lake
+20:13.0
+Yr: 9 • +17pts
+21
+BM
+Bret Milton
+
+Sioux Valley
+20:20.0
+Yr: 11 • +18pts
+22
+JS
+Justin St. John
+
+Crow Creek
+20:23.0
+Yr: 10
+23
+HD
+Hunter Dean
+
+Ethan/Parkston
+20:33.0
+Yr: 12
+24
+
+Darron Moeller
+
+Kimball/White Lake
+20:34.0
+Yr: 9 • +19pts
+25
+SB
+Sam Byers
+
+Chamberlain
+20:35.0
+Yr: 12 • +20pts
+26
+MC
+Matthew Calhoon
+
+Winner
+20:37.0
+Yr: 11
+27
+LA
+Levi Axtell
+
+Sioux Valley
+20:40.0
+Yr: 9 • +21pts
+28
+
+Jackson Taken Alive
+
+Cheyenne-Eagle Butte
+20:44.0
+Yr: 10 • +22pts
+29
+WH
+William Hanzlik
+
+Chamberlain
+20:44.0
+Yr: 12 • +23pts
+30
+
+Jordan Erfman
+
+Highmore-Harrold
+20:56.0
+Yr: 11 • +24pts
+31
+ZD
+Ziggy Duffy
+
+Platte-Geddes
+21:01.0
+Yr: 9 • +25pts
+32
+KD
+Kingston De'Sersa
+
+White River
+21:04.0
+Yr: 10 • +26pts
+33
+JV
+Jaymin VanDerWerff
+
+Miller
+21:06.0
+Yr: 10 • +27pts
+34
+DV
+Dubhlainn Vermeulen
+
+Sioux Valley
+21:07.0
+Yr: 11 • +28pts
+35
+SD
+Sebastian Deyoung
+
+Garretson
+21:09.0
+Yr: 11 • +29pts
+36
+BO
+Bryson One Star
+
+White River
+21:10.0
+Yr: 9 • +30pts
+37
+
+Demetrius Sanchez-Gonzalez
+
+Cheyenne-Eagle Butte
+21:14.0
+Yr: 9 • +31pts
+38
+AF
+Aidan Ferens
+
+Highmore-Harrold
+21:16.0
+Yr: 12 • +32pts
+39
+AH
+Aadyn Hosek
+
+Chamberlain
+21:51.0
+Yr: 12 • +33pts
+40
+JR
+Jackson Rolston
+
+Wagner
+21:53.0
+Yr: 12
+41
+CW
+Carter Webb
+
+Highmore-Harrold
+22:00.0
+Yr: 9 • +34pts
+42
+CV
+Carson Vanden Berge
+
+Platte-Geddes
+22:13.0
+Yr: 12 • +35pts
+43
+CB
+Cadyn Brave Heart
+
+White River
+22:14.0
+Yr: 9 • +36pts
+44
+JD
+Jayden Digmann
+
+Ethan/Parkston
+22:20.0
+Yr: 11
+45
+TP
+Tyson Peterson
+
+Stanley County
+22:39.0
+Yr: 12
+46
+IS
+Isaac Shepherd
+
+Chamberlain
+22:43.0
+Yr: 11 • +37pts
+47
+JS
+Jayden Scott
+
+Cheyenne-Eagle Butte
+22:46.0
+Yr: 9 • +38pts
+48
+AV
+Alexander Van Zee
+
+Miller
+22:59.0
+Yr: 8 • +39pts
+49
+DL
+David Leiferman
+
+Kimball/White Lake
+23:06.0
+Yr: 11 • +40pts
+50
+SW
+Shia Whipple
+
+St. Francis Indian
+23:20.0
+Yr: 10
+51
+BW
+Blaten Werdel
+
+Miller
+23:28.0
+PB • Yr: 8 • +41pts
+52
+NS
+Noah Schotzko
+
+Garretson
+23:40.0
+Yr: 12 • +42pts
+53
+ND
+Nathan DeHaan
+
+Platte-Geddes
+23:58.0
+Yr: 10 • +43pts
+54
+LM
+Logan McKee
+
+Wakpala
+24:38.0
+Yr: 12
+55
+QM
+Quincy Mousseaux
+
+St. Francis Indian
+25:05.0
+Yr: 12

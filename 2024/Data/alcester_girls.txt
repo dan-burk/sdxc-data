@@ -1,0 +1,21 @@
+PLACE ATHLETE TEAM MARK PTS
+1 Sophia Redler SR Dakota Valley High School 19:26.86 1
+2 Alex McCullough FR Dakota Valley High School 19:34.71 2
+3 Calli Radigan JR Vermillion High School 20:05.46
+4 Ella Otten FR Dakota Valley High School 21:02.31 3
+5 Eleanor Anderson 8 Vermillion High School 21:13.67
+6 Lydia Anderson JR Vermillion High School 21:21.21
+7 Finley Evjen 8 Canton High School 22:06.28 4
+8 Ava Sletten FR Canton High School 22:12.21 5
+9 Jewel Gannon JR Canton High School 22:15.40 6
+10 Ava George 7 Irene-Wakonda High School 22:48.22
+11 Jaycie Rush SO Dakota Valley High School 23:15.12 7
+12 Jayla York SO Canton High School 23:48.18 8
+13 Mia Riibe JR Dakota Valley High School 24:33.47 9
+14 Isabella Utesch FR Akron-Westfield High School 25:28.48
+15 Kara Dose FR Canton High School 25:34.74 10
+16 Kylie Mockler SR Beresford High School 26:16.05
+17 Rebecca Haich 7 Irene-Wakonda High School 26:24.96
+18 Marin Rhode JR Canton High School 28:10.65 11
+19 Josie Lennon JR Akron-Westfield High School 29:14.37
+20 Natalie Hailey SR Elk Point-Jefferson High School 29:59.88

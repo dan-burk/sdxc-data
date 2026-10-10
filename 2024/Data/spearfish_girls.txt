@@ -1,0 +1,428 @@
+1
+
+Peyton VanDeest
+
+Spearfish
+19:06.2
+Yr: 10 • +1pts
+2
+
+Kori Keil
+
+Spearfish
+19:19.0
+Yr: 11 • +2pts
+3
+CR
+Carlee Roth
+
+Thunder Basin
+19:36.9
+Yr: 10 • +3pts
+4
+AG
+Ashley Gross
+
+Natrona County
+20:00.4
+Yr: 12 • +4pts
+5
+TT
+Tattum Toohey
+
+Thunder Basin
+20:03.6
+SB • Yr: 9 • +5pts
+6
+
+Kendra Jensen
+
+Campbell County
+20:12.2
+PB • Yr: 12 • +6pts
+7
+IZ
+Iris Zylstra
+
+Sturgis Brown
+20:16.2
+SB • Yr: 11 • +7pts
+8
+JH
+Jordyn Honeyman
+
+Bowman County
+20:21.3
+Yr: 9 • +8pts
+9
+TH
+Taylor Harrelson
+
+Rapid City Christian
+20:32.4
+Yr: 10
+10
+LH
+Lucy Hamer
+
+Sturgis Brown
+20:35.3
+Yr: 11 • +9pts
+11
+AH
+Audrey Hall
+
+Thunder Basin
+20:40.3
+Yr: 9 • +10pts
+12
+PW
+Paige Willnerd
+
+Sturgis Brown
+20:41.2
+Yr: 12 • +11pts
+13
+NC
+Nicole Clark
+
+Natrona County
+20:42.1
+Yr: 12 • +12pts
+14
+AT
+Auna Taglioli
+
+Spearfish
+20:45.0
+Yr: 10 • +13pts
+15
+KD
+Keelin Dinkins
+
+Sturgis Brown
+20:52.1
+Yr: 10 • +14pts
+16
+
+Brooke Thayer-Burke
+
+Hill City
+20:52.6
+Yr: 11
+17
+
+Marykate Lacko
+
+Natrona County
+21:00.0
+SB • Yr: 11 • +15pts
+
+18
+LD
+Lauryn Donovan
+
+Spearfish
+21:09.5
+Yr: 7 • +16pts
+19
+AS
+Anna Sarsland
+
+Bowman County
+21:12.3
+Yr: 9 • +17pts
+20
+AV
+Aspen Veneklasen
+
+Hill City
+21:17.7
+Yr: 10
+21
+BL
+Bella Linn
+
+Spearfish
+21:31.2
+Yr: 11 • +18pts
+22
+AU
+Amara Usera
+
+St. Thomas More
+21:31.4
+Yr: 7 • +19pts
+23
+TT
+TyLee Tetrault
+
+Spearfish
+21:34.9
+Yr: 9 • +20pts
+24
+JH
+Jayden Haugen
+
+Campbell County
+21:50.8
+Yr: 12 • +21pts
+25
+CB
+Claire Bilek
+
+Natrona County
+21:52.1
+PB • Yr: 9 • +22pts
+26
+JS
+Julie Sarsland
+
+Bowman County
+21:58.0
+Yr: 12 • +23pts
+27
+SH
+Sophia Hatleli
+
+Spearfish
+21:59.0
+Yr: 9 • +24pts
+28
+ES
+Ella Schirber
+
+St. Thomas More
+22:08.1
+SB • Yr: 9 • +25pts
+29
+FH
+Faith Hoffman
+
+St. Thomas More
+22:10.4
+PB • Yr: 9 • +26pts
+30
+
+Aspen Bloom
+
+Newcastle
+22:14.2
+Yr: 12
+31
+RO
+Reese Ostrander
+
+Natrona County
+22:17.4
+Yr: 12 • +27pts
+32
+LG
+Landyn Gerbig
+
+Bowman County
+22:27.0
+Yr: 12 • +28pts
+33
+MM
+Monica Moran
+
+St. Thomas More
+22:29.9
+Yr: 8 • +29pts
+34
+GM
+Grace Miller
+
+Thunder Basin
+22:32.4
+Yr: 11 • +30pts
+35
+BM
+Brynn McCarthy
+
+Natrona County
+22:33.1
+Yr: 10 • +31pts
+36
+KC
+Kobe Christianson
+
+Natrona County
+22:38.3
+SB • Yr: 10 • +32pts
+37
+BY
+Bridget Yount
+
+Thunder Basin
+22:42.1
+PB • Yr: 9 • +33pts
+38
+AM
+Adelynn Matthews
+
+Thunder Basin
+22:43.8
+PB • Yr: 12 • +34pts
+39
+CN
+Carolina Navarro
+
+Wright
+22:47.0
+SB • Yr: 10
+40
+TH
+Teagan Homelvig
+
+Bowman County
+22:52.2
+Yr: 11 • +35pts
+41
+
+Paiton Flick
+
+Hill City
+22:52.8
+Yr: 12
+42
+HM
+Hazel Martin
+
+Campbell County
+22:55.9
+Yr: 9 • +36pts
+43
+CB
+Charlee Bierle
+
+Sturgis Brown
+23:10.2
+Yr: 9 • +37pts
+44
+LP
+Leila Pfeil
+
+Thunder Basin
+23:14.3
+Yr: 10 • +38pts
+45
+AM
+Alexis Miller
+
+Thunder Basin
+23:28.8
+Yr: 9
+46
+JS
+Jade Schulte
+
+Natrona County
+23:34.9
+Yr: 10
+47
+CN
+Caemlyn Nolte
+
+Wright
+23:39.5
+Yr: 10
+48
+EB
+Eirelyn Bender
+
+Newell
+23:57.1
+Yr: 12
+49
+MD
+Maddie Dawkins
+
+Thunder Basin
+24:15.0
+Yr: 11
+50
+EP
+Ellie Palmer
+
+St. Thomas More
+24:19.0
+Yr: 9 • +39pts
+51
+BM
+Brandy Marshall
+
+Lakota Tech
+24:25.0
+Yr: 11
+52
+
+Christine Swentesky
+
+Newcastle
+24:28.0
+SB • Yr: 10
+53
+BG
+Bella Gagliano
+
+Campbell County
+24:42.3
+Yr: 9 • +40pts
+54
+AS
+Anaya Sheridan
+
+Campbell County
+24:44.0
+Yr: 10 • +41pts
+55
+SM
+Sammy Marshall
+
+Campbell County
+25:19.1
+Yr: 12 • +42pts
+56
+JC
+Joslyn Colcas
+
+Campbell County
+25:32.7
+Yr: 12 • +43pts
+57
+LB
+Laura Benim
+
+Wright
+25:41.6
+Yr: 11
+58
+
+Hollie Swentesky
+
+Newcastle
+26:02.5
+Yr: 10
+59
+LM
+Laurin Miller
+
+Thunder Basin
+26:22.9
+Yr: 10
+60
+KO
+Katherine O'Neal
+
+Rapid City Christian
+27:45.1
+Yr: 11
+61
+CF
+Chloe Fire Thunder
+
+Lakota Tech
+28:02.8
+Yr: 11

@@ -1,0 +1,595 @@
+1
+GM
+Grace McElroy
+
+Watertown
+18:58.8
+Yr: 8 • +1pts
+2
+GP
+Grace Phillips
+
+Chamberlain
+19:21.7
+Yr: 8 • +2pts
+3
+JB
+Jaycie Babb
+
+Tea Area
+19:27.2
+Yr: 11 • +3pts
+4
+
+Kori Keil
+
+Spearfish
+19:47.2
+Yr: 11 • +4pts
+5
+
+Juna Ramey
+
+Aberdeen Central
+19:58.7
+Yr: 11 • +5pts
+6
+LS
+Londyn Schroeder
+
+Mitchell
+20:02.7
+Yr: 10
+7
+EE
+Emmerson Eppard
+
+Chester
+20:05.5
+Yr: 11
+8
+
+Olivia Anderson
+
+Watertown
+20:06.0
+Yr: 9 • +6pts
+9
+ED
+Evelyn DeGeest
+
+Tea Area
+20:18.6
+Yr: 7 • +7pts
+10
+AN
+Allie Novstrup
+
+Aberdeen Central
+20:24.9
+Yr: 8 • +8pts
+11
+KM
+Kate McElroy
+
+Watertown
+20:29.7
+Yr: 10 • +9pts
+12
+GB
+Grace Bialas
+
+Tea Area
+20:30.2
+Yr: 9 • +10pts
+13
+GR
+Gwen Richter
+
+Pierre T.F. Riggs
+20:30.5
+Yr: 11 • +11pts
+14
+HO
+Hadasah Olson
+
+James Valley Christian
+20:32.9
+Yr: 10 • +12pts
+15
+LD
+Lauryn Donovan
+
+Spearfish
+20:35.0
+SB • Yr: 7 • +13pts
+16
+HS
+Harper Shaffer
+
+Pierre T.F. Riggs
+20:36.0
+Yr: 9 • +14pts
+17
+
+Jayna VanLaecken
+
+Tea Area
+20:38.3
+Yr: 8 • +15pts
+18
+SS
+Sierra Sandford
+
+Spearfish
+20:39.3
+SB • Yr: 10 • +16pts
+19
+TT
+TyLee Tetrault
+
+Spearfish
+20:42.1
+Yr: 9 • +17pts
+20
+AT
+Auna Taglioli
+
+Spearfish
+20:42.1
+Yr: 10 • +18pts
+21
+DF
+Daril Frandsen
+
+James Valley Christian
+20:42.2
+Yr: 11 • +19pts
+22
+KF
+Kalla Foerster
+
+Brookings
+20:52.3
+Yr: 9 • +20pts
+23
+
+Mason Berg
+
+Pierre T.F. Riggs
+21:12.5
+Yr: 12 • +21pts
+24
+BL
+Bella Linn
+
+Spearfish
+21:20.4
+Yr: 11 • +22pts
+25
+SH
+Sophia Hatleli
+
+Spearfish
+21:22.6
+SB • Yr: 9 • +23pts
+26
+AF
+Andee Frandsen
+
+James Valley Christian
+21:27.9
+Yr: 11 • +24pts
+27
+CM
+Claire McDonald
+
+Chester
+21:29.1
+Yr: 9
+28
+TB
+Taylor Boehnke
+
+Tea Area
+21:35.5
+Yr: 8 • +25pts
+29
+LC
+Logan Castle
+
+Tea Area
+21:37.9
+Yr: 9 • +26pts
+30
+JN
+Josie Nold
+
+Brookings
+21:43.3
+Yr: 12 • +27pts
+31
+KW
+Kiley Westberry
+
+Flandreau
+21:48.2
+Yr: 10
+32
+MM
+Maisie Mogard
+
+Brookings
+21:49.4
+Yr: 9 • +28pts
+33
+SS
+Sophia Schmit
+
+Brookings
+21:50.4
+Yr: 11 • +29pts
+34
+NM
+Nayree Munoz
+
+Brookings
+21:50.7
+PB • Yr: 10 • +30pts
+35
+KB
+Kylah Biggins
+
+Chamberlain
+21:51.1
+Yr: 11 • +31pts
+36
+EN
+Evie Novstrup
+
+Aberdeen Central
+21:51.3
+Yr: 8 • +32pts
+37
+LB
+Lola Barrett
+
+Watertown
+21:52.3
+Yr: 12 • +33pts
+38
+
+Allison Brenner
+
+Aberdeen Central
+21:53.3
+Yr: 10 • +34pts
+39
+KM
+Kaysen Magee
+
+Stanley County
+21:55.7
+Yr: 12
+40
+JV
+Josie Vlieger
+
+Huron
+21:58.9
+Yr: 11
+41
+MD
+Mikayla Dennis
+
+Custer
+22:00.0
+Yr: 9
+42
+
+Charlee Williams-Smith
+
+Pierre T.F. Riggs
+22:01.5
+Yr: 11 • +35pts
+43
+KH
+Kylee Hanley
+
+Aberdeen Central
+22:08.2
+Yr: 8 • +36pts
+44
+KR
+Kamora Rutherford
+
+Stanley County
+22:11.1
+Yr: 9
+45
+AS
+Ava Schindler
+
+Chamberlain
+22:11.9
+Yr: 8 • +37pts
+46
+AH
+Abby Hilleson
+
+Tea Area
+22:12.0
+Yr: 9 • +38pts
+47
+JL
+Jayne Lees
+
+Pierre T.F. Riggs
+22:12.5
+Yr: 10 • +39pts
+48
+IR
+Iris Ramey
+
+Aberdeen Central
+22:17.3
+Yr: 8 • +40pts
+49
+JH
+Josie Hamilton
+
+Flandreau
+22:18.6
+Yr: 12
+50
+NP
+Nora Pester
+
+Huron
+22:21.8
+Yr: 10
+51
+MH
+Makenzi Ham
+
+Custer
+22:28.1
+Yr: 9
+52
+TL
+Tenley LeBrun
+
+Flandreau
+22:33.3
+Yr: 7
+53
+PB
+Perla Barrett
+
+Watertown
+22:35.0
+Yr: 11 • +41pts
+54
+MD
+Meredith Decker
+
+Tea Area
+22:37.5
+Yr: 11
+55
+LS
+Lily Swanson
+
+Huron
+22:39.3
+Yr: 9
+56
+AB
+Aubrie Brendsel
+
+Brandon Valley
+22:43.7
+SB • Yr: 9 • +42pts
+57
+IV
+Isabella Vrbka
+
+Aberdeen Central
+22:44.6
+Yr: 11 • +43pts
+58
+KC
+Khloe Cochran
+
+Aberdeen Central
+22:47.6
+Yr: 10
+59
+
+Silvana Houska
+
+Chamberlain
+22:48.1
+Yr: 10 • +44pts
+60
+GR
+Gracie Rutherford
+
+Stanley County
+22:50.6
+Yr: 9
+61
+
+Alexis (Lucy) Daley
+
+Mitchell
+22:50.8
+Yr: 11
+62
+GL
+Grace List
+
+Watertown
+23:08.0
+Yr: 10 • +45pts
+63
+LW
+Lexi Wilkins
+
+Custer
+23:09.5
+Yr: 9
+64
+PH
+Presley Houska
+
+Chamberlain
+23:11.4
+Yr: 8 • +46pts
+65
+TB
+Tyann Balsdan
+
+Brandon Valley
+23:16.1
+SB • Yr: 10 • +47pts
+66
+BR
+Brooklyn Reiners
+
+Tea Area
+23:18.1
+Yr: 11
+67
+
+Amy Henderson
+
+Mitchell Christian
+23:18.1
+Yr: 10 • +48pts
+68
+
+Hannah DeLine
+
+Mitchell Christian
+23:20.6
+Yr: 11 • +49pts
+69
+MB
+Micaiah Brantner
+
+James Valley Christian
+23:26.6
+Yr: 11 • +50pts
+70
+CH
+Camden Heymeyer
+
+Spearfish
+23:37.8
+PB • Yr: 11
+71
+AG
+Averi Gerfen
+
+Mitchell
+23:39.4
+Yr: 10
+72
+BW
+Bella Wise
+
+Brandon Valley
+23:48.9
+Yr: 10 • +51pts
+73
+LD
+Lillian Dirksen
+
+Brandon Valley
+23:49.5
+Yr: 12 • +52pts
+74
+HL
+Hailey Lahr
+
+Flandreau
+23:49.9
+Yr: 11
+75
+HS
+Hannah Schoenfelder
+
+Huron
+24:06.5
+Yr: 12
+76
+
+Addison Nydam
+
+Mitchell Christian
+24:13.0
+Yr: 9 • +53pts
+77
+AR
+Addison Rosencrans
+
+Mitchell Christian
+24:22.3
+Yr: 12 • +54pts
+78
+CM
+Courtney Mathieu
+
+Chester
+24:25.8
+Yr: 7
+79
+KS
+Kailee Schneider
+
+Brandon Valley
+24:57.2
+PB • Yr: 9 • +55pts
+80
+MG
+McKenzie Gjoraas
+
+Brandon Valley
+25:00.7
+Yr: 12 • +56pts
+81
+IH
+Isabella Horning
+
+Watertown
+25:07.4
+Yr: 12 • +57pts
+82
+SM
+Sydney McNutt
+
+Mitchell Christian
+25:09.1
+Yr: 12 • +58pts
+83
+RW
+Rylin Wipf
+
+James Valley Christian
+25:13.7
+Yr: 10 • +59pts
+84
+AH
+Annika Henson
+
+Brandon Valley
+25:19.1
+Yr: 10 • +60pts
+85
+AM
+Ava Miller
+
+Custer
+25:29.6
+Yr: 12

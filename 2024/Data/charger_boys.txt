@@ -1,0 +1,413 @@
+1
+JB
+Jack Brown
+
+Dakota Valley
+16:33.5
+Yr: 12 • +1pts
+2
+PT
+Peyton Tetzlaff
+
+West Central
+16:57.8
+Yr: 10 • +2pts
+3
+LV
+Levi Vander Leest
+
+Sioux Falls Christian
+17:01.9
+Yr: 10 • +3pts
+4
+GB
+Gage Beverly
+
+Vermillion
+17:05.6
+Yr: 9 • +4pts
+5
+WL
+Wesley Lyon
+
+Sioux Falls Christian
+17:15.5
+Yr: 9 • +5pts
+6
+
+Jackson Prins
+
+Sioux Falls Christian
+17:15.9
+Yr: 12 • +6pts
+7
+JR
+Jonathon Roth
+
+West Central
+17:16.7
+Yr: 12 • +7pts
+8
+JF
+Josh Fletcher
+
+Sioux Falls Christian
+17:26.3
+Yr: 12 • +8pts
+9
+JG
+Jamison Gould
+
+Dakota Valley
+17:39.1
+Yr: 9 • +9pts
+10
+HM
+Hunter Morse
+
+Vermillion
+17:42.3
+Yr: 11 • +10pts
+11
+
+Simon Roelofs
+
+Sioux Falls Christian
+17:47.6
+Yr: 11 • +11pts
+12
+
+Noah Sayler
+
+Lennox
+18:02.5
+Yr: 12 • +12pts
+13
+
+Isaac Koole
+
+Sioux Falls Christian
+18:08.9
+Yr: 11 • +13pts
+14
+MH
+Maverick Horst
+
+Lennox
+18:12.5
+Yr: 12 • +14pts
+15
+CB
+Cole Brown
+
+Dakota Valley
+18:12.7
+Yr: 9 • +15pts
+16
+LS
+Landon Strasser
+
+Lennox
+18:28.9
+Yr: 8 • +16pts
+17
+AH
+Alex Heinemann
+
+Dell Rapids
+18:30.1
+Yr: 10
+18
+
+Hunter Penn
+
+Beresford
+18:32.3
+Yr: 11 • +17pts
+19
+CM
+Cloy McVey
+
+Lennox
+18:42.9
+Yr: 11 • +18pts
+20
+SS
+Sam Sorensen
+
+Vermillion
+18:43.2
+Yr: 8 • +19pts
+21
+JP
+Jacob Peterson
+
+West Central
+18:50.0
+Yr: 12 • +20pts
+22
+BM
+Bryan Meyer
+
+Milbank
+18:55.6
+Yr: 12 • +21pts
+23
+
+Levi Davelaar
+
+Sioux Falls Christian
+18:56.4
+Yr: 12
+24
+LH
+Liam Heller
+
+Milbank
+18:56.9
+Yr: 10 • +22pts
+25
+KH
+Kyper Hilger
+
+West Central
+19:01.0
+Yr: 11 • +23pts
+26
+JS
+Jeter Scoular
+
+Milbank
+19:07.4
+Yr: 10 • +24pts
+27
+CJ
+Chett Jibben
+
+Lennox
+19:09.6
+Yr: 12 • +25pts
+28
+
+Kade Hruby
+
+West Central
+19:24.5
+Yr: 12 • +26pts
+29
+EG
+Eli Gullickson
+
+Dell Rapids
+19:25.9
+Yr: 9
+30
+ZN
+Zach Nielsen
+
+West Central
+19:25.9
+Yr: 10 • +27pts
+31
+ZB
+Zach Bartels
+
+Canton
+19:27.2
+Yr: 12 • +28pts
+32
+FO
+Frankie Orr
+
+Vermillion
+19:43.6
+Yr: 12 • +29pts
+33
+
+Espyn Klungseth
+
+Beresford
+19:44.6
+Yr: 12 • +30pts
+34
+TG
+Teagin Gacke
+
+Tri-Valley
+19:51.0
+Yr: 12 • +31pts
+35
+
+Jaxton Rinehart
+
+Tri-Valley
+19:59.8
+Yr: 9 • +32pts
+36
+NH
+Noah Halvorson
+
+Beresford
+20:03.2
+Yr: 9 • +33pts
+37
+OM
+Oliver Merriman
+
+Beresford
+20:04.3
+Yr: 9 • +34pts
+38
+BB
+Beckham Berry
+
+Milbank
+20:15.3
+Yr: 10 • +35pts
+39
+BG
+Bennett Graham
+
+Milbank
+20:23.3
+Yr: 10 • +36pts
+40
+IT
+Isaac Tudor
+
+Dell Rapids
+20:25.9
+Yr: 12
+41
+JS
+Jackson Schmidt
+
+Lennox
+20:44.9
+Yr: 9 • +37pts
+42
+HH
+Henry Huether
+
+Beresford
+20:46.0
+Yr: 9 • +38pts
+43
+CH
+Cedric Horst
+
+Canton
+20:48.9
+Yr: 10 • +39pts
+44
+RW
+Rylan Wendland
+
+Milbank
+20:52.2
+Yr: 9 • +40pts
+45
+WS
+Will Schnabel
+
+Dakota Valley
+21:06.7
+Yr: 11 • +41pts
+46
+CH
+Caleb Hansen
+
+Beresford
+21:09.3
+Yr: 9 • +42pts
+47
+IK
+Isaiah Kendig
+
+Tri-Valley
+21:17.6
+Yr: 9 • +43pts
+48
+JB
+Jeremy Bockelman
+
+Canton
+21:25.8
+Yr: 8 • +44pts
+49
+
+Alex Opland
+
+Canton
+21:26.9
+Yr: 10 • +45pts
+50
+GM
+Gavin Ma
+
+Vermillion
+21:28.7
+Yr: 10 • +46pts
+51
+MA
+Marcus Aasheim
+
+Beresford
+21:53.4
+Yr: 10
+52
+BJ
+Bennett Jensen
+
+Dakota Valley
+22:00.7
+Yr: 11 • +47pts
+53
+JD
+Jasher Dixon
+
+Canton
+22:06.7
+Yr: 9 • +48pts
+54
+RR
+Rylan Richardson
+
+Canton
+22:17.0
+Yr: 10 • +49pts
+55
+
+Josiah Newell
+
+Sioux Falls Lutheran
+22:25.4
+Yr: 7
+56
+
+Noah Baumbach
+
+Sioux Falls Lutheran
+22:35.5
+Yr: 8
+57
+ON
+Owen Norby
+
+Dakota Valley
+23:12.0
+Yr: 11 • +50pts
+58
+VE
+Vincent Even
+
+Tri-Valley
+23:27.1
+Yr: 9 • +51pts
+59
+HS
+Hunter Sargent
+
+Tri-Valley
+25:45.3
+Yr: 10 • +52pts

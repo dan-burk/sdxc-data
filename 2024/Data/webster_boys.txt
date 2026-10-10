@@ -1,0 +1,385 @@
+1
+DF
+Dax Frandsen
+
+James Valley Christian
+18:12.9
+Yr: 11 • +1pts
+2
+
+Ryder Graff
+
+Sisseton
+18:13.5
+Yr: 10
+3
+
+Kaden Ober
+
+James Valley Christian
+18:28.5
+Yr: 9 • +2pts
+4
+MS
+Milo Sumption
+
+Leola/Frederick Area
+18:32.3
+Yr: 11 • +3pts
+5
+KS
+Korbin Stark
+
+Faulkton Area
+18:43.6
+Yr: 10 • +4pts
+6
+SB
+Sutton Benck
+
+Deuel
+18:54.4
+Yr: 10 • +5pts
+7
+TK
+Titus Kippley
+
+Leola/Frederick Area
+18:56.7
+Yr: 10 • +6pts
+8
+CH
+Caden Hourigan
+
+Deuel
+19:00.2
+Yr: 10 • +7pts
+9
+HS
+Howard Sumption
+
+Leola/Frederick Area
+19:03.2
+Yr: 9 • +8pts
+10
+
+Kyler Marson
+
+Estelline/Hendricks
+19:57.0
+Yr: 9 • +9pts
+11
+CV
+Carson Vavruska
+
+Florence/Henry
+20:11.1
+Yr: 12 • +10pts
+12
+LP
+Levi Peterson
+
+Deuel
+20:11.8
+Yr: 11 • +11pts
+13
+TH
+Tyson Hagberg
+
+Deuel
+20:13.3
+Yr: 10 • +12pts
+14
+LN
+Logan Niederbaumer
+
+Faulkton Area
+20:14.0
+Yr: 10 • +13pts
+15
+RE
+Rylan Evenson
+
+Warner
+20:16.3
+Yr: 12
+16
+JV
+Jase Voss
+
+Webster Area
+20:27.4
+Yr: 9 • +14pts
+17
+
+Tayne Herrmann
+
+James Valley Christian
+20:27.9
+Yr: 12 • +15pts
+18
+AS
+Andrew Schlosser
+
+Leola/Frederick Area
+20:28.6
+Yr: 8 • +16pts
+19
+NL
+Noah Love
+
+Deuel
+20:33.1
+Yr: 9 • +17pts
+20
+GW
+Giddeon Waldner
+
+James Valley Christian
+20:41.1
+Yr: 9 • +18pts
+21
+WH
+Will Hovde
+
+Clark/Willow Lake
+20:46.7
+Yr: 11
+22
+PH
+Philip Holsing
+
+Faulkton Area
+20:55.2
+Yr: 12 • +19pts
+23
+
+Levi Crandall
+
+James Valley Christian
+20:58.0
+Yr: 8 • +20pts
+24
+CH
+Cade Hexem
+
+Estelline/Hendricks
+21:00.8
+Yr: 10 • +21pts
+25
+GM
+Gavin Mattson
+
+Deuel
+21:05.1
+Yr: 9 • +22pts
+26
+JM
+Jayven Maag
+
+Waubay/Summit
+21:05.9
+Yr: 12
+27
+AK
+Austin Keller
+
+Florence/Henry
+21:07.7
+Yr: 9 • +23pts
+28
+CR
+Caleb Ronne
+
+Deuel
+21:10.7
+Yr: 12
+29
+JH
+Jarren Haven
+
+Northwestern
+21:21.7
+Yr: 9
+30
+AF
+Adrian Flisrand
+
+Florence/Henry
+21:44.7
+Yr: 9 • +24pts
+31
+JO
+Joel Olson
+
+James Valley Christian
+21:58.7
+Yr: 12 • +25pts
+32
+JS
+Jayden Schwan
+
+Groton Area
+22:00.4
+Yr: 11
+33
+
+Noah Estwick
+
+Sisseton
+22:01.9
+Yr: 9
+34
+
+Dawson Hlavacek
+
+Florence/Henry
+22:06.7
+Yr: 10 • +26pts
+35
+GW
+Grady Wagner
+
+Webster Area
+22:09.9
+Yr: 10 • +27pts
+36
+AP
+Amsden Piotter
+
+Tri-State
+22:14.2
+Yr: 12 • +28pts
+37
+KR
+Kadin Raguse
+
+Tri-State
+22:16.5
+Yr: 12 • +29pts
+38
+AR
+Alex Reil
+
+Clark/Willow Lake
+22:21.1
+Yr: 12
+39
+TD
+Tate Dosch
+
+Leola/Frederick Area
+22:21.8
+Yr: 8 • +30pts
+40
+RS
+Rylan Skorczewski
+
+Estelline/Hendricks
+22:52.1
+Yr: 10 • +31pts
+41
+ZS
+Zach Schroeder
+
+Florence/Henry
+23:02.0
+Yr: 10 • +32pts
+42
+JK
+Joshua Klein
+
+Tri-State
+23:09.1
+Yr: 10 • +33pts
+43
+GA
+Grant Anderson
+
+Leola
+23:12.2
+Yr: 11
+44
+TB
+Tate Bray
+
+Faulkton Area
+23:40.0
+Yr: 9 • +34pts
+45
+JO
+Joseph O'Brien
+
+Britton-Hecla
+23:40.8
+Yr: 8
+46
+CN
+Cole Noon
+
+Faulkton Area
+23:53.9
+Yr: 10 • +35pts
+47
+TS
+Tucker Steffens
+
+Tri-State
+23:56.5
+Yr: 10 • +36pts
+48
+AG
+Aksel Gjerde
+
+Clark/Willow Lake
+24:07.9
+Yr: 8
+49
+JP
+Justin Ponce
+
+Webster Area
+24:37.5
+Yr: 12 • +37pts
+50
+GG
+Gabriel Gaikowski
+
+Webster Area
+24:42.7
+Yr: 9 • +38pts
+51
+AG
+Alec Garrett
+
+Webster Area
+24:43.4
+Yr: 10 • +39pts
+52
+PJ
+Paxton Johnson
+
+Warner
+25:29.2
+Yr: 10
+53
+KO
+Kason Oswald
+
+Groton Area
+25:46.9
+Yr: 9
+54
+BM
+Blaise McGregor
+
+Webster Area
+26:00.7
+Yr: 12 • +40pts
+55
+JL
+James Lesher
+
+Estelline/Hendricks
+26:28.4
+Yr: 11 • +41pts

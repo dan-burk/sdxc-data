@@ -1,0 +1,427 @@
+1
+CW
+Carson Wosje
+
+Sioux Valley
+17:06.5
+Yr: 11
+2
+
+Ryder Graff
+
+Sisseton
+17:32.0
+Yr: 10
+3
+CH
+Caden Hourigan
+
+Deuel
+17:42.4
+Yr: 10
+4
+SB
+Sutton Benck
+
+Deuel
+17:58.1
+Yr: 10
+5
+TK
+Thad Kratz
+
+Great Plains Lutheran
+17:59.5
+Yr: 12
+6
+NE
+Nolan Eidson
+
+Castlewood
+18:02.7
+Yr: 10
+7
+TH
+Tyson Hagberg
+
+Deuel
+18:06.0
+Yr: 10
+8
+
+Kyler Marson
+
+Estelline/Hendricks
+18:18.3
+Yr: 9
+9
+LK
+Lance Kaufman
+
+Arlington
+18:18.9
+Yr: 12
+10
+SM
+Sam Manian
+
+Great Plains Lutheran
+18:46.4
+Yr: 10
+11
+TS
+Tyrus Schulz
+
+Sioux Valley
+18:53.7
+SB • Yr: 10
+12
+TH
+Titus Hofinga
+
+Great Plains Lutheran
+18:59.7
+Yr: 10
+13
+BM
+Bret Milton
+
+Sioux Valley
+19:11.0
+Yr: 11
+14
+PM
+Payton Moore
+
+Redfield
+19:17.7
+Yr: 11
+15
+
+Carter Hinners
+
+Great Plains Lutheran
+19:18.9
+Yr: 11
+16
+DK
+Dorian Kaufman
+
+Arlington
+19:23.6
+Yr: 10
+17
+
+Matt Peterson
+
+Aberdeen Roncalli
+19:32.4
+Yr: 10
+18
+DK
+Dominic Kluckman
+
+Deuel
+19:33.2
+Yr: 10
+19
+CR
+Caleb Ronne
+
+Deuel
+19:36.3
+Yr: 12
+20
+KL
+Karsten Lerwick
+
+Arlington
+19:42.1
+Yr: 9
+21
+LA
+Levi Axtell
+
+Sioux Valley
+19:44.6
+Yr: 9
+22
+KR
+Kadin Raguse
+
+Tri-State
+19:47.0
+PB • Yr: 12
+23
+LP
+Levi Peterson
+
+Deuel
+19:58.6
+Yr: 11
+24
+DV
+Dubhlainn Vermeulen
+
+Sioux Valley
+20:01.9
+Yr: 11
+25
+JS
+Jayden Schwan
+
+Groton Area
+20:05.1
+Yr: 11
+26
+
+William LaBerge
+
+Great Plains Lutheran
+20:06.8
+SB • Yr: 10
+27
+
+Isaiah Berg
+
+Great Plains Lutheran
+20:13.7
+Yr: 12
+28
+SG
+Seth Grams
+
+Great Plains Lutheran
+20:16.5
+SB • Yr: 12
+29
+CT
+Chase Temme
+
+De Smet
+20:19.8
+Yr: 11
+30
+AK
+Austin Keller
+
+Florence/Henry
+20:21.2
+Yr: 9
+31
+CH
+Cade Hexem
+
+Estelline/Hendricks
+20:29.7
+Yr: 10
+32
+AP
+Amsden Piotter
+
+Tri-State
+20:35.4
+Yr: 12
+33
+AF
+Adrian Flisrand
+
+Florence/Henry
+20:48.2
+Yr: 9
+34
+CS
+Carter Sapp
+
+Sioux Valley
+20:50.9
+Yr: 10
+35
+WH
+Will Hovde
+
+Clark/Willow Lake
+20:55.1
+Yr: 11
+36
+JB
+Jordan Botkin
+
+De Smet
+20:56.5
+Yr: 10
+37
+NL
+Noah Luethmers
+
+De Smet
+20:59.1
+Yr: 10
+38
+GM
+Gavin Mattson
+
+Deuel
+21:18.7
+Yr: 9
+39
+NL
+Noah Love
+
+Deuel
+21:27.4
+Yr: 9
+40
+IP
+Isaac Price
+
+Aberdeen Roncalli
+21:36.0
+Yr: 11
+41
+JO
+Joseph O'Brien
+
+Britton-Hecla
+21:37.6
+SB • Yr: 8
+42
+OA
+Owen Anderson
+
+De Smet
+21:38.0
+Yr: 10
+43
+GA
+Gabriel Aughenbaugh
+
+De Smet
+21:39.6
+Yr: 10
+44
+RS
+Rylan Skorczewski
+
+Estelline/Hendricks
+21:45.7
+Yr: 10
+45
+ZS
+Zach Schroeder
+
+Florence/Henry
+21:56.0
+Yr: 10
+46
+CP
+Carson Peterson
+
+Redfield
+22:22.5
+Yr: 7
+47
+JK
+Joshua Klein
+
+Tri-State
+22:24.0
+Yr: 10
+48
+AR
+Alex Reil
+
+Clark/Willow Lake
+22:25.2
+Yr: 12
+49
+AG
+Aksel Gjerde
+
+Clark/Willow Lake
+22:34.9
+Yr: 8
+50
+TM
+Tommy Mullen
+
+Castlewood
+22:38.8
+Yr: 9
+51
+SA
+Spencer Antonen
+
+Arlington
+22:41.4
+Yr: 8
+52
+MO
+Maddon Odland
+
+Redfield
+22:52.6
+Yr: 11
+53
+TS
+Tucker Steffens
+
+Tri-State
+22:57.9
+Yr: 10
+54
+LS
+Logan Seefeldt
+
+Clark/Willow Lake
+23:17.3
+Yr: 11
+55
+JL
+James Lesher
+
+Estelline/Hendricks
+23:35.8
+Yr: 11
+56
+KJ
+Kaleb Johnson
+
+De Smet
+23:52.1
+Yr: 12
+57
+KO
+Kason Oswald
+
+Groton Area
+24:09.4
+Yr: 9
+58
+
+Grant Clelland
+
+Arlington
+24:28.0
+Yr: 9
+59
+DS
+Donovan Sandven
+
+De Smet
+24:49.5
+PB • Yr: 10
+60
+NT
+Nolan Thuringer
+
+Waubay/Summit
+24:53.6
+Yr: 12
+61
+DP
+David Pickard
+
+Deubrook Area
+25:02.0
+Yr: 10

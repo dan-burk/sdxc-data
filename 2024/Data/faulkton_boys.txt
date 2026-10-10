@@ -1,0 +1,324 @@
+1
+PB
+Pierce Baumberger
+
+Miller
+Yr: 12 • +1pts
+2
+GJ
+Gabe Johnson
+
+North Central
+Yr: 12 • +2pts
+3
+MS
+Milo Sumption
+
+Leola/Frederick Area
+Yr: 11 • +3pts
+4
+KS
+Korbin Stark
+
+Faulkton Area
+Yr: 10 • +4pts
+5
+AW
+Avery Wells
+
+North Central
+Yr: 11 • +5pts
+6
+BM
+Brooks McPeak
+
+Highmore-Harrold
+Yr: 9 • +6pts
+7
+HS
+Howard Sumption
+
+Leola/Frederick Area
+Yr: 9 • +7pts
+8
+HS
+Hudson Schmidt
+
+Mount Vernon/Plankinton
+Yr: 10 • +8pts
+9
+TK
+Titus Kippley
+
+Leola/Frederick Area
+Yr: 10 • +9pts
+10
+DA
+Drew Arbach
+
+North Central
+Yr: 10 • +10pts
+11
+
+Gavin Hirsch
+
+Herreid/Selby Area
+Yr: 11 • +11pts
+12
+LN
+Logan Niederbaumer
+
+Faulkton Area
+Yr: 10 • +12pts
+13
+TB
+Ty Boekelheide
+
+Northwestern
+Yr: 10 • +13pts
+14
+SW
+Sam Welsch
+
+Wessington Springs
+Yr: 11
+15
+AI
+Aaron Ingerson
+
+North Central
+Yr: 9 • +14pts
+16
+
+Matt Peterson
+
+Aberdeen Roncalli
+Yr: 10
+17
+IG
+Isaiah Gortmaker
+
+Miller
+Yr: 11 • +15pts
+18
+WC
+Will Clemens
+
+Northwestern
+Yr: 9 • +16pts
+19
+
+Jordan Erfman
+
+Highmore-Harrold
+Yr: 11 • +17pts
+20
+CE
+Carson Ewalt
+
+Northwestern
+Yr: 11 • +18pts
+21
+JS
+Justin St. John
+
+Crow Creek
+Yr: 10
+22
+PH
+Philip Holsing
+
+Faulkton Area
+Yr: 12 • +19pts
+23
+JC
+Jacksen Carter
+
+Wolsey-Wessington
+Yr: 10
+24
+TH
+Theo Haerter
+
+North Central
+Yr: 12 • +20pts
+25
+AF
+Aidan Ferens
+
+Highmore-Harrold
+Yr: 12 • +21pts
+26
+KR
+Keegan Russell
+
+Herreid/Selby Area
+Yr: 11 • +22pts
+27
+AB
+Aaron Blanchford
+
+Northwestern
+Yr: 12 • +23pts
+28
+JV
+Jaymin VanDerWerff
+
+Miller
+Yr: 10 • +24pts
+29
+JT
+Josh Thorson
+
+Northwestern
+Yr: 12 • +25pts
+30
+NI
+Noah Ingerson
+
+North Central
+Yr: 10
+31
+AS
+Andrew Schlosser
+
+Leola/Frederick Area
+Yr: 8 • +26pts
+32
+
+Sam Ernst
+
+Herreid/Selby Area
+Yr: 8 • +27pts
+33
+CW
+Carter Webb
+
+Highmore-Harrold
+Yr: 9 • +28pts
+34
+IP
+Isaac Price
+
+Aberdeen Roncalli
+Yr: 11
+35
+CN
+Cole Noon
+
+Faulkton Area
+Yr: 10 • +29pts
+36
+TB
+Tate Bray
+
+Faulkton Area
+Yr: 9 • +30pts
+37
+JS
+Josiah Stiegelmeier
+
+Sunshine Bible Academy
+Yr: 10
+38
+JO
+Jonas Olson
+
+Sully Buttes
+Yr: 11
+39
+JW
+Jonah Webb
+
+Highmore-Harrold
+Yr: 11 • +31pts
+40
+SJ
+Stephan Jones
+
+Crow Creek
+Yr: 12
+41
+RF
+Ranick Fjerstad
+
+Wessington Springs
+Yr: 12
+42
+
+Jaxson Tollefson
+
+Mount Vernon/Plankinton
+Yr: 9 • +32pts
+43
+LM
+Logan McKee
+
+Wakpala
+Yr: 12
+44
+TW
+Tayven Weber
+
+Mount Vernon/Plankinton
+Yr: 8 • +33pts
+45
+
+Tyler Roebuck
+
+Mobridge-Pollock
+Yr: 8
+46
+GA
+Grant Anderson
+
+Leola
+Yr: 11
+47
+BE
+Brecken Estey
+
+Hitchcock-Tulare
+Yr: 8 • +34pts
+48
+
+Owan Watson
+
+Sunshine Bible Academy
+Yr: 12
+49
+WS
+Will Stiegelmeier
+
+Herreid/Selby Area
+Yr: 9 • +35pts
+50
+LP
+Lance Plenty Chief
+
+Wakpala
+Yr: 9
+51
+BB
+Brodie Boomsma
+
+Hitchcock-Tulare
+Yr: 9 • +36pts
+52
+BS
+Brodie Smith
+
+Mount Vernon/Plankinton
+Yr: 11 • +37pts
+53
+LJ
+Landon Jungemann
+
+Wolsey-Wessington
+Yr: 8
+54
+MS
+Matthew Salmen
+
+Hitchcock-Tulare
+Yr: 10 • +38pts
