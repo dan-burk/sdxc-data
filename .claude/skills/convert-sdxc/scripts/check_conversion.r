@@ -37,7 +37,12 @@ for (m in meets$meet) {
       # finishers in this TXT plus any TXT merged into it (merged_meets.csv); runners
       # listed in both are counted once in the CSV, so merged meets can come up short
       srcs <- file.path(year, "Data", paste0(c(m, merges$merge_from[merges$meet == m]), "_", g, ".txt"))
-      entries <- sum(sapply(srcs, function(f) sum(grepl("^\\d+$", trimws(readLines(f, warn = FALSE))))))
+      # place lines are "12" alone, or "12 Name ..." in the one-line-per-runner table format
+      count_places <- function(f) {
+        L <- trimws(readLines(f, warn = FALSE))
+        if (any(grepl("^PLACE\\s+ATHLETE", L))) sum(grepl("^\\d+\\s+\\S", L)) else sum(grepl("^\\d+$", L))
+      }
+      entries <- sum(sapply(srcs, count_places))
       if (length(srcs) > 1) entries <- nrow(r)  # merged: can't compare counts directly
       if (entries != nrow(r)) {
         cat(sprintf("COUNT       %-28s TXT %3d entries, CSV %3d rows\n", paste0(m, "_", g), entries, nrow(r)))

@@ -7,9 +7,9 @@ description: Resolve misspelled or inconsistent runner names in South Dakota XC 
 
 An athlete is identified by **name + school**, after school names are standardized (see the `school-matching` skill; fix schools first, because a school misspelling makes the same runner look like two people).
 
-When the same runner appears under two spellings ("JAXON TOLLEFSON" / "JAXSON TOLLEFSON"), they're scored as two athletes, each with part of the season's points. `{year}/athlete_aliases.csv` (`name,school,correct_name`) maps the wrong spelling to the right one. Matching ignores case and extra spaces; `school` must be the *standardized* school name.
+When the same runner appears under two spellings ("JAXON TOLLEFSON" / "JAXSON TOLLEFSON"), they're scored as two athletes, each with part of the season's races. `{year}/athlete_aliases.csv` (`name,school,correct_name`) maps the wrong spelling to the right one. Matching ignores case and extra spaces; `school` must be the *standardized* school name.
 
-Merging two real people is worse than leaving a duplicate: it mixes their points and PRs, and if they're in the same race it corrupts the point totals (check_season() stops with "Same runner twice in one race"). So when in doubt, don't merge; ask.
+Merging two real people is worse than leaving a duplicate: it mixes their times, and if they're in the same race it corrupts the rankings (check_season() stops with "Same runner twice in one race"). So when in doubt, don't merge; ask.
 
 ## Workflow
 

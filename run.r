@@ -10,7 +10,6 @@ source("R/score.r")
 
 year  <- 2025  # or: Rscript run.r 2026
 if (length(commandArgs(trailingOnly = TRUE))) year <- as.numeric(commandArgs(trailingOnly = TRUE)[1])
-wager <- 0.05
 
 season <- load_season(year)
 if (check_season(season) > 0) stop("Fix the errors above, then rerun.")
@@ -18,7 +17,7 @@ if (nrow(season$races) == 0) stop("No results for ", year, " yet: add meets to t
 
 dir.create(file.path(year, "output"), showWarnings = FALSE)
 for (gender in c("boys", "girls")) {
-  rankings <- score_season(season, gender, wager)
+  rankings <- score_season(season, gender)
   write.csv(rankings, file.path(year, "output", paste0("rankings_", gender, ".csv")),
             row.names = FALSE)
 }

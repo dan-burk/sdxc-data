@@ -1,0 +1,19 @@
+"race","method","n","mae","bias"
+"A boys","PR alone",127,11.0551181102362,0
+"A boys","Points + PR (2025)",127,13.6850393700787,0
+"A boys","Adjusted time (new)",127,10.0472440944882,0
+"A girls","PR alone",124,11.1129032258065,0
+"A girls","Points + PR (2025)",124,11.0967741935484,0
+"A girls","Adjusted time (new)",124,9.90322580645161,0
+"AA boys","PR alone",131,10.2290076335878,0
+"AA boys","Points + PR (2025)",131,12.0839694656489,0
+"AA boys","Adjusted time (new)",131,8.0763358778626,0
+"AA girls","PR alone",125,13.264,0
+"AA girls","Points + PR (2025)",125,12.624,0
+"AA girls","Adjusted time (new)",125,10.208,0
+"B boys","PR alone",121,14.5785123966942,0
+"B boys","Points + PR (2025)",121,12.3388429752066,0
+"B boys","Adjusted time (new)",121,9.83471074380165,0
+"B girls","PR alone",111,12.1801801801802,0
+"B girls","Points + PR (2025)",111,9.31531531531532,0
+"B girls","Adjusted time (new)",111,8.52252252252252,0

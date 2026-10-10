@@ -1,0 +1,178 @@
+"test","method","n","mae"
+"2025 weeks 2-7","adjusted",5420,3.43948339483395
+"2025 weeks 2-7","adjusted + pr",5420,3.63985239852399
+"2025 weeks 2-7","adjusted 0 with elo",5420,4.52785977859779
+"2025 weeks 2-7","adjusted 0 with pr",5420,4.4
+"2025 weeks 2-7","adjusted 0.1 with elo",5420,4.35977859778598
+"2025 weeks 2-7","adjusted 0.1 with pr",5420,4.21494464944649
+"2025 weeks 2-7","adjusted 0.2 with elo",5420,4.19243542435424
+"2025 weeks 2-7","adjusted 0.2 with pr",5420,4.04889298892989
+"2025 weeks 2-7","adjusted 0.3 with elo",5420,4.02749077490775
+"2025 weeks 2-7","adjusted 0.3 with pr",5420,3.88542435424354
+"2025 weeks 2-7","adjusted 0.4 with elo",5420,3.86549815498155
+"2025 weeks 2-7","adjusted 0.4 with pr",5420,3.74815498154982
+"2025 weeks 2-7","adjusted 0.5 with elo",5420,3.72767527675277
+"2025 weeks 2-7","adjusted 0.5 with pr",5420,3.63985239852399
+"2025 weeks 2-7","adjusted 0.6 with elo",5420,3.60608856088561
+"2025 weeks 2-7","adjusted 0.6 with pr",5420,3.55313653136531
+"2025 weeks 2-7","adjusted 0.7 with elo",5420,3.51217712177122
+"2025 weeks 2-7","adjusted 0.7 with pr",5420,3.48044280442804
+"2025 weeks 2-7","adjusted 0.8 with elo",5420,3.45369003690037
+"2025 weeks 2-7","adjusted 0.8 with pr",5420,3.4450184501845
+"2025 weeks 2-7","adjusted 0.9 with elo",5420,3.43265682656827
+"2025 weeks 2-7","adjusted 0.9 with pr",5420,3.42712177121771
+"2025 weeks 2-7","adjusted 1 with elo",5420,3.43948339483395
+"2025 weeks 2-7","adjusted 1 with pr",5420,3.43948339483395
+"2025 weeks 2-7","elo K = 1024",5420,4.47730627306273
+"2025 weeks 2-7","elo K = 1024 + pr",5420,3.92527675276753
+"2025 weeks 2-7","elo K = 128",5420,5.55664206642066
+"2025 weeks 2-7","elo K = 128 + pr",5420,4.30073800738007
+"2025 weeks 2-7","elo K = 16",5420,6.00977859778598
+"2025 weeks 2-7","elo K = 16 + pr",5420,4.5029520295203
+"2025 weeks 2-7","elo K = 256",5420,5.17287822878229
+"2025 weeks 2-7","elo K = 256 + pr",5420,4.1669741697417
+"2025 weeks 2-7","elo K = 32",5420,5.94225092250923
+"2025 weeks 2-7","elo K = 32 + pr",5420,4.47158671586716
+"2025 weeks 2-7","elo K = 512",5420,4.72749077490775
+"2025 weeks 2-7","elo K = 512 + pr",5420,3.98025830258303
+"2025 weeks 2-7","elo K = 64",5420,5.80756457564576
+"2025 weeks 2-7","elo K = 64 + pr",5420,4.40608856088561
+"2025 weeks 2-7","elo K = 768",5420,4.52785977859779
+"2025 weeks 2-7","elo K = 768 + pr",5420,3.92490774907749
+"2025 weeks 2-7","pr",5420,4.4
+"2025 weeks 2-7","wager 0.5%",5420,6.95387453874539
+"2025 weeks 2-7","wager 0.5% + pr",5420,4.87859778597786
+"2025 weeks 2-7","wager 1%",5420,6.98228782287823
+"2025 weeks 2-7","wager 1% + pr",5420,4.87785977859779
+"2025 weeks 2-7","wager 10%",5420,7.34594095940959
+"2025 weeks 2-7","wager 10% + pr",5420,5.17675276752768
+"2025 weeks 2-7","wager 15%",5420,7.6049815498155
+"2025 weeks 2-7","wager 15% + pr",5420,5.36033210332103
+"2025 weeks 2-7","wager 2%",5420,6.94686346863469
+"2025 weeks 2-7","wager 2% + pr",5420,4.85092250922509
+"2025 weeks 2-7","wager 20%",5420,7.81051660516605
+"2025 weeks 2-7","wager 20% + pr",5420,5.4710332103321
+"2025 weeks 2-7","wager 3%",5420,6.91291512915129
+"2025 weeks 2-7","wager 3% + pr",5420,4.87066420664207
+"2025 weeks 2-7","wager 5%",5420,7.01623616236162
+"2025 weeks 2-7","wager 5% + pr",5420,4.94852398523985
+"2025 weeks 2-7","wager 7.5%",5420,7.18726937269373
+"2025 weeks 2-7","wager 7.5% + pr",5420,5.06642066420664
+"2025 state meet","adjusted",739,9.35047361299053
+"2025 state meet","adjusted + pr",739,9.60081190798376
+"2025 state meet","adjusted 0 with elo",739,11.702300405954
+"2025 state meet","adjusted 0 with pr",739,12.0378890392422
+"2025 state meet","adjusted 0.1 with elo",739,11.2868741542625
+"2025 state meet","adjusted 0.1 with pr",739,11.4438430311231
+"2025 state meet","adjusted 0.2 with elo",739,10.8890392422192
+"2025 state meet","adjusted 0.2 with pr",739,10.9255751014885
+"2025 state meet","adjusted 0.3 with elo",739,10.5169147496617
+"2025 state meet","adjusted 0.3 with pr",739,10.446549391069
+"2025 state meet","adjusted 0.4 with elo",739,10.1691474966171
+"2025 state meet","adjusted 0.4 with pr",739,9.99323410013532
+"2025 state meet","adjusted 0.5 with elo",739,9.91745602165088
+"2025 state meet","adjusted 0.5 with pr",739,9.60081190798376
+"2025 state meet","adjusted 0.6 with elo",739,9.65358592692828
+"2025 state meet","adjusted 0.6 with pr",739,9.37889039242219
+"2025 state meet","adjusted 0.7 with elo",739,9.4424898511502
+"2025 state meet","adjusted 0.7 with pr",739,9.27740189445196
+"2025 state meet","adjusted 0.8 with elo",739,9.37753721244925
+"2025 state meet","adjusted 0.8 with pr",739,9.19079837618403
+"2025 state meet","adjusted 0.9 with elo",739,9.31123139377537
+"2025 state meet","adjusted 0.9 with pr",739,9.20162381596752
+"2025 state meet","adjusted 1 with elo",739,9.35047361299053
+"2025 state meet","adjusted 1 with pr",739,9.35047361299053
+"2025 state meet","elo K = 1024",739,11.6427604871448
+"2025 state meet","elo K = 1024 + pr",739,10.3788903924222
+"2025 state meet","elo K = 128",739,14.5142083897158
+"2025 state meet","elo K = 128 + pr",739,11.6562922868742
+"2025 state meet","elo K = 16",739,16.4194857916103
+"2025 state meet","elo K = 16 + pr",739,12.5845737483085
+"2025 state meet","elo K = 256",739,13.2151556156969
+"2025 state meet","elo K = 256 + pr",739,11.17050067659
+"2025 state meet","elo K = 32",739,16.1217861975643
+"2025 state meet","elo K = 32 + pr",739,12.4384303112314
+"2025 state meet","elo K = 512",739,12.0568335588633
+"2025 state meet","elo K = 512 + pr",739,10.5723951285521
+"2025 state meet","elo K = 64",739,15.4641407307172
+"2025 state meet","elo K = 64 + pr",739,12.1434370771313
+"2025 state meet","elo K = 768",739,11.702300405954
+"2025 state meet","elo K = 768 + pr",739,10.3721244925575
+"2025 state meet","pr",739,12.0378890392422
+"2025 state meet","wager 0.5%",739,15.2665764546685
+"2025 state meet","wager 0.5% + pr",739,12.1014884979702
+"2025 state meet","wager 1%",739,14.7144790257104
+"2025 state meet","wager 1% + pr",739,11.8254397834912
+"2025 state meet","wager 10%",739,16.1190798376184
+"2025 state meet","wager 10% + pr",739,12.2422192151556
+"2025 state meet","wager 15%",739,16.6359945872801
+"2025 state meet","wager 15% + pr",739,12.4519621109608
+"2025 state meet","wager 2%",739,14.4005412719892
+"2025 state meet","wager 2% + pr",739,11.7117726657645
+"2025 state meet","wager 20%",739,16.9391069012179
+"2025 state meet","wager 20% + pr",739,12.6238159675237
+"2025 state meet","wager 3%",739,14.5169147496617
+"2025 state meet","wager 3% + pr",739,11.8051420838972
+"2025 state meet","wager 5%",739,15.1123139377537
+"2025 state meet","wager 5% + pr",739,11.9106901217862
+"2025 state meet","wager 7.5%",739,15.65899864682
+"2025 state meet","wager 7.5% + pr",739,12.085250338295
+"2026 so far","adjusted",1668,3.70623501199041
+"2026 so far","adjusted + pr",1668,3.73860911270983
+"2026 so far","adjusted 0 with elo",1668,5.01918465227818
+"2026 so far","adjusted 0 with pr",1668,4.17446043165468
+"2026 so far","adjusted 0.1 with elo",1668,4.810551558753
+"2026 so far","adjusted 0.1 with pr",1668,4.07254196642686
+"2026 so far","adjusted 0.2 with elo",1668,4.61570743405276
+"2026 so far","adjusted 0.2 with pr",1668,3.97661870503597
+"2026 so far","adjusted 0.3 with elo",1668,4.42745803357314
+"2026 so far","adjusted 0.3 with pr",1668,3.89088729016787
+"2026 so far","adjusted 0.4 with elo",1668,4.24580335731415
+"2026 so far","adjusted 0.4 with pr",1668,3.80275779376499
+"2026 so far","adjusted 0.5 with elo",1668,4.09172661870504
+"2026 so far","adjusted 0.5 with pr",1668,3.73860911270983
+"2026 so far","adjusted 0.6 with elo",1668,3.939448441247
+"2026 so far","adjusted 0.6 with pr",1668,3.69784172661871
+"2026 so far","adjusted 0.7 with elo",1668,3.83872901678657
+"2026 so far","adjusted 0.7 with pr",1668,3.69124700239808
+"2026 so far","adjusted 0.8 with elo",1668,3.77517985611511
+"2026 so far","adjusted 0.8 with pr",1668,3.70023980815348
+"2026 so far","adjusted 0.9 with elo",1668,3.7152278177458
+"2026 so far","adjusted 0.9 with pr",1668,3.70803357314149
+"2026 so far","adjusted 1 with elo",1668,3.70623501199041
+"2026 so far","adjusted 1 with pr",1668,3.70623501199041
+"2026 so far","elo K = 1024",1668,4.98920863309352
+"2026 so far","elo K = 1024 + pr",1668,4.14028776978417
+"2026 so far","elo K = 128",1668,5.96762589928058
+"2026 so far","elo K = 128 + pr",1668,4.60731414868106
+"2026 so far","elo K = 16",1668,6.310551558753
+"2026 so far","elo K = 16 + pr",1668,4.76318944844125
+"2026 so far","elo K = 256",1668,5.67386091127098
+"2026 so far","elo K = 256 + pr",1668,4.48381294964029
+"2026 so far","elo K = 32",1668,6.26258992805755
+"2026 so far","elo K = 32 + pr",1668,4.7410071942446
+"2026 so far","elo K = 512",1668,5.22661870503597
+"2026 so far","elo K = 512 + pr",1668,4.24880095923261
+"2026 so far","elo K = 64",1668,6.14748201438849
+"2026 so far","elo K = 64 + pr",1668,4.69184652278177
+"2026 so far","elo K = 768",1668,5.01918465227818
+"2026 so far","elo K = 768 + pr",1668,4.14088729016787
+"2026 so far","pr",1668,4.17446043165468
+"2026 so far","wager 0.5%",1668,8.62829736211031
+"2026 so far","wager 0.5% + pr",1668,5.80695443645084
+"2026 so far","wager 1%",1668,9.23141486810552
+"2026 so far","wager 1% + pr",1668,6.00059952038369
+"2026 so far","wager 10%",1668,11.8441247002398
+"2026 so far","wager 10% + pr",1668,7.43645083932854
+"2026 so far","wager 15%",1668,12.3189448441247
+"2026 so far","wager 15% + pr",1668,7.77338129496403
+"2026 so far","wager 2%",1668,9.90407673860911
+"2026 so far","wager 2% + pr",1668,6.23621103117506
+"2026 so far","wager 20%",1668,12.5923261390887
+"2026 so far","wager 20% + pr",1668,7.97961630695444
+"2026 so far","wager 3%",1668,10.3333333333333
+"2026 so far","wager 3% + pr",1668,6.50059952038369
+"2026 so far","wager 5%",1668,10.9232613908873
+"2026 so far","wager 5% + pr",1668,6.8705035971223
+"2026 so far","wager 7.5%",1668,11.468824940048
+"2026 so far","wager 7.5% + pr",1668,7.19904076738609

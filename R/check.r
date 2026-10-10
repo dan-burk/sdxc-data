@@ -56,6 +56,11 @@ check_season <- function(season) {
   report("WARNING", "Meet has only one gender's results",
          expected %>% group_by(meet) %>% filter(any(found), !found) %>% select(meet, gender))
 
+  both <- expected %>% group_by(meet) %>% filter(all(found)) %>% distinct(meet)
+  same <- both %>% filter(sapply(meet, function(m)
+    identical(readLines(race_path(year, m, "boys")), readLines(race_path(year, m, "girls")))))
+  report("ERROR", "Boys and girls results are the same file (re-save the right one's TXT)", same)
+
   files <- list.files(file.path(year, "Data"), "_(boys|girls)\\.csv$")
   report("WARNING", "Result file not in the meet list",
          tibble(file = files) %>%

@@ -1,11 +1,17 @@
 # Write a season's rankings as JSON for the website (the sister repo ../sdxc).
 # One file per gender and week: ../sdxc/data/{gender}_{year}_week{N}.json,
-# plus the season's schools (../sdxc/data/schools_{year}.json) and the year's latest week in manifest.json
+# The state meet week holds state results instead of a ranking (see R/score.r).
+# plus the season's schools (../sdxc/data/schools_{year}.json) and the year's latest week in manifest.json,
+# and every ranked runner's races (../sdxc/data/results_{gender}_{year}.json)
 # Run after run.r:  Rscript export.r 2026
 
 year <- 2025  # or: Rscript export.r 2026
 if (length(commandArgs(trailingOnly = TRUE))) year <- as.numeric(commandArgs(trailingOnly = TRUE)[1])
 out_dir <- "../sdxc/data"
+
+suppressPackageStartupMessages(library(dplyr))
+library(stringr)
+source("R/load.r")
 
 if (!dir.exists(out_dir)) stop("Can't find ", out_dir, ": the sdxc repo should sit next to this one.")
 
@@ -15,23 +21,77 @@ to_seconds <- function(time) {
   sapply(parts, function(p) if (length(p) == 2) as.numeric(p[1]) * 60 + as.numeric(p[2]) else NA)
 }
 
+# Every race of every ranked runner, for the runner's page on the site:
+# ../sdxc/data/results_{gender}_{year}.json, one row per runner per race.
+# Names and schools come after the aliases (load_season), so they match the rankings' id.
+# place is the finish place in the whole race (out-of-state runners included);
+# field is the number of finishers. DQ/DNF rows have place and time null.
+write_results <- function(season, gender, rankings) {
+  meets <- season$meet_list %>% filter(missing == 0)
+  races <- season$races %>%
+    filter(gender == !!gender, meet %in% meets$meet) %>%
+    group_by(meet) %>%
+    mutate(field = sum(!is.na(time_sec)),
+           place = ifelse(is.na(time_sec), NA, cumsum(!is.na(time_sec)))) %>%
+    ungroup() %>%
+    mutate(id = match(paste(name, school), sort(unique(paste(rankings$name, rankings$school))))) %>%
+    filter(!is.na(id)) %>%  # out of state, not a school, or never ranked
+    inner_join(meets %>% select(meet, meet_name = official_meet_name, date, week, flg_5k), by = "meet") %>%
+    arrange(id, date)
+
+  site <- data.frame(id       = races$id,
+                     meet     = races$meet_name,
+                     date     = format(races$date),
+                     week     = races$week,
+                     flg_5k   = races$flg_5k,
+                     place    = races$place,
+                     field    = races$field,
+                     time     = round(races$time_sec, 2),
+                     grade    = suppressWarnings(as.numeric(races$grade)))
+  file <- file.path(out_dir, paste0("results_", gender, "_", year, ".json"))
+  jsonlite::write_json(site, file, pretty = TRUE, digits = NA, na = "null")
+  cat("Wrote", file, "(", nrow(site), "results )\n")
+}
+
+season <- load_season(year)
+
 for (gender in c("boys", "girls")) {
   rankings <- read.csv(file.path(year, "output", paste0("rankings_", gender, ".csv")))
+  state_week <- if ("place" %in% names(rankings)) unique(rankings$week[!is.na(rankings$place)]) else NULL
 
   # id: one number per athlete for the whole season, so it's the same every week
   athlete <- paste(rankings$name, rankings$school)
   rankings$id <- match(athlete, sort(unique(athlete)))
 
+  write_results(season, gender, rankings)
+
   for (wk in sort(unique(rankings$week))) {
     r <- rankings[rankings$week == wk, ]
-    r <- r[order(r$rank), ]
-    site <- data.frame(Name         = r$name,
-                       School       = r$school,
-                       id           = r$id,
-                       points       = round(r$points, 4),
-                       time_min     = round(to_seconds(r$pr), 2),
-                       rnk_blnd     = r$rank,
-                       school_class = r$class)
+    if (wk %in% state_week) {
+      # One row per state finisher: their race, place and predicted place,
+      # plus their ranking going in (rnk_blnd, adj_time, time_min; null if unranked)
+      r <- r[order(r$meet, r$place), ]
+      site <- data.frame(Name         = r$name,
+                         School       = r$school,
+                         id           = r$id,
+                         school_class = r$class,
+                         race         = toupper(sub("sdhsaa_", "", r$meet)),
+                         place        = r$place,
+                         predicted    = r$predicted,
+                         state_time   = round(to_seconds(r$time), 2),
+                         rnk_blnd     = r$rank,
+                         adj_time     = round(to_seconds(r$adj_time), 2),
+                         time_min     = round(to_seconds(r$pr), 2))
+    } else {
+      r <- r[order(r$rank), ]
+      site <- data.frame(Name         = r$name,
+                         School       = r$school,
+                         id           = r$id,
+                         adj_time     = round(to_seconds(r$adj_time), 2),
+                         time_min     = round(to_seconds(r$pr), 2),
+                         rnk_blnd     = r$rank,
+                         school_class = r$class)
+    }
     file <- file.path(out_dir, paste0(gender, "_", year, "_week", wk, ".json"))
     # runners with no PR get time_min: null
     jsonlite::write_json(site, file, pretty = TRUE, digits = NA, na = "null")
@@ -48,11 +108,14 @@ file <- file.path(out_dir, paste0("schools_", year, ".json"))
 jsonlite::write_json(site, file, pretty = TRUE, na = "null")
 cat("Wrote", file, "(", nrow(site), "schools )\n")
 
-# manifest.json tells the site which years exist and each year's latest week
+# manifest.json tells the site which years exist, each year's latest week,
+# and which week is the state meet (for years that have run it)
 file <- file.path(out_dir, "manifest.json")
 manifest <- jsonlite::read_json(file)
 manifest$years[[as.character(year)]] <- max(rankings$week)
 manifest$years <- manifest$years[order(names(manifest$years))]
+if (is.null(manifest$state)) manifest$state <- list()
+manifest$state[[as.character(year)]] <- if (length(state_week)) state_week else NULL
 manifest$current <- max(as.numeric(names(manifest$years)))
 jsonlite::write_json(manifest, file, pretty = TRUE, auto_unbox = TRUE)
 cat("Wrote", file, "(", year, "has", max(rankings$week), "weeks )\n")

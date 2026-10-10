@@ -1,0 +1,19 @@
+"test","method","n","mae"
+"2025 weeks 2-7","adjusted",5420,3.43505535055351
+"2025 weeks 2-7","h2h window 10, 2+ races",5420,3.42656826568266
+"2025 weeks 2-7","h2h window 3, 2+ races",5420,3.43837638376384
+"2025 weeks 2-7","h2h window 5, 2+ races",5420,3.43431734317343
+"2025 weeks 2-7","h2h window 5, 3+ races",5420,3.43247232472325
+"2025 weeks 2-7","pr",5420,4.4
+"2025 state meet","adjusted",739,9.43707713125846
+"2025 state meet","h2h window 10, 2+ races",739,9.44790257104195
+"2025 state meet","h2h window 3, 2+ races",739,9.42083897158322
+"2025 state meet","h2h window 5, 2+ races",739,9.42895805142084
+"2025 state meet","h2h window 5, 3+ races",739,9.42895805142084
+"2025 state meet","pr",739,12.0378890392422
+"2026 so far","adjusted",3323,3.73939211555823
+"2026 so far","h2h window 10, 2+ races",3323,3.74541077339753
+"2026 so far","h2h window 3, 2+ races",3323,3.73638278663858
+"2026 so far","h2h window 5, 2+ races",3323,3.75263316280469
+"2026 so far","h2h window 5, 3+ races",3323,3.74119771291002
+"2026 so far","pr",3323,4.31086367739994

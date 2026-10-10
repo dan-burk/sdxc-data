@@ -2,6 +2,7 @@
 # Data CSVs with columns Place, Name, School, Time, Grade.
 
 txt_to_csv <- function(lines) {
+  if (any(grepl("^\\s*PLACE\\s+ATHLETE\\s+TEAM\\s+MARK", lines))) return(table_txt_to_csv(lines))
   L <- trimws(lines)
   # keep empties to detect block structure, but we’ll skip them as needed
 
@@ -72,6 +73,30 @@ txt_to_csv <- function(lines) {
     )
   }
   results
+}
+
+# One runner per line, under a "PLACE ATHLETE TEAM MARK PTS" header:
+#   1 Sophia Redler SR Dakota Valley High School 19:26.86 1
+# Grade is FR/SO/JR/SR or a number (7, 8). The time can be DQ/DNF/DNS or
+# missing; team points at the end are dropped, and so is " High School".
+table_txt_to_csv <- function(lines) {
+  start   <- "^\\s*(\\d+)\\s+(.+?)\\s+(FR|SO|JR|SR|\\d{1,2})\\s+"
+  timed   <- paste0(start, "(.+?)\\s+(\\d{1,2}:\\d{2}(?:\\.\\d+)?|DQ|DNF|DNS)(?:\\s+\\d+)?\\s*$")
+  no_time <- paste0(start, "(.+?)()\\s*$")
+  lines <- lines[grepl(no_time, lines) & !grepl("^\\s*PLACE", lines)]
+  m <- lapply(lines, function(x) {
+    p <- if (grepl(timed, x)) timed else no_time
+    regmatches(x, regexec(p, x))[[1]]
+  })
+  grade <- sapply(m, `[`, 4)
+  words <- c(FR = "9", SO = "10", JR = "11", SR = "12")
+  grade <- ifelse(grade %in% names(words), words[grade], grade)
+  data.frame(Place  = as.integer(sapply(m, `[`, 2)),
+             Name   = trimws(gsub("\\s*\\([^)]*\\)", "", sapply(m, `[`, 3))),
+             School = sub("\\s+High School$", "", sapply(m, `[`, 5)),
+             Time   = sapply(m, `[`, 6),
+             Grade  = unname(grade),
+             stringsAsFactors = FALSE)
 }
 
 fetch_milesplit_raw <- function(url) {

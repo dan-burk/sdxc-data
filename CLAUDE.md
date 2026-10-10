@@ -9,7 +9,7 @@ Every run rescores the whole season from the curated files. There is no saved st
 ```
 convert.r   source TXT / saved MileSplit page -> {year}/Data/{meet}_{boys|girls}.csv   (rebuilds all)
 run.r       load -> check -> score -> {year}/output/rankings_{boys|girls}.csv (one ranking per week)
-export.r    rankings CSVs -> ../sdxc/data/{boys|girls}_{year}_week{N}.json + schools_{year}.json for the website (sister repo)
+export.r    rankings CSVs -> ../sdxc/data/{boys|girls}_{year}_week{N}.json + results_{boys|girls}_{year}.json (every race of each ranked runner) + schools_{year}.json for the website (sister repo)
 ```
 
 - `R/load.r`: reads the files and applies school and athlete aliases.
@@ -37,9 +37,11 @@ Don't edit `meet_list.csv` without asking. Don't change the scoring code to work
 ## Scoring
 
 - Athlete = name + school, after aliases. `OUT`/`DROP` runners and DQs are removed before scoring. Row order in a CSV is finish order.
-- Everyone starts at 1000. In each race every runner takes 5% of the current points of every runner behind them, one pair at a time in finish order.
-- PRs only come from `flg_5k = 1` meets. Meets run in order of week, date, then meet-list row. A snapshot is taken at the end of each week.
-- Rank = average of the points rank and the PR rank (points rank alone if no PR).
+- Rank = course-adjusted time. Model: log(time) = runner + meet. The meet effect is how much faster or slower runners ran there than their usual (course, distance, weather), so every meet counts, 5K or not. It's the median over the meet's linked runners (those who also raced another meet so far); a meet with fewer than 5 linked runners isn't adjusted (0) until more of its runners race again. Adjusted time = average time with meet effects removed, on the scale of the median 5K meet.
+- Head-to-head (`head_to_head()` in R/score.r): within a class, a runner who has beaten someone up to 5 places above them every time they raced, at least twice, is ranked ahead of them. adj_time is unchanged, so a runner can rank ahead of a faster adjusted time. Added in 2026; `analysis/h2h_swaps.r` showed it neither helps nor hurts predictions.
+- At the end of each week the whole season so far is refitted and ranked. PR (fastest `flg_5k = 1` time) is shown but not used in the rank.
+- Replaced the 2025 points method (5% wager blended with PR) in 2026 after `analysis/` showed it predicts finish places better; see `analysis/README.md`.
+- The state meet week (the `sdhsaa_*` meets) isn't scored. Its snapshot is the state finishers: `meet`, `place`, `predicted` (order in the race by rank going in; blank if no race before state) and state `time`. export.r writes it to that week's JSON with different fields, and records the week in `manifest.json` under `state`.
 
 ## Skills
 

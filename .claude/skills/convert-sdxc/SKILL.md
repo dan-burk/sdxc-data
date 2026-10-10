@@ -45,7 +45,7 @@ Pass the meets you just converted (or nothing, for all meets). It reports:
   - *school has "("*: a runner's name leaked into the school (same fix).
   - *time can't be read*: fix the time in the TXT, or teach the parser if the pattern could come up again.
   - *faster than the row above*: the TXT's runner blocks are out of order. Reorder the blocks in the TXT (each block starts with the place-number line).
-- **NOT SCORED**: DQ / DNF / DNS / blank-time rows. These stay in the CSV (the placing is real information) and `run.r` drops them before scoring, so they neither gain nor lose points. Glance at the list: a real runner with a time should never be here.
+- **NOT SCORED**: DQ / DNF / DNS / blank-time rows. These stay in the CSV (the placing is real information) and `run.r` drops them before scoring, so they don't count toward the rankings. Glance at the list: a real runner with a time should never be here.
 
 ## 3. Is it a 5K? (`flg_5k`)
 
@@ -63,6 +63,7 @@ The TXT format per runner is: place, optional initials (`AB`, or `A(` when a nic
 - A runner with no time: kept with a blank time and not scored (Cooper Jarding, Cornbelt 2025).
 - Grades written as words: `Yr: Jr` becomes 11 (Fr/So/Jr/Sr = 9–12).
 - Times typed `16:38:48`: read as `16:38.48` (Wagner 2025).
+- One runner per line under a `PLACE ATHLETE TEAM MARK PTS` header (`1 Sophia Redler SR Dakota Valley High School 19:26.86 1`; Alcester girls 2024). `table_txt_to_csv()` reads it: grade FR/SO/JR/SR or a number, team points dropped, " High School" removed from the school.
 
 If you change the parser, run convert.r and look at `git diff` on `{year}/Data/*.csv` to be sure only the intended rows changed.
 
