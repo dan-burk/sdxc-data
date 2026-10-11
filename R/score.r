@@ -132,6 +132,7 @@ meet_effects <- function(results, min_linked = 5) {
     meet_effect <- new
     if (change < 1e-9) break
   }
+  attr(meet_effect, "measured") <- measured  # the rest are 0 because they couldn't be measured
   meet_effect
 }
 

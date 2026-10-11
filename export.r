@@ -12,6 +12,7 @@ out_dir <- "../sdxc/data"
 suppressPackageStartupMessages(library(dplyr))
 library(stringr)
 source("R/load.r")
+source("R/score.r")
 
 if (!dir.exists(out_dir)) stop("Can't find ", out_dir, ": the sdxc repo should sit next to this one.")
 
@@ -25,7 +26,7 @@ to_seconds <- function(time) {
 # ../sdxc/data/results_{gender}_{year}.json, one row per runner per race.
 # Names and schools come after the aliases (load_season), so they match the rankings' id.
 # place is the finish place in the whole race (out-of-state runners included);
-# field is the number of finishers. DQ/DNF rows have place and time null.
+# field is the number of finishers. DQ/DNF rows have place, time and adj_time null.
 write_results <- function(season, gender, rankings) {
   meets <- season$meet_list %>% filter(missing == 0)
   races <- season$races %>%
@@ -39,6 +40,17 @@ write_results <- function(season, gender, rankings) {
     inner_join(meets %>% select(meet, meet_name = official_meet_name, date, week, flg_5k), by = "meet") %>%
     arrange(id, date)
 
+  # Each race's adjusted time, from the latest week's fit. The meet effects are
+  # refitted every week, so a race's adjusted time can shift a little from week
+  # to week. null for a meet with too few linked runners to measure, and for the state meet.
+  state_week <- unique(meets$week[startsWith(meets$meet, "sdhsaa_")])
+  fit <- scorable(season$races, season$schools) %>%
+    filter(gender == !!gender) %>%
+    inner_join(meets %>% select(meet, week, flg_5k), by = "meet") %>%
+    filter(!week %in% state_week)
+  effect <- meet_effects(fit)
+  effect[!names(effect) %in% attr(effect, "measured")] <- NA
+
   site <- data.frame(id       = races$id,
                      meet     = races$meet_name,
                      date     = format(races$date),
@@ -47,6 +59,7 @@ write_results <- function(season, gender, rankings) {
                      place    = races$place,
                      field    = races$field,
                      time     = round(races$time_sec, 2),
+                     adj_time = round(races$time_sec / exp(effect[races$meet]), 2),
                      grade    = suppressWarnings(as.numeric(races$grade)))
   file <- file.path(out_dir, paste0("results_", gender, "_", year, ".json"))
   jsonlite::write_json(site, file, pretty = TRUE, digits = NA, na = "null")
