@@ -1,0 +1,392 @@
+1
+JS
+Jeter Scoular
+
+Milbank
+17:13.6
+Yr: 12 • +1pts
+2
+
+Ryder Graff
+
+Sisseton
+17:32.0
+Yr: 12 • +2pts
+3
+CH
+Caden Hourigan
+
+Deuel
+17:49.7
+Yr: 12 • +3pts
+4
+SB
+Sutton Benck
+
+Deuel
+18:08.5
+Yr: 12 • +4pts
+5
+GM
+Gavin Mattson
+
+Deuel
+18:19.5
+Yr: 11 • +5pts
+6
+TH
+Tyson Hagberg
+
+Deuel
+18:33.3
+Yr: 12 • +6pts
+7
+
+Brett Hansen
+
+Sisseton
+18:40.4
+Yr: 11 • +7pts
+8
+BW
+Ben Weigel
+
+Aberdeen Roncalli
+18:56.3
+Yr: 7 • +8pts
+9
+
+Franco Flores
+
+Milbank
+19:11.6
+Yr: 11 • +9pts
+10
+EZ
+Ethan Zemlicka
+
+Clark/Willow Lake
+19:11.9
+Yr: 10 • +10pts
+11
+CH
+Coen Halvorson
+
+Webster Area
+19:18.3
+Yr: 8 • +11pts
+12
+
+Noah Estwick
+
+Sisseton
+19:21.9
+Yr: 11 • +12pts
+13
+DK
+Dominic Kluckman
+
+Deuel
+19:22.7
+Yr: 12 • +13pts
+14
+EH
+Evan Hansen
+
+Aberdeen Roncalli
+19:23.9
+PB • Yr: 10 • +14pts
+15
+
+Riley Shellenberger
+
+Groton Area
+19:36.7
+Yr: 10 • +15pts
+16
+
+Blake Hansen
+
+Aberdeen Roncalli
+19:41.6
+PB • Yr: 10 • +16pts
+17
+BB
+Beckham Berry
+
+Milbank
+19:43.6
+Yr: 12 • +17pts
+18
+JO
+Joseph O'Brien
+
+Britton-Hecla
+19:44.6
+Yr: 10
+19
+HB
+Hudson Bragg
+
+Sisseton
+19:51.3
+Yr: 9 • +18pts
+20
+
+Cole Feickert
+
+Aberdeen Roncalli
+19:53.5
+Yr: 10 • +19pts
+21
+MP
+Malachi Peterson
+
+Deuel
+20:04.5
+Yr: 8 • +20pts
+22
+AG
+Aksel Gjerde
+
+Clark/Willow Lake
+20:07.9
+Yr: 10 • +21pts
+23
+LD
+Luke Donnell
+
+Sisseton
+20:16.1
+PB • Yr: 9 • +22pts
+24
+BK
+Ben Keller
+
+Aberdeen Roncalli
+20:19.7
+Yr: 9 • +23pts
+25
+
+Everett Groos
+
+Sisseton
+20:26.8
+PB • Yr: 8 • +24pts
+26
+AB
+Aiden Bowers
+
+Clark/Willow Lake
+20:44.8
+PB • Yr: 10 • +25pts
+27
+RW
+Rylan Wendland
+
+Milbank
+20:46.3
+Yr: 11 • +26pts
+28
+
+Finn Gilmore
+
+Milbank
+20:55.0
+Yr: 7 • +27pts
+29
+HS
+Hardin Stickland
+
+Sisseton
+20:57.4
+Yr: 7
+30
+MU
+Matthew Unzen
+
+Milbank
+20:57.9
+Yr: 9 • +28pts
+31
+GH
+Gray Holden
+
+Deuel
+21:07.9
+Yr: 10
+32
+LB
+Logan Borns
+
+Clark/Willow Lake
+21:18.7
+Yr: 8 • +29pts
+33
+EG
+Ethan Gonsor
+
+Aberdeen Roncalli
+21:21.3
+Yr: 11 • +30pts
+34
+GW
+Grady Wagner
+
+Webster Area
+21:29.4
+Yr: 12 • +31pts
+35
+KB
+Kellin Boik
+
+Webster Area
+21:36.6
+Yr: 10 • +32pts
+36
+CB
+Coop Birrittier
+
+Clark/Willow Lake
+21:44.6
+Yr: 9 • +33pts
+37
+CH
+Carter Hansen
+
+Redfield
+21:45.9
+PB • Yr: 7
+38
+MZ
+Malachi Zastrow
+
+Redfield
+22:03.9
+PB • Yr: 8
+39
+CB
+Charles Beving
+
+Clark/Willow Lake
+22:07.8
+Yr: 8 • +34pts
+40
+CL
+Calvin Locken
+
+Groton Area
+22:09.8
+PB • Yr: 7 • +35pts
+41
+LM
+Leo Madsen
+
+Aberdeen Roncalli
+22:13.5
+Yr: 10
+42
+AG
+Alec Garrett
+
+Webster Area
+22:17.0
+Yr: 12 • +36pts
+43
+HS
+Hunter Sinner
+
+Webster Area
+22:32.0
+Yr: 9 • +37pts
+44
+CG
+Cooper Gregerson
+
+Webster Area
+22:45.4
+SB • Yr: 9 • +38pts
+45
+AL
+Ace Lesnar
+
+Webster Area
+22:49.8
+Yr: 10
+46
+G(
+Grayden (Grady) Zeck
+
+Groton Area
+22:52.9
+Yr: 8 • +39pts
+47
+WF
+Waylon Fitzgerald
+
+Clark/Willow Lake
+22:56.4
+PB • Yr: 9
+48
+TJ
+Tate Johnson
+
+Groton Area
+22:56.8
+Yr: 10 • +40pts
+49
+
+James Schulz
+
+Webster Area
+23:07.5
+PB • Yr: 10
+50
+
+Aidyn Cyrus
+
+Webster Area
+23:12.8
+Yr: 11
+51
+GL
+Gabriel Lovato
+
+Sisseton
+23:52.8
+Yr: 10
+52
+BG
+Brody Graves
+
+Clark/Willow Lake
+24:00.9
+PB • Yr: 9
+53
+TG
+Torger Gjerde
+
+Clark/Willow Lake
+24:04.5
+PB • Yr: 7
+54
+EE
+Easton Ermer
+
+Webster Area
+24:14.1
+PB • Yr: 8
+55
+CA
+Colter Adams
+
+Sisseton
+24:43.1
+Yr: 9
+56
+LC
+Logan Clocksene
+
+Groton Area
+31:21.5
+Yr: 12 • +41pts
