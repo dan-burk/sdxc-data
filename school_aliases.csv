@@ -1,6 +1,7 @@
 raw_school,school,note
 ACDC,Andes Central/Dakota Christian,
 Andes Cen/Dak Ch,Andes Central/Dakota Christian,
+Bison ms,Bison,varsity runners labeled ms at faith 2024
 BHCA,Black Hills Christian Academy,
 Black Hills,Black Hills Christian Academy,same runners as BHCA
 Black Hills CA,Black Hills Christian Academy,
@@ -19,13 +20,16 @@ Dupree MS,Dupree,varsity runners labeled MS at gettysburg_pre
 Elkton-Lake,Elkton-Lake Benton,
 Faulkton,Faulkton Area,
 Frederick,Frederick Area,
+Leola/Frederick Area,Frederick Area,"same runners as Frederick Area in 2023 and 2025; co-op name used in 2024"
 Freeman Acad,Freeman Academy/Marion,defunct co-op; list in that year's schools.csv
 Freeman Acad/Mar,Freeman Academy/Marion,defunct co-op
+Freeman Academy/Marion - CLOSED,Freeman Academy/Marion,same runners as Freeman Academy/Marion (2024)
 Potter County,Gettysburg,former name of Gettysburg
 Potter county,Gettysburg,
 Great Plains,Great Plains Lutheran,
 Great Plains Lut,Great Plains Lutheran,
 Groton,Groton Area,
+Herreid-Selby Area,Herreid/Selby Area,
 Herreid/Selby,Herreid/Selby Area,
 Highmore,Highmore-Harrold,
 Highmore MS,Highmore-Harrold,varsity runner labeled MS at bowdle
@@ -38,19 +42,25 @@ JVC,James Valley Christian,
 Kadoka,Kadoka Area,
 Kimball White Lake,Kimball/White Lake,
 Little WOund,Little Wound,
+Lower Brule ms,Lower Brule,varsity runner labeled ms at miller 2024
 Red Cloud,Mahpiya Luta,
 McCook,McCook Central/Montrose,
 McCook Centr,McCook Central/Montrose,
 McCook Central/Mont,McCook Central/Montrose,
 McCook-Central,McCook Central/Montrose,
 Wilmot,Milbank,
+Miller Area,Miller,same runners as Miller (faulkton 2024)
+Mobridge - Pollock,Mobridge-Pollock,
 Mount Vernon,Mount Vernon/Plankinton,
 Mount Vernon/Pla,Mount Vernon/Plankinton,
+Mt. Vernon/Plankinton,Mount Vernon/Plankinton,
 Edmunds Central,North Central,
+Eureka,North Central,same runners as North Central (faulkton 2024)
 Eureka-Bowdle,North Central,
 North,North Central,same runners as North Central
 Oldham-Ramon,Oldham-Ramona-Rutland,
 Oldham-Ramona,Oldham-Ramona-Rutland,
+Parker,Parker/Marion,"same runners as Parker/Marion (2024 freeman_flyer); Parker alone before the co-op"
 Pierre,Pierre T.F. Riggs,
 Rapid City C,Rapid City Christian,
 RC Christian,Rapid City Christian,
@@ -79,6 +89,7 @@ Sunshine Bible A,Sunshine Bible Academy,
 Tripp-Delmont/Ar,Tripp-Delmont/Armour,
 Webster,Webster Area,
 Winner,Winner/Colome,
+Wolsey Wessington,Wolsey-Wessington,
 31-Unattached,DROP,not a school
 Premier Running Club,DROP,not a school
 Removed,DROP,not a school
@@ -100,6 +111,7 @@ Bishop Heelan Catholic Sioux City,OUT,
 Bismarck,OUT,
 Boone,OUT,
 Border West,OUT,
+Bowman County,OUT,ND at Spearfish
 Boyd County,OUT,
 Breckenridge,OUT,
 Breckenridge/Wahpeton,OUT,
@@ -110,6 +122,7 @@ Central Minn,OUT,
 Century,OUT,
 Clear Lake,OUT,
 Cotter/Hope,OUT,
+Creighton,OUT,Creighton NE at Bon Homme
 Creighton Pr,OUT,
 Creighton Preparatory,OUT,Omaha NE
 Creighton Preparatory School,OUT,
@@ -131,6 +144,7 @@ Grand Forks Central,OUT,
 Grand Island,OUT,
 Grant,OUT,
 Grant County/Flasher,OUT,ND
+Hartington-Newcastle,OUT,NE at Bon Homme
 Hay Springs,OUT,
 Hettinger-Scranton,OUT,
 Hillsboro/Ce,OUT,
@@ -142,9 +156,11 @@ Iowa Falls-Alden,OUT,
 Jamestown,OUT,
 Kelly Walsh,OUT,
 Kindred,OUT,
+KP-WC-RV,OUT,MN at Augie
 Lac qui Parl,OUT,
 Lac qui Parle,OUT,
 Lac qui Parle Valley/Dawson-Boyd,OUT,
+Lakeview,OUT,MN at Augie
 Laramie,OUT,
 Lawton-Bronson,OUT,
 Le Mars,OUT,Iowa
@@ -215,6 +231,7 @@ Spirit Lake,OUT,
 St Stephens Indian,OUT,
 St. Cloud Tech,OUT,
 St. Edmond Fort Dodge,OUT,
+St. Michael-Albertville,OUT,MN at Augie
 Standing Rock,OUT,
 Standing Rock Rock,OUT,
 Stuart,OUT,

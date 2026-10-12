@@ -1,0 +1,532 @@
+1
+HG
+Hannah Genrich
+
+Harrisburg
+17:25.1
+Yr: 8 • +1pts
+2
+BR
+Brianna Reilly
+
+Harrisburg
+17:25.2
+Yr: 7 • +2pts
+3
+
+Ella Boekelheide
+
+Northwestern
+17:54.2
+Yr: 11
+4
+
+Emery Larson
+
+Pierre T.F. Riggs
+18:22.6
+Yr: 11 • +3pts
+5
+
+Sarah VanDeBerg
+
+Brandon Valley
+18:30.2
+Yr: 12 • +4pts
+6
+AR
+Addison Reilly
+
+Harrisburg
+18:36.1
+Yr: 9 • +5pts
+7
+GM
+Grace McElroy
+
+Watertown
+18:50.0
+Yr: 8 • +6pts
+8
+AG
+Autumn Gilhooly
+
+Harrisburg
+18:59.7
+Yr: 8 • +7pts
+9
+
+Addison Scholten
+
+Brandon Valley
+19:05.4
+Yr: 11 • +8pts
+10
+
+Emma Tidemann
+
+Brandon Valley
+19:06.6
+Yr: 8 • +9pts
+11
+LR
+Lilian Rude
+
+Brandon Valley
+19:27.2
+Yr: 11 • +10pts
+12
+HW
+Halle Watson
+
+O'Gorman
+19:39.4
+Yr: 8 • +11pts
+13
+SM
+Sheridan Madden
+
+Rapid City Central
+19:42.4
+SB • Yr: 10 • +12pts
+14
+
+Juna Ramey
+
+Aberdeen Central
+19:46.5
+Yr: 11 • +13pts
+15
+AN
+Allie Novstrup
+
+Aberdeen Central
+19:53.6
+Yr: 8 • +14pts
+16
+EC
+Emily Curran
+
+Brandon Valley
+19:59.4
+Yr: 8 • +15pts
+17
+
+Olivia Anderson
+
+Watertown
+19:59.6
+Yr: 9 • +16pts
+18
+JG
+Jenna Gilhooly
+
+Harrisburg
+20:01.9
+Yr: 12 • +17pts
+19
+LS
+Londyn Schroeder
+
+Mitchell
+20:05.9
+Yr: 10
+20
+SB
+Shelby Bergan
+
+Brandon Valley
+20:08.3
+Yr: 10 • +18pts
+21
+HS
+Harper Shaffer
+
+Pierre T.F. Riggs
+20:09.9
+Yr: 9 • +19pts
+22
+HH
+Hazel Hillman
+
+O'Gorman
+20:10.9
+SB • Yr: 8 • +20pts
+23
+LT
+Lia Tiangco
+
+O'Gorman
+20:13.6
+SB • Yr: 9 • +21pts
+24
+EA
+Ellie Anders
+
+Brandon Valley
+20:13.6
+Yr: 8 • +22pts
+25
+
+Charlee Williams-Smith
+
+Pierre T.F. Riggs
+20:13.8
+Yr: 11 • +23pts
+26
+AG
+Alice Gundvaldson
+
+O'Gorman
+20:14.1
+SB • Yr: 9 • +24pts
+27
+GR
+Gwen Richter
+
+Pierre T.F. Riggs
+20:19.5
+Yr: 11 • +25pts
+28
+KM
+Kate McElroy
+
+Watertown
+20:24.9
+Yr: 10 • +26pts
+29
+VK
+Verity Kocmick
+
+Harrisburg
+20:28.1
+Yr: 10 • +27pts
+30
+
+Izzy Fischer
+
+Rapid City Central
+20:29.3
+SB • Yr: 10 • +28pts
+31
+TB
+Tara Blachford
+
+Northwestern
+20:29.7
+Yr: 10
+32
+CC
+Cecilia Christian
+
+O'Gorman
+20:30.0
+SB • Yr: 12 • +29pts
+33
+
+Adalynn Fischer
+
+Rapid City Central
+20:30.5
+SB • Yr: 10 • +30pts
+34
+KH
+Kylee Hanley
+
+Aberdeen Central
+20:38.9
+Yr: 8 • +31pts
+35
+KF
+Kalla Foerster
+
+Brookings
+20:43.1
+Yr: 9 • +32pts
+36
+
+Mason Berg
+
+Pierre T.F. Riggs
+20:45.0
+Yr: 12 • +33pts
+37
+SG
+Sarah Gilhooly
+
+Harrisburg
+20:53.2
+Yr: 10 • +34pts
+38
+
+Kiana Plahn
+
+Harrisburg
+21:03.0
+Yr: 11
+39
+MM
+Maisie Mogard
+
+Brookings
+21:05.7
+Yr: 9 • +35pts
+40
+
+Hadley Temple
+
+Rapid City Central
+21:10.0
+Yr: 10 • +36pts
+41
+JN
+Josie Nold
+
+Brookings
+21:13.2
+Yr: 12 • +37pts
+42
+NP
+Nora Pester
+
+Huron
+21:19.9
+SB • Yr: 10
+43
+
+Allison Brenner
+
+Aberdeen Central
+21:22.4
+Yr: 10 • +38pts
+44
+ET
+Ellaina Temple
+
+Rapid City Central
+21:26.9
+Yr: 7 • +39pts
+45
+KC
+Khloe Cochran
+
+Aberdeen Central
+21:27.8
+Yr: 10 • +40pts
+46
+JL
+Jayne Lees
+
+Pierre T.F. Riggs
+21:30.1
+Yr: 10 • +41pts
+47
+EN
+Evie Novstrup
+
+Aberdeen Central
+21:40.4
+Yr: 8 • +42pts
+48
+SH
+Savannah Hadorn
+
+Rapid City Central
+21:41.8
+Yr: 9 • +43pts
+49
+IR
+Iris Ramey
+
+Aberdeen Central
+21:41.9
+Yr: 8 • +44pts
+50
+LB
+Lola Barrett
+
+Watertown
+21:43.9
+Yr: 12 • +45pts
+51
+JW
+Jayda Westling
+
+Rapid City Central
+21:47.8
+SB • Yr: 9 • +46pts
+52
+JV
+Josie Vlieger
+
+Huron
+21:52.6
+Yr: 11
+53
+IV
+Isabella Vrbka
+
+Aberdeen Central
+21:53.4
+Yr: 11
+54
+GL
+Grace List
+
+Watertown
+21:55.2
+Yr: 10 • +47pts
+55
+QU
+Quinn Ulvestad
+
+Brookings
+22:00.9
+Yr: 10 • +48pts
+56
+KH
+Kendra Hoffmann
+
+Harrisburg
+22:01.5
+Yr: 12
+57
+LS
+Lily Swanson
+
+Huron
+22:05.4
+Yr: 9
+58
+MW
+Macey Wigg
+
+Sioux Falls Jefferson
+22:05.5
+SB • Yr: 11
+59
+PB
+Perla Barrett
+
+Watertown
+22:22.3
+PB • Yr: 11 • +49pts
+60
+IO
+Isabel Overby
+
+Brookings
+22:25.3
+SB • Yr: 10 • +50pts
+61
+MB
+Morgan Becker
+
+Brandon Valley
+22:45.8
+SB • Yr: 12
+62
+
+Alexis (Lucy) Daley
+
+Mitchell
+22:48.1
+Yr: 11
+63
+SR
+Scout Rosendahl
+
+Aberdeen Central
+22:48.8
+PB • Yr: 9
+64
+AH
+Aubrey Hadorn
+
+Rapid City Central
+22:57.5
+Yr: 9
+65
+JJ
+Jayda Jensen
+
+Watertown
+23:09.9
+Yr: 9 • +51pts
+66
+HS
+Hannah Schoenfelder
+
+Huron
+23:12.5
+Yr: 12
+67
+LK
+Lula Karst
+
+Aberdeen Central
+23:16.8
+PB • Yr: 8
+68
+LF
+Lilly Flood
+
+Aberdeen Central
+23:24.1
+PB • Yr: 10
+69
+LB
+Leila Barrett
+
+Watertown
+23:28.0
+PB • Yr: 9
+70
+
+Liana Wise
+
+Brandon Valley
+23:35.1
+Yr: 11
+71
+AB
+Allyson Bauer
+
+Pierre T.F. Riggs
+23:49.3
+Yr: 10 • +52pts
+72
+ER
+Elizabeth Rieffenberger
+
+Watertown
+24:05.6
+SB • Yr: 12
+73
+AG
+Averi Gerfen
+
+Mitchell
+24:06.5
+Yr: 10
+74
+IH
+Isabella Horning
+
+Watertown
+24:34.2
+Yr: 12
+75
+CN
+Colby Niehoff
+
+Mitchell
+25:40.6
+Yr: 10
+76
+KC
+Kendall Clayton
+
+Brandon Valley
+27:19.4
+Yr: 10

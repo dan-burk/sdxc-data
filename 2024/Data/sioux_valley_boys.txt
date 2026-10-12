@@ -1,0 +1,413 @@
+1
+JR
+Jonathon Roth
+
+West Central
+17:13.0
+Yr: 12 • +1pts
+2
+
+Dylan Gerdes
+
+Madison
+17:16.7
+Yr: 11 • +2pts
+3
+PT
+Peyton Tetzlaff
+
+West Central
+17:20.9
+Yr: 10 • +3pts
+4
+CW
+Carson Wosje
+
+Sioux Valley
+17:39.2
+Yr: 11 • +4pts
+5
+
+Carter Siemonsma
+
+Garretson
+17:53.8
+Yr: 10 • +5pts
+6
+
+Kyler Marson
+
+Estelline/Hendricks
+18:01.6
+Yr: 9 • +6pts
+7
+CH
+Caden Hourigan
+
+Deuel
+18:11.4
+Yr: 10 • +7pts
+8
+TH
+Tyson Hagberg
+
+Deuel
+18:16.2
+Yr: 10 • +8pts
+9
+SB
+Sutton Benck
+
+Deuel
+18:31.7
+Yr: 10 • +9pts
+10
+KH
+Kyper Hilger
+
+West Central
+18:38.0
+Yr: 11 • +10pts
+11
+ZN
+Zach Nielsen
+
+West Central
+18:43.0
+Yr: 10 • +11pts
+12
+AR
+Amos Rockman
+
+Flandreau Indian
+18:58.9
+Yr: 12
+13
+BW
+Brenton Westberry
+
+Flandreau
+19:10.8
+Yr: 12 • +12pts
+14
+LK
+Logan Kontz
+
+Flandreau
+19:15.5
+Yr: 9 • +13pts
+15
+NH
+Nathaniel Hobbie
+
+Flandreau
+19:20.9
+SB • Yr: 10 • +14pts
+16
+HM
+Henry Meyer
+
+Madison
+19:24.2
+Yr: 12 • +15pts
+17
+LA
+Levi Axtell
+
+Sioux Valley
+19:26.2
+Yr: 9 • +16pts
+18
+PM
+Parker Menning
+
+West Central
+19:31.3
+Yr: 12 • +17pts
+19
+TS
+Tyrus Schulz
+
+Sioux Valley
+19:32.4
+Yr: 10 • +18pts
+20
+
+Daniel Aldridge
+
+Madison
+19:34.3
+Yr: 11 • +19pts
+21
+SS
+Sam Schmidt
+
+Flandreau
+19:39.1
+Yr: 10 • +20pts
+22
+BM
+Bret Milton
+
+Sioux Valley
+19:40.9
+Yr: 11 • +21pts
+23
+DH
+Daniel Hobbie
+
+Flandreau
+19:49.2
+Yr: 12 • +22pts
+24
+WK
+Wyatt Kontz
+
+Flandreau
+19:51.6
+Yr: 11 • +23pts
+25
+TB
+Teague Bergjord
+
+Flandreau
+19:52.1
+Yr: 11
+26
+DK
+Dominic Kluckman
+
+Deuel
+19:52.8
+Yr: 10 • +24pts
+27
+GM
+Gavin Mattson
+
+Deuel
+19:53.1
+Yr: 9 • +25pts
+28
+DV
+Dubhlainn Vermeulen
+
+Sioux Valley
+19:53.8
+Yr: 11 • +26pts
+29
+KT
+Kai Thomsen
+
+Madison
+20:01.8
+Yr: 11 • +27pts
+30
+KJ
+Kenton James
+
+Flandreau
+20:03.7
+Yr: 10
+31
+CH
+Cade Hexem
+
+Estelline/Hendricks
+20:05.9
+Yr: 10 • +28pts
+32
+NH
+Nathan Hasleton
+
+Madison
+20:08.0
+Yr: 12 • +29pts
+33
+LN
+Lydell Nash
+
+Flandreau Indian
+20:08.9
+Yr: 10
+34
+TH
+Trevor Harms
+
+Madison
+20:19.3
+PB • Yr: 12 • +30pts
+35
+MB
+Mason Brushbreaker
+
+Flandreau
+20:19.5
+SB • Yr: 11
+36
+CR
+Caleb Ronne
+
+Deuel
+20:22.6
+Yr: 12 • +31pts
+37
+SD
+Sebastian Deyoung
+
+Garretson
+20:29.8
+Yr: 11 • +32pts
+38
+
+Ethan McGregor
+
+Garretson
+20:35.8
+SB • Yr: 10 • +33pts
+39
+NS
+Noah Schotzko
+
+Garretson
+20:37.2
+Yr: 12 • +34pts
+40
+BK
+Benjamin Kulm
+
+Flandreau
+20:42.7
+Yr: 12
+41
+JV
+Jase Voss
+
+Webster Area
+20:52.2
+Yr: 9 • +35pts
+42
+WH
+Will Hovde
+
+Clark/Willow Lake
+20:52.6
+Yr: 11 • +36pts
+43
+CS
+Carter Sapp
+
+Sioux Valley
+20:54.5
+Yr: 10 • +37pts
+44
+NL
+Noah Love
+
+Deuel
+20:57.7
+Yr: 9
+45
+AP
+Ayden Peterson
+
+Clark/Willow Lake
+20:58.1
+Yr: 8 • +38pts
+46
+GW
+Grady Wagner
+
+Webster Area
+21:05.6
+Yr: 10 • +39pts
+47
+GW
+Genio White Hawk
+
+Flandreau Indian
+21:08.0
+Yr: 12
+48
+OM
+Oliver Meyer
+
+Madison
+21:35.8
+Yr: 10
+49
+AR
+Alex Reil
+
+Clark/Willow Lake
+21:38.3
+Yr: 12 • +40pts
+50
+AG
+Alec Garrett
+
+Webster Area
+21:44.6
+Yr: 10 • +41pts
+51
+RS
+Rylan Skorczewski
+
+Estelline/Hendricks
+22:01.1
+Yr: 10 • +42pts
+52
+AG
+Aksel Gjerde
+
+Clark/Willow Lake
+22:37.0
+Yr: 8 • +43pts
+53
+JL
+James Lesher
+
+Estelline/Hendricks
+23:32.0
+Yr: 11 • +44pts
+54
+OR
+Oliver Reitz
+
+Clark/Willow Lake
+23:33.6
+Yr: 11 • +45pts
+55
+JN
+Jaxon Nimmer
+
+Webster Area
+23:47.7
+Yr: 11 • +46pts
+56
+LS
+Logan Seefeldt
+
+Clark/Willow Lake
+24:03.8
+Yr: 11 • +47pts
+57
+JP
+Justin Ponce
+
+Webster Area
+24:10.1
+Yr: 12 • +48pts
+58
+BM
+Blaise McGregor
+
+Webster Area
+24:54.4
+Yr: 12 • +49pts
+59
+WO
+Waylan Olson
+
+Clark/Willow Lake
+25:56.4
+SB • Yr: 12

@@ -1,0 +1,455 @@
+1
+JB
+Jack Brown
+
+Dakota Valley
+16:11.2
+Yr: 12 • +1pts
+2
+
+Jackson Prins
+
+Sioux Falls Christian
+16:35.3
+Yr: 12 • +2pts
+3
+GB
+Gage Beverly
+
+Vermillion
+16:39.8
+Yr: 9 • +3pts
+4
+PT
+Peyton Tetzlaff
+
+West Central
+16:49.6
+Yr: 10 • +4pts
+5
+LV
+Levi Vander Leest
+
+Sioux Falls Christian
+16:53.1
+Yr: 10 • +5pts
+6
+JF
+Josh Fletcher
+
+Sioux Falls Christian
+16:55.9
+Yr: 12 • +6pts
+7
+
+Simon Roelofs
+
+Sioux Falls Christian
+17:02.5
+Yr: 11 • +7pts
+8
+JG
+Jamison Gould
+
+Dakota Valley
+17:07.3
+Yr: 9 • +8pts
+9
+
+Dylan Gerdes
+
+Madison
+17:16.1
+Yr: 11 • +9pts
+10
+
+Isaac Koole
+
+Sioux Falls Christian
+17:16.6
+SB • Yr: 11 • +10pts
+11
+MH
+Maverick Horst
+
+Lennox
+17:19.2
+Yr: 12 • +11pts
+12
+HM
+Hunter Morse
+
+Vermillion
+17:21.1
+Yr: 11 • +12pts
+13
+JR
+Jonathon Roth
+
+West Central
+17:31.5
+Yr: 12 • +13pts
+14
+
+Mason Marx
+
+Elk Point-Jefferson
+17:36.3
+Yr: 11 • +14pts
+15
+CM
+Cloy McVey
+
+Lennox
+17:40.6
+Yr: 11 • +15pts
+16
+
+Noah Sayler
+
+Lennox
+17:46.8
+Yr: 12 • +16pts
+17
+CB
+Cole Brown
+
+Dakota Valley
+17:55.1
+Yr: 9 • +17pts
+18
+ZN
+Zach Nielsen
+
+West Central
+17:57.9
+Yr: 10 • +18pts
+19
+LS
+Landon Strasser
+
+Lennox
+17:59.1
+Yr: 8 • +19pts
+20
+CJ
+Chett Jibben
+
+Lennox
+18:00.7
+Yr: 12 • +20pts
+21
+WL
+Wesley Lyon
+
+Sioux Falls Christian
+18:01.4
+Yr: 9 • +21pts
+22
+
+Sam VanRaalte
+
+Sioux Falls Christian
+18:08.2
+Yr: 9
+23
+AH
+Alex Heinemann
+
+Dell Rapids
+18:09.1
+Yr: 10
+24
+
+Geoff Nelson
+
+Dakota Valley
+18:09.2
+Yr: 10 • +22pts
+25
+KH
+Kyper Hilger
+
+West Central
+18:19.3
+Yr: 11 • +23pts
+26
+JP
+Jacob Peterson
+
+West Central
+18:28.1
+Yr: 12 • +24pts
+27
+
+Cade Sherard
+
+Lennox
+18:30.5
+Yr: 12 • +25pts
+28
+SS
+Sam Sorensen
+
+Vermillion
+18:36.6
+Yr: 8 • +26pts
+29
+KF
+Keaton Fopma
+
+Sioux Falls Christian
+18:42.0
+Yr: 8
+30
+EG
+Eli Gullickson
+
+Dell Rapids
+18:52.1
+Yr: 9
+31
+IB
+Isaak Booker
+
+Lennox
+18:55.7
+Yr: 9
+32
+TG
+Teagin Gacke
+
+Tri-Valley
+18:56.3
+SB • Yr: 12 • +27pts
+33
+FO
+Frankie Orr
+
+Vermillion
+19:00.2
+Yr: 12 • +28pts
+34
+LA
+Leo Aesoph
+
+Lennox
+19:02.5
+Yr: 9
+35
+
+Kade Hruby
+
+West Central
+19:16.5
+Yr: 12 • +29pts
+36
+
+Jaxton Rinehart
+
+Tri-Valley
+19:19.6
+Yr: 9 • +30pts
+37
+KT
+Kai Thomsen
+
+Madison
+19:21.4
+SB • Yr: 11 • +31pts
+38
+HM
+Henry Meyer
+
+Madison
+19:22.1
+Yr: 12 • +32pts
+39
+
+Daniel Aldridge
+
+Madison
+19:22.1
+SB • Yr: 11 • +33pts
+40
+BP
+Ben Prouty
+
+Elk Point-Jefferson
+19:59.9
+Yr: 11 • +34pts
+41
+NH
+Nathan Hasleton
+
+Madison
+20:05.4
+Yr: 12 • +35pts
+42
+ZB
+Zach Bartels
+
+Canton
+20:06.2
+Yr: 12 • +36pts
+43
+QK
+Quincy Kurtz
+
+Madison
+20:10.3
+PB • Yr: 11 • +37pts
+44
+BJ
+Bennett Jensen
+
+Dakota Valley
+20:10.5
+Yr: 11 • +38pts
+45
+SK
+Sean King
+
+Tri-Valley
+20:11.1
+SB • Yr: 8 • +39pts
+46
+IK
+Isaiah Kendig
+
+Tri-Valley
+20:15.1
+PB • Yr: 9 • +40pts
+47
+JB
+Jeremy Bockelman
+
+Canton
+20:20.1
+Yr: 8 • +41pts
+48
+WS
+Will Schnabel
+
+Dakota Valley
+20:21.3
+Yr: 11 • +42pts
+49
+
+Alex Opland
+
+Canton
+20:23.2
+Yr: 10 • +43pts
+50
+IT
+Isaac Tudor
+
+Dell Rapids
+20:23.7
+Yr: 12
+51
+HF
+Hunter Fincher
+
+Canton
+20:24.1
+Yr: 9 • +44pts
+52
+JL
+Jack LaFerrier
+
+Elk Point-Jefferson
+20:33.4
+Yr: 8 • +45pts
+53
+CH
+Cedric Horst
+
+Canton
+20:39.7
+Yr: 10 • +46pts
+54
+OM
+Oliver Meyer
+
+Madison
+20:57.2
+Yr: 10
+55
+GM
+Gavin Ma
+
+Vermillion
+21:00.3
+Yr: 10 • +47pts
+56
+BF
+Beckett Fennel
+
+Elk Point-Jefferson
+21:04.0
+Yr: 9 • +48pts
+57
+RR
+Rylan Richardson
+
+Canton
+21:06.7
+Yr: 10 • +49pts
+58
+AC
+Austin Clercx
+
+Elk Point-Jefferson
+21:30.8
+Yr: 11 • +50pts
+59
+DF
+Dean Fleming
+
+Vermillion
+21:34.4
+Yr: 10 • +51pts
+60
+SM
+Sean May
+
+Vermillion
+21:36.3
+Yr: 10
+61
+CD
+Cael Derochie
+
+Elk Point-Jefferson
+22:09.6
+Yr: 9 • +52pts
+62
+VE
+Vincent Even
+
+Tri-Valley
+22:29.0
+Yr: 9 • +53pts
+63
+JD
+Jasher Dixon
+
+Canton
+23:17.2
+Yr: 9
+64
+TW
+Theo Wittmuss
+
+Vermillion
+23:26.5
+Yr: 12
+65
+TL
+Tobin Lamer
+
+Tri-Valley
+26:23.2
+Yr: 10 • +54pts

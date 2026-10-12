@@ -1,258 +1,45 @@
-1
 
-Ella Boekelheide
-
-Northwestern
-Yr: 11
-2
-AE
-Abigail Engelland
-
-Mount Vernon/Plankinton
-Yr: 10
-3
-
-Madeline Nye
-
-Miller
-Yr: 12 • +1pts
-4
-TB
-Tara Blachford
-
-Northwestern
-Yr: 10
-5
-
-Autumn Fallis
-
-Highmore-Harrold
-Yr: 11
-6
-
-Madisyn Gellhaus
-
-Ipswich
-Yr: 11
-7
-DK
-Dannika Kaup
-
-Gettysburg
-Yr: 11 • +2pts
-8
-AC
-Addison Cassady
-
-Aberdeen Roncalli
-Yr: 9
-9
-KU
-Kendal Uttecht
-
-Wolsey-Wessington
-Yr: 11 • +3pts
-10
-HK
-Hazel Kannegieter
-
-Aberdeen Roncalli
-Yr: 9
-11
-RH
-Reese Hadrick
-
-Faulkton Area
-Yr: 12
-12
-AR
-Alexis Roesler
-
-Wessington Springs
-Yr: 10 • +4pts
-13
-JS
-Jaycee Stevens
-
-Gettysburg
-Yr: 8 • +5pts
-14
-ES
-Emma Schlachter
-
-Gettysburg
-Yr: 11 • +6pts
-15
-JH
-Jentry Hubner
-
-Herreid/Selby Area
-Yr: 10 • +7pts
-16
-FH
-Faith Heil
-
-Mobridge-Pollock
-Yr: 11 • +8pts
-17
-RR
-Rhyann Roseland
-
-Faulkton Area
-Yr: 8
-18
-GW
-Gabby Werdel
-
-Miller
-Yr: 11 • +9pts
-19
-GR
-Grace Roth
-
-North Central
-Yr: 10 • +10pts
-20
-
-Katie Bretsch
-
-Leola/Frederick Area
-Yr: 10
-21
-PA
-Paige Ahlemeier
-
-Gettysburg
-Yr: 9 • +11pts
-22
-AI
-Addy Ihnen
-
-Hitchcock-Tulare
-Yr: 8
-23
-TH
-Tylene Hawk Bear
-
-Wakpala
-Yr: 12
-24
-RK
-Rue Knudson
-
-Mobridge-Pollock
-Yr: 7 • +12pts
-25
-BH
-Brynnly Huber
-
-Herreid/Selby Area
-Yr: 8 • +13pts
-26
-EP
-Ella Perman
-
-Herreid/Selby Area
-Yr: 8 • +14pts
-27
-GK
-Gracyn Kadlec
-
-Ipswich
-Yr: 11
-28
-
-Anniah Russell
-
-Herreid/Selby Area
-Yr: 7 • +15pts
-29
-MF
-Mya Flemming 2
-
-Wolsey-Wessington
-Yr: 7 • +16pts
-30
-JK
-Jaylynn Knox
-
-Highmore-Harrold
-Yr: 10
-31
-MD
-Melanie Dallenbach
-
-North Central
-Yr: 10 • +17pts
-32
-QH
-Quinn Hurd
-
-Miller
-Yr: 7 • +18pts
-33
-EK
-Ella Kolousek
-
-Wessington Springs
-Yr: 10 • +19pts
-34
-KA
-Kassandra Abbas
-
-North Central
-Yr: 10 • +20pts
-35
-
-Allie Gortmaker
-
-Miller
-Yr: 10 • +21pts
-36
-MM
-Masynn Mebius
-
-Wessington Springs
-Yr: 11 • +22pts
-37
-
-Mariah Peters
-
-Herreid/Selby Area
-Yr: 8 • +23pts
-38
-BW
-Brystal Wallman
-
-Miller
-Yr: 7 • +24pts
-39
-BB
-Brooke Bain
-
-Mobridge-Pollock
-Yr: 10 • +25pts
-40
-MW
-Myli Weischedel
-
-Sully Buttes
-Yr: 12
-41
-BY
-Bailey Yost
-
-Wessington Springs
-Yr: 12 • +26pts
-42
-SR
-Shayla Rath
-
-Mobridge-Pollock
-Yr: 10 • +27pts
-43
-AH
-Alex Hiles
-
-Wolsey-Wessington
-Yr: 12 • +28pts
+PLACE ATHLETE TEAM MARK PTS
+1 Ella Boekelheide JR Northwestern 19:07.38
+2 Abigail Engelland SO Mt. Vernon/Plankinton High School 21:08.19
+3 Madeline Nye 8 Miller Area High School 21:11.21 1
+4 Tara Blachford SO Northwestern 21:31.50
+5 Autumn Fallis JR Highmore-Harrold High School 21:41.12
+6 Madisyn Gellhaus JR Ipswich High School 21:55.03
+7 Dannika Kaup JR Potter County 22:01.25
+8 Addison Cassidy FR Aberdeen Roncalli High School 22:04.37
+9 Kendal Uttecht JR Wolsey Wessington High School 22:07.16
+10 Hazel Kannegieter FR Aberdeen Roncalli High School 22:18.16
+11 Reese Hadrick SR Faulkton Area High School 22:43.06
+12 Alexis Roesler SO Wessington Springs High School 23:03.09
+13 Jaycee Stevens 8 Potter County 23:04.09
+14 Emma Schlachter JR Potter County 23:07.12
+15 Jentry Hubner SO Herreid-Selby Area High School 23:17.09 2
+16 Faith Heil JR Mobridge - Pollock 23:23.19
+17 Rhyann Roseland 8 Faulkton Area High School 23:24.19
+18 Gabby Werdel JR Miller Area High School 23:26.47 3
+19 Grace Roth SO Eureka High School 23:34.05
+20 Katie Bretsch SO Frederick High School 23:54.05
+21 Paige Ahlemeier FR Potter County 24:04.28
+22 Addy Ihnen 8 Hitchcock-Tulare High School 24:33.09
+23 Tylene Hawk Bear SR Wakpala High School 24:39.37
+24 Rue Knudson 7 Mobridge - Pollock 24:44.09
+25 Brynnly Huber 8 Herreid-Selby Area High School 25:09.12 4
+26 Ella Perman 8 Herreid-Selby Area High School 25:17.25 5
+27 Gracyn Kadlec JR Ipswich High School 25:19.03
+28 Anniah Russell 7 Herreid-Selby Area High School 25:40.28 6
+29 Mya Flemming 7 Wolsey Wessington High School 25:43.05
+30 Jaylynn Knox SO Highmore-Harrold High School 25:56.31
+31 Melanie Dallenbach SO Eureka High School 26:06.35
+32 Quinn Hurd 7 Miller Area High School 26:09.22 7
+33 Ella Kolousek SO Wessington Springs High School 26:12.28
+34 Kassandra Abbas SO Eureka High School 26:42.19
+35 Allie Gortmaker SO Miller Area High School 26:51.41 8
+36 Masynn Mebius JR Wessington Springs High School 27:21.06
+37 Mariah Peters 8 Herreid-Selby Area High School 27:29.22 9
+38 Brystal Wallman 7 Miller Area High School 27:53.25 10
+39 Brooke Bain SO Mobridge - Pollock 28:28.28
+40 Myli Weischedel JR Sully Buttes High School 29:32.34
+41 Bailey Yost SR Wessington Springs High School 29:40.47
+42 Shayla Rath SO Mobridge - Pollock 29:54.56
+43 Alex Hiles SR Wolsey Wessington High School 30:36.56

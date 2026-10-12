@@ -1,0 +1,406 @@
+1
+LK
+Lance Kaufman
+
+Arlington
+18:08.5
+Yr: 12 • +1pts • Q
+2
+EH
+Ethan Hartung
+
+McCrossan
+18:24.3
+Yr: 12 • +2pts • Q
+3
+AR
+Amos Rockman
+
+Flandreau Indian
+18:40.3
+Yr: 12 • +3pts • Q
+4
+WP
+Will Pirak
+
+Gayville-Volin
+18:47.4
+SB • Yr: 12 • +4pts • Q
+5
+BF
+Ben Ferdig
+
+Viborg-Hurley
+18:50.7
+SB • Yr: 10 • +5pts • Q
+6
+GW
+Genio White Hawk
+
+Flandreau Indian
+18:53.7
+SB • Yr: 12 • +6pts • Q
+7
+MH
+Matthew Heinemann
+
+St. Mary's
+18:54.6
+SB • Yr: 10 • +7pts • Q
+8
+PD
+Philip Dibley
+
+Gayville-Volin
+18:55.1
+SB • Yr: 10 • +8pts • Q
+9
+
+Cooper Libis
+
+St. Mary's
+18:56.3
+SB • Yr: 7 • +9pts • Q
+10
+GM
+Gram Messler
+
+Gayville-Volin
+18:56.7
+SB • Yr: 7 • +10pts • Q
+11
+CS
+Caden Schwader
+
+Howard
+18:59.2
+Yr: 11 • +11pts • Q
+12
+ON
+Owen Niederbaumer
+
+Viborg-Hurley
+19:01.9
+PB • Yr: 12 • +12pts • Q
+13
+IH
+Isaac Haich
+
+Irene-Wakonda
+19:03.0
+Yr: 9 • +13pts • Q
+14
+CL
+Carter Leibeg
+
+Chester
+19:03.6
+SB • Yr: 10 • Q
+15
+JB
+Jordan Botkin
+
+De Smet
+19:04.2
+PB • Yr: 10 • +14pts • Q
+16
+CT
+Camden Tebay
+
+St. Mary's
+19:04.3
+SB • Yr: 9 • +15pts • Q
+17
+CS
+Caleb Schroeder
+
+Canistota
+19:04.9
+SB • Yr: 9 • +16pts • Q
+18
+SH
+Shaw Howard
+
+Flandreau Indian
+19:08.2
+SB • Yr: 10 • +17pts • Q
+19
+DK
+Dorian Kaufman
+
+Arlington
+19:12.4
+Yr: 10 • +18pts • Q
+20
+KL
+Karsten Lerwick
+
+Arlington
+19:14.6
+Yr: 9 • +19pts • Q
+21
+
+Jordan Stockland
+
+Irene-Wakonda
+19:39.7
+Yr: 10 • +20pts
+22
+JP
+JaDon Packard-Antelope
+
+McCrossan
+19:39.8
+Yr: 10 • +21pts
+23
+KO
+Kaden Oleson
+
+McCrossan
+19:48.4
+Yr: 12 • +22pts
+24
+
+Noah Baumbach
+
+Sioux Falls Lutheran
+19:51.7
+Yr: 8
+25
+CT
+Chase Temme
+
+De Smet
+20:01.4
+Yr: 11 • +23pts
+26
+LN
+Lydell Nash
+
+Flandreau Indian
+20:09.0
+Yr: 10 • +24pts • Q
+27
+WS
+Wyatt Slack
+
+Viborg-Hurley
+20:20.5
+PB • Yr: 9 • +25pts
+28
+GD
+Gabe Dammer
+
+McCrossan
+20:23.0
+SB • Yr: 12 • +26pts
+29
+WB
+Wyatt Brown
+
+Centerville
+20:27.1
+SB • Yr: 12 • +27pts
+30
+CC
+Case Carlson
+
+Iroquois/Lake Preston
+20:29.5
+Yr: 8
+31
+ZA
+Zayd Anderson
+
+Oldham-Ramona-Rutland
+20:35.9
+Yr: 12
+32
+LG
+Levi Gaul
+
+St. Mary's
+20:40.2
+Yr: 12 • +28pts • Q
+33
+DD
+Dontae Davis
+
+Flandreau Indian
+20:45.0
+Yr: 9 • +29pts • Q
+34
+OA
+Owen Anderson
+
+De Smet
+20:45.2
+SB • Yr: 10 • +30pts
+35
+JB
+Jase Brouwer
+
+Centerville
+21:23.4
+Yr: 12 • +31pts
+36
+GA
+Gabriel Aughenbaugh
+
+De Smet
+21:25.8
+SB • Yr: 10 • +32pts
+37
+PB
+Phoenix Beardsley
+
+McCrossan
+21:45.2
+Yr: 8 • +33pts
+38
+GW
+Garet Wicks
+
+Oldham-Ramona-Rutland
+21:46.0
+Yr: 12
+39
+MS
+Michael Smith
+
+Arlington
+21:50.5
+SB • Yr: 7 • +34pts
+40
+SA
+Spencer Antonen
+
+Arlington
+21:54.3
+Yr: 8 • +35pts
+41
+IM
+Isaac Marohl
+
+Centerville
+21:56.6
+Yr: 12 • +36pts
+42
+JH
+Jacob Hiser
+
+Gayville-Volin
+22:03.1
+PB • Yr: 10 • +37pts • Q
+43
+
+Josiah Newell
+
+Sioux Falls Lutheran
+22:31.0
+Yr: 7
+44
+ES
+Elijah Stake
+
+Centerville
+22:43.7
+SB • Yr: 7 • +38pts
+45
+TK
+Thor Korthals
+
+Alcester-Hudson
+22:53.9
+SB • Yr: 12 • +39pts
+46
+CM
+Carter Muller
+
+Centerville
+22:56.5
+Yr: 7 • +40pts
+47
+
+Izzac Sommervold
+
+Alcester-Hudson
+22:56.8
+PB • Yr: 10 • +41pts
+48
+EV
+Elijah Voorhees
+
+Canistota
+23:16.2
+SB • Yr: 7 • +42pts
+49
+JP
+Jaxon Puetz
+
+Canistota
+23:27.5
+Yr: 9 • +43pts
+50
+LD
+Levi Driesen
+
+Alcester-Hudson
+23:33.3
+PB • Yr: 8 • +44pts
+51
+JL
+Jayco Lewis
+
+Alcester-Hudson
+23:36.2
+PB • Yr: 8 • +45pts
+52
+HW
+Hunter Woods
+
+Irene-Wakonda
+23:54.4
+SB • Yr: 7 • +46pts
+53
+TE
+Tristen Esser
+
+Canistota
+24:16.9
+Yr: 9 • +47pts
+54
+RB
+Rowan Brok
+
+Howard
+25:38.0
+SB • Yr: 11 • +48pts
+55
+MC
+Malachi Church
+
+Canistota
+25:38.6
+Yr: 9 • +49pts
+56
+NL
+Noah Luethmers
+
+De Smet
+27:59.3
+Yr: 10 • +50pts
+57
+TE
+Truett Ellendorf
+
+Howard
+28:56.9
+SB • Yr: 7 • +51pts
+58
+SB
+Seth Boysen
+
+Irene-Wakonda
+31:14.3
+PB • Yr: 9 • +52pts

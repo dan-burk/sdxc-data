@@ -1,0 +1,574 @@
+1
+
+Ty Petrocco
+
+Sturgis Brown
+16:00.5
+Yr: 12
+2
+WB
+Wyatt Balliew
+
+Douglas
+16:24.0
+Yr: 10
+3
+
+Yadriel Munoz
+
+Rapid City Central
+16:42.3
+Yr: 12
+4
+QB
+Quinn Bruch
+
+Sturgis Brown
+16:51.2
+Yr: 11
+5
+EE
+Eric Errea
+
+Rapid City Central
+16:54.6
+Yr: 10
+6
+TF
+Ty Ferguson
+
+Sturgis Brown
+16:55.4
+SB • Yr: 12
+7
+AH
+Aidan Hermsen
+
+Rapid City Central
+17:07.4
+Yr: 11
+8
+RV
+Rylan VanDeest
+
+Spearfish
+17:07.5
+SB • Yr: 8
+9
+CT
+Carter Thompson
+
+Spearfish
+17:11.7
+SB • Yr: 9
+10
+MG
+Mason Gill
+
+Spearfish
+17:13.2
+SB • Yr: 9
+11
+TC
+Taylor Colunga
+
+Sturgis Brown
+17:24.4
+SB • Yr: 11
+12
+JU
+Joshua Uhre
+
+Rapid City Stevens
+17:29.3
+Yr: 11
+13
+
+Tristan Swezey
+
+Rapid City Central
+17:30.7
+Yr: 12
+14
+JC
+Jack Carpenter
+
+Rapid City Stevens
+17:30.9
+PB • Yr: 10
+15
+
+Tarin Hutchinson
+
+Rapid City Central
+17:38.2
+Yr: 12
+16
+LH
+Linkin Huiras
+
+Sturgis Brown
+17:39.0
+PB • Yr: 10
+17
+
+Gavin Chiaroni
+
+Douglas
+17:45.5
+SB • Yr: 10
+18
+JP
+James Palecek
+
+Rapid City Central
+17:46.3
+PB • Yr: 11
+19
+SS
+Samuel Sheehy
+
+Rapid City Central
+17:51.3
+Yr: 11
+20
+BO
+Bennie Olsen
+
+Douglas
+17:52.3
+Yr: 10
+21
+JP
+Joshua Piper
+
+Rapid City Stevens
+17:53.6
+PB • Yr: 11
+22
+DW
+Dominic Wurdeman
+
+Rapid City Stevens
+17:54.8
+SB • Yr: 10
+23
+AR
+Atticus Robinson
+
+Rapid City Stevens
+17:55.3
+PB • Yr: 10
+24
+
+Kale Fenner
+
+Sturgis Brown
+17:56.2
+SB • Yr: 11
+25
+HT
+Hayden Timmerman
+
+Rapid City Central
+17:57.5
+SB • Yr: 12
+26
+MK
+Miles Kornegay
+
+Sturgis Brown
+18:00.3
+SB • Yr: 10
+27
+JF
+Jack Faulkner
+
+Spearfish
+18:02.8
+PB • Yr: 12
+28
+SI
+Shaedon Isler
+
+Rapid City Central
+18:03.4
+Yr: 11
+29
+
+John Achter
+
+Rapid City Stevens
+18:04.2
+Yr: 12
+30
+JH
+Jaxon Hanson
+
+Rapid City Stevens
+18:06.4
+SB • Yr: 10
+31
+SH
+Sean Hare
+
+Rapid City Central
+18:07.4
+PB • Yr: 12
+32
+CD
+Cash Daigle
+
+Sturgis Brown
+18:08.4
+Yr: 12
+33
+CT
+Cody Two Bulls
+
+Rapid City Central
+18:10.4
+SB • Yr: 11
+34
+LU
+Laken Uttecht
+
+Rapid City Central
+18:21.6
+Yr: 11
+35
+LV
+Landin Vidas
+
+Rapid City Stevens
+18:23.2
+Yr: 11
+36
+
+Mylan McDaniel
+
+Rapid City Central
+18:27.1
+SB • Yr: 9
+37
+
+Oden Kleinschmidt
+
+Rapid City Stevens
+18:27.7
+SB • Yr: 10
+38
+GF
+Gavin Friend
+
+Rapid City Stevens
+18:28.1
+SB • Yr: 10
+39
+JS
+Jayce Sandford
+
+Spearfish
+18:45.5
+PB • Yr: 12
+40
+WA
+Weston Adams
+
+Rapid City Stevens
+18:47.6
+SB • Yr: 9
+41
+KP
+Kyler Pietzyk
+
+Spearfish
+18:55.8
+SB • Yr: 11
+42
+BP
+Brady Peck
+
+Rapid City Stevens
+19:01.3
+PB • Yr: 11
+43
+IC
+Ian Cho
+
+Spearfish
+19:02.4
+Yr: 9
+44
+
+Teegan Grosz
+
+Rapid City Central
+19:19.3
+Yr: 9
+45
+
+Darian Anderson
+
+Rapid City Central
+19:20.5
+PB • Yr: 11
+46
+QM
+Quentin Miller
+
+Douglas
+19:22.9
+Yr: 10
+47
+CM
+Carson McDowell
+
+Rapid City Stevens
+19:26.0
+SB • Yr: 9
+48
+NK
+Noah Ketel
+
+Rapid City Stevens
+19:28.6
+SB • Yr: 10
+49
+TG
+Tanner Gottlob
+
+Spearfish
+19:31.2
+SB • Yr: 9
+50
+PK
+Peyton Kallstrom
+
+Douglas
+19:33.2
+SB • Yr: 10
+51
+BB
+Bloom Brown
+
+Spearfish
+19:33.6
+SB • Yr: 9
+52
+
+Peter Brett
+
+Rapid City Central
+19:39.8
+Yr: 9
+53
+DC
+Drew Chavez
+
+Rapid City Central
+19:41.0
+SB • Yr: 9
+54
+MF
+Matthew Fox
+
+Rapid City Central
+19:43.4
+PB • Yr: 11
+55
+QA
+Quinn Aschwege
+
+Rapid City Central
+19:45.0
+SB • Yr: 10
+56
+
+Samuel Biberdorf
+
+Douglas
+19:47.0
+SB • Yr: 12
+57
+SB
+Sam Baker
+
+Rapid City Stevens
+19:49.2
+SB • Yr: 9
+58
+CT
+Charles Torres
+
+Rapid City Central
+19:51.1
+SB • Yr: 11
+59
+AB
+Ayden Berndt
+
+Rapid City Central
+19:53.5
+SB • Yr: 9
+60
+CD
+Corbin Dodson
+
+Sturgis Brown
+20:02.6
+SB • Yr: 9
+61
+AA
+Alexander Albrecht
+
+Spearfish
+20:09.2
+PB • Yr: 10
+62
+
+Espn Magelky
+
+Rapid City Central
+20:23.0
+SB • Yr: 9
+63
+SW
+Sam Wyatt
+
+Rapid City Stevens
+20:36.9
+PB • Yr: 9
+64
+MA
+Michael Aberle
+
+Spearfish
+20:38.6
+SB • Yr: 9
+65
+
+Gabe Welch
+
+Douglas
+20:52.0
+SB • Yr: 11
+66
+
+Isaac Cristol
+
+Rapid City Stevens
+21:17.7
+Yr: 9
+67
+JH
+Justus Hartley
+
+Rapid City Stevens
+21:22.0
+SB • Yr: 10
+68
+CS
+Connor Stuck
+
+Rapid City Central
+21:25.1
+SB • Yr: 11
+69
+JF
+John Foster
+
+Rapid City Central
+21:27.2
+SB • Yr: 9
+70
+DB
+Daniel Borland
+
+Rapid City Central
+21:34.6
+SB • Yr: 8
+71
+SG
+Sean Gatzke
+
+Douglas
+21:50.1
+SB • Yr: 10
+72
+JB
+Jonah Bifulco
+
+Rapid City Central
+22:00.0
+PB • Yr: 9
+73
+JH
+Jackson Hare
+
+Rapid City Central
+22:19.9
+SB • Yr: 9
+74
+AP
+Andrew Peterson
+
+Douglas
+22:30.7
+SB • Yr: 10
+75
+RM
+Rory Murphy
+
+Rapid City Central
+22:48.1
+PB • Yr: 8
+76
+LE
+Lenzy Eagle Feather
+
+Rapid City Central
+22:53.4
+PB • Yr: 8
+77
+LA
+Logan Amaral
+
+Douglas
+23:11.5
+Yr: 11
+78
+JD
+Joshua Divis
+
+Douglas
+23:43.1
+SB • Yr: 11
+79
+AS
+Alric Snider
+
+Douglas
+25:12.8
+Yr: 12
+80
+AJ
+Antonio Jackson
+
+Douglas
+25:30.4
+Yr: 9
+81
+AS
+Alex Swenby
+
+Douglas
+28:24.8
+SB • Yr: 12
+82
+MR
+Mason Red Leaf
+
+Rapid City Central
+28:40.7
+Yr: 11

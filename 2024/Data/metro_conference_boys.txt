@@ -1,0 +1,399 @@
+1
+CR
+Cole Reilly
+
+Sioux Falls Washington
+15:46.0
+Yr: 10
+2
+
+Joseph Levesque
+
+Sioux Falls Lincoln
+15:47.6
+Yr: 12
+3
+
+Mikah Peters
+
+Brandon Valley
+15:54.0
+Yr: 11
+4
+TN
+Tyrus Needles
+
+Sioux Falls Lincoln
+15:57.5
+Yr: 10
+5
+
+Aemil Nelsen
+
+Sioux Falls Lincoln
+16:11.1
+Yr: 12
+6
+BM
+Blake Maas
+
+Sioux Falls Roosevelt
+16:15.3
+Yr: 11
+7
+AS
+Asher Selness
+
+Brandon Valley
+16:32.6
+Yr: 9
+8
+NT
+Nathan Thompson
+
+Sioux Falls Lincoln
+16:33.0
+Yr: 12
+9
+JW
+Jack Wagoner
+
+Sioux Falls Jefferson
+16:37.3
+Yr: 12
+10
+ML
+Miles Lechtenberg
+
+Sioux Falls Lincoln
+16:38.4
+Yr: 11
+11
+AN
+Arvid Nelsen
+
+Sioux Falls Lincoln
+16:43.8
+Yr: 11
+12
+
+Ben Parsons
+
+Sioux Falls Washington
+16:48.4
+Yr: 10
+13
+
+Easton Klatt
+
+Harrisburg
+16:51.5
+Yr: 12
+14
+RG
+Reid Groher
+
+Sioux Falls Lincoln
+16:52.7
+Yr: 10
+15
+GM
+Griffin Miller
+
+Sioux Falls Washington
+16:53.0
+Yr: 10
+16
+
+Marcus Fleming
+
+Sioux Falls Roosevelt
+17:04.1
+Yr: 12
+17
+EM
+Evan Mahrous
+
+O'Gorman
+17:07.2
+Yr: 12
+18
+HA
+Hena Abreham
+
+Sioux Falls Washington
+17:12.4
+Yr: 9
+19
+NR
+Nayati Ringing Shield
+
+Sioux Falls Lincoln
+17:13.3
+SB • Yr: 11
+20
+JB
+Jackson Boltjes
+
+Sioux Falls Washington
+17:22.2
+Yr: 10
+21
+EK
+Ethan Kyte
+
+Brandon Valley
+17:23.3
+Yr: 9
+22
+CS
+Cole Schellpfeffer
+
+Sioux Falls Lincoln
+17:28.3
+Yr: 12
+23
+EH
+Everett Herrboldt
+
+Sioux Falls Lincoln
+17:28.3
+Yr: 10
+24
+EW
+Ethan Weber
+
+Sioux Falls Roosevelt
+17:33.5
+Yr: 12
+25
+GC
+Greyson Cauwels
+
+Harrisburg
+17:33.6
+Yr: 11
+26
+KS
+Kellar Sjomeling
+
+Sioux Falls Jefferson
+17:33.8
+Yr: 12
+27
+LB
+Lance Bodeen
+
+Harrisburg
+17:36.0
+Yr: 11
+28
+SM
+Samuel Mischke
+
+Brandon Valley
+17:36.9
+Yr: 8
+29
+EM
+Elias Michailidis
+
+Brandon Valley
+17:42.2
+Yr: 11
+30
+NA
+Nathan Arens
+
+Sioux Falls Roosevelt
+17:42.5
+Yr: 12
+31
+AD
+Austin Dittmer
+
+Sioux Falls Roosevelt
+17:44.1
+Yr: 9
+32
+
+Alex Quinn
+
+Sioux Falls Roosevelt
+17:47.5
+Yr: 10
+33
+TK
+Trevor Knox
+
+Sioux Falls Roosevelt
+17:47.7
+SB • Yr: 11
+34
+
+Griffin Smith
+
+Harrisburg
+17:54.1
+Yr: 11
+35
+JS
+Jackson Schema
+
+O'Gorman
+17:54.8
+Yr: 10
+36
+AS
+Andrew Sanchez
+
+Sioux Falls Roosevelt
+17:55.1
+Yr: 12
+37
+LD
+Landon Doyle
+
+Sioux Falls Washington
+17:58.6
+Yr: 10
+38
+WS
+Will Sorenson
+
+O'Gorman
+17:59.9
+Yr: 11
+39
+CC
+Carson Coulter
+
+Sioux Falls Washington
+18:03.4
+Yr: 10
+40
+BS
+Blake Schierholz
+
+Harrisburg
+18:03.8
+Yr: 9
+41
+EW
+Eli Woidyla
+
+Brandon Valley
+18:08.9
+Yr: 11
+42
+
+Marcus Munsch
+
+Brandon Valley
+18:21.2
+Yr: 10
+43
+
+TJ Martin
+
+O'Gorman
+18:23.8
+PB • Yr: 12
+44
+AJ
+Aiden Johnson
+
+Sioux Falls Washington
+18:27.9
+Yr: 10
+45
+RH
+Ryan Heldenbrand
+
+O'Gorman
+18:28.8
+Yr: 9
+46
+HS
+Henry Smith
+
+O'Gorman
+18:30.1
+Yr: 9
+47
+
+Jaylen Palmer
+
+Sioux Falls Jefferson
+18:36.9
+SB • Yr: 12
+48
+IS
+Isaac Spahr
+
+Brandon Valley
+18:37.8
+Yr: 10
+49
+BO
+Brooks Ordway
+
+Harrisburg
+18:47.2
+Yr: 10
+50
+ND
+Nicholas Deschepper
+
+Harrisburg
+18:49.2
+Yr: 12
+51
+RM
+Ryley McKeown
+
+Brandon Valley
+18:57.4
+Yr: 11
+52
+GO
+Gideon Okken
+
+Harrisburg
+18:57.8
+Yr: 9
+53
+HA
+Howie Anderson
+
+O'Gorman
+19:00.9
+Yr: 9
+54
+TJ
+Taden Jacobs
+
+Harrisburg
+19:05.1
+Yr: 9
+55
+BW
+Bradley Walden
+
+Brandon Valley
+19:14.2
+Yr: 10
+56
+TC
+Tate Carlson
+
+Sioux Falls Jefferson
+19:35.6
+SB • Yr: 11
+57
+GG
+Gavin Greenfield
+
+O'Gorman
+20:43.3
+Yr: 9

@@ -1,392 +1,301 @@
 1
-
-Dylan Gerdes
-
-Madison
-17:29.9
-Yr: 11 • +1pts
-2
-
-Hunter Penn
-
-Beresford
-17:50.8
-Yr: 11 • +2pts
-3
-
-Carter Siemonsma
-
-Garretson
-18:02.9
-Yr: 10
-4
-NT
-Nate Timm
-
-Elkton-Lake Benton
-18:31.3
-Yr: 12
-5
-AH
-Alex Heinemann
+RT
+Rorie Thoreson
 
 Dell Rapids
-18:47.5
-Yr: 10
-6
-
-Nilson VanHulzen
-
-SW MN Christian / Edgerton
-18:48.5
-Yr: 12 • +3pts
-7
-
-Jaxton Rinehart
-
-Tri-Valley
-18:57.0
-Yr: 9 • +4pts
-8
-
-Espyn Klungseth
-
-Beresford
-19:10.7
-Yr: 12 • +5pts
-9
-JU
-Jordan Uilk
-
-SW MN Christian / Edgerton
-19:36.1
-Yr: 12 • +6pts
-10
-SH
-Shaw Howard
-
-Flandreau Indian
-19:36.8
-Yr: 10 • +7pts
-11
-TG
-Teagin Gacke
-
-Tri-Valley
-19:49.8
-Yr: 12 • +8pts
-12
-
-Daniel Aldridge
-
-Madison
-19:53.3
-Yr: 11 • +9pts
-13
-AR
-Amos Rockman
-
-Flandreau Indian
-19:53.7
-Yr: 12 • +10pts
-14
-WK
-Wyatt Kontz
-
-Flandreau
-19:54.2
-Yr: 11 • +11pts
-15
-LK
-Lance Kaufman
-
-Arlington
-20:01.0
-Yr: 12 • +12pts
-16
-NH
-Noah Halvorson
-
-Beresford
-20:01.9
-Yr: 9 • +13pts
-17
-OM
-Oliver Merriman
-
-Beresford
-20:03.2
-Yr: 9 • +14pts
-18
-SS
-Sam Schmidt
-
-Flandreau
-20:04.5
-Yr: 10 • +15pts
-19
-
-Cooper Libis
-
-St. Mary's
-20:06.5
-Yr: 7
-20
-CH
-Caleb Hansen
-
-Beresford
-20:07.0
-Yr: 9 • +16pts
-21
-NH
-Nathan Hasleton
-
-Madison
-20:11.0
-Yr: 12 • +17pts
-22
-FD
-Franklin Donis Castillo
-
-Flandreau
-20:11.3
-Yr: 11 • +18pts
-23
-SD
-Sebastian Deyoung
-
-Garretson
-20:13.0
-Yr: 11
-24
-KT
-Kai Thomsen
-
-Madison
-20:13.0
-Yr: 11 • +19pts
-25
-HH
-Henry Huether
-
-Beresford
-20:15.8
-Yr: 9 • +20pts
-26
-HM
-Henry Meyer
-
-Madison
-20:21.4
-Yr: 12 • +21pts
-27
-LN
-Lydell Nash
-
-Flandreau Indian
-20:22.1
-Yr: 10 • +22pts
-28
-TH
-Trevor Harms
-
-Madison
-20:25.4
-Yr: 12 • +23pts
-29
-EG
-Eli Gullickson
-
-Dell Rapids
-20:27.5
+20:13.6
 Yr: 9
-30
-GW
-Genio White Hawk
-
-Flandreau Indian
-20:35.9
-Yr: 12 • +24pts
-31
-BK
-Benjamin Kulm
-
-Flandreau
-20:39.1
-Yr: 12 • +25pts
-32
-KJ
-Kenton James
-
-Flandreau
-20:43.3
-Yr: 10 • +26pts
-33
-TB
-Teague Bergjord
-
-Flandreau
-20:52.2
-Yr: 11 • +27pts
-34
-MH
-Matthew Heinemann
-
-St. Mary's
-21:01.2
-Yr: 10
-35
-DK
-Dorian Kaufman
+2
+MM
+Madalyn Madsen
 
 Arlington
-21:04.6
-Yr: 10 • +28pts
-36
-JW
-Jack Wilde
+21:57.6
+Yr: 10 • +1pts
+3
+LV
+Liz Vogel
+
+St. Mary's
+22:22.4
+Yr: 9 • +2pts
+4
+CW
+Cami Wolles
+
+St. Mary's
+22:28.9
+Yr: 11 • +3pts
+5
+
+Kaelyn Ulschmid
+
+Arlington
+22:32.6
+Yr: 11 • +4pts
+6
+EM
+Ella Merriman
+
+Beresford
+22:39.7
+Yr: 11
+7
+JH
+Josie Hamilton
+
+Flandreau
+22:39.9
+Yr: 12 • +5pts
+8
+EV
+Emarie Vincent
+
+Arlington
+22:41.4
+Yr: 9 • +6pts
+9
+SH
+Sadey Holt
 
 Baltic
-21:08.0
-Yr: 12
-37
-MB
-Mason Brushbreaker
+22:43.0
+Yr: 11 • +7pts
+10
+LT
+Lydia Talsma
 
-Flandreau
-21:14.7
+SW MN Christian / Edgerton
+22:45.6
 Yr: 11
-38
-EV
-Eli Van Iperen
-
-SW MN Christian / Edgerton
-21:18.0
-Yr: 12 • +29pts
-39
-QK
-Quincy Kurtz
-
-Madison
-21:20.4
-Yr: 11
-40
-DH
-Daniel Hobbie
-
-Flandreau
-21:20.5
-Yr: 12
-41
-NH
-Nathaniel Hobbie
-
-Flandreau
-21:23.9
-Yr: 10
-42
-OM
-Oliver Meyer
-
-Madison
-21:26.4
-Yr: 10
-43
-RP
-Ryan Pap
-
-SW MN Christian / Edgerton
-21:30.3
-Yr: 10 • +30pts
-44
-IT
-Isaac Tudor
-
-Dell Rapids
-21:31.7
-Yr: 12
-45
-KL
-Karsten Lerwick
-
-Arlington
-21:31.8
-Yr: 9 • +31pts
-46
-MA
-Marcus Aasheim
-
-Beresford
-21:39.1
-Yr: 10
-47
-IK
-Isaiah Kendig
-
-Tri-Valley
-21:49.7
-Yr: 9 • +32pts
-48
-TP
-Tyler Pap
-
-SW MN Christian / Edgerton
-21:49.8
-Yr: 8 • +33pts
-49
-JV
-Josimar Van Hulzen
-
-SW MN Christian / Edgerton
-21:56.2
-PB • Yr: 8 • +34pts
-50
-CS
-Caleb Schroeder
-
-Canistota
-22:07.0
-Yr: 9
-51
-ZA
-Zayd Anderson
-
-Oldham-Ramona-Rutland
-22:27.9
-Yr: 12
-52
-VE
-Vincent Even
-
-Tri-Valley
-22:30.4
-Yr: 9 • +35pts
-53
-NS
-Noah Schotzko
-
-Garretson
-23:43.1
-Yr: 12
-54
-LG
-Levi Gaul
+11
+MR
+Madison Reiff
 
 St. Mary's
-23:45.3
-Yr: 12
-55
-SA
-Spencer Antonen
+22:53.8
+Yr: 12 • +8pts
+12
+EH
+Elizabeth Hockenberry
+
+Baltic
+23:05.6
+Yr: 12 • +9pts
+13
+CW
+Calla Wiese
+
+Flandreau
+23:15.2
+Yr: 7 • +10pts
+14
+HT
+Hailey Tiahrt
+
+Baltic
+23:22.3
+Yr: 11 • +11pts
+15
+MS
+Morgan Sheppard
+
+Flandreau
+23:28.6
+Yr: 9 • +12pts
+16
+HM
+Halley Miller
 
 Arlington
-24:30.6
-Yr: 8 • +36pts
-56
-HS
-Hunter Sargent
+23:29.3
+Yr: 11 • +13pts
+17
+RS
+Rachel Steffensen
+
+Arlington
+23:33.5
+Yr: 11 • +14pts
+18
+LS
+Lou Schladweiler
+
+Madison
+23:50.7
+Yr: 9 • +15pts
+19
+
+Pria Martinell
 
 Tri-Valley
-25:56.1
-Yr: 10 • +37pts
+23:54.3
+Yr: 7 • +16pts
+20
+AK
+Alexis Kehn
+
+Baltic
+23:54.9
+Yr: 8 • +17pts
+21
+GE
+Gabbie Eichmann
+
+Canistota
+24:38.2
+Yr: 9
+22
+EV
+Ellisyn Vincent
+
+Arlington
+24:43.2
+Yr: 12 • +18pts
+23
+
+Seeley VanOverbeke
+
+Arlington
+24:52.5
+Yr: 8
+24
+PD
+Paige Deuter
+
+St. Mary's
+24:55.2
+Yr: 8 • +19pts
+25
+LV
+Lucy Vargas
+
+St. Mary's
+24:59.9
+Yr: 11 • +20pts
+26
+ST
+Samantha Troxell
+
+Madison
+25:03.5
+Yr: 11 • +21pts
+27
+LB
+Lillie Boden
+
+Beresford
+25:11.2
+Yr: 9
+28
+TG
+Tyler Gibson
+
+Tri-Valley
+25:21.5
+Yr: 9 • +22pts
+29
+HL
+Hailey Lahr
+
+Flandreau
+25:36.1
+Yr: 11 • +23pts
+30
+KM
+Kylie Mockler
+
+Beresford
+25:52.8
+Yr: 12
+31
+EH
+Emmy Havlik
+
+Madison
+26:05.8
+Yr: 10 • +24pts
+32
+LM
+Lani Misar
+
+Madison
+26:54.0
+Yr: 10 • +25pts
+33
+KG
+Kashley Goebel
+
+Arlington
+27:16.6
+Yr: 10
+34
+MG
+Melody Gilkerson
+
+Oldham-Ramona-Rutland
+27:30.4
+Yr: 12
+35
+JW
+Jorja Weber
+
+McCook Central/Montrose
+27:32.3
+Yr: 8
+36
+AA
+Anna Alvey
+
+Tri-Valley
+27:40.4
+Yr: 11 • +26pts
+37
+DM
+Devrah Meyer
+
+Madison
+27:54.3
+Yr: 11 • +27pts
+38
+OM
+Olivia Muyskens
+
+SW MN Christian / Edgerton
+28:01.5
+Yr: 12
+39
+CR
+Carly Rickenbaugh
+
+Tri-Valley
+28:10.8
+Yr: 12 • +28pts
+40
+MA
+Maria Addy
+
+Canistota
+28:28.1
+Yr: 11
+41
+
+Isabelle Lee
+
+Colman-Egan
+29:04.6
+Yr: 9
+42
+AA
+Aliza Addy
+
+Canistota
+30:12.5
+Yr: 9
+43
+AM
+Addison Marone
+
+Arlington
+30:25.5
+Yr: 10

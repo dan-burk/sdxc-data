@@ -1,0 +1,868 @@
+1
+BR
+Brianna Reilly
+
+Harrisburg
+17:29.8
+Yr: 7 • +1pts
+2
+HG
+Hannah Genrich
+
+Harrisburg
+17:40.7
+Yr: 8 • +2pts
+3
+
+Libby Castelli
+
+O'Gorman
+18:06.9
+Yr: 12 • +3pts
+4
+
+Peyton VanDeest
+
+Spearfish
+18:30.6
+SB • Yr: 10 • +4pts
+5
+
+Emery Larson
+
+Pierre T.F. Riggs
+18:49.7
+Yr: 11 • +5pts
+6
+AR
+Addison Reilly
+
+Harrisburg
+19:03.2
+Yr: 9 • +6pts
+7
+JB
+Jaycie Babb
+
+Tea Area
+19:14.7
+Yr: 11 • +7pts
+8
+
+Kori Keil
+
+Spearfish
+19:22.0
+Yr: 11 • +8pts
+9
+MK
+Mia Kadi
+
+Sioux Falls Lincoln
+19:25.0
+Yr: 10 • +9pts
+10
+AG
+Autumn Gilhooly
+
+Harrisburg
+19:31.1
+Yr: 8 • +10pts
+11
+GM
+Grace McElroy
+
+Watertown
+19:35.8
+Yr: 8 • +11pts
+12
+
+Addison Scholten
+
+Brandon Valley
+19:39.9
+Yr: 11 • +12pts
+13
+EM
+Emmeline Murray
+
+Sioux Falls Lincoln
+19:46.9
+Yr: 10 • +13pts
+14
+LR
+Lilian Rude
+
+Brandon Valley
+19:47.5
+Yr: 11 • +14pts
+15
+
+Brooklyn Koll
+
+Sioux Falls Roosevelt
+19:49.6
+Yr: 12 • +15pts
+16
+BS
+Brinna Sheldon
+
+Rapid City Stevens
+19:49.9
+Yr: 10 • +16pts
+17
+EC
+Emily Curran
+
+Brandon Valley
+19:54.3
+Yr: 8 • +17pts
+18
+DV
+Devyn Van Roekel
+
+Pierre T.F. Riggs
+19:58.4
+SB • Yr: 9 • +18pts
+19
+MD
+Madie Donovan
+
+Spearfish
+20:02.7
+SB • Yr: 12 • +19pts
+20
+KU
+Kira Ubence
+
+Douglas
+20:02.7
+Yr: 11 • +20pts
+21
+KH
+Kadance Holso
+
+Rapid City Stevens
+20:03.8
+Yr: 11 • +21pts
+22
+
+Juna Ramey
+
+Aberdeen Central
+20:10.2
+Yr: 11 • +22pts
+23
+SM
+Sheridan Madden
+
+Rapid City Central
+20:11.4
+Yr: 10 • +23pts
+24
+
+Olivia Anderson
+
+Watertown
+20:11.8
+Yr: 9 • +24pts
+25
+GR
+Gwen Richter
+
+Pierre T.F. Riggs
+20:14.0
+Yr: 11 • +25pts
+26
+BJ
+Brielle Jenkins
+
+Sioux Falls Lincoln
+20:15.0
+Yr: 9 • +26pts
+27
+
+Emma Tidemann
+
+Brandon Valley
+20:23.2
+Yr: 8 • +27pts
+28
+
+Jayna VanLaecken
+
+Tea Area
+20:23.3
+Yr: 8 • +28pts
+29
+VK
+Verity Kocmick
+
+Harrisburg
+20:30.9
+Yr: 10 • +29pts
+30
+KN
+Kaylor Nekl
+
+Sioux Falls Lincoln
+20:32.0
+Yr: 11 • +30pts
+31
+
+Whitli Adams
+
+Rapid City Stevens
+20:36.1
+Yr: 11 • +31pts
+32
+AN
+Allie Novstrup
+
+Aberdeen Central
+20:44.9
+Yr: 8 • +32pts
+33
+RJ
+Rilyn Jackson
+
+Yankton
+20:47.2
+Yr: 9 • +33pts
+34
+RB
+Ruby Bouwman
+
+Sioux Falls Lincoln
+20:47.7
+Yr: 11 • +34pts
+35
+
+Aurora Evans
+
+Douglas
+20:50.3
+Yr: 8 • +35pts
+36
+LD
+Lauryn Donovan
+
+Spearfish
+20:50.9
+Yr: 7 • +36pts
+37
+EA
+Ellie Anders
+
+Brandon Valley
+20:54.8
+Yr: 8 • +37pts
+38
+EJ
+Elise Johnson
+
+O'Gorman
+20:58.1
+SB • Yr: 8 • +38pts
+39
+KH
+Kylee Hanley
+
+Aberdeen Central
+20:58.7
+Yr: 8 • +39pts
+40
+LS
+Londyn Schroeder
+
+Mitchell
+21:00.3
+Yr: 10
+41
+AJ
+Abby Johanneson
+
+Yankton
+21:00.7
+Yr: 9 • +40pts
+42
+SG
+Sarah Gilhooly
+
+Harrisburg
+21:03.2
+Yr: 10 • +41pts
+43
+AA
+Adison Armstrong
+
+Rapid City Stevens
+21:05.4
+Yr: 11 • +42pts
+44
+DY
+Delaney Youmans
+
+Yankton
+21:06.0
+Yr: 9 • +43pts
+45
+KM
+Kate McElroy
+
+Watertown
+21:07.3
+Yr: 10 • +44pts
+46
+KD
+Keelin Dinkins
+
+Sturgis Brown
+21:08.0
+Yr: 10 • +45pts
+47
+SS
+Sierra Sandford
+
+Spearfish
+21:08.9
+Yr: 10 • +46pts
+48
+HH
+Hazel Hillman
+
+O'Gorman
+21:09.6
+Yr: 8 • +47pts
+49
+LT
+Lia Tiangco
+
+O'Gorman
+21:10.8
+Yr: 9 • +48pts
+50
+AG
+Alice Gundvaldson
+
+O'Gorman
+21:11.0
+Yr: 9 • +49pts
+51
+HS
+Harper Shaffer
+
+Pierre T.F. Riggs
+21:11.1
+Yr: 9 • +50pts
+52
+SB
+Shelby Bergan
+
+Brandon Valley
+21:13.1
+Yr: 10 • +51pts
+53
+
+Charlee Williams-Smith
+
+Pierre T.F. Riggs
+21:13.4
+Yr: 11 • +52pts
+54
+AT
+Auna Taglioli
+
+Spearfish
+21:13.9
+Yr: 10 • +53pts
+55
+IZ
+Iris Zylstra
+
+Sturgis Brown
+21:14.7
+Yr: 11 • +54pts
+56
+GB
+Grace Bialas
+
+Tea Area
+21:15.0
+Yr: 9 • +55pts
+57
+ER
+Elaina Rounds
+
+Pierre T.F. Riggs
+21:16.7
+Yr: 10 • +56pts
+58
+LC
+Logan Castle
+
+Tea Area
+21:18.3
+Yr: 9 • +57pts
+59
+
+Izzy Fischer
+
+Rapid City Central
+21:18.7
+Yr: 10 • +58pts
+60
+TT
+TyLee Tetrault
+
+Spearfish
+21:26.9
+Yr: 9 • +59pts
+61
+ER
+Emilie Reedy
+
+Sturgis Brown
+21:27.1
+Yr: 10 • +60pts
+62
+
+Marissa Bouwman
+
+Sioux Falls Washington
+21:27.4
+Yr: 10 • +61pts
+63
+IR
+Iris Ramey
+
+Aberdeen Central
+21:29.3
+Yr: 8 • +62pts
+64
+VS
+Viona Sietsema
+
+Rapid City Stevens
+21:29.6
+Yr: 10 • +63pts
+65
+ED
+Evelyn DeGeest
+
+Tea Area
+21:37.3
+Yr: 7 • +64pts
+66
+MC
+Madeline Carcamo
+
+Rapid City Stevens
+21:37.6
+Yr: 10 • +65pts
+67
+RO
+Reagan Ostransky
+
+Sioux Falls Lincoln
+21:38.1
+Yr: 10 • +66pts
+68
+MM
+Maisie Mogard
+
+Brookings
+21:38.7
+Yr: 9 • +67pts
+69
+
+Mason Berg
+
+Pierre T.F. Riggs
+21:39.5
+Yr: 12 • +68pts
+70
+EB
+Ella Bartz
+
+Sioux Falls Lincoln
+21:39.5
+Yr: 11 • +69pts
+71
+
+Hadley Temple
+
+Rapid City Central
+21:42.1
+Yr: 10 • +70pts
+72
+
+Adalynn Fischer
+
+Rapid City Central
+21:42.6
+Yr: 10 • +71pts
+73
+AB
+Ansley Buus
+
+Sioux Falls Washington
+21:49.8
+SB • Yr: 10 • +72pts
+74
+
+Sarah VanDeBerg
+
+Brandon Valley
+21:50.4
+Yr: 12 • +73pts
+75
+
+Allison Brenner
+
+Aberdeen Central
+21:53.9
+Yr: 10 • +74pts
+76
+EB
+Emerson Buchholz
+
+Rapid City Stevens
+21:54.0
+SB • Yr: 11 • +75pts
+77
+JV
+Josie Vlieger
+
+Huron
+21:54.6
+Yr: 11 • +76pts
+78
+CC
+Cecilia Christian
+
+O'Gorman
+22:01.0
+Yr: 12 • +77pts
+79
+ET
+Ellaina Temple
+
+Rapid City Central
+22:02.2
+Yr: 7 • +78pts
+80
+AH
+Aubrey Hadorn
+
+Rapid City Central
+22:04.6
+Yr: 9 • +79pts
+81
+TB
+Taylor Boehnke
+
+Tea Area
+22:05.4
+Yr: 8 • +80pts
+82
+PW
+Paige Willnerd
+
+Sturgis Brown
+22:07.4
+Yr: 12 • +81pts
+83
+LH
+Lucy Hamer
+
+Sturgis Brown
+22:08.1
+Yr: 11 • +82pts
+84
+SP
+Sophie Petheram
+
+Yankton
+22:10.2
+SB • Yr: 12 • +83pts
+85
+JN
+Josie Nold
+
+Brookings
+22:12.3
+Yr: 12 • +84pts
+86
+LB
+Lola Barrett
+
+Watertown
+22:18.8
+Yr: 12 • +85pts
+87
+EN
+Evie Novstrup
+
+Aberdeen Central
+22:27.0
+Yr: 8 • +86pts
+88
+SS
+Sophia Schmit
+
+Brookings
+22:30.2
+Yr: 11 • +87pts
+89
+SH
+Savannah Hadorn
+
+Rapid City Central
+22:31.3
+Yr: 9 • +88pts
+90
+AH
+Abby Hilleson
+
+Tea Area
+22:31.9
+Yr: 9 • +89pts
+91
+JG
+Jenna Gilhooly
+
+Harrisburg
+22:32.0
+Yr: 12 • +90pts
+92
+AJ
+Ava Johanneson
+
+Yankton
+22:44.1
+Yr: 12 • +91pts
+93
+MR
+Mary Rounds
+
+Yankton
+22:49.2
+Yr: 9 • +92pts
+94
+BB
+Bergen Bumann
+
+Sioux Falls Washington
+22:54.4
+Yr: 9 • +93pts
+95
+LM
+Lily Meyer
+
+Huron
+23:03.3
+Yr: 10 • +94pts
+96
+KP
+Kahlen Peterson
+
+Yankton
+23:06.0
+Yr: 11 • +95pts
+97
+KC
+Khloe Cochran
+
+Aberdeen Central
+23:06.1
+Yr: 10 • +96pts
+98
+
+Erin Harms
+
+Douglas
+23:07.4
+SB • Yr: 11 • +97pts
+99
+
+Kylie Gosch
+
+Sioux Falls Roosevelt
+23:07.8
+Yr: 11 • +98pts
+100
+PB
+Perla Barrett
+
+Watertown
+23:14.0
+Yr: 11 • +99pts
+101
+SK
+Sofia Kovalenko
+
+Sioux Falls Roosevelt
+23:19.2
+Yr: 12 • +100pts
+102
+
+Alexis (Lucy) Daley
+
+Mitchell
+23:20.0
+Yr: 11
+103
+NP
+Nora Pester
+
+Huron
+23:23.9
+Yr: 10 • +101pts
+104
+SK
+Siri Knutson
+
+Sioux Falls Washington
+23:26.2
+Yr: 10 • +102pts
+105
+MW
+Macey Wigg
+
+Sioux Falls Jefferson
+23:27.4
+Yr: 11
+106
+JJ
+Jordyn Johnson
+
+Brookings
+23:34.6
+Yr: 10 • +103pts
+107
+GD
+Gabrielle DeVries
+
+Sioux Falls Washington
+23:40.6
+Yr: 10 • +104pts
+108
+JJ
+Jayda Jensen
+
+Watertown
+23:41.3
+Yr: 9 • +105pts
+109
+IO
+Isabel Overby
+
+Brookings
+23:49.1
+Yr: 10 • +106pts
+110
+LD
+Lizzy Dahl
+
+Sioux Falls Roosevelt
+23:49.9
+Yr: 12 • +107pts
+111
+ES
+Emily Stahlberg
+
+Sioux Falls Washington
+23:53.8
+Yr: 12 • +108pts
+112
+LS
+Lily Swanson
+
+Huron
+23:57.9
+Yr: 9 • +109pts
+113
+GL
+Grace List
+
+Watertown
+24:00.1
+Yr: 10 • +110pts
+114
+JR
+Josie Reedy
+
+Sturgis Brown
+24:22.8
+Yr: 12 • +111pts
+115
+KK
+Kaelyn Knudson
+
+Douglas
+24:24.1
+Yr: 10 • +112pts
+116
+NK
+Natalie Kahler
+
+Brookings
+24:25.7
+Yr: 10 • +113pts
+117
+JR
+Jay Rios
+
+Douglas
+24:42.0
+Yr: 10 • +114pts
+118
+BD
+Bella Dittmer
+
+Sioux Falls Roosevelt
+24:45.9
+Yr: 10 • +115pts
+119
+LL
+Lainey Loeffler
+
+Douglas
+24:50.0
+SB • Yr: 12 • +116pts
+120
+KS
+Kynlie Smith
+
+Sioux Falls Jefferson
+24:54.1
+Yr: 11
+121
+MY
+Milah Yttreness
+
+Sioux Falls Washington
+25:05.2
+Yr: 9 • +117pts
+122
+AG
+Averi Gerfen
+
+Mitchell
+25:24.4
+Yr: 10
+123
+HS
+Hannah Schoenfelder
+
+Huron
+25:34.2
+Yr: 12 • +118pts
+124
+KC
+Kelly Clauson
+
+Douglas
+26:49.5
+Yr: 12 • +119pts

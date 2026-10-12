@@ -1,252 +1,259 @@
 1
-NT
-Nate Timm
 
-Elkton-Lake Benton
-18:13.0
-Yr: 12
-2
-NE
-Nolan Eidson
-
-Castlewood
-18:25.8
-Yr: 10
-3
-LK
-Lance Kaufman
-
-Arlington
-19:02.6
-Yr: 12 • +1pts
-4
-AR
-Amos Rockman
-
-Flandreau Indian
-19:18.3
-Yr: 12 • +2pts
-5
-SH
-Shaw Howard
-
-Flandreau Indian
-19:29.8
-Yr: 10 • +3pts
-6
-JW
-Jack Wilde
-
-Baltic
-19:34.1
-Yr: 12
-7
-LK
-Logan Kontz
+Faith Wiese
 
 Flandreau
-19:35.6
-Yr: 9 • +4pts
-8
-CS
-Caden Schwader
+19:01.4
+Yr: 11 • +1pts
+2
+
+Kaelyn Ulschmid
+
+Arlington
+21:28.8
+Yr: 11 • +2pts
+3
+CW
+Calla Wiese
+
+Flandreau
+21:55.5
+Yr: 7 • +3pts
+4
+BW
+Briella Wettlaufer
 
 Howard
-19:44.6
-Yr: 11
-9
-MH
-Matthew Heinemann
+22:03.5
+Yr: 12 • +4pts
+5
+MM
+Madalyn Madsen
 
-St. Mary's
-19:44.9
+Arlington
+22:07.5
 Yr: 10 • +5pts
-10
-WK
-Wyatt Kontz
+6
+
+Kiley Westberry
 
 Flandreau
-20:00.4
-Yr: 11 • +6pts
-11
-CT
-Camden Tebay
+22:16.3
+Yr: 10 • +6pts
+7
+LV
+Liz Vogel
 
 St. Mary's
-20:04.9
+22:25.8
 Yr: 9 • +7pts
-12
-GW
-Genio White Hawk
-
-Flandreau Indian
-20:06.1
-Yr: 12 • +8pts
-13
-DK
-Dorian Kaufman
+8
+EV
+Emarie Vincent
 
 Arlington
-20:09.4
-Yr: 10 • +9pts
-14
-DH
-Daniel Hobbie
+22:30.8
+Yr: 9 • +8pts
+9
+JH
+Josie Hamilton
 
 Flandreau
-20:11.1
-Yr: 12 • +10pts
-15
-TB
-Teague Bergjord
+22:36.2
+Yr: 12 • +9pts
+10
+TL
+Tenley LeBrun
 
 Flandreau
-20:25.3
+22:38.3
+Yr: 7 • +10pts
+11
+SH
+Sadey Holt
+
+Baltic
+22:41.7
 Yr: 11 • +11pts
-16
-OU
-Otto Uberty
+12
+MR
+Madison Reiff
 
-McCook Central/Montrose
-20:27.8
-Yr: 11 • +12pts
-17
-FD
-Franklin Donis Castillo
+St. Mary's
+22:47.4
+Yr: 12 • +12pts
+13
+HT
+Hailey Tiahrt
 
-Flandreau
-20:41.7
+Baltic
+23:05.2
 Yr: 11 • +13pts
-18
-KJ
-Kenton James
-
-Flandreau
-20:41.9
-Yr: 10
-19
-KB
-Kaden Burshiem
-
-Flandreau
-20:53.1
-Yr: 11
-20
-BW
-Brenton Westberry
-
-Flandreau
-21:02.2
-Yr: 12
-21
-KL
-Karsten Lerwick
-
-Arlington
-21:06.8
-Yr: 9 • +14pts
-22
-LN
-Lydell Nash
-
-Flandreau Indian
-21:29.7
-Yr: 10 • +15pts
-23
-NL
-Noah Luethmers
+14
+AG
+Adalyn Gross
 
 De Smet
-21:35.9
+23:21.5
 Yr: 10
+15
+HM
+Halley Miller
+
+Arlington
+23:23.4
+Yr: 11 • +14pts
+16
+EH
+Elizabeth Hockenberry
+
+Baltic
+23:28.6
+Yr: 12 • +15pts
+17
+MS
+Morgan Sheppard
+
+Flandreau
+23:28.9
+Yr: 9
+18
+GM
+Gracelyn Miller
+
+Arlington
+23:39.6
+Yr: 7 • +16pts
+19
+CW
+Cami Wolles
+
+St. Mary's
+23:46.0
+Yr: 11 • +17pts
+20
+AK
+Alexis Kehn
+
+Baltic
+23:49.3
+Yr: 8 • +18pts
+21
+
+Seeley VanOverbeke
+
+Arlington
+24:07.6
+Yr: 8
+22
+LV
+Lucy Vargas
+
+St. Mary's
+24:18.8
+Yr: 11 • +19pts
+23
+
+Isabelle Lee
+
+Colman-Egan
+24:36.5
+Yr: 9
 24
-SS
-Sam Schmidt
+EV
+Ellisyn Vincent
 
-Flandreau
-21:46.2
-Yr: 10
+Arlington
+24:41.9
+Yr: 12
 25
-NH
-Nathaniel Hobbie
+PD
+Paige Deuter
+
+St. Mary's
+24:59.6
+Yr: 8 • +20pts
+26
+CV
+Claire Vogel
+
+McCook Central/Montrose
+25:26.7
+Yr: 9
+27
+
+Gemma Luethmers
+
+De Smet
+25:41.0
+Yr: 8
+28
+NM
+Natalie Martian
+
+Howard
+25:47.2
+Yr: 12 • +21pts
+29
+HL
+Hailey Lahr
 
 Flandreau
-21:46.6
-Yr: 10
-26
-ZA
-Zayd Anderson
+26:01.6
+Yr: 11
+30
+ES
+Emerson Siebersma
+
+Arlington
+26:07.6
+Yr: 8
+31
+MG
+Melody Gilkerson
 
 Oldham-Ramona-Rutland
-22:14.7
+26:12.7
 Yr: 12
-27
-LG
-Levi Gaul
-
-St. Mary's
-22:21.2
-Yr: 12 • +16pts
-28
-BK
-Benjamin Kulm
-
-Flandreau
-22:23.8
-Yr: 12
-29
-ND
-Noah Durfee
-
-McCook Central/Montrose
-22:29.1
-Yr: 9 • +17pts
-30
-AK
-Antone Krempges
-
-McCook Central/Montrose
-22:46.0
-Yr: 11 • +18pts
-31
-AH
-Adam Heumiller
-
-McCook Central/Montrose
-23:31.4
-Yr: 9 • +19pts
 32
-SA
-Spencer Antonen
+TW
+Taya Wettlaufer
+
+Howard
+26:41.9
+Yr: 10 • +22pts
+33
+KG
+Kashley Goebel
 
 Arlington
-23:52.2
-Yr: 8 • +20pts
-33
-KJ
-Kaleb Johnson
-
-De Smet
-24:24.1
-Yr: 12
+26:44.9
+Yr: 10
 34
-KB
-Kaleb Bormann
+RU
+Renee Uberty
 
-Deubrook Area
-24:24.4
-Yr: 9
+McCook Central/Montrose
+26:55.7
+Yr: 12
 35
-DP
-David Pickard
+KB
+Kyra Bowne
 
 Deubrook Area
-24:33.1
+28:41.9
 Yr: 10
 36
-
-Grant Clelland
+AM
+Addison Marone
 
 Arlington
-25:11.1
-Yr: 9 • +21pts
+29:10.3
+Yr: 10
+37
+AG
+Ancora Gilkerson
+
+Oldham-Ramona-Rutland
+32:01.9
+Yr: 9

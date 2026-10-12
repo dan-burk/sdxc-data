@@ -1,0 +1,350 @@
+1
+PB
+Pierce Baumberger
+
+Miller
+18:10.0
+Yr: 12 • +1pts • Q
+2
+
+Jayden Taken Alive
+
+Cheyenne-Eagle Butte
+18:30.0
+Yr: 11 • +2pts • Q
+3
+WG
+Walter Graesser
+
+Platte-Geddes
+18:33.0
+Yr: 9 • +3pts • Q
+4
+XS
+Xavier Sanchez-Gonzalez
+
+Cheyenne-Eagle Butte
+18:44.0
+Yr: 10 • +4pts • Q
+5
+HS
+Hudson Schmidt
+
+Mount Vernon/Plankinton
+19:18.0
+Yr: 10 • +5pts • Q
+6
+SS
+Spencer Sargent
+
+Stanley County
+19:30.0
+Yr: 12 • Q
+7
+MP
+Michael Prue
+
+Todd County
+19:34.0
+Yr: 8 • +6pts • Q
+8
+JS
+Justin St. John
+
+Crow Creek
+19:35.0
+Yr: 10 • +7pts • Q
+9
+SB
+Sam Byers
+
+Chamberlain
+19:37.0
+Yr: 12 • +8pts • Q
+10
+IL
+Isaac Leader
+
+Platte-Geddes
+19:39.0
+Yr: 9 • +9pts • Q
+11
+IG
+Isaiah Gortmaker
+
+Miller
+19:39.0
+Yr: 11 • +10pts • Q
+12
+WH
+William Hanzlik
+
+Chamberlain
+19:54.0
+Yr: 12 • +11pts • Q
+13
+ES
+Easton Schuman
+
+Platte-Geddes
+19:59.0
+Yr: 9 • +12pts • Q
+14
+CV
+Carson Vanden Berge
+
+Platte-Geddes
+20:09.0
+Yr: 12 • +13pts • Q
+15
+JS
+Jayden Scott
+
+Cheyenne-Eagle Butte
+20:12.0
+Yr: 9 • +14pts • Q
+16
+
+Demetrius Sanchez-Gonzalez
+
+Cheyenne-Eagle Butte
+20:12.0
+Yr: 9 • +15pts • Q
+17
+LG
+Liam Gill
+
+Chamberlain
+20:14.0
+SB • Yr: 8 • +16pts • Q
+18
+MC
+Matthew Calhoon
+
+Winner
+20:27.0
+Yr: 11 • Q
+19
+
+Thomas Holzer
+
+Mobridge-Pollock
+20:39.0
+Yr: 7 • Q
+20
+CP
+Carter Peppel
+
+Winner
+20:46.0
+Yr: 7 • Q
+21
+JA
+Jacob Allen
+
+Todd County
+20:51.0
+PB • Yr: 9 • +17pts
+22
+ZD
+Ziggy Duffy
+
+Platte-Geddes
+21:00.0
+Yr: 9 • +18pts • Q
+23
+AH
+Aadyn Hosek
+
+Chamberlain
+21:08.0
+Yr: 12 • +19pts • Q
+24
+JV
+Jaymin VanDerWerff
+
+Miller
+21:10.0
+Yr: 10 • +20pts
+25
+DD
+Destin Drapeau
+
+Crow Creek
+21:13.0
+SB • Yr: 9 • +21pts
+26
+KW
+Karter Weber
+
+Mount Vernon/Plankinton
+21:18.0
+Yr: 11 • +22pts
+27
+TW
+Tayven Weber
+
+Mount Vernon/Plankinton
+21:38.0
+Yr: 8 • +23pts
+28
+JT
+Justin Trebbe
+
+Stanley County
+21:45.0
+SB • Yr: 11
+29
+ND
+Nathan DeHaan
+
+Platte-Geddes
+21:54.0
+Yr: 10 • +24pts • Q
+30
+
+Bryken Storms
+
+Chamberlain
+22:06.0
+Yr: 9 • +25pts • Q
+31
+BS
+Brodie Smith
+
+Mount Vernon/Plankinton
+22:10.0
+Yr: 11 • +26pts
+32
+CF
+Canyon Ford
+
+Mobridge-Pollock
+22:15.0
+Yr: 8
+33
+WG
+William Garneaux
+
+Todd County
+22:16.0
+PB • Yr: 9 • +27pts
+34
+TP
+Tyson Peterson
+
+Stanley County
+22:18.0
+Yr: 12
+35
+AV
+Alexander Van Zee
+
+Miller
+22:18.0
+Yr: 8 • +28pts
+36
+SJ
+Stephan Jones
+
+Crow Creek
+22:25.0
+Yr: 12 • +29pts
+37
+IS
+Isaac Shepherd
+
+Chamberlain
+22:33.0
+Yr: 11 • +30pts • Q
+38
+DC
+Dustin Crowe
+
+Crow Creek
+22:37.0
+PB • Yr: 10 • +31pts
+39
+KR
+Kaden Running Horse
+
+St. Francis Indian
+22:39.0
+Yr: 8 • +32pts
+40
+
+Jaxson Tollefson
+
+Mount Vernon/Plankinton
+22:52.0
+Yr: 9 • +33pts
+41
+BC
+Bentley Cornelius
+
+St. Francis Indian
+23:01.0
+Yr: 10 • +34pts
+42
+NM
+Noah Manke
+
+Winner
+23:49.0
+Yr: 11
+43
+
+Tyler Roebuck
+
+Mobridge-Pollock
+24:18.0
+Yr: 8
+44
+GB
+Gage Bald Eagle
+
+Cheyenne-Eagle Butte
+24:56.0
+Yr: 10 • +35pts • Q
+45
+JL
+Jared LaPointe
+
+St. Francis Indian
+26:29.0
+Yr: 11 • +36pts
+46
+MJ
+Michael Jordan
+
+Todd County
+26:30.0
+Yr: 8 • +37pts
+47
+PK
+Pete Knife
+
+St. Francis Indian
+27:15.0
+Yr: 12 • +38pts
+48
+SB
+Steven Bordeaux
+
+St. Francis Indian
+28:25.0
+SB • Yr: 12 • +39pts
+49
+WM
+Wyatt Moser
+
+Miller
+29:21.0
+Yr: 7 • +40pts
+50
+CE
+Carson Earl
+
+Mount Vernon/Plankinton
+30:25.0
+PB • Yr: 7 • +41pts

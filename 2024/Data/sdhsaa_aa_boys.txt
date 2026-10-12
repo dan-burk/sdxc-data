@@ -1,0 +1,938 @@
+1
+CR
+Cole Reilly
+
+Sioux Falls Washington
+15:47.2
+Yr: 10 • +1pts
+2
+TN
+Tyrus Needles
+
+Sioux Falls Lincoln
+15:48.2
+Yr: 10 • +2pts
+3
+
+Joseph Levesque
+
+Sioux Falls Lincoln
+15:55.8
+Yr: 12 • +3pts
+4
+
+Aemil Nelsen
+
+Sioux Falls Lincoln
+16:05.7
+Yr: 12 • +4pts
+5
+
+Ty Petrocco
+
+Sturgis Brown
+16:14.0
+Yr: 12 • +5pts
+6
+
+Mikah Peters
+
+Brandon Valley
+16:16.9
+Yr: 11 • +6pts
+7
+BM
+Blake Maas
+
+Sioux Falls Roosevelt
+16:18.3
+Yr: 11 • +7pts
+8
+CM
+Caleb Morris
+
+Pierre T.F. Riggs
+16:23.1
+Yr: 11 • +8pts
+9
+WB
+Wyatt Balliew
+
+Douglas
+16:32.1
+Yr: 10 • +9pts
+10
+
+Miles Brekhus
+
+Rapid City Stevens
+16:32.2
+Yr: 12 • +10pts
+11
+DS
+Dane Stark
+
+Watertown
+16:36.4
+Yr: 10 • +11pts
+12
+
+Marcus Fleming
+
+Sioux Falls Roosevelt
+16:38.1
+Yr: 12 • +12pts
+13
+ML
+Miles Lechtenberg
+
+Sioux Falls Lincoln
+16:39.8
+Yr: 11 • +13pts
+14
+
+Yadriel Munoz
+
+Rapid City Central
+16:41.3
+Yr: 12 • +14pts
+15
+NT
+Nathan Thompson
+
+Sioux Falls Lincoln
+16:43.0
+Yr: 12 • +15pts
+16
+HP
+Hunter Patton
+
+Mitchell
+16:43.7
+Yr: 11 • +16pts
+17
+AN
+Arvid Nelsen
+
+Sioux Falls Lincoln
+16:45.4
+Yr: 11 • +17pts
+18
+
+Tate DeVries
+
+Aberdeen Central
+16:49.1
+Yr: 9 • +18pts
+19
+JK
+Jonathan Kahler
+
+Brookings
+16:50.3
+Yr: 12 • +19pts
+20
+TV
+Tate Van Beek
+
+Rapid City Stevens
+16:51.4
+Yr: 10 • +20pts
+21
+EP
+Evan Perrigo
+
+Rapid City Stevens
+16:55.0
+Yr: 8 • +21pts
+22
+JW
+Jack Wagoner
+
+Sioux Falls Jefferson
+16:55.4
+Yr: 12
+23
+
+Easton Klatt
+
+Harrisburg
+16:55.5
+Yr: 12 • +22pts
+24
+
+Aaron Letner
+
+Rapid City Stevens
+16:55.7
+Yr: 12 • +23pts
+25
+AS
+Asher Selness
+
+Brandon Valley
+16:57.0
+Yr: 9 • +24pts
+26
+HK
+Harrison Krajewski
+
+Yankton
+16:58.9
+Yr: 11 • +25pts
+27
+EE
+Eric Errea
+
+Rapid City Central
+17:03.5
+Yr: 10 • +26pts
+28
+AD
+Alex Diersen
+
+Brookings
+17:04.6
+Yr: 12 • +27pts
+29
+
+Ernest Ting
+
+Brookings
+17:08.3
+Yr: 12 • +28pts
+30
+GM
+Griffin Miller
+
+Sioux Falls Washington
+17:12.3
+Yr: 10 • +29pts
+31
+TA
+Thomas Anglin
+
+Spearfish
+17:12.7
+Yr: 12 • +30pts
+32
+
+Abe Chance
+
+Yankton
+17:13.8
+Yr: 12 • +31pts
+33
+LB
+Lance Bodeen
+
+Harrisburg
+17:14.2
+Yr: 11 • +32pts
+34
+MN
+Max Nelson
+
+Aberdeen Central
+17:14.8
+Yr: 10 • +33pts
+35
+
+Ben Parsons
+
+Sioux Falls Washington
+17:14.9
+Yr: 10 • +34pts
+36
+BO
+Bryton Olson
+
+Yankton
+17:14.9
+Yr: 11 • +35pts
+37
+TF
+Ty Ferguson
+
+Sturgis Brown
+17:17.5
+Yr: 12 • +36pts
+38
+AH
+Aidan Hermsen
+
+Rapid City Central
+17:20.2
+Yr: 11 • +37pts
+39
+
+Tristan Swezey
+
+Rapid City Central
+17:23.5
+Yr: 12 • +38pts
+40
+EW
+Eli Woidyla
+
+Brandon Valley
+17:26.6
+Yr: 11 • +39pts
+41
+RG
+Reid Groher
+
+Sioux Falls Lincoln
+17:26.8
+Yr: 10 • +40pts
+42
+HA
+Hena Abreham
+
+Sioux Falls Washington
+17:28.4
+Yr: 9 • +41pts
+43
+
+Reid Hammerquist
+
+Tea Area
+17:31.1
+Yr: 10 • +42pts
+44
+EW
+Ethan Weber
+
+Sioux Falls Roosevelt
+17:33.1
+PB • Yr: 12 • +43pts
+45
+QB
+Quinn Bruch
+
+Sturgis Brown
+17:38.3
+Yr: 11 • +44pts
+46
+EK
+Ethan Kyte
+
+Brandon Valley
+17:40.5
+Yr: 9 • +45pts
+47
+KS
+Kellar Sjomeling
+
+Sioux Falls Jefferson
+17:40.6
+Yr: 12
+48
+JB
+Jackson Boltjes
+
+Sioux Falls Washington
+17:42.8
+Yr: 10 • +46pts
+49
+
+Isaiah Geffre
+
+Rapid City Stevens
+17:43.6
+Yr: 12 • +47pts
+50
+JS
+Jackson Schema
+
+O'Gorman
+17:44.0
+SB • Yr: 10 • +48pts
+51
+MG
+Mason Gill
+
+Spearfish
+17:47.1
+Yr: 9 • +49pts
+52
+NA
+Nathan Arens
+
+Sioux Falls Roosevelt
+17:47.5
+Yr: 12 • +50pts
+53
+
+Tarin Hutchinson
+
+Rapid City Central
+17:48.1
+Yr: 12 • +51pts
+54
+RV
+Rylan VanDeest
+
+Spearfish
+17:48.5
+Yr: 8 • +52pts
+55
+CU
+Carson Urlacher
+
+Aberdeen Central
+17:50.7
+Yr: 10 • +53pts
+56
+
+Patrick Severson
+
+Aberdeen Central
+17:51.7
+Yr: 12 • +54pts
+57
+
+Jack Campbell
+
+Tea Area
+17:53.5
+Yr: 11 • +55pts
+58
+LD
+Landon Doyle
+
+Sioux Falls Washington
+17:55.6
+Yr: 10 • +56pts
+59
+
+Griffin Smith
+
+Harrisburg
+17:57.0
+Yr: 11 • +57pts
+60
+TL
+TJ Lien
+
+Huron
+17:59.2
+Yr: 12 • +58pts
+61
+GC
+Greyson Cauwels
+
+Harrisburg
+18:01.5
+Yr: 11 • +59pts
+62
+WS
+Will Sorenson
+
+O'Gorman
+18:01.9
+Yr: 11 • +60pts
+63
+SM
+Samuel Mischke
+
+Brandon Valley
+18:02.0
+Yr: 8 • +61pts
+64
+EF
+Esten Foss
+
+Aberdeen Central
+18:02.5
+Yr: 11 • +62pts
+65
+CC
+Carson Coulter
+
+Sioux Falls Washington
+18:06.1
+Yr: 10 • +63pts
+66
+
+Tucker Lunde
+
+Watertown
+18:07.7
+Yr: 11 • +64pts
+67
+CT
+Carter Thompson
+
+Spearfish
+18:08.5
+Yr: 9 • +65pts
+68
+TJ
+Torin Jackson
+
+Rapid City Stevens
+18:09.3
+Yr: 11 • +66pts
+69
+EM
+Elias Michailidis
+
+Brandon Valley
+18:10.1
+Yr: 11 • +67pts
+70
+
+Marco Springman
+
+Brookings
+18:12.8
+Yr: 11 • +68pts
+71
+JB
+Jayden Brandt
+
+Pierre T.F. Riggs
+18:14.0
+Yr: 11 • +69pts
+72
+
+Jeriah Alexander
+
+Rapid City Stevens
+18:14.8
+Yr: 11 • +70pts
+73
+BO
+Brooks Ordway
+
+Harrisburg
+18:17.0
+Yr: 10 • +71pts
+74
+
+Dylan Haar
+
+Brookings
+18:17.4
+Yr: 9 • +72pts
+75
+AS
+Andrew Sanchez
+
+Sioux Falls Roosevelt
+18:19.9
+Yr: 12 • +73pts
+76
+CN
+Casey Nauta
+
+Spearfish
+18:21.9
+Yr: 12 • +74pts
+77
+TC
+Taylor Colunga
+
+Sturgis Brown
+18:22.1
+Yr: 11 • +75pts
+78
+
+Shane Harming
+
+Brookings
+18:22.2
+Yr: 11 • +76pts
+79
+IS
+Isaac Spahr
+
+Brandon Valley
+18:22.6
+Yr: 10 • +77pts
+80
+
+Jonah Klemisch
+
+Tea Area
+18:22.6
+Yr: 10 • +78pts
+81
+RH
+Ryan Heldenbrand
+
+O'Gorman
+18:22.8
+Yr: 9 • +79pts
+82
+
+Tryton Parmely
+
+Pierre T.F. Riggs
+18:23.6
+Yr: 10 • +80pts
+83
+JN
+Jim Neddo
+
+Pierre T.F. Riggs
+18:23.8
+Yr: 9 • +81pts
+84
+IL
+Isaac Larrington
+
+Yankton
+18:23.8
+Yr: 10 • +82pts
+85
+BS
+Blake Schierholz
+
+Harrisburg
+18:25.2
+Yr: 9 • +83pts
+86
+JP
+James Palecek
+
+Rapid City Central
+18:26.2
+Yr: 11 • +84pts
+87
+LH
+Linkin Huiras
+
+Sturgis Brown
+18:26.3
+Yr: 10 • +85pts
+88
+KC
+Kaden Christian
+
+Tea Area
+18:26.5
+Yr: 10 • +86pts
+89
+AD
+Austin Dittmer
+
+Sioux Falls Roosevelt
+18:27.2
+Yr: 9 • +87pts
+90
+LB
+Logan Becker
+
+Watertown
+18:27.8
+Yr: 10 • +88pts
+91
+DM
+Daniel Mason
+
+Pierre T.F. Riggs
+18:30.8
+Yr: 10 • +89pts
+92
+
+Gavin Chiaroni
+
+Douglas
+18:32.5
+Yr: 10 • +90pts
+93
+JF
+Jack Faulkner
+
+Spearfish
+18:32.8
+Yr: 12 • +91pts
+94
+TL
+Teagan Lien
+
+Huron
+18:34.2
+Yr: 10 • +92pts
+95
+EM
+Evan Mahrous
+
+O'Gorman
+18:38.3
+Yr: 12 • +93pts
+96
+LR
+Layke Roberdeau
+
+Spearfish
+18:39.6
+SB • Yr: 12 • +94pts
+97
+CP
+Colin Pickett
+
+Mitchell
+18:39.7
+Yr: 10 • +95pts
+98
+
+Kyson Fayant
+
+Aberdeen Central
+18:40.5
+Yr: 11 • +96pts
+99
+LJ
+Luke Jacobson
+
+Yankton
+18:41.5
+Yr: 9 • +97pts
+100
+GR
+Gabe Rock
+
+Yankton
+18:41.6
+Yr: 9 • +98pts
+101
+
+Jaylen Palmer
+
+Sioux Falls Jefferson
+18:44.9
+Yr: 12
+102
+IR
+Ian Rounds
+
+Pierre T.F. Riggs
+18:48.0
+Yr: 12 • +99pts
+103
+ND
+Nicholas Deschepper
+
+Harrisburg
+18:48.3
+Yr: 12 • +100pts
+104
+CD
+Cash Daigle
+
+Sturgis Brown
+18:49.8
+Yr: 12 • +101pts
+105
+HS
+Henry Smith
+
+O'Gorman
+18:51.2
+Yr: 9 • +102pts
+106
+
+TJ Martin
+
+O'Gorman
+18:55.5
+Yr: 12 • +103pts
+107
+GL
+Gabe List
+
+Watertown
+18:57.2
+Yr: 12 • +104pts
+108
+TV
+Tate VanLaecken
+
+Tea Area
+18:58.4
+Yr: 10 • +105pts
+109
+
+Kale Fenner
+
+Sturgis Brown
+18:59.1
+Yr: 11 • +106pts
+110
+
+Alex Quinn
+
+Sioux Falls Roosevelt
+19:02.4
+Yr: 10 • +107pts
+111
+MB
+Micah Bennett
+
+Mitchell
+19:05.7
+Yr: 7 • +108pts
+112
+
+Isaiah Norton
+
+Watertown
+19:10.0
+Yr: 11 • +109pts
+113
+DL
+Dawson Lowery
+
+Tea Area
+19:14.2
+Yr: 9 • +110pts
+114
+BG
+Benjamin Gerlach
+
+Mitchell
+19:16.3
+Yr: 11 • +111pts
+115
+CK
+Cody Kiesz
+
+Aberdeen Central
+19:22.1
+Yr: 9 • +112pts
+116
+
+Floyd Korzan
+
+Mitchell
+19:25.1
+Yr: 12 • +113pts
+117
+BO
+Bennie Olsen
+
+Douglas
+19:32.9
+Yr: 10 • +114pts
+118
+JM
+Jacob Mason
+
+Pierre T.F. Riggs
+19:35.5
+Yr: 12 • +115pts
+119
+SS
+Samuel Sheehy
+
+Rapid City Central
+19:41.4
+Yr: 11 • +116pts
+120
+JW
+James Weir
+
+Huron
+19:43.9
+Yr: 10 • +117pts
+121
+GG
+Gavin Greenfield
+
+O'Gorman
+19:54.6
+Yr: 9 • +118pts
+122
+JD
+Jacob DeYoung
+
+Tea Area
+19:58.8
+Yr: 11 • +119pts
+123
+KH
+Karsten Herges
+
+Mitchell
+20:00.7
+Yr: 8 • +120pts
+124
+TC
+Tate Carlson
+
+Sioux Falls Jefferson
+20:05.6
+Yr: 11
+125
+PK
+Peyton Kallstrom
+
+Douglas
+20:08.8
+Yr: 10 • +121pts
+126
+AM
+Angelo Medina
+
+Huron
+20:10.0
+Yr: 12 • +122pts
+127
+EM
+Evan Mack
+
+Watertown
+20:12.6
+Yr: 9 • +123pts
+128
+
+Kaiser Lunde
+
+Watertown
+20:14.7
+Yr: 7 • +124pts
+129
+KH
+Kaden Hunhoff
+
+Yankton
+20:19.4
+Yr: 11 • +125pts
+130
+
+Samuel Biberdorf
+
+Douglas
+20:22.1
+Yr: 12 • +126pts
+131
+AP
+Alec Pester
+
+Huron
+20:32.3
+Yr: 12 • +127pts
+132
+EL
+Ethan Lofgren
+
+Mitchell
+21:14.1
+Yr: 11 • +128pts
+133
+QM
+Quentin Miller
+
+Douglas
+21:35.6
+Yr: 10 • +129pts
+134
+HF
+Hunter Frerichs
+
+Douglas
+22:20.4
+Yr: 10 • +130pts
