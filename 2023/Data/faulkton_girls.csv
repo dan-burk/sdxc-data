@@ -1,48 +1,48 @@
-﻿,Place,Name,Time,School,Class
-1,1,Ella Boekelheide,19:29.1,Northwestern,F
-2,2,Heidi Olson,20:13.0,Mobridge-Pollock,F
-3,3,Faith Heil,20:48.0,Mobridge-Pollock,F
-4,4,Dannika Kaup,20:54.8,Potter County,F
-5,5,Morgan Sumption,20:57.1,Frederick Area,F
-6,6,Autumn Fallis,21:11.1,Highmore-Harrold,F
-7,7,Jadyn Ahlemeier,21:21.3,Potter County,F
-8,8,Hadasah Olson,21:22.2,James Valley Christian,F
-9,9,Addison Cassady,21:23.3,Aberdeen Roncalli,F
-10,10,Emma Schlachter,21:36.7,Potter County,F
-11,11,Kennadee Wagner,21:43.2,Warner,F
-12,12,Lily Swanson,22:01.4,James Valley Christian,F
-13,13,Jaycee Stevens,22:03.6,Potter County,F
-14,14,Paige Ahlemeier,22:05.5,Potter County,F
-15,15,Jillian Ellwein,22:11.1,Frederick Area,F
-16,16,Tara Blachford,22:16.6,Northwestern,F
-17,17,Madisyn Gellhaus,22:29.9,Ipswich,F
-18,18,Paige Schmidt,22:36.9,Aberdeen Roncalli,F
-19,19,Sarah Schmidt,22:49.7,Aberdeen Roncalli,F
-20,20,Gracyn Kadlec,22:58.9,Ipswich,F
-21,21,Kenna Wolberg,23:10.7,Warner,F
-22,22,Rhayonna Hood,23:13.4,James Valley Christian,F
-23,23,Rhyann Roseland,23:20.5,Faulkton Area,F
-24,24,Katie Allbee,23:37.1,Herreid/Selby Area,F
-25,25,Laura Sumption,23:44.9,Frederick Area,F
-26,26,Gabby Werdel,23:48.1,Miller,F
-27,27,Clare Peterson,23:56.3,Aberdeen Roncalli,F
-28,28,Grace Roth,23:57.0,North Central,F
-29,29,Austina Sorensen,23:58.1,Faulkton Area,F
-30,30,Sofia Losure,24:02.6,Frederick Area,F
-31,31,Jentry Hubner,24:05.5,Herreid/Selby Area,F
-32,32,Katie Bretsch,24:08.0,Frederick Area,F
-33,33,Olivia Hadrick,24:08.6,Faulkton Area,F
-34,34,Melanie Dallenbach,24:11.4,North Central,F
-35,35,Brynnly Huber,24:15.3,Herreid/Selby Area,F
-36,36,Gabby Millard,24:19.8,Frederick Area,F
-37,37,Kyleigh Miller,24:25.4,Warner,F
-38,38,Addisyn Heinrich,24:36.1,Warner,F
-39,39,Kassandra Abbas,24:37.2,North Central,F
-40,40,Reese Hadrick,24:55.5,Faulkton Area,F
-41,41,Andie Aughenbaugh,25:08.7,James Valley Christian,F
-42,42,Jodyn Bawek,25:15.6,Hitchcock-Tulare,F
-43,43,Micaiah Brantner,25:30.7,James Valley Christian,F
-44,44,Rylin Wipf,25:45.4,James Valley Christian,F
-45,45,Allie Gortmaker,26:08.7,Miller,F
-46,46,Taytum Gortmaker,27:19.3,Miller,F
-47,47,April Fallis,28:15.3,Highmore-Harrold,F
+"Place","Name","School","Time","Grade"
+1,"Ella Boekelheide","Northwestern","19:29.1",
+2,"Heidi Olson","Mobridge-Pollock","20:13.0",
+3,"Faith Heil","Mobridge-Pollock","20:48.0",
+4,"Dannika Kaup","Potter County","20:54.8",
+5,"Morgan Sumption","Frederick Area","20:57.1",
+6,"Autumn Fallis","Highmore-Harrold","21:11.1",
+7,"Jadyn Ahlemeier","Potter County","21:21.3",
+8,"Hadasah Olson","James Valley Christian","21:22.2",
+9,"Addison Cassady","Aberdeen Roncalli","21:23.3",
+10,"Emma Schlachter","Potter County","21:36.7",
+11,"Kennadee Wagner","Warner","21:43.2",
+12,"Lily Swanson","James Valley Christian","22:01.4",
+13,"Jaycee Stevens","Potter County","22:03.6",
+14,"Paige Ahlemeier","Potter County","22:05.5",
+15,"Jillian Ellwein","Frederick Area","22:11.1",
+16,"Tara Blachford","Northwestern","22:16.6",
+17,"Madisyn Gellhaus","Ipswich","22:29.9",
+18,"Paige Schmidt","Aberdeen Roncalli","22:36.9",
+19,"Sarah Schmidt","Aberdeen Roncalli","22:49.7",
+20,"Gracyn Kadlec","Ipswich","22:58.9",
+21,"Kenna Wolberg","Warner","23:10.7",
+22,"Rhayonna Hood","James Valley Christian","23:13.4",
+23,"Rhyann Roseland","Faulkton Area","23:20.5",
+24,"Katie Allbee","Herreid/Selby Area","23:37.1",
+25,"Laura Sumption","Frederick Area","23:44.9",
+26,"Gabby Werdel","Miller","23:48.1",
+27,"Clare Peterson","Aberdeen Roncalli","23:56.3",
+28,"Grace Roth","North Central","23:57.0",
+29,"Austina Sorensen","Faulkton Area","23:58.1",
+30,"Sofia Losure","Frederick Area","24:02.6",
+31,"Jentry Hubner","Herreid/Selby Area","24:05.5",
+32,"Katie Bretsch","Frederick Area","24:08.0",
+33,"Olivia Hadrick","Faulkton Area","24:08.6",
+34,"Melanie Dallenbach","North Central","24:11.4",
+35,"Brynnly Huber","Herreid/Selby Area","24:15.3",
+36,"Gabby Millard","Frederick Area","24:19.8",
+37,"Kyleigh Miller","Warner","24:25.4",
+38,"Addisyn Heinrich","Warner","24:36.1",
+39,"Kassandra Abbas","North Central","24:37.2",
+40,"Reese Hadrick","Faulkton Area","24:55.5",
+41,"Andie Aughenbaugh","James Valley Christian","25:08.7",
+42,"Jodyn Bawek","Hitchcock-Tulare","25:15.6",
+43,"Micaiah Brantner","James Valley Christian","25:30.7",
+44,"Rylin Wipf","James Valley Christian","25:45.4",
+45,"Allie Gortmaker","Miller","26:08.7",
+46,"Taytum Gortmaker","Miller","27:19.3",
+47,"April Fallis","Highmore-Harrold","28:15.3",

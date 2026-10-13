@@ -60,8 +60,26 @@ Don't edit `meet_list.csv` without asking. Don't change the scoring code to work
 - **TXT runner with no `Yr:` line.** The old parser swallowed the next runner (2025 Murdo and Todd County girls, fixed in R/convert.r). A runner with no time is kept with a blank time and not scored.
 - **Typo dates in the meet list.** 2025 State AA was entered as 2525.
 - **Two spellings, two grades, one runner.** Timing companies copy roster errors to every meet they time (Jonathan Walters gr 10 / Watters gr 8). Trust the postseason race.
+- **Same race again, ECC and LCC.** 2023 too (10/2): same fix, `ecc,lcc` in `2023/merged_meets.csv`.
+- **Lowercase initials.** `Sv` for Sep van Oosterhout (2023 Gettysburg, Region 4B) merged name and school. Fixed in the TXT as `SV`.
+- **Wrong or copied race.** 2023 hand-typed Scotland boys was the JV race, and Howard was a copy of Cornbelt Conference. Check a meet that looks fast or slow against its source.
 
 ## Other folders
 
-- `2023/`: the older, messier season. Not scored by this pipeline. Its data is used as evidence when matching schools.
+- `2023/`: the older, messier season, scored by this pipeline since 2026 (see below). Its PDFs, photos, `df_*.csv`, `Simulation/` and the two `read_*.r` scripts are from the old pipeline and aren't used.
+
+## 2023
+
+About 40 meets have no TXT; they were typed by hand from PDFs and photos into `2023/Data/manual/{meet}_{g}.csv` (old layout: row number, Place, Name, Time, School, Class). Those files are the source for those meets. `2023/convert_2023.r` turns them into Data CSVs, so the clean scripts stay 2023-free:
+
+```
+Rscript convert.r 2023          TXT meets
+Rscript 2023/convert_2023.r     hand-typed meets
+Rscript run.r 2023              score
+```
+
+- The 2023 timing-company TXTs put the grade on the school line (`Dakota Valley [12]`) and heat/points after the time; the parser reads both.
+- Hand-typed files have typos the checks can't see (Clark boys had 6 wrong times out of 38). When the owner can get a meet's TXT, it replaces the hand-typed file: delete `manual/{meet}_*.csv` or convert_2023.r overwrites the TXT's CSV.
+- Howard boys isn't scored: its file looked like the Cornbelt race, so it's kept as `howard_boys_unverified.txt` (not read).
+- Non-5Ks (4K-ish, 12–21% fast): Pierre, O'Gorman, Mack Butler, Milbank Breathe Easy, Deadwood, Mitchell.
 - `Research/`: 2023 STAT 651 class project on the ranking method.

@@ -27,7 +27,7 @@ Chester [10]
 18:56.74	1	5
 7	
 Matthew Heinemann
-Dell Rapids [9]
+DR St. Mary [9]
 19:12.02	1	6
 8	
 Ben Ferdig
@@ -47,7 +47,7 @@ De Smet [9]
 19:32.13	2	10
 12	
 Camden Tebay
-Dell Rapids [8]
+DR St. Mary [8]
 19:38.10	2	11
 13	
 Carter Leibeg
@@ -143,7 +143,7 @@ De Smet [9]
 23:36.21	4	32
 36	
 Levi Gaul
-Dell Rapids [11]
+DR St. Mary [11]
 23:49.36	4	33
 37	
 Rowan Brok

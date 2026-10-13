@@ -1,0 +1,294 @@
+1
+AB
+Autumn Baker
+
+Kimball/White Lake
+20:28.5
+Yr: 10
+2
+LB
+Lily Baker
+
+Kimball/White Lake
+20:39.8
+Yr: 9
+3
+HO
+Hadasah Olson
+
+James Valley Christian
+21:28.1
+Yr: 9
+4
+JW
+Jolie Westrum
+
+Gayville-Volin
+21:44.3
+Yr: 9
+5
+AM
+Alli McCord
+
+Kimball/White Lake
+21:50.3
+Yr: 9
+6
+AS
+April Skluzak
+
+Kimball/White Lake
+22:02.6
+Yr: 7
+7
+
+Estelle Waltner
+
+Freeman Academy/Marion - CLOSED
+22:11.2
+Yr: 10
+8
+LS
+Lily Swanson
+
+James Valley Christian
+22:28.0
+Yr: 8
+9
+CG
+Claire Guthmiller
+
+Bon Homme
+22:28.0
+Yr: 8
+10
+
+Sophia Bauld
+
+Burke
+22:37.8
+Yr: 11
+11
+AV
+Asia VanDerWerff
+
+Gregory
+22:50.0
+Yr: 10
+12
+RH
+Rhayonna Hood
+
+James Valley Christian
+23:12.7
+Yr: 12
+13
+
+Taylor Zeisler
+
+Burke
+23:28.0
+Yr: 8
+14
+AE
+Abigail Engel
+
+Gregory
+23:31.9
+Yr: 8
+15
+NR
+Nora Robb
+
+Scotland
+24:10.8
+Yr: 11
+16
+EG
+Emily Grim
+
+Gregory
+24:11.9
+Yr: 10
+17
+ED
+Eilie DeHaan
+
+Andes Central/Dakota Christian
+24:20.1
+Yr: 9
+18
+AZ
+Avery Zeisler
+
+Burke
+24:27.0
+Yr: 11
+19
+
+Hannah DeLine
+
+Mitchell Christian
+24:35.8
+Yr: 10
+20
+PL
+Payton Logan
+
+Gayville-Volin
+24:41.6
+Yr: 9
+21
+EH
+Elle Hlavac
+
+Scotland
+24:59.3
+Yr: 7
+22
+KS
+Kennley Sedlacek
+
+Gregory
+25:04.9
+Yr: 7
+23
+RW
+Rylin Wipf
+
+James Valley Christian
+25:10.2
+Yr: 9
+24
+AA
+Andie Aughenbaugh
+
+James Valley Christian
+25:46.7
+Yr: 10
+25
+
+Amy Henderson
+
+Mitchell Christian
+25:49.4
+Yr: 9
+26
+LY
+Lydia Yost
+
+Wagner
+25:51.8
+Yr: 11
+27
+TP
+Tanayia Pacheco
+
+Gayville-Volin
+26:08.6
+SB • Yr: 11
+28
+
+Akane Metcalfe
+
+Kimball/White Lake
+26:32.1
+Yr: 12
+29
+MB
+Micaiah Brantner
+
+James Valley Christian
+26:36.5
+Yr: 10
+30
+
+Sieta Wiersema
+
+Freeman Academy/Marion - CLOSED
+26:47.6
+Yr: 11
+31
+BR
+Britney Rueb
+
+Scotland
+27:03.4
+Yr: 10
+32
+NF
+Nika Furney
+
+Scotland
+27:15.4
+Yr: 8
+33
+GV
+Grace Vitek
+
+Scotland
+27:47.9
+Yr: 11
+34
+SM
+Sydney McNutt
+
+Mitchell Christian
+27:51.9
+Yr: 11
+35
+LH
+Lindy Hofer
+
+Mitchell Christian
+27:52.2
+Yr: 12
+36
+AK
+Addison Krogstad
+
+Corsica-Stickney
+29:12.6
+Yr: 10
+37
+GB
+Gentrie Blasius
+
+Kimball/White Lake
+29:22.6
+Yr: 8
+38
+AM
+Alexis Moore
+
+Kimball/White Lake
+29:55.4
+Yr: 9
+39
+SC
+Sadie Carlson
+
+Gregory
+30:02.8
+SB • Yr: 8
+40
+MC
+Makenah Cowles
+
+Gayville-Volin
+31:20.7
+Yr: 10
+41
+BD
+Bella Duerfeldt
+
+Burke
+31:25.1
+Yr: 10
+42
+MF
+Makayla Fuoss
+
+Tripp-Delmont/Armour
+31:56.2
+Yr: 12

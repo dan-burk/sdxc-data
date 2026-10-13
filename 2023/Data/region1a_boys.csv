@@ -1,56 +1,55 @@
-,Place,Name,Time,School,Class
-1,1,Payton Brown,16:36.04,Milbank,M
-2,2,Kaleb Foltz,17:14.73,Tri-State,M
-3,3,James Batchelor,17:45.75,Milbank,M
-4,4,Bryan Meyer,18:00.60,Milbank,M
-5,5,Isaac Graham,18:20.49,Milbank,M
-6,6,Cooper Pommer,18:27.79,Clark/Willow Lake,M
-7,7,Tyson Hagberg,18:28.14,Deuel,M
-8,8,Paul Gutenkauf,18:37.32,Aberdeen Roncalli,M
-9,9,Thad Kratz,18:43.36,Great Plains Lutheran,M
-10,10,Caden Hourigan,18:52.70,Deuel,M
-11,11,Carson Vavruska,18:53.21,Florence/Henry,M
-12,12,Ryder Graff,19:06.97,Sisseton,M
-13,13,Taylor Merkel,19:08.30,Clark/Willow Lake,M
-14,14,Sam Manian,19:08.87,Great Plains Lutheran,M
-15,15,Payton Moore,19:19.43,Redfield,M
-16,16,Damian Severson,19:22.74,Clark/Willow Lake,M
-17,17,Beckham Berry,19:28.60,Milbank,M
-18,18,Grant Van Peursem,19:29.27,Milbank,M
-19,19,Jayven Maag,19:31.91,Waubay/Summit,M
-20,20,Amsden Piotter,19:34.42,Tri-State,M
-21,21,Keondray White,19:36.17,Sisseton,M
-22,22,Matt Peterson,19:36.94,Aberdeen Roncalli,M
-23,23,Ben Bradley,19:39.82,Aberdeen Roncalli,M
-24,24,Isaac Price,20:22.89,Aberdeen Roncalli,M
-25,25,Gavin Mattson,20:28.12,Deuel,M
-26,26,Austin Keller,20:29.48,Florence/Henry,M
-27,27,Seth Grams,20:31.85,Great Plains Lutheran,M
-28,28,Caleb Ronne,20:37.39,Deuel,M
-29,29,Caden Hinners,20:41.38,Great Plains Lutheran,M
-30,30,Jude Bent,20:43.23,Aberdeen Roncalli,M
-31,31,Dominic Kluckman,20:52.14,Deuel,M
-32,32,Adrian Flisrand,21:05.60,Florence/Henry,M
-33,33,Daniel Gums,21:14.15,Deuel,M
-34,34,Logan Seefeldt,21:19.13,Clark/Willow Lake,M
-35,35,Grady Wagner,21:22.84,Webster Area,M
-36,36,Isaiah Berg,21:41.23,Great Plains Lutheran,M
-37,37,Jayden Schwan,21:47.01,Groton Area,M
-38,38,Nolan Thuringer,21:49.58,Waubay/Summit,M
-39,39,Oliver Reitz,21:54.20,Clark/Willow Lake,M
-40,40,Gavin Kroll,21:59.14,Groton Area,M
-41,41,Jeff Krueger,22:05.76,Tri-State,M
-42,42,Sam Morris,22:08.91,Great Plains Lutheran,M
-43,43,Jace Voss,22:26.95,Webster Area,M
-44,44,Joshua Klein,22:39.67,Tri-State,M
-45,45,Jaxon Nimmer,22:43.49,Webster Area,M
-46,46,Waylan Olson,22:55.02,Clark/Willow Lake,M
-47,47,Zach Schroeder,23:17.37,Florence/Henry,M
-48,48,Nathan Unzen,23:19.32,Groton Area,M
-49,49,Beau Price,23:22.64,Aberdeen Roncalli,M
-50,50,Tucker Steffens,23:26.63,Tri-State,M
-51,51,Bo Brandriet,24:51.61,Florence/Henry,M
-52,52,Kaiden Raguse,25:00.64,Tri-State,M
-53,53,Blaise McGregor,25:31.24,Webster Area,M
-54,54,Reese Ziegler,27:26.76,Tiospa Zina,M
-
+"Place","Name","School","Time","Grade"
+1,"Payton Brown","Milbank","16:36.1","12"
+2,"Kaleb Foltz","Tri-State","17:14.8","12"
+3,"James Batchelor","Milbank","17:45.8","12"
+4,"Bryan Meyer","Milbank","18:00.6","11"
+5,"Isaac Graham","Milbank","18:20.5","12"
+6,"Cooper Pommer","Clark/Willow Lake","18:27.8","10"
+7,"Tyson Hagberg","Deuel","18:28.2","9"
+8,"Paul Gutenkauf","Aberdeen Roncalli","18:37.4","12"
+9,"Thad Kratz","Great Plains Lutheran","18:43.4","11"
+10,"Caden Hourigan","Deuel","18:52.7","9"
+11,"Carson Vavruska","Florence/Henry","18:53.3","11"
+12,"Ryder Graff","Sisseton","19:07.0","9"
+13,"Taylor Merkel","Clark/Willow Lake","19:08.3","12"
+14,"Sam Manian","Great Plains Lutheran","19:08.9","9"
+15,"Payton Moore","Redfield","19:19.5","10"
+16,"Damian Severson","Clark/Willow Lake","19:22.8","10"
+17,"Beckham Berry","Milbank","19:28.6","9"
+18,"Grant Van Peursem","Milbank","19:29.3","12"
+19,"Jayven Maag","Waubay/Summit","19:32.0","11"
+20,"Amsden Piotter","Tri-State","19:34.5","11"
+21,"Keondray White","Sisseton","19:36.2","12"
+22,"Matt Peterson","Aberdeen Roncalli","19:37.0","9"
+23,"Ben Bradley","Aberdeen Roncalli","19:39.9","10"
+24,"Isaac Price","Aberdeen Roncalli","20:22.9","10"
+25,"Gavin Mattson","Deuel","20:28.2","8"
+26,"Austin Keller","Florence/Henry","20:29.5","8"
+27,"Seth Grams","Great Plains Lutheran","20:31.9","11"
+28,"Caleb Ronne","Deuel","20:37.8","11"
+29,"Carter Hinners","Great Plains Lutheran","20:41.4","10"
+30,"Jude Bent","Aberdeen Roncalli","20:43.3","11"
+31,"Dominic Kluckman","Deuel","20:52.2","9"
+32,"Adrian Flisrand","Florence/Henry","21:05.6","8"
+33,"Daniel Gums","Deuel","21:14.2","12"
+34,"Logan Seefeldt","Clark/Willow Lake","21:19.2","10"
+35,"Grady Wagner","Webster Area","21:22.9","9"
+36,"Isaiah Berg","Great Plains Lutheran","21:41.3","11"
+37,"Jayden Schwan","Groton Area","21:47.1","10"
+38,"Nolan Thuringer","Waubay/Summit","21:49.6","11"
+39,"Oliver Reitz","Clark/Willow Lake","21:54.2","10"
+40,"Gavin Kroll","Groton Area","21:59.2","9"
+41,"Jett Krueger","Tri-State","22:05.8","11"
+42,"Sam Morris","Great Plains Lutheran","22:09.0","9"
+43,"Jace Voss","Webster Area","22:27.0","8"
+44,"Joshua Klein","Tri-State","22:39.7","9"
+45,"Jaxon Nimmer","Webster Area","22:43.5","10"
+46,"Waylan Olson","Clark/Willow Lake","22:55.1","11"
+47,"Zach Schroeder","Florence/Henry","23:17.4","9"
+48,"Nathan Unzen","Groton Area","23:19.4","10"
+49,"Beau Price","Aberdeen Roncalli","23:22.7","12"
+50,"Tucker Steffens","Tri-State","23:26.7","9"
+51,"Bo Brandriet","Florence/Henry","24:51.7","12"
+52,"Kadin Raguse","Tri-State","25:08.6","11"
+53,"Blaise McGregor","Webster Area","25:31.3","11"
+54,"Reese Ziegler","Tiospa Zina","27:26.8","12"

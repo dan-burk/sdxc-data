@@ -1,23 +1,23 @@
-﻿,Place,Name,Time,School,Class
-1,1,Ella Boekelheide,9999,Northwestern,F
-2,2,Juna Ramey,9999,Aberdeen Central,F
-3,3,Devyn Van Roekel,9999,Pierre,F
-4,4,Mason Berg,9999,Pierre,F
-5,5,Harper Shaffer,9999,Pierre,F
-6,6,Jayne Lees,9999,Pierre,F
-7,7,Gwen Richter,9999,Pierre,F
-8,8,Jazzlyn Rombough,9999,Pierre,F
-9,9,Tara Blachford,9999,Northwestern,F
-10,10,Elaina Rounds,9999,Pierre,F
-11,11,Charlee Williams-Smith,9999,Pierre,F
-12,12,Alexis Ketterling,9999,Aberdeen Central,F
-13,13,Avery Lisburg,9999,Pierre,F
-14,14,Allyson Bauer,9999,Pierre,F
-15,15,Morgan VanVeen,9999,Aberdeen Central,F
-16,16,Alivia Burgard,9999,Aberdeen Central,F
-17,17,Liz Preszler,9999,Aberdeen Central,F
-18,18,Sophia Troske,9999,Northwestern,F
-19,19,Angie Lopez,9999,Aberdeen Central,F
-20,20,Kaylie Peldo,9999,Aberdeen Central,F
-21,21,Kiana Joerger,9999,Aberdeen Central,F
-22,22,Aglaia Ramey,9999,Aberdeen Central,F
+"Place","Name","School","Time","Grade"
+1,"Ella Boekelheide","Northwestern","15:02.36",
+2,"Juna Ramey","Aberdeen Central","16:16.65",
+3,"Devyn Van Roekel","Pierre","16:37.12",
+4,"Mason Berg","Pierre","16:45.43",
+5,"Harper Shaffer","Pierre","16:50.11",
+6,"Jayne Lees","Pierre","16:54.02",
+7,"Gwen Richter","Pierre","17:07.62",
+8,"Jazzlyn Rombough","Pierre","17:09.11",
+9,"Tara Blachford","Northwestern","17:27.11",
+10,"Elaina Rounds","Pierre","17:28.14",
+11,"Charlee Williams-Smith","Pierre","17:32.30",
+12,"Alexis Ketterling","Aberdeen Central","17:36.58",
+13,"Avery Lisburg","Pierre","17:53.49",
+14,"Allyson Bauer","Pierre","18:10.17",
+15,"Morgan VanVeen","Aberdeen Central","18:16.33",
+16,"Alivia Burgard","Aberdeen Central","18:25.87",
+17,"Liz Preszler","Aberdeen Central","18:26.43",
+18,"Sophia Troske","Northwestern","18:40.84",
+19,"Angie Lopez","Aberdeen Central","18:57.92",
+20,"Kaylie Peldo","Aberdeen Central","18:58.46",
+21,"Kiana Joerger","Aberdeen Central","19:01.24",
+22,"Aglaia Ramey","Aberdeen Central","19:22.84",

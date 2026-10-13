@@ -1,56 +1,56 @@
-﻿,Place,Name,Time,School,Class
-1,1,Kamryn Nesheim,20:09.2,Clark/Willow Lake,F
-2,2,Jaycee Hourigan,20:38.9,Deuel,F
-3,3,Kaelyn Ulschmid,21:21.7,Arlington,F
-4,4,Hailey Tiahrt,21:43.3,Baltic,F
-5,5,Kylee Johnson,21:45.1,Deubrock Area,F
-6,6,Elixabeth Vogel,21:54.3,Dell Rapids,F
-7,7,Hadley Gjerde,21:57.2,Clark/Willow Lake,F
-8,8,Emma Bochek,21:58.0,Clark/Willow Lake,F
-9,9,Adalyn Gross,21:59.0,De Smet,F
-10,10,Cadence Bochek,22:04.5,Clark/Willow Lake,F
-11,11,Madalyn Madsen,22:11.3,Arlington,F
-12,12,Alexa Schmidt,22:13.3,Clark/Willow Lake,F
-13,13,Hadasah Olson,22:13.6,James Valley,F
-14,14,Kendal Uttecht,22:14.2,Wolsey-Wessington,F
-15,15,Lily Swanson,22:44.5,James Valley,F
-16,16,Bella Wilkinson,22:52.7,De Smet,F
-17,17,Cami Wolles,22:54.1,Dell Rapids,F
-18,18,Eliza Oltmanns,22:58.3,Hanson,F
-19,19,Rahyonna Hood,23:06.5,James Valley,F
-20,20,Malayna Hemmen,23:07.7,Elkton-Lake Benton,F
-21,21,Isabella Imm,23:14.8,Devel,F
-22,22,Alexis Kehn,23:23.1,Baltic,F
-23,23,Lizzy Morin,23:42.4,Wabasso,F
-24,24,Lucy Vargas,23:48.1,Dell Rapids,F
-25,25,Cadence Jarding,23:56.8,Hanson,F
-26,26,Sadey Holt,24:00.6,Baltic,F
-27,27,Reese Marek,24:06.8,Hanson,F
-28,28,Isabel Plaetz,24:07.9,Wabasso,F
-29,29,Mallory Carlson,24:11.1,Troquois/Lak,F
-30,30,Alyssa Moschell,24:17.9,Hanson,F
-31,31,Ivy Jaacks,24:19.6,Elkton-Lake Benton,F
-32,32,Halley Miller,24:22.1,Arlington,F
-33,33,Madde Jensen,24:32.2,Elkton-Lake Benton,F
-34,34,Danelyn Greene,24:32.7,Estelline/Hendricks,F
-35,35,Charli McCune,24:35.2,De Smet,F
-36,36,Shyla Tvedt,24:38.5,Devel,F
-37,37,Anya Hemmer,24:51.3,Colman-Egan,F
-38,38,Peyton Jenniges,24:52.6,Wabasso,F
-39,39,Izzie Lee,24:57.1,Colman-Egan,F
-40,40,Micaiah Brantner,25:03.7,James Valley,F
-41,41,Charlotte Fields,25:10.6,De Smet,F
-42,42,Andie Aughenbaugh,25:14.7,James Valley,F
-43,43,Aleisha Naze,25:18.0,Clark/Willow Lake,F
-44,44,Jada Henriksen,25:25.0,Arlington,F
-45,45,Jadie Turner,26:22.2,Redfield,F
-46,46,Annabelle Struntz,26:27.9,Wabasso,F
-47,47,Addison Marone,26:28.3,Arlington,F
-48,48,Sonja Sodren,26:28.8,Deuel,F
-49,49,Aylah Jenniges,27:09.8,Wabasso,F
-50,50,Nicole Steffensen,27:40.6,Arlington,F
-51,51,Kashley Goebel,27:40.9,Arlington,F
-52,52,Kim Sievers,28:10.4,Wolsey-Wessington,F
-53,53,Katie Erickson,28:16.2,Wabasso,F
-54,54,Madyson Determan,28:35.9,Baltic,F
-55,55,Addison Jensen,28:59.8,Wabasso,F
+"Place","Name","School","Time","Grade"
+1,"Kamryn Nesheim","Clark/Willow Lake","20:09.3","8"
+2,"Jaycee Hourigan","Deuel","20:38.9","11"
+3,"Kaelyn Ulschmid","Arlington","21:21.8","10"
+4,"Hailey Tiahrt","Baltic","21:43.4","10"
+5,"Kylee Johnson","Deubrook Area","21:45.1","9"
+6,"Liz Vogel","St. Mary's","21:54.3","8"
+7,"Hadley Gjerde","Clark/Willow Lake","21:57.3","9"
+8,"Emma Bochek","Clark/Willow Lake","21:58.0","8"
+9,"Adalyn Gross","De Smet","21:59.0","9"
+10,"Cadence Bochek","Clark/Willow Lake","22:04.6","10"
+11,"Madalyn Madsen","Arlington","22:11.3","9"
+12,"Alexa Schmidt","Clark/Willow Lake","22:13.4","8"
+13,"Hadasah Olson","James Valley Christian","22:13.7","9"
+14,"Kendal Uttecht","Wolsey-Wessington","22:14.2","10"
+15,"Lily Swanson","James Valley Christian","22:44.5","8"
+16,"Bella Wilkinson","De Smet","22:52.7","8"
+17,"Cami Wolles","St. Mary's","22:54.1","10"
+18,"Eliza Oltmanns","Hanson","22:58.4","12"
+19,"Rhayonna Hood","James Valley Christian","23:06.5","12"
+20,"Malayna Hemmen","Elkton-Lake Benton","23:07.7","12"
+21,"Isabella Imm","Deuel","23:14.9","11"
+22,"Alexis Kehn","Baltic","23:23.1","7"
+23,"Elizabeth Morin","Wabasso","23:42.5","9"
+24,"Lucy Vargas","St. Mary's","23:48.1","10"
+25,"Cadence Jarding","Hanson","23:56.9","11"
+26,"Sadey Holt","Baltic","24:00.7","10"
+27,"Reese Marek","Hanson","24:06.9","12"
+28,"Isabel Plaetz","Wabasso","24:08.0","9"
+29,"Mallory Carlson","Iroquois/Lake Preston","24:11.2","10"
+30,"Alyssa Moschell","Hanson","24:18.0","12"
+31,"Ivy Jaacks","Elkton-Lake Benton","24:19.7","8"
+32,"Halley Miller","Arlington","24:22.2","10"
+33,"Madde Jensen","Elkton-Lake Benton","24:32.3","9"
+34,"Danelyn Greene","Estelline/Hendricks","24:32.8","9"
+35,"Charli Mccune","De Smet","24:35.2","9"
+36,"Shyla Tvedt","Deuel","24:38.6","9"
+37,"Anya Hemmer","Colman-Egan","24:51.4","9"
+38,"Peyton Jenniges","Wabasso","24:52.6","9"
+39,"Isabelle Lee","Colman-Egan","24:57.1","8"
+40,"Micaiah Brantner","James Valley Christian","25:03.7","10"
+41,"Charlotte Fields","De Smet","25:10.7","9"
+42,"Andie Aughenbaugh","James Valley Christian","25:14.8","10"
+43,"Aleisha Naze","Clark/Willow Lake","25:18.1","10"
+44,"Jada Henriksen","Arlington","25:25.0","12"
+45,"Jadie Turner","Redfield","26:22.3","11"
+46,"Annabelle Struntz","Wabasso","26:28.0","12"
+47,"Addison Marone","Arlington","26:28.4","9"
+48,"Sonja Sodren","Deuel","26:28.8","8"
+49,"Aylah Jenniges","Wabasso","27:09.9","10"
+50,"Nicole Steffensen","Arlington","27:40.6","12"
+51,"Kashley Goebel","Arlington","27:41.0","9"
+52,"Kim Sievers","Wolsey-Wessington","28:10.5","7"
+53,"Katie Erickson","Wabasso","28:16.2","11"
+54,"Madyson Determan","Baltic","28:36.0","8"
+55,"Addison Jensen","Wabasso","28:59.9","12"

@@ -1,40 +1,40 @@
-,Place,Name,Time,School,Class
-1,1,Ella Boekelheide,19:24.94,Northwestern,F
-2,2,Kennaedee Wagner,20:21.47,Warner,F
-3,3,Morgan Sumption,20:25.34,Frederick Area,F
-4,4,Hadasah Olson,20:51.28,James Valley Christian,F
-5,5,Madisyn Gellhaus,20:55.69,Ipswich,F
-6,6,Tara Blachford,21:08.59,Northwestern,F
-7,7,Jillian Ellwein,21:21.56,Frederick Area,F
-8,8,Lily Swanson,21:34.28,James Valley Christian,F
-9,9,Gracyn Kadlec,21:48.22,Ipswich,F
-10,10,Kylee Johnson,21:53.12,Deubrook Area,F
-11,11,Reese Hadrick,21:59.09,Faulkton Area,F
-12,12,Kenna Wolberg,22:03.09,Warner,F
-13,13,Rhyann Roseland,22:03.72,Faulkton Area,F
-14,14,Olivia Hadrick,22:14.47,Faulkton Area,F
-15,15,Addisyn Heinrich,22:15.44,Warner,F
-16,16,Laura Sumption,22:27.75,Frederick Area,F
-17,17,Rhayonna Hood,22:35.18,James Valley Christian,F
-18,18,Isabella Henderson,22:38.31,Ipswich,F
-19,19,Sophia Troske,22:39.15,Northwestern,F
-20,20,Sofia Losure,22:50.15,Frederick Area,F
-21,21,Ava Crooks,23:01.31,Deubrook Area,F
-22,22,Austina Sorensen,23:17.69,Faulkton Area,F
-23,23,Katie Bretsch,23:20.84,Frederick Area,F
-24,24,Tenley Schulz,23:35.31,Deubrook Area,F
-25,25,Adelynne Ihnen,23:35.94,Hitchcock-Tulare,F
-26,26,Isabelle Woodring,23:46.91,Northwestern,F
-27,27,Clara Herreid,24:13.72,Aberdeen Christian,F
-28,28,Kyleigh Miller,24:16.06,Warner,F
-29,29,Livia Knecht,24:19.59,Britton-Hecla,F
-30,30,Rylin Wipf,24:31.56,James Valley Christian,F
-31,31,Micaiah Brantner,24:40.62,James Valley Christian,F
-32,32,Jodyn Bawek,24:44.22,Hitchcock-Tulare,F
-33,33,Olivia Kadlec,24:56.50,Ipswich,F
-34,34,Lucia Holsing,25:16.84,Faulkton Area,F
-35,35,Aubrey Crissman,25:45.15,Ipswich,F
-36,36,Anneliese Holsing,26:10.18,Northwestern,F
-37,37,Jeris Stark,27:28.09,Britton-Hecla,F
-38,38,Isabel Knutson,30:31.09,Deubrook Area,F
-39,39,Lucy Jones,31:41.50,Aberdeen Christian,F
+"Place","Name","School","Time","Grade"
+1,"Ella Boekelheide","Northwestern","19:24.94",
+2,"Kennaedee Wagner","Warner","20:21.47",
+3,"Morgan Sumption","Frederick Area","20:25.34",
+4,"Hadasah Olson","James Valley Christian","20:51.28",
+5,"Madisyn Gellhaus","Ipswich","20:55.69",
+6,"Tara Blachford","Northwestern","21:08.59",
+7,"Jillian Ellwein","Frederick Area","21:21.56",
+8,"Lily Swanson","James Valley Christian","21:34.28",
+9,"Gracyn Kadlec","Ipswich","21:48.22",
+10,"Kylee Johnson","Deubrook Area","21:53.12",
+11,"Reese Hadrick","Faulkton Area","21:59.09",
+12,"Kenna Wolberg","Warner","22:03.09",
+13,"Rhyann Roseland","Faulkton Area","22:03.72",
+14,"Olivia Hadrick","Faulkton Area","22:14.47",
+15,"Addisyn Heinrich","Warner","22:15.44",
+16,"Laura Sumption","Frederick Area","22:27.75",
+17,"Rhayonna Hood","James Valley Christian","22:35.18",
+18,"Isabella Henderson","Ipswich","22:38.31",
+19,"Sophia Troske","Northwestern","22:39.15",
+20,"Sofia Losure","Frederick Area","22:50.15",
+21,"Ava Crooks","Deubrook Area","23:01.31",
+22,"Austina Sorensen","Faulkton Area","23:17.69",
+23,"Katie Bretsch","Frederick Area","23:20.84",
+24,"Tenley Schulz","Deubrook Area","23:35.31",
+25,"Adelynne Ihnen","Hitchcock-Tulare","23:35.94",
+26,"Isabelle Woodring","Northwestern","23:46.91",
+27,"Clara Herreid","Aberdeen Christian","24:13.72",
+28,"Kyleigh Miller","Warner","24:16.06",
+29,"Livia Knecht","Britton-Hecla","24:19.59",
+30,"Rylin Wipf","James Valley Christian","24:31.56",
+31,"Micaiah Brantner","James Valley Christian","24:40.62",
+32,"Jodyn Bawek","Hitchcock-Tulare","24:44.22",
+33,"Olivia Kadlec","Ipswich","24:56.50",
+34,"Lucia Holsing","Faulkton Area","25:16.84",
+35,"Aubrey Crissman","Ipswich","25:45.15",
+36,"Anneliese Holsing","Northwestern","26:10.18",
+37,"Jeris Stark","Britton-Hecla","27:28.09",
+38,"Isabel Knutson","Deubrook Area","30:31.09",
+39,"Lucy Jones","Aberdeen Christian","31:41.50",

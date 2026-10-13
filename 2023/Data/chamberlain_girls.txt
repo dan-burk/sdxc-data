@@ -1,0 +1,420 @@
+1
+
+Kinsey Evans
+
+Chamberlain
+19:40.0
+Yr: 12
+2
+
+Heidi Olson
+
+Mobridge-Pollock
+19:59.0
+Yr: 12
+3
+AB
+Autumn Baker
+
+Kimball/White Lake
+20:14.0
+Yr: 10
+4
+DK
+Dannika Kaup
+
+Gettysburg
+20:24.0
+Yr: 10
+5
+KB
+Kylah Biggins
+
+Chamberlain
+20:35.0
+Yr: 10
+6
+
+Ella Pollreisz
+
+Ethan/Parkston
+20:42.0
+Yr: 11
+7
+LT
+Liberty Trygstad
+
+Sioux Valley
+20:46.0
+Yr: 9
+8
+GP
+Grace Phillips
+
+Chamberlain
+20:46.0
+Yr: 7
+9
+JA
+Jadyn Ahlemeier
+
+Gettysburg
+20:50.0
+Yr: 10
+10
+LB
+Lily Baker
+
+Kimball/White Lake
+21:05.0
+Yr: 9
+11
+
+Talya Vincent
+
+Sioux Valley
+21:21.0
+Yr: 10
+12
+ML
+Maci Licht
+
+Sioux Valley
+21:25.0
+Yr: 7
+13
+ES
+Emma Schlachter
+
+Gettysburg
+21:36.0
+Yr: 10
+14
+
+Silvana Houska
+
+Chamberlain
+21:41.0
+Yr: 9
+15
+AM
+Alli McCord
+
+Kimball/White Lake
+21:50.0
+Yr: 9
+16
+BM
+Berklee Mills
+
+Platte-Geddes
+21:53.0
+Yr: 8
+17
+
+Autumn Fallis
+
+Highmore-Harrold
+22:09.0
+Yr: 10
+18
+KM
+Kaysen Magee
+
+Stanley County
+22:11.0
+Yr: 11
+19
+
+Madeline Nye
+
+Miller
+22:18.0
+Yr: 11
+20
+AS
+April Skluzak
+
+Kimball/White Lake
+22:21.0
+Yr: 7
+21
+PA
+Paige Ahlemeier
+
+Gettysburg
+22:30.0
+Yr: 8
+22
+AG
+Aine Graesser
+
+Chamberlain
+22:51.0
+Yr: 10
+23
+AG
+Ava Gatzke
+
+Sioux Valley
+22:53.0
+Yr: 8
+24
+JS
+Jaycee Stevens
+
+Gettysburg
+22:53.0
+Yr: 7
+25
+
+Sophia Bauld
+
+Burke
+22:54.0
+Yr: 11
+26
+ED
+Eilie DeHaan
+
+Andes Central/Dakota Christian
+22:59.0
+Yr: 9
+27
+GW
+Gabby Werdel
+
+Miller
+23:00.0
+Yr: 10
+28
+SL
+Shelly Larvie
+
+Todd County
+23:28.0
+Yr: 7
+29
+
+Taylor Zeisler
+
+Burke
+23:34.0
+Yr: 8
+30
+AR
+Alexis Roesler
+
+Wessington Springs
+23:37.0
+Yr: 9
+31
+QN
+Quynn Nielson
+
+Sioux Valley
+23:38.0
+Yr: 9
+32
+PS
+Presley Slaba
+
+Wagner
+23:41.0
+Yr: 11
+33
+DV
+Dulcie Veurink
+
+Platte-Geddes
+23:48.0
+Yr: 9
+34
+RN
+Rachel Nemec
+
+Stanley County
+23:52.0
+Yr: 12
+35
+KS
+Kyia Schmidt
+
+Mount Vernon/Plankinton
+23:54.0
+Yr: 12
+36
+CO
+Cameron Olson
+
+Winner
+23:57.0
+Yr: 7
+37
+ES
+Elizabeth Schoenfelder
+
+Ethan/Parkston
+23:58.0
+Yr: 9
+38
+GR
+Grace Roth
+
+North Central
+24:21.0
+Yr: 9
+39
+KA
+Kassandra Abbas
+
+North Central
+24:30.0
+Yr: 9
+40
+EB
+Elyssa Bartelt
+
+Ethan/Parkston
+24:34.0
+Yr: 12
+41
+AZ
+Avery Zeisler
+
+Burke
+24:37.0
+Yr: 11
+42
+AK
+Abigail Kolousek
+
+Wessington Springs
+24:44.0
+Yr: 12
+43
+MM
+Masynn Mebius
+
+Wessington Springs
+24:49.0
+Yr: 10
+44
+LS
+Lexi Schoenfelder
+
+Ethan/Parkston
+24:53.0
+Yr: 10
+45
+EM
+Elizabeth Moore
+
+Todd County
+24:54.0
+Yr: 10
+46
+AR
+Alexsis Red Bird
+
+Todd County
+24:57.0
+Yr: 9
+47
+GM
+Grace Mousseau
+
+Chamberlain
+25:25.0
+Yr: 11
+48
+JJ
+Jaylin Johnson
+
+Mount Vernon/Plankinton
+25:36.0
+Yr: 9
+49
+
+Allie Gortmaker
+
+Miller
+25:51.0
+Yr: 9
+50
+LY
+Lydia Yost
+
+Wagner
+25:58.0
+Yr: 11
+51
+CA
+Cadance Amiotte
+
+Todd County
+26:10.0
+Yr: 11
+52
+SF
+Sarah Fosheim
+
+Stanley County
+26:16.0
+Yr: 11
+53
+HD
+Harley Douglas
+
+Mount Vernon/Plankinton
+26:51.0
+Yr: 12
+54
+GB
+Gentrie Blasius
+
+Kimball/White Lake
+27:01.0
+Yr: 8
+55
+BQ
+Braelyn Qualm
+
+Platte-Geddes
+27:07.0
+Yr: 10
+56
+
+Akane Metcalfe
+
+Kimball/White Lake
+27:29.0
+Yr: 12
+57
+EK
+Ella Kolousek
+
+Wessington Springs
+27:45.0
+Yr: 9
+58
+KM
+Kala Maxon
+
+Platte-Geddes
+27:52.0
+Yr: 9
+59
+BD
+Bella Duerfeldt
+
+Burke
+29:04.0
+Yr: 10
+60
+MD
+Melanie Dallenbach
+
+North Central
+29:17.0
+Yr: 9

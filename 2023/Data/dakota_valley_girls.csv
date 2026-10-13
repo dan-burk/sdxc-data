@@ -1,42 +1,42 @@
-"","Place","Name","Time","School","Class"
-"1",1,"Sophia Redler","21:40.61","Dakota Valley","F"
-"2",2,"Jaycie Babb","21:51.63","Tea Area","F"
-"3",3,"Grace Bialas","22:27.94","Tea Area","F"
-"4",4,"Alex McCullough","22:55.53","Dakota Valley","F"
-"5",5,"Jayla York","23:58.08","Canton","F"
-"6",6,"Emma Scott","24:05.35","Sioux City East","F"
-"7",7,"Ava Sletten","24:14.30","Canton","F"
-"8",8,"Jordyn Wilson","24:23.58","Sioux City East","F"
-"9",9,"Finley Evjen","24:35.74","Canton","F"
-"10",10,"Mia Riibe","24:46.62","Dakota Valley","F"
-"11",11,"Meredith Decker","25:00.14","Tea Area","F"
-"12",12,"Sara Schroder","25:22.52","Canton","F"
-"13",13,"Jewel Gannon","25:23.30","Canton","F"
-"14",14,"Haley Korver","25:51.20","Tea Area","F"
-"15",15,"Rachel Hersom","26:02.73","Dakota Valley","F"
-"16",16,"Jaycie Rush","26:12.00","Dakota Valley","F"
-"17",17,"Lilly Whiteshirt","26:17.20","SC West","F"
-"18",18,"Bailee Hansen","26:18.91","SC West","F"
-"19",19,"Khloee Weitzel","26:23.10","Sioux City East","F"
-"20",20,"Emma Hogan","26:25.67","Sioux City East","F"
-"21",21,"Brooklyn Reiners","26:29.56","Tea Area","F"
-"22",22,"Jacyi Lockamy","26:40.19","Sioux City East","F"
-"23",23,"Cheyenne Ameen","26:56.59","Lawton-Bronson","F"
-"24",24,"Addison Smith","27:12.12","Lawton-Bronson","F"
-"25",25,"Alondra Prieto","27:39.41","SC West","F"
-"26",26,"Lilin Kamm","28:01.78","Sioux City East","F"
-"27",27,"Ashley Stark","28:07.94","Elk Point-Jefferson","F"
-"28",28,"Finley Huber","28:19.71","Dakota Valley","F"
-"29",29,"Scarlett Taylor","28:28.09","Tea Area","F"
-"30",30,"Natalie McKenna","29:01.68","Lawton-Bronson","F"
-"31",31,"Esther Reynolds","29:05.98","Siouxland Christian","F"
-"32",32,"Sydney Brouwer","29:17.29","Lawton-Bronson","F"
-"33",33,"Kaylee Mesz","29:46.85","Lawton-Bronson","F"
-"34",34,"Taya Eisenga","29:58.51","Siouxland Christian","F"
-"35",35,"Lela Haveman","31:04.00","Lawton-Bronson","F"
-"36",36,"Kamrynn Brumbaugh","31:30.78","Irene-Wakonda","F"
-"37",37,"Mckenna Huenink","32:27.99","Alcester-Hudson","F"
-"38",38,"Jade Fonseca","32:59.58","SC West","F"
-"39",39,"Susely Martinez","36:42.94","SC West","F"
-"40",40,"Haylie Talbert","37:04.57","Siouxland Christian","F"
-"41",41,"Dayrin Suarez","38:12.98","SC West","F"
+"Place","Name","School","Time","Grade"
+1,"Sophia Redler","Dakota Valley","21:40.61",NA
+2,"Jaycie Babb","Tea Area","21:51.63",NA
+3,"Grace Bialas","Tea Area","22:27.94",NA
+4,"Alex McCullough","Dakota Valley","22:55.53",NA
+5,"Jayla York","Canton","23:58.08",NA
+6,"Emma Scott","Sioux City East","24:05.35",NA
+7,"Ava Sletten","Canton","24:14.30",NA
+8,"Jordyn Wilson","Sioux City East","24:23.58",NA
+9,"Finley Evjen","Canton","24:35.74",NA
+10,"Mia Riibe","Dakota Valley","24:46.62",NA
+11,"Meredith Decker","Tea Area","25:00.14",NA
+12,"Sara Schroder","Canton","25:22.52",NA
+13,"Jewel Gannon","Canton","25:23.30",NA
+14,"Haley Korver","Tea Area","25:51.20",NA
+15,"Rachel Hersom","Dakota Valley","26:02.73",NA
+16,"Jaycie Rush","Dakota Valley","26:12.00",NA
+17,"Lilly Whiteshirt","SC West","26:17.20",NA
+18,"Bailee Hansen","SC West","26:18.91",NA
+19,"Khloee Weitzel","Sioux City East","26:23.10",NA
+20,"Emma Hogan","Sioux City East","26:25.67",NA
+21,"Brooklyn Reiners","Tea Area","26:29.56",NA
+22,"Jacyi Lockamy","Sioux City East","26:40.19",NA
+23,"Cheyenne Ameen","Lawton-Bronson","26:56.59",NA
+24,"Addison Smith","Lawton-Bronson","27:12.12",NA
+25,"Alondra Prieto","SC West","27:39.41",NA
+26,"Lilin Kamm","Sioux City East","28:01.78",NA
+27,"Ashley Stark","Elk Point-Jefferson","28:07.94",NA
+28,"Finley Huber","Dakota Valley","28:19.71",NA
+29,"Scarlett Taylor","Tea Area","28:28.09",NA
+30,"Natalie McKenna","Lawton-Bronson","29:01.68",NA
+31,"Esther Reynolds","Siouxland Christian","29:05.98",NA
+32,"Sydney Brouwer","Lawton-Bronson","29:17.29",NA
+33,"Kaylee Mesz","Lawton-Bronson","29:46.85",NA
+34,"Taya Eisenga","Siouxland Christian","29:58.51",NA
+35,"Lela Haveman","Lawton-Bronson","31:04.00",NA
+36,"Kamrynn Brumbaugh","Irene-Wakonda","31:30.78",NA
+37,"Mckenna Huenink","Alcester-Hudson","32:27.99",NA
+38,"Jade Fonseca","SC West","32:59.58",NA
+39,"Susely Martinez","SC West","36:42.94",NA
+40,"Haylie Talbert","Siouxland Christian","37:04.57",NA
+41,"Dayrin Suarez","SC West","38:12.98",NA

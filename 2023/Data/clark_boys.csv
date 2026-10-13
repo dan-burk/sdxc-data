@@ -1,39 +1,39 @@
-,Place,Name,Time,School,Class
-1,1,Kaleb Foltz,17:23.84,Tri-State,M
-2,2,Dylan Gerdes,17:35.80,Madison,M
-3,3,Brenton Westberry,18:54.18,Flandreau,M
-4,4,Tanner Reed,19:01.91,Flandreau,M
-5,5,Cooper Pommer,19:23.75,Clark/Willow Lake,M
-6,6,Matthew Gassman,19:32.39,Flandreau,M
-7,7,Henry Meyer,19:32.36,Madison,M
-8,8,Taylor Merkel,19:37.69,Clark/Willow Lake,M
-9,9,Nathan Hasleton,19:50.52,Madison,M
-10,10,Nathaniel Hobbie,19:52.53,Flandreau,M
-11,11,Kenton James,20:03.99,Flandreau,M
-12,12,Daniel Aldridge,20:11.45,Madison,M
-13,13,Wyatt Kontz,20:16.19,Flandreau,M
-14,14,Logan Kontz,20:18.33,Flandreau,M
-15,15,Damian Severson,20:35.03,Clark/Willow Lake,M
-16,16,Carson Vavruska,20:40.22,Florence/Henry,M
-17,17,Mason Brushbreaker,20:59.38,Flandreau,M
-18,18,Chase Steurwald,21:03.92,Madison,M
-19,19,Grady Wagner,21:08.98,Webster Area,M
-20,20,Kai Thomsen,21:34.98,Madison,M
-21,21,Sam Schmidt,21:38.75,Flandreau,M
-22,22,Kadin Raguse,21:40.85,Tri-State,M
-23,23,Daniel Hobbie,21:56.19,Flandreau,M
-24,24,AJ Wienk,22:09.75,Iroquois/Lake Preston,M
-25,25,Tacey Miller,22:10.96,Webster Area,M
-26,26,Amsden Piotter,22:14.24,Tri-State,M
-27,27,Logan Seefeldt,22:48.84,Clark/Willow Lake,M
-28,28,Nathan Enninga,22:57.06,Iroquois/Lake Preston,M
-29,29,Waylan Olson,23:11.54,Clark/Willow Lake,M
-30,30,Oliver Reitz,23:17.54,Clark/Willow Lake,M
-31,31,Joshua Klein,23:23.35,Tri-State,M
-32,32,Zach Schroeder,23:39.27,Florence/Henry,M
-33,33,Jaxon Nimmer,23:48.42,Webster Area,M
-34,34,Tucker Steffens,24:10.41,Tri-State,M
-35,35,Aksel Gjerde,24:11.74,Clark/Willow Lake,M
-36,36,Cobin Raguse,24:25.17,Tri-State,M
-37,37,Bo Brandriet,24:44.59,Florence/Henry,M
-38,38,Blaise McGregor,25:17.19,Webster Area,M
+"Place","Name","School","Time","Grade"
+1,"Kaleb Foltz","Tri-State","17:23.9","12"
+2,"Dylan Gerdes","Madison","17:35.8","10"
+3,"Brenton Westberry","Flandreau","18:54.2","11"
+4,"Tanner Reed","Flandreau","19:02.0","12"
+5,"Cooper Pommer","Clark/Willow Lake","19:23.8","10"
+6,"Matthew Gassman","Flandreau","19:29.4","12"
+7,"Henry Meyer","Madison","19:32.4","11"
+8,"Taylor Merkel","Clark/Willow Lake","19:37.7","12"
+9,"Nathan Hasleton","Madison","19:50.6","11"
+10,"Nathaniel Hobbie","Flandreau","19:55.3","9"
+11,"Kenton James","Flandreau","20:04.0","9"
+12,"Daniel Aldridge","Madison","20:11.5","10"
+13,"Wyatt Kontz","Flandreau","20:16.2","10"
+14,"Logan Kontz","Flandreau","20:18.4","8"
+15,"Damian Severson","Clark/Willow Lake","20:35.1","10"
+16,"Carson Vavruska","Florence/Henry","20:40.3","11"
+17,"Mason Brushbreaker","Flandreau","20:59.4","10"
+18,"Chase Steurwald","Madison","21:04.0","12"
+19,"Grady Wagner","Webster Area","21:09.0","9"
+20,"Kai Thomsen","Madison","21:35.0","10"
+21,"Sam Schmidt","Flandreau","21:38.8","9"
+22,"Kadin Raguse","Tri-State","21:40.9","11"
+23,"Daniel Hobbie","Flandreau","21:56.2","11"
+24,"AJ Wienk","Iroquois/Lake Preston","22:09.8","12"
+25,"Tacey Miller","Webster Area","22:10.7","12"
+26,"Amsden Piotter","Tri-State","22:12.5","11"
+27,"Logan Seefeldt","Clark/Willow Lake","22:48.9","10"
+28,"Nathan Enninga","Iroquois/Lake Preston","22:57.1","12"
+29,"Waylan Olson","Clark/Willow Lake","23:11.6","11"
+30,"Oliver Reitz","Clark/Willow Lake","23:17.6","10"
+31,"Joshua Klein","Tri-State","23:23.4","9"
+32,"Zach Schroeder","Florence/Henry","23:39.3","9"
+33,"Jaxon Nimmer","Webster Area","23:48.3","10"
+34,"Tucker Steffens","Tri-State","24:10.5","9"
+35,"Aksel Gjerde","Clark/Willow Lake","24:21.2","7"
+36,"Cobin Raguse","Tri-State","24:25.2","9"
+37,"Bo Brandriet","Florence/Henry","24:44.6","12"
+38,"Blaise McGregor","Webster Area","25:17.2","11"

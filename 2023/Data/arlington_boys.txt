@@ -1,0 +1,392 @@
+1
+CW
+Carson Wosje
+
+Sioux Valley
+17:34.0
+Yr: 10
+2
+CS
+Caden Schwader
+
+Howard
+17:36.0
+Yr: 10
+3
+
+Jeff Boschee
+
+Sanborn Central/Woonsocket
+17:46.0
+Yr: 12
+4
+LJ
+Landen Johnson
+
+Deubrook Area
+17:56.0
+Yr: 12
+5
+AL
+Alex Langner
+
+Baltic
+18:21.0
+Yr: 12
+6
+LK
+Lance Kaufman
+
+Arlington
+18:37.0
+Yr: 11
+7
+KG
+Kyle Gronewold
+
+Baltic
+18:52.0
+Yr: 10
+8
+TR
+Tanner Reed
+
+Flandreau
+18:56.0
+Yr: 12
+9
+BW
+Brenton Westberry
+
+Flandreau
+19:08.0
+Yr: 11
+10
+NH
+Nathaniel Hobbie
+
+Flandreau
+19:11.0
+Yr: 9
+11
+RM
+Riley Miller
+
+Arlington
+19:18.0
+Yr: 12
+12
+CT
+Colton Trooien
+
+Deubrook Area
+19:22.2
+Yr: 12
+13
+CO
+Charlie Olsen
+
+Deubrook Area
+19:23.0
+Yr: 10
+14
+AD
+August Dagel
+
+Estelline/Hendricks
+19:23.0
+Yr: 9
+15
+MG
+Matthew Gassman
+
+Flandreau
+19:24.0
+Yr: 12
+16
+
+Kyler Marson
+
+Estelline/Hendricks
+19:26.0
+Yr: 8
+17
+JH
+Jace Heumiller
+
+McCook Central/Montrose
+19:27.0
+Yr: 12
+18
+BH
+Brady Hiltunen
+
+Sioux Valley
+19:28.0
+PB • Yr: 9
+19
+WK
+Wyatt Kontz
+
+Flandreau
+19:30.0
+Yr: 10
+20
+CH
+Camden Hobbs
+
+Estelline/Hendricks
+19:31.0
+Yr: 12
+21
+CG
+Conner Giedd
+
+De Smet
+19:35.0
+Yr: 9
+22
+SS
+Sam Schmidt
+
+Flandreau
+19:44.0
+Yr: 9
+23
+JQ
+Jaxon Quail
+
+Deubrook Area
+19:49.0
+Yr: 12
+24
+MB
+Mason Brushbreaker
+
+Flandreau
+19:56.0
+Yr: 10
+25
+CH
+Cade Hexem
+
+Estelline/Hendricks
+19:58.0
+Yr: 9
+26
+CS
+Carter Sapp
+
+Sioux Valley
+20:00.0
+Yr: 9
+27
+LK
+Logan Kontz
+
+Flandreau
+20:04.0
+Yr: 8
+28
+KJ
+Kenton James
+
+Flandreau
+20:10.0
+Yr: 9
+29
+CH
+Chase Henriksen
+
+Arlington
+20:12.0
+Yr: 9
+30
+LA
+Levi Axtell
+
+Sioux Valley
+20:14.0
+Yr: 8
+31
+NE
+Nolan Eidson
+
+Castlewood
+20:17.0
+Yr: 9
+32
+BM
+Bret Milton
+
+Sioux Valley
+20:24.0
+Yr: 10
+33
+TS
+Tyrus Schulz
+
+Deubrook Area
+20:28.0
+Yr: 9
+34
+GW
+Garrett Wilkison
+
+Baltic
+20:31.0
+Yr: 10
+35
+DK
+Dorian Kaufman
+
+Arlington
+20:37.1
+Yr: 9
+36
+LD
+Lanz Dailey
+
+Flandreau
+20:37.9
+SB • Yr: 12
+37
+
+Shae Fiala
+
+Baltic
+20:38.0
+Yr: 12
+38
+DH
+Daniel Hobbie
+
+Flandreau
+20:40.2
+Yr: 11
+39
+JW
+Jack Wilde
+
+Baltic
+20:40.9
+Yr: 11
+40
+CB
+Caedmon Bressler
+
+Elkton-Lake Benton
+20:41.0
+Yr: 12
+41
+CT
+Chase Temme
+
+De Smet
+20:42.0
+Yr: 10
+42
+JB
+Jordan Botkin
+
+De Smet
+20:49.0
+Yr: 9
+43
+JB
+Jase Brouwer
+
+Centerville
+20:57.0
+Yr: 11
+44
+AW
+AJ Wienk
+
+Iroquois/Lake Preston
+20:59.0
+Yr: 12
+45
+SB
+Sam Baruth
+
+Sanborn Central/Woonsocket
+21:02.0
+Yr: 10
+46
+JR
+JP Rogness
+
+Deubrook Area
+21:33.0
+Yr: 12
+47
+IM
+Isaac Marohl
+
+Centerville
+21:37.0
+Yr: 11
+48
+CH
+Carter Hitchcock
+
+Sanborn Central/Woonsocket
+21:56.0
+Yr: 12
+49
+CS
+Chance Schoenfeld
+
+Deubrook Area
+22:04.0
+Yr: 10
+50
+GA
+Gabriel Aughenbaugh
+
+De Smet
+22:07.0
+Yr: 9
+51
+CS
+Carter Schulte
+
+Deubrook Area
+22:23.0
+Yr: 10
+52
+ZA
+Zayd Anderson
+
+Oldham-Ramona-Rutland
+22:24.0
+Yr: 11
+53
+CH
+Cody Heinz
+
+McCook Central/Montrose
+24:31.0
+Yr: 12
+54
+AK
+Antone Krempges
+
+McCook Central/Montrose
+25:19.0
+Yr: 10
+55
+CJ
+Connor Johnson
+
+De Smet
+26:46.0
+Yr: 12
+56
+ML
+Mathias Lindgren
+
+Sanborn Central/Woonsocket
+28:36.0
+Yr: 11

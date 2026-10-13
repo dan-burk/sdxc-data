@@ -1,26 +1,26 @@
-﻿,Place,Name,Time,School,Class
-1,1,Shelly Larvie,22:18.47,Todd County,F
-2,2,Kaysen Magee,22:27.67,Stanley County,F
-3,3,Brynn Odenbach,22:47.64,Lemmon,F
-4,4,Chel Odenbach,22:54.92,Lemmon,F
-5,5,Natalie Dreiske,23:08.77,Lemmon,F
-6,6,Briley Gebhart,23:53.96,Lemmon,F
-7,7,Rachel Nemec,24:24.77,Stanley County,F
-8,8,Esther Burkhalter,24:25.98,Bison,F
-9,9,Jael Burkhalter,24:39.56,Bison,F
-10,10,Elizabeth Moore,24:39.85,Todd County,F
-11,11,Sarah Fosheim,25:10.04,Stanley County,F
-12,12,Alexis Red Bird,25:26.54,Todd County,F
-13,13,Adrienne White Lance,25:58.39,St. Francis Indian,F
-14,14,Wi Wanbil Wi Little Thunder,26:00.13,St. Francis Indian,F
-15,15,Lilyth Catches,26:37.84,Pine Ridge,F
-16,16,Cadence Amiotte,26:40.58,Todd County,F
-17,17,Melissa Bone Shirt,27:36.26,St. Francis Indian,F
-18,18,Luise Pond,28:07.14,Pine Ridge,F
-19,19,Danica Clifford,28:15.86,Little Wound,F
-20,20,Maleyah Krogman,28:45.24,St. Francis Indian,F
-21,21,Payton Olson,29:13.30,Lemmon,F
-22,22,Angel Benson,31:40.81,Tiospaye Topa,F
-23,23,Alexis Ten Fingers,32:42.54,Little Wound,F
-24,24,Madison Jeffries,34:45.87,Tiospaye Topa,F
-25,25,Lola Big Eagle,37:23.00,Tiospaye Topa,F
+"Place","Name","School","Time","Grade"
+1,"Shelly Larvie","Todd County","22:18.47",
+2,"Kaysen Magee","Stanley County","22:27.67",
+3,"Brynn Odenbach","Lemmon","22:47.64",
+4,"Chel Odenbach","Lemmon","22:54.92",
+5,"Natalie Dreiske","Lemmon","23:08.77",
+6,"Briley Gebhart","Lemmon","23:53.96",
+7,"Rachel Nemec","Stanley County","24:24.77",
+8,"Esther Burkhalter","Bison","24:25.98",
+9,"Jael Burkhalter","Bison","24:39.56",
+10,"Elizabeth Moore","Todd County","24:39.85",
+11,"Sarah Fosheim","Stanley County","25:10.04",
+12,"Alexis Red Bird","Todd County","25:26.54",
+13,"Adrienne White Lance","St. Francis Indian","25:58.39",
+14,"Wi Wanbil Wi Little Thunder","St. Francis Indian","26:00.13",
+15,"Lilyth Catches","Pine Ridge","26:37.84",
+16,"Cadence Amiotte","Todd County","26:40.58",
+17,"Melissa Bone Shirt","St. Francis Indian","27:36.26",
+18,"Luise Pond","Pine Ridge","28:07.14",
+19,"Danica Clifford","Little Wound","28:15.86",
+20,"Maleyah Krogman","St. Francis Indian","28:45.24",
+21,"Payton Olson","Lemmon","29:13.30",
+22,"Angel Benson","Tiospaye Topa","31:40.81",
+23,"Alexis Ten Fingers","Little Wound","32:42.54",
+24,"Madison Jeffries","Tiospaye Topa","34:45.87",
+25,"Lola Big Eagle","Tiospaye Topa","37:23.00",

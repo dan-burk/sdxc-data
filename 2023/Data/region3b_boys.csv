@@ -1,44 +1,44 @@
-,Place,Name,Time,School,Class
-1,1,Tavin Schroeder,16:47.36,Freeman Academy/Marion,M
-2,2,Silas Holdeman,16:48.70,Mitchell Christian,M
-3,3,Finley McConniel,17:22.15,Freeman Academy/Marion,M
-4,4,Finn Adams,17:28.30,Gregory,M
-5,5,Luke Mentele,17:45.56,Mitchell Christian,M
-6,6,Luke Barreto,18:08.68,Gregory,M
-7,7,Braydan Mangel,18:10.92,Freeman,M
-8,8,Tyler Tjeerdsma,18:13.32,Avon,M
-9,9,Kaden Christian,18:15.59,Canistota,M
-10,10,Lane McCune,18:32.02,Freeman,M
-11,11,Sawyer Holdeman,18:35.99,Mitchell Christian,M
-12,12,Reece Christian,18:53.34,Canistota,M
-13,13,Joseph Tegethoff,19:04.45,Mitchell Christian,M
-14,14,Pierce Stukel,19:25.17,Gregory,M
-15,15,John Fathke,19:25.73,Avon,M
-16,16,Ryler Stevicks,19:28.87,Gregory,M
-17,17,Rance Kuhlman,19:31.02,Avon,M
-18,18,Jayson Allison,19:37.12,Freeman Academy/Marion,M
-19,19,Brayden Bordewyk,19:38.83,Corsica-Stickney,M
-20,20,Caleb Schroeder,19:39.29,Canistota,M
-21,21,CJ Bjorum,20:04.65,Scotland,M
-22,22,Jack Fathke,20:26.00,Avon,M
-23,23,Ethan VandenHoek,20:38.76,Corsica-Stickney,M
-24,24,Austin Duerksen,20:39.91,Bridgewater-Emery,M
-25,25,Josh Oleson,20:41.14,Freeman,M
-26,26,Reed Woerner,20:44.73,Corsica-Stickney,M
-27,27,Jackson Bolander,21:00.27,Gregory,M
-28,28,Luke Dangel,21:02.40,Andes Central/Dakota Christian,M
-29,29,Armando Miller,21:07.97,Freeman Academy/Marion,M
-30,30,Kolter Schmidt,21:20.72,Freeman Academy/Marion,M
-31,31,Caleb Wallinga,21:24.15,Avon,M
-32,32,Izaak Koenig,21:24.17,Burke,M
-33,33,Landon Tieszen,21:49.91,Canistota,M
-34,34,Kenny Kubal,22:38.12,Scotland,M
-35,35,Novi Arrow,22:46.29,Marty,M
-36,36,Jaxon Puetz,23:07.31,Canistota,M
-37,37,Ezekiel Koenig,23:16.49,Burke,M
-38,38,Renner DeHaan,23:40.15,Andes Central/Dakota Christian,M
-39,39,Isaiah Keeble,23:42.91,Marty,M
-40,40,Tate Bair,23:45.30,Marty,M
-41,41,Owen Andersen,24:11.54,Freeman,M
-42,42,Brandt Bruguiar,24:26.24,Marty,M
-43,43,Micah Meyer,28:09.21,Scotland,M
+"Place","Name","School","Time","Grade"
+1,"Tavin Schroeder","Freeman Academy/Marion - CLOSED","16:47.4","12"
+2,"Silas Holdeman","Mitchell Christian","16:48.7","9"
+3,"Finley McConniel","Freeman Academy/Marion - CLOSED","17:22.2","11"
+4,"Finn Adams","Gregory","17:28.3","11"
+5,"Luke Mentele","Mitchell Christian","17:45.6","9"
+6,"Lucas Barreto","Gregory","18:08.7","10"
+7,"Braydan Mangel","Freeman","18:11.0","8"
+8,"Tyler Tjeerdsma","Avon","18:13.4","12"
+9,"Kaden Christian","Canistota","18:15.6","9"
+10,"Lane McCune","Freeman","18:32.1","8"
+11,"Sawyer Holdeman","Mitchell Christian","18:36.0","8"
+12,"Reece Christian","Canistota","18:53.4","7"
+13,"Joseph Tegethoff","Mitchell Christian","19:04.5","12"
+14,"Pierce Stukel","Gregory","19:25.2","10"
+15,"John Fathke","Avon","19:25.8","11"
+16,"Ryler Stevicks","Gregory","19:28.9","10"
+17,"Rance Kuhlman","Avon","19:31.1","9"
+18,"Jayson Allison","Freeman Academy/Marion - CLOSED","19:37.2","10"
+19,"Brayden Bordewyk","Corsica-Stickney","19:38.9","7"
+20,"Caleb Schroeder","Canistota","19:39.3","8"
+21,"CJ Bjorum","Scotland","20:04.7","8"
+22,"Jack Fathke","Avon","20:26.0","9"
+23,"Ethan VandenHoek","Corsica-Stickney","20:38.8","8"
+24,"Austin Duerksen","Bridgewater-Emery","20:40.0","10"
+25,"Josh Oleson","Freeman","20:41.2","7"
+26,"Reed Woerner","Corsica-Stickney","20:44.8","8"
+27,"Jackson Bolander","Gregory","21:00.3","11"
+28,"Luke Dangel","Andes Central/Dakota Christian","21:02.4","10"
+29,"Armando Miller","Freeman Academy/Marion - CLOSED","21:08.0","10"
+30,"Kolter Schmidt","Freeman Academy/Marion - CLOSED","21:20.8","8"
+31,"Caleb Wallinga","Avon","21:24.2","12"
+32,"Izaak Koenig","Burke","21:24.2","12"
+33,"Landon Tieszen","Canistota","21:50.0","10"
+34,"Kenny Kubal","Scotland","22:38.2","11"
+35,"Novi Arrow","Marty","22:46.3","6"
+36,"Jaxon Puetz","Canistota","23:07.4","8"
+37,"Ezekiel Koenig","Burke","23:16.5","9"
+38,"Renner DeHaan","Andes Central/Dakota Christian","23:40.2","7"
+39,"Isaiah Keeble","Marty","23:43.0","11"
+40,"Tate Bair","Marty","23:45.3","11"
+41,"Owen Andersen","Freeman","24:11.6","9"
+42,"Brandt Bruguier","Marty","24:26.3","12"
+43,"Micah Meyer","Scotland","28:09.3","10"

@@ -1,12 +1,12 @@
-,Place,Name,Time,School,Class
-1,1,BreAna Aske,21:37,Jones County,F
-2,2,Madiliyn Wulf,23:36,New Underwood,F
-3,3,Aubrey Tucker,23:40,Jones County,F
-4,4,Evelyn Torberson,24:06,Black Hills Christian Academy,F
-5,5,Addison Kierl,25:03,Jones County,F
-6,6,Rosa Ainslie,25:07,Bennett County,F
-7,7,Taylee Dartt,25:47,Wall,F
-8,8,Sophie Dowling,26:02,Jones County,F
-9,9,Elizabeth Ackerman,28:06,Black Hills Christian Academy,F
-10,10,Callie Casjens,29:47,Wall,F
-11,11,Terryn Shearer,30:01,Wall,F
+"Place","Name","School","Time","Grade"
+1,"BreAna Aske","Jones County","21:37",
+2,"Madiliyn Wulf","New Underwood","23:36",
+3,"Aubrey Tucker","Jones County","23:40",
+4,"Evelyn Torberson","Black Hills Christian Academy","24:06",
+5,"Addison Kierl","Jones County","25:03",
+6,"Rosa Ainslie","Bennett County","25:07",
+7,"Taylee Dartt","Wall","25:47",
+8,"Sophie Dowling","Jones County","26:02",
+9,"Elizabeth Ackerman","Black Hills Christian Academy","28:06",
+10,"Callie Casjens","Wall","29:47",
+11,"Terryn Shearer","Wall","30:01",

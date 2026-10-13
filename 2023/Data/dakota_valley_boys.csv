@@ -1,45 +1,45 @@
-"","Place","Name","Time","School","Class"
-"1",1,"Jack Brown","17:43.08","Dakota Valley","M"
-"2",2,"Joe Cross","17:45.00","Dakota Valley","M"
-"3",3,"Reid Hammerquist","18:56.59","Tea Area","M"
-"4",4,"Michael Green","19:08.02","Dakota Valley","M"
-"5",5,"Maciah Shultz","19:31.51","Sioux City East","M"
-"6",6,"Jamison Gould","19:51.79","Dakota Valley","M"
-"7",7,"Kris Zellner","19:58.82","Sioux City East","M"
-"8",8,"Mason Marx","20:08.61","Elk Point-Jefferson","M"
-"9",9,"Brayden Karkalik","20:11.18","Dakota Valley","M"
-"10",10,"Luke Campbell","20:13.51","Sioux City East","M"
-"11",11,"Asher Morley","20:14.90","Sioux City East","M"
-"12",12,"Geoff Nelson","20:15.83","Dakota Valley","M"
-"13",13,"Holden Jelen","20:16.71","Tea Area","M"
-"14",14,"Sam Derulo","20:42.59","Siouxland Christian","M"
-"15",15,"Tate VanLaecken","20:43.95","Tea Area","M"
-"16",16,"Colten Wright","20:59.98","Dakota Valley","M"
-"17",17,"Jonah Klemisch","21:24.61","Tea Area","M"
-"18",18,"Zach Bartels","21:34.10","Canton","M"
-"19",19,"Caden Koepke","21:35.75","Sioux City East","M"
-"20",20,"Dylan Chwirka","21:35.80","Sioux City East","M"
-"21",21,"Austin Clercx","21:36.58","Elk Point-Jefferson","M"
-"22",22,"Peyton Sieber","21:47.61","Tea Area","M"
-"23",23,"Cedric Horst","21:58.33","Canton","M"
-"24",24,"Zach Adams","22:15.41","Lawton-Bronson","M"
-"25",25,"Alex Kayser","22:27.63","Tea Area","M"
-"26",26,"Dean Harkness","22:29.51","Elk Point-Jefferson","M"
-"27",27,"Ethan Buffington","22:32.05","Lawton-Bronson","M"
-"28",28,"Hunter Buono","22:59.76","Lawton-Bronson","M"
-"29",29,"Micah Decker","23:09.20","Canton","M"
-"30",30,"Alex Opland","23:10.06","Canton","M"
-"31",31,"Jeremy Bockelman","23:10.36","Canton","M"
-"32",32,"Camden Surdez","23:14.89","Canton","M"
-"33",33,"Lucas Patelski","23:14.92","Lawton-Bronson","M"
-"34",34,"Ryker Callendar","23:36.65","SC West","M"
-"35",35,"Henry Fischer","23:37.39","SC West","M"
-"36",36,"Rigoberto Ramos","24:09.94","Sioux City East","M"
-"37",37,"Erik Koehler","24:30.24","Siouxland Christian","M"
-"38",38,"Robby Doenhoefer","25:25.18","Lawton-Bronson","M"
-"39",39,"Connor McKewon","25:30.73","SC West","M"
-"40",40,"Brody Schoenherr","26:09.83","Lawton-Bronson","M"
-"41",41,"Gabe Enszer","26:15.58","SC West","M"
-"42",42,"Jojo Small","26:54.54","SC West","M"
-"43",43,"Joseph Wilson","30:18.86","SC West","M"
-"44",44,"Izzac Sommervold","30:31.49","Alcester-Hudson","M"
+"Place","Name","School","Time","Grade"
+1,"Jack Brown","Dakota Valley","17:43.08",NA
+2,"Joe Cross","Dakota Valley","17:45.00",NA
+3,"Reid Hammerquist","Tea Area","18:56.59",NA
+4,"Michael Green","Dakota Valley","19:08.02",NA
+5,"Maciah Shultz","Sioux City East","19:31.51",NA
+6,"Jamison Gould","Dakota Valley","19:51.79",NA
+7,"Kris Zellner","Sioux City East","19:58.82",NA
+8,"Mason Marx","Elk Point-Jefferson","20:08.61",NA
+9,"Brayden Karkalik","Dakota Valley","20:11.18",NA
+10,"Luke Campbell","Sioux City East","20:13.51",NA
+11,"Asher Morley","Sioux City East","20:14.90",NA
+12,"Geoff Nelson","Dakota Valley","20:15.83",NA
+13,"Holden Jelen","Tea Area","20:16.71",NA
+14,"Sam Derulo","Siouxland Christian","20:42.59",NA
+15,"Tate VanLaecken","Tea Area","20:43.95",NA
+16,"Colten Wright","Dakota Valley","20:59.98",NA
+17,"Jonah Klemisch","Tea Area","21:24.61",NA
+18,"Zach Bartels","Canton","21:34.10",NA
+19,"Caden Koepke","Sioux City East","21:35.75",NA
+20,"Dylan Chwirka","Sioux City East","21:35.80",NA
+21,"Austin Clercx","Elk Point-Jefferson","21:36.58",NA
+22,"Peyton Sieber","Tea Area","21:47.61",NA
+23,"Cedric Horst","Canton","21:58.33",NA
+24,"Zach Adams","Lawton-Bronson","22:15.41",NA
+25,"Alex Kayser","Tea Area","22:27.63",NA
+26,"Dean Harkness","Elk Point-Jefferson","22:29.51",NA
+27,"Ethan Buffington","Lawton-Bronson","22:32.05",NA
+28,"Hunter Buono","Lawton-Bronson","22:59.76",NA
+29,"Micah Decker","Canton","23:09.20",NA
+30,"Alex Opland","Canton","23:10.06",NA
+31,"Jeremy Bockelman","Canton","23:10.36",NA
+32,"Camden Surdez","Canton","23:14.89",NA
+33,"Lucas Patelski","Lawton-Bronson","23:14.92",NA
+34,"Ryker Callendar","SC West","23:36.65",NA
+35,"Henry Fischer","SC West","23:37.39",NA
+36,"Rigoberto Ramos","Sioux City East","24:09.94",NA
+37,"Erik Koehler","Siouxland Christian","24:30.24",NA
+38,"Robby Doenhoefer","Lawton-Bronson","25:25.18",NA
+39,"Connor McKewon","SC West","25:30.73",NA
+40,"Brody Schoenherr","Lawton-Bronson","26:09.83",NA
+41,"Gabe Enszer","SC West","26:15.58",NA
+42,"Jojo Small","SC West","26:54.54",NA
+43,"Joseph Wilson","SC West","30:18.86",NA
+44,"Izzac Sommervold","Alcester-Hudson","30:31.49",NA

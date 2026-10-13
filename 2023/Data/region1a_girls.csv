@@ -1,42 +1,42 @@
-,Place,Name,Time,School,Class
-1,1,Ashlynn Batchelor,19:12.60,Milbank,F
-2,2,Kamryn Nesheim,19:59.14,Clark/Willow Lake,F
-3,3,Jaycee Hourigan,20:18.91,Deuel,F
-4,4,Cadence Bochek,20:20.30,Clark/Willow Lake,F
-5,5,Addison Cassady,20:27.66,Aberdeen Roncalli,F
-6,6,Madison Zirbel,20:31.35,Waubay/Summit,F
-7,7,Bianca Berry,20:55.91,Milbank,F
-8,8,Ella Koplin,21:10.15,Milbank,F
-9,9,Hadley Gjerdse,21:12.36,Clark/Willow Lake,F
-10,10,Hazel Kannegieter,21:35.85,Aberdeen Roncalli,F
-11,11,Isabella Imm,21:42.29,Deuel,F
-12,12,Emma Bochek,21:44.90,Clark/Willow Lake,F
-13,13,Paige Schmidt,21:56.42,Aberdeen Roncalli,F
-14,14,Sarah Schmidt,21:59.75,Aberdeen Roncalli,F
-15,15,Chloe Berg,22:06.86,Great Plains Lutheran,F
-16,16,Sydnie Gilbert,22:09.74,Groton Area,F
-17,17,Alyvia Geffre,22:13.80,Tri-State,F
-18,18,Clare Peterson,22:17.80,Aberdeen Roncalli,F
-19,19,Hannah Sonstebo,22:18.98,Webster Area,F
-20,20,Kynlee Speidel,22:20.63,Milbank,F
-21,21,Emma Caulfield,22:21.55,Florence/Henry,F
-22,22,Zayda Townsend,22:25.82,Milbank,F
-23,23,Nevaeh Reitz,22:41.92,Clark/Willow Lake,F
-24,24,Madison Stemwedel,22:49.24,Florence/Henry,F
-25,25,Danielle Batchelor,23:06.44,Clark/Willow Lake,F
-26,26,Shyla Tvedt,23:16.49,Deuel,F
-27,27,Jocelyn Rumpca,23:30.62,Webster Area,F
-28,28,Tyra Berry,23:37.66,Milbank,F
-29,29,Greta Peterson,23:49.47,Aberdeen Roncalli,F
-30,30,Griffyn Muller,23:49.41,Florence/Henry,F
-31,31,Brooke Hlavacek,24:03.66,Florence/Henry,F
-32,32,Eva Benike,24:09.75,Waubay/Summit,F
-33,33,Sydney Holmes,24:46.95,Groton Area,F
-34,34,Jadie Turner,24:49.47,Redfield,F
-35,35,Khloe Smith,24:50.29,Tri-State,F
-36,36,Chloe Foltz,24:57.47,Tri-State,F
-37,37,Emma Neumann,25:04.37,Great Plains Lutheran,F
-38,38,Taylor Bendix,25:05.40,Great Plains Lutheran,F
-39,39,Rylie Rose,25:27.39,Groton Area,F
-40,40,Amelia Giese,26:39.91,Deuel,F
-41,41,Emily Clark,31:31.53,Groton Area,F
+"Place","Name","School","Time","Grade"
+1,"Ashlynn Batchelor","Milbank","19:12.6","10"
+2,"Kamryn Nesheim","Clark/Willow Lake","19:59.2","8"
+3,"Jaycee Hourigan","Deuel","20:19.0","11"
+4,"Cadence Bochek","Clark/Willow Lake","20:20.3","10"
+5,"Addison Cassady","Aberdeen Roncalli","20:27.7","8"
+6,"Madison Zirbel","Waubay/Summit","20:31.4","12"
+7,"Bianca Berry","Milbank","20:56.0","8"
+8,"Ella Koplin","Milbank","21:10.2","7"
+9,"Hadley Gjerde","Clark/Willow Lake","21:12.4","9"
+10,"Hazel Kannegieter","Aberdeen Roncalli","21:13.4","8"
+11,"Isabella Imm","Deuel","21:42.3","11"
+12,"Emma Bochek","Clark/Willow Lake","21:44.9","8"
+13,"Paige Schmidt","Aberdeen Roncalli","21:56.7","12"
+14,"Sarah Schmidt","Aberdeen Roncalli","21:59.8","12"
+15,"Chloe Berg","Great Plains Lutheran","22:06.9","9"
+16,"Ryelle Gilbert","Groton Area","22:09.8","8"
+17,"Alyvia Geffre","Tri-State","22:13.8","9"
+18,"Clare Peterson","Aberdeen Roncalli","22:17.8","7"
+19,"Hannah Sonstebo","Webster Area","22:19.0","7"
+20,"Kynlee Speidel","Milbank","22:20.7","12"
+21,"Emma Caulfield","Florence/Henry","22:21.6","9"
+22,"Zayda Townsend","Milbank","22:25.9","9"
+23,"Nevaeh Reitz","Clark/Willow Lake","22:42.0","7"
+24,"Madison Stemwedel","Florence/Henry","22:49.3","8"
+25,"Danielle Batchelor","Clark/Willow Lake","23:06.5","12"
+26,"Shyla Tvedt","Deuel","23:16.5","9"
+27,"Jocelyn Rumpca","Webster Area","23:30.7","9"
+28,"Tyra Berry","Milbank","23:37.7","11"
+29,"Greta Peterson","Aberdeen Roncalli","23:42.2","7"
+30,"Griffyn Muller","Florence/Henry","23:49.5","11"
+31,"Brooke Hlavacek","Florence/Henry","24:03.7","11"
+32,"Eva Benike","Waubay/Summit","24:09.8","12"
+33,"Sydney Holmes","Groton Area","24:47.0","7"
+34,"Jadie Turner","Redfield","24:49.5","11"
+35,"Khloe Smith","Tri-State","24:50.3","8"
+36,"Chloe Foltz","Tri-State","24:57.5","8"
+37,"Emma Neumann","Great Plains Lutheran","25:01.3","11"
+38,"Taylor Bendix","Great Plains Lutheran","25:05.4","11"
+39,"Rylie Rose","Groton Area","25:47.3","8"
+40,"Amelia Giese","Deuel","26:40.0","9"
+41,"Emily Clark","Groton Area","31:31.6","12"

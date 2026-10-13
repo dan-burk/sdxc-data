@@ -1,32 +1,32 @@
-,Place,Name,Time,School,Class
-1,1,Lincoln Woodring,17:09.96,Northwestern,M
-2,2,Milo Sumption,17:20.83,Frederick Area,M
-3,3,Xavier Kadlec,17:29.36,Ipswich,M
-4,4,Nathan Melius,17:52.60,Northwestern,M
-5,5,Kalen Godel,18:09.61,Langford Area,M
-6,6,Mason Kaiser,18:12.85,Faulkton Area,M
-7,7,Austin Jenkins,18:19.01,Leola,M
-8,8,Ty Boekelheide,18:20.19,Northwestern,M
-9,9,Korbin Stark,18:21.15,Faulkton Area,M
-10,10,Howard Sumption,18:28.49,Frederick Area,M
-11,11,Will Clemens,18:35.05,Northwestern,M
-12,12,Ricky Larson,18:36.12,Northwestern,M
-13,13,Josh Thorson,18:39.92,Northwestern,M
-14,14,Beckham Cantaloupe,18:45.93,Warner,M
-15,15,Aaron Blachford,18:52.60,Northwestern,M
-16,16,Winston Clark,18:53.33,Frederick Area,M
-17,17,Titus Kippley,19:50.80,Frederick Area,M
-18,18,Noah Kippley,19:51.64,Frederick Area,M
-19,19,Jarren Haven,20:00.24,Northwestern,M
-20,20,Joseph Richards,20:36.09,Aberdeen Christian,M
-21,21,Tyler Gellhaus,20:25.39,Ipswich,M
-22,22,Grant Anderson,20:33.44,Leola,M
-23,23,Logan Niederbaumer,20:39.51,Faulkton Area,M
-24,24,Ethan Wald,20:43.28,Ipswich,M
-25,25,Jace Bender,20:54.53,Leola,M
-26,26,Carson Ewalt,21:02.04,Northwestern,M
-27,27,Paxton Johnson,21:50.86,Warner,M
-28,28,Cole Noonan,22:14.55,Faulkton Area,M
-29,29,Tye Pietz,22:39.37,Ipswich,M
-30,30,Tate Bray,23:58.54,Faulkton Area,M
-31,31,Kadyn Weisser,25:04.46,Ipswich,M
+"Place","Name","School","Time","Grade"
+1,"Lincoln Woodring","Northwestern","17:10.0","12"
+2,"Milo Sumption","Leola/Frederick Area","17:20.9","10"
+3,"Xavier Kadlec","Ipswich","17:29.4","12"
+4,"Nathan Melius","Northwestern","17:52.6","12"
+5,"Kalen Godel","Langford Area","18:09.7","12"
+6,"Mason Kaiser","Faulkton Area","18:12.9","12"
+7,"Austin Jenkins","Leola","18:19.1","12"
+8,"Ty Boekelheide","Northwestern","18:20.2","9"
+9,"Korbin Stark","Faulkton Area","18:21.2","9"
+10,"Howard Sumption","Leola/Frederick Area","18:28.5","8"
+11,"Will Clemens","Northwestern","18:35.1","8"
+12,"Ricky Larson","Northwestern","18:36.2","12"
+13,"Josh Thorson","Northwestern","18:40.0","11"
+14,"Beckham Cantalope","Warner","18:46.0","7"
+15,"Aaron Blanchford","Northwestern","18:52.6","11"
+16,"Winston Clark","Leola/Frederick Area","18:53.4","10"
+17,"Titus Kippley","Leola/Frederick Area","19:50.8","9"
+18,"Noah Kippley","Leola/Frederick Area","19:51.7","11"
+19,"Jarren Haven","Northwestern","20:00.3","8"
+20,"Joseph Richards","Aberdeen Christian","20:20.4","8"
+21,"Tyler Gellhaus","Ipswich","20:25.4","9"
+22,"Grant Anderson","Leola","20:33.5","10"
+23,"Logan Niederbaumer","Faulkton Area","20:39.6","9"
+24,"Ethan Wald","Ipswich","20:43.3","7"
+25,"Jace Bender","Leola","20:54.6","8"
+26,"Carson Ewalt","Northwestern","21:02.1","10"
+27,"Paxton Johnson","Warner","21:50.9","9"
+28,"Cole Noon","Faulkton Area","22:14.6","9"
+29,"Tye Pietz","Ipswich","22:39.4","10"
+30,"Tate Bray","Faulkton Area","23:58.6","8"
+31,"Kadyn Weisser","Ipswich","25:04.5","12"

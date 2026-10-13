@@ -1,20 +1,20 @@
-﻿,Place,Name,Time,School,Class
-1,1,Cooper Schaefer,17:34.7,Estelline/Hendricks,M
-2,2,Landen Johnson,18:04.7,Deubrook,M
-3,3,Tyson Hagberg,18:58.7,Deuel,M
-4,4,Colton Trooien,19:14.7,Deubrook,M
-5,5,Camden Hobbs,19:20.6,Estelline/Hendricks,M
-6,6,Caden Hourigan,19:41.2,Deuel,M
-7,7,August Dagel,19:44.2,Estelline/Hendricks,M
-8,8,Kyler Marson,19:53.1,Estelline/Hendricks,M
-9,9,Jaxon Quail,20:10.2,Deubrook,M
-10,10,Caedmon Bressler,20:15.4,Elkton-Lake Benton,M
-11,11,Cade Hexem,20:44.0,Estelline/Hendricks,M
-12,12,Caleb Ronne,20:59.4,Deuel,M
-13,13,Daniel Gums,21:13.2,Deuel,M
-14,14,Nolan Eidson,21:23.1,Castlewood,M
-15,15,Dominic Kluckman,21:38.6,Deuel,M
-16,16,J.P. Rogness,21:49.1,Deubrook,M
-17,17,Rylan Skorczewski,22:14.2,Estelline/Hendricks,M
-18,18,Gavin Mattson,22:43.4,Deuel,M
-19,19,Braxton Jones,24:23.0,Elkton-Lake Benton,M
+"Place","Name","School","Time","Grade"
+1,"Cooper Schaefer","Estelline/Hendricks","17:34.7",
+2,"Landen Johnson","Deubrook","18:04.7",
+3,"Tyson Hagberg","Deuel","18:58.7",
+4,"Colton Trooien","Deubrook","19:14.7",
+5,"Camden Hobbs","Estelline/Hendricks","19:20.6",
+6,"Caden Hourigan","Deuel","19:41.2",
+7,"August Dagel","Estelline/Hendricks","19:44.2",
+8,"Kyler Marson","Estelline/Hendricks","19:53.1",
+9,"Jaxon Quail","Deubrook","20:10.2",
+10,"Caedmon Bressler","Elkton-Lake Benton","20:15.4",
+11,"Cade Hexem","Estelline/Hendricks","20:44.0",
+12,"Caleb Ronne","Deuel","20:59.4",
+13,"Daniel Gums","Deuel","21:13.2",
+14,"Nolan Eidson","Castlewood","21:23.1",
+15,"Dominic Kluckman","Deuel","21:38.6",
+16,"J.P. Rogness","Deubrook","21:49.1",
+17,"Rylan Skorczewski","Estelline/Hendricks","22:14.2",
+18,"Gavin Mattson","Deuel","22:43.4",
+19,"Braxton Jones","Elkton-Lake Benton","24:23.0",

@@ -63,6 +63,7 @@ The TXT format per runner is: place, optional initials (`AB`, or `A(` when a nic
 - A runner with no time: kept with a blank time and not scored (Cooper Jarding, Cornbelt 2025).
 - Grades written as words: `Yr: Jr` becomes 11 (Fr/So/Jr/Sr = 9–12).
 - Times typed `16:38:48`: read as `16:38.48` (Wagner 2025).
+- 2023 timing-company layout: grade on the school line (`Dakota Valley [12]`, or `[Fr]`) and heat/points after the time (`16:31.72<tab>1<tab>1`). The grade goes to Grade, the rest is dropped.
 - One runner per line under a `PLACE ATHLETE TEAM MARK PTS` header (`1 Sophia Redler SR Dakota Valley High School 19:26.86 1`; Alcester girls 2024). `table_txt_to_csv()` reads it: grade FR/SO/JR/SR or a number, team points dropped, " High School" removed from the school.
 
 If you change the parser, run convert.r and look at `git diff` on `{year}/Data/*.csv` to be sure only the intended rows changed.

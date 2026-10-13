@@ -1,42 +1,42 @@
-﻿,Place,Name,Time,School,Class
-1,1,Jared Lutmer,9999,Pierre,M
-2,2,Joseph Perkins,9999,Aberdeen Central,M
-3,3,Wakely Burns,9999,Philip,M
-4,4,Trey Larson,9999,Philip,M
-5,5,Sam Schultz,9999,Aberdeen Central,M
-6,6,Tate DeVries,9999,Aberdeen Central,M
-7,7,Asher Peterson,9999,Philip,M
-8,8,Lincoln Woodring,9999,Northwestern,M
-9,9,Caleb Morris,9999,Pierre,M
-10,10,Jessup Pederson,9999,Dupree,M
-11,11,David VanVeen,9999,Aberdeen Central,M
-12,12,Carson Urlacher,9999,Aberdeen Central,M
-13,13,Patrick Severson,9999,Aberdeen Central,M
-14,14,Max Nelson,9999,Aberdeen Central,M
-15,15,Ian Rounds,9999,Pierre,M
-16,16,Baylor Burns,9999,Philip,M
-17,17,Christian Wells,9999,Aberdeen Central,M
-18,18,Nathan Melius,9999,Northwestern,M
-19,19,Haeden Wheelhouse,9999,Pierre,M
-20,20,Tino Lopez,9999,Aberdeen Central,M
-21,21,Mason Ward-Zeller,9999,Pierre,M
-22,22,Rylan Johnson,9999,Aberdeen Central,M
-23,23,Jayden Brandt,9999,Pierre,M
-24,24,Tayshaun Cudmore,9999,Dupree,M
-25,25,Spenceer Olsen,9999,Dupree,M
-26,26,Alex Oedekoven,9999,Pierre,M
-27,27,Creston Burns,9999,Philip,M
-28,28,Jack Peterson,9999,Philip,M
-29,29,David McKinley,9999,Philip,M
-30,30,CJ Moses,9999,Pierre,M
-31,31,Spencer Sargent,9999,Stanley County,M
-32,32,Aaron Blachford,9999,Northwestern,M
-33,33,Weston Northrup,9999,Pierre,M
-34,34,Ty Boekelheide,9999,Northwestern,M
-35,35,Josh Thorson,9999,Northwestern,M
-36,36,Cayden Morris,9999,Pierre,M
-37,37,Chevy Knost,9999,Philip,M
-38,38,Ricky Larson,9999,Northwestern,M
-39,39,Hudson Taylor,9999,Kadoka,M
-40,40,River Solon,9999,Kadoka,M
-41,41,Chase Johnson,9999,Kadoka,M
+"Place","Name","School","Time","Grade"
+1,"Jared Lutmer","Pierre","12:27.55",
+2,"Joseph Perkins","Aberdeen Central","13:04.90",
+3,"Wakely Burns","Philip","13:10.51",
+4,"Trey Larson","Philip","13:23.05",
+5,"Sam Schultz","Aberdeen Central","13:25.30",
+6,"Tate DeVries","Aberdeen Central","13:27.05",
+7,"Asher Peterson","Philip","13:31.27",
+8,"Lincoln Woodring","Northwestern","13:33.17",
+9,"Caleb Morris","Pierre","13:37.05",
+10,"Jessup Pederson","Dupree","13:45.43",
+11,"David VanVeen","Aberdeen Central","13:49.55",
+12,"Carson Urlacher","Aberdeen Central","13:53.99",
+13,"Patrick Severson","Aberdeen Central","13:54.46",
+14,"Max Nelson","Aberdeen Central","14:00.81",
+15,"Ian Rounds","Pierre","14:03.42",
+16,"Baylor Burns","Philip","14:07.52",
+17,"Christian Wells","Aberdeen Central","14:09.20",
+18,"Nathan Melius","Northwestern","14:14.27",
+19,"Haeden Wheelhouse","Pierre","14:18.34",
+20,"Tino Lopez","Aberdeen Central","14:19.55",
+21,"Mason Ward-Zeller","Pierre","14:29.11",
+22,"Rylan Johnson","Aberdeen Central","14:29.34",
+23,"Jayden Brandt","Pierre","14:35.42",
+24,"Tayshaun Cudmore","Dupree","14:36.11",
+25,"Spencer Olsen","Dupree","14:42.43",
+26,"Alex Oedekoven","Pierre","14:46.55",
+27,"Creston Burns","Philip","14:47.14",
+28,"Jack Peterson","Philip","14:53.83",
+29,"David McKinley","Philip","15:01.65",
+30,"CJ Moses","Pierre","15:07.08",
+31,"Spencer Sargent","Stanley County","15:09.34",
+32,"Aaron Blachford","Northwestern","15:09.87",
+33,"Weston Northrup","Pierre","15:11.40",
+34,"Ty Boekelheide","Northwestern","15:12.49",
+35,"Josh Thorson","Northwestern","15:28.01",
+36,"Cayden Morris","Pierre","15:43.49",
+37,"Chevy Konst","Philip","15:50.45",
+38,"Ricky Larson","Northwestern","16:00.11",
+39,"Hudson Taylor","Kadoka","16:20.11",
+40,"River Solon","Kadoka","17:51.89",
+41,"Chase Johnson","Kadoka","21:01.40",

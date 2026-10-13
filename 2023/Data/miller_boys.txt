@@ -1,0 +1,455 @@
+1
+AS
+Alex Schumacher
+
+Miller
+16:48.7
+Yr: 12
+2
+WB
+Wakely Burns
+
+Philip
+16:55.4
+Yr: 12
+3
+NS
+Nicholas Schlachter
+
+Gettysburg
+17:00.3
+Yr: 12
+4
+PB
+Pierce Baumberger
+
+Miller
+17:13.5
+Yr: 11
+5
+AP
+Asher Peterson
+
+Philip
+17:25.3
+Yr: 12
+6
+
+Trey Larson
+
+Philip
+17:38.2
+Yr: 11
+7
+
+Tukker Boe
+
+Philip
+17:39.6
+Yr: 12
+8
+
+Lincoln Woodring
+
+Northwestern
+17:42.7
+Yr: 12
+9
+
+Jayden Taken Alive
+
+McLaughlin
+17:57.7
+Yr: 10
+10
+
+Baylor Burns
+
+Philip
+18:08.0
+Yr: 10
+11
+WK
+Wamni Kills Crow
+
+McLaughlin
+18:15.1
+Yr: 11
+12
+NM
+Nathan Melius
+
+Northwestern
+18:19.3
+Yr: 12
+13
+IG
+Isaiah Gortmaker
+
+Miller
+18:20.7
+Yr: 10
+14
+CK
+Chevy Konst
+
+Philip
+18:24.8
+SB • Yr: 10
+15
+PS
+Park Sinclair
+
+Kimball/White Lake
+18:28.9
+Yr: 11
+16
+DM
+David McKinley
+
+Philip
+18:30.2
+Yr: 10
+17
+MK
+Mason Kaiser
+
+Faulkton Area
+18:50.0
+Yr: 12
+18
+
+Gavin Hirsch
+
+Herreid/Selby Area
+18:53.8
+Yr: 10
+19
+
+Jack Peterson
+
+Philip
+18:57.9
+Yr: 10
+20
+XK
+Xavier Kadlec
+
+Ipswich
+18:58.2
+Yr: 12
+21
+AM
+Anthony Miller
+
+North Central
+18:58.6
+Yr: 12
+22
+GJ
+Gabe Johnson
+
+North Central
+18:59.2
+Yr: 11
+23
+CB
+Creston Burns
+
+Philip
+19:12.3
+Yr: 10
+24
+
+Jimmy Burma
+
+Sunshine Bible Academy
+19:17.4
+Yr: 11
+25
+KS
+Korbin Stark
+
+Faulkton Area
+19:22.0
+Yr: 9
+26
+JT
+Josh Thorson
+
+Northwestern
+19:22.4
+Yr: 11
+27
+AB
+Aaron Blanchford
+
+Northwestern
+19:23.8
+Yr: 11
+28
+BM
+Brooks McPeak
+
+Highmore-Harrold
+19:25.1
+Yr: 8
+29
+JS
+Justin St. John
+
+Crow Creek
+19:33.1
+Yr: 9
+30
+DA
+Drew Arbach
+
+North Central
+19:33.3
+Yr: 9
+31
+
+Jordan Erfman
+
+Highmore-Harrold
+19:33.9
+Yr: 10
+32
+RY
+Reymin YellowEarrings
+
+McLaughlin
+19:34.6
+Yr: 12
+33
+WC
+Will Clemens
+
+Northwestern
+19:37.9
+Yr: 8
+34
+CW
+Carter Webb
+
+Highmore-Harrold
+19:38.6
+Yr: 8
+35
+AW
+Avery Wells
+
+North Central
+19:40.6
+Yr: 10
+36
+RL
+Ricky Larson
+
+Northwestern
+19:49.1
+Yr: 12
+37
+LV
+Logan Vetch
+
+Mobridge-Pollock
+19:53.2
+Yr: 12
+38
+TB
+Ty Boekelheide
+
+Northwestern
+19:55.6
+Yr: 9
+39
+RS
+Reagan Sandness
+
+Sunshine Bible Academy
+19:57.6
+Yr: 7
+40
+JW
+Josiah Wiebe
+
+Hitchcock-Tulare
+20:11.4
+Yr: 12
+41
+JO
+Joel Olson
+
+James Valley Christian
+20:17.0
+Yr: 11
+42
+ER
+Edwyn Reyes
+
+Wolsey-Wessington
+20:27.1
+Yr: 12
+43
+
+Jackson Taken Alive
+
+McLaughlin
+20:30.1
+Yr: 9
+44
+CE
+Carson Ewalt
+
+Northwestern
+20:35.1
+SB • Yr: 10
+45
+PM
+Payton Moore
+
+Redfield
+20:44.4
+Yr: 10
+46
+JO
+Jonas Olson
+
+Sully Buttes
+20:50.0
+Yr: 9
+47
+KR
+Keegan Russell
+
+Herreid/Selby Area
+21:00.0
+Yr: 10
+48
+LN
+Logan Niederbaumer
+
+Faulkton Area
+21:04.3
+Yr: 9
+49
+CS
+Carson Stephenson
+
+Highmore-Harrold
+21:15.0
+Yr: 12
+50
+JW
+Josh Wilken
+
+Sunshine Bible Academy
+21:17.9
+Yr: 10
+51
+IV
+Isaac Van Scharrel
+
+Hitchcock-Tulare
+21:18.1
+Yr: 12
+52
+
+Daniel Leiferman
+
+Kimball/White Lake
+21:18.4
+Yr: 11
+53
+RC
+Rowan Charger
+
+Lower Brule
+21:24.9
+Yr: 11
+54
+GT
+Grant Timm
+
+Wolsey-Wessington
+21:28.3
+Yr: 12
+55
+RF
+Ranick Fjerstad
+
+Wessington Springs
+21:39.5
+Yr: 11
+56
+
+Sam Ernst
+
+Herreid/Selby Area
+21:39.8
+Yr: 7
+57
+JV
+Jaymin VanDerWerff
+
+Miller
+21:52.2
+Yr: 9
+58
+TT
+Tucker Thompson
+
+Wessington Springs
+21:53.7
+Yr: 9
+59
+WS
+Will Stiegelmeier
+
+Herreid/Selby Area
+22:06.3
+Yr: 8
+60
+JW
+Jonah Webb
+
+Highmore-Harrold
+22:09.0
+Yr: 10
+61
+TT
+Trey Thieman
+
+Sunshine Bible Academy
+22:27.9
+Yr: 11
+62
+TH
+Theo Haerter
+
+North Central
+22:45.7
+Yr: 11
+63
+WF
+William Firecloud
+
+Lower Brule
+23:41.3
+Yr: 9
+64
+CN
+Cole Noon
+
+Faulkton Area
+23:44.1
+Yr: 9
+65
+TB
+Tate Bray
+
+Faulkton Area
+24:24.5
+Yr: 8

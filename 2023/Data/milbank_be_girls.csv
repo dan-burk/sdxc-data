@@ -1,22 +1,22 @@
-﻿,Place,Name,Time,School,Class
-1,1,Ashlynn Batchelor,16:17.3,Milbank,F
-2,2,Madison Zirbel,16:55.9,Waubay/Summit,F
-3,3,Addison Cassady,17:15.9,Aberdeen Roncalli,F
-4,4,Sarah Schmidt,17:40.9,Aberdeen Roncalli,F
-5,5,Bianca Berry,18:00.5,Milbank,F
-6,6,Paige Schmidt,18:06.0,Aberdeen Roncalli,F
-7,7,Zayda Townsend,18:30.6,Milbank,F
-8,8,Hazel Kannegaiter,18:32.3,Aberdeen Roncalli,F
-9,9,Alyvia Geffre,18:32.5,Tri-State,F
-10,10,Tyra Berry,18:45.9,Milbank,F
-11,11,Kynlee Speidel,18:57.2,Milbank,F
-12,12,Stella Wendland,19:05.4,Milbank,F
-13,13,Chloe Berg,19:16.1,Great Plains Lutheran,F
-14,14,Jocelyn Rumpca,19:34.5,Webster,F
-15,15,Claire Peterson,19:56.8,Aberdeen Roncalli,F
-16,16,Ella Hegg,19:57.5,Webster,F
-17,17,Taylor Bendix,20:18.1,Great Plains Lutheran,F
-18,18,Eva Benike,20:26.9,Waubay/Summit,F
-19,19,Hannah Sonstebo,20:42.0,Webster,F
-20,20,Khloe Smith,21:48.9,Tri-State,F
-21,21,Chloe Foltz,21:53.3,Tri-State,F
+"Place","Name","School","Time","Grade"
+1,"Ashlynn Batchelor","Milbank","16:17.3",
+2,"Madison Zirbel","Waubay/Summit","16:55.9",
+3,"Addison Cassady","Aberdeen Roncalli","17:15.9",
+4,"Sarah Schmidt","Aberdeen Roncalli","17:40.9",
+5,"Bianca Berry","Milbank","18:00.5",
+6,"Paige Schmidt","Aberdeen Roncalli","18:06.0",
+7,"Zayda Townsend","Milbank","18:30.6",
+8,"Hazel Kannegaiter","Aberdeen Roncalli","18:32.3",
+9,"Alyvia Geffre","Tri-State","18:32.5",
+10,"Tyra Berry","Milbank","18:45.9",
+11,"Kynlee Speidel","Milbank","18:57.2",
+12,"Stella Wendland","Milbank","19:05.4",
+13,"Chloe Berg","Great Plains Lutheran","19:16.1",
+14,"Jocelyn Rumpca","Webster","19:34.5",
+15,"Claire Peterson","Aberdeen Roncalli","19:56.8",
+16,"Ella Hegg","Webster","19:57.5",
+17,"Taylor Bendix","Great Plains Lutheran","20:18.1",
+18,"Eva Benike","Waubay/Summit","20:26.9",
+19,"Hannah Sonstebo","Webster","20:42.0",
+20,"Khloe Smith","Tri-State","21:48.9",
+21,"Chloe Foltz","Tri-State","21:53.3",

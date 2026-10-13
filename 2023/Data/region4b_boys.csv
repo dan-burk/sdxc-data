@@ -1,36 +1,36 @@
-,Place,Name,Time,School,Class
-1,1,Nicholas Schlachter,16:39.70,Potter County,M
-2,2,Gavin Hirsch,17:08.60,Herreid/Selby Area,M
-3,3,Xavier Sanchez-Gonzalez,18:20.70,Timber Lake,M
-4,4,Jimmy Burma,18:27.30,Sunshine Bible Academy,M
-5,5,Martin Plenty Chief,18:33.70,Wakpala,M
-6,6,Brooks McPeak,18:38.40,Highmore-Harrold,M
-7,7,Jordan Erfman,18:50.10,Highmore-Harrold,M
-8,8,Edwyn Reyes,18:54.90,Wolsey-Wessington,M
-9,9,Carter Webb,18:56.00,Highmore-Harrold,M
-10,10,Mason Ryan,19:02.00,Lyman,M
-11,11,Reagan Sandness,19:04.50,Sunshine Bible Academy,M
-12,12,Jerand Chase,19:23.00,Potter County,M
-13,13,Keegan Russell,19:30.60,Herreid/Selby Area,M
-14,14,Ranick Fjerstad,19:31.90,Wessington Springs,M
-15,15,Rowan Charger,19:34.90,Lower Brule,M
-16,16,Aksel Ehlers,19:37.30,Lyman,M
-17,17,Sep van Oosterhout,19:41.30,Potter County,M
-18,18,Jonas Olson,19:42.20,Sully Buttes,M
-19,19,Carson Stephenson,19:49.40,Highmore-Harrold,M
-20,20,Jonah Webb,19:50.00,Highmore-Harrold,M
-21,21,Aiden Grassrope,19:57.50,Lyman,M
-22,22,Samuel Ernst,20:06.90,Herreid/Selby Area,M
-23,23,Ashton Waliser,20:13.20,McIntosh,M
-24,24,Tucker Thompson,20:21.80,Wessington Springs,M
-25,25,Josh Wilken,20:24.30,Sunshine Bible Academy,M
-26,26,Grant Timm,20:30.40,Wolsey-Wessington,M
-27,27,Sean Seurer,20:43.00,Potter County,M
-28,28,Trey Thieman,20:46.30,Sunshine Bible Academy,M
-29,29,Owan Watson,21:07.30,Sunshine Bible Academy,M
-30,30,Kasen Steele,21:13.70,McIntosh,M
-31,31,Will Stiegelmeier,21:14.90,Herreid/Selby Area,M
-32,32,Zach Moran,21:34.40,Wakpala,M
-33,33,Fernando Ribeiro,21:32.90,Potter County,M
-34,34,Thomas Holzer,23:35.00,Timber Lake,M
-35,35,Chace Seaboy,24:30.00,Lyman,M
+"Place","Name","School","Time","Grade"
+1,"Nicholas Schlachter","Gettysburg","16:39.7","12"
+2,"Gavin Hirsch","Herreid/Selby Area","17:08.6","10"
+3,"Xavier Sanchez-Gonzalez","Timber Lake","18:20.7","9"
+4,"Jimmy Burma","Sunshine Bible Academy","18:27.3","11"
+5,"Martin Plenty Chief","Wakpala","18:33.7","11"
+6,"Brooks McPeak","Highmore-Harrold","18:38.4","8"
+7,"Jordan Erfman","Highmore-Harrold","18:50.1","10"
+8,"Edwyn Reyes","Wolsey-Wessington","18:54.9","12"
+9,"Carter Webb","Highmore-Harrold","18:56.0","8"
+10,"Mason Ryan","Lyman","19:02.0","11"
+11,"Reagan Sandness","Sunshine Bible Academy","19:04.5","7"
+12,"Jerand Chase","Gettysburg","19:23.0","10"
+13,"Keegan Russell","Herreid/Selby Area","19:30.6","10"
+14,"Ranick Fjerstad","Wessington Springs","19:31.9","11"
+15,"Rowan Charger","Lower Brule","19:34.9","11"
+16,"Aksel Ehlers","Lyman","19:37.3","11"
+17,"Sep van Oosterhout","Gettysburg","19:41.3","11"
+18,"Jonas Olson","Sully Buttes","19:42.2","9"
+19,"Carson Stephenson","Highmore-Harrold","19:49.4","12"
+20,"Jonah Webb","Highmore-Harrold","19:50.0","10"
+21,"Aiden Grassrope","Lyman","19:57.5","10"
+22,"Sam Ernst","Herreid/Selby Area","20:06.9","7"
+23,"Ashton Waliser","McIntosh","20:13.2","12"
+24,"Tucker Thompson","Wessington Springs","20:21.8","9"
+25,"Josh Wilken","Sunshine Bible Academy","20:24.3","10"
+26,"Grant Timm","Wolsey-Wessington","20:30.4","12"
+27,"Sean Seurer","Gettysburg","20:43.0","12"
+28,"Trey Thieman","Sunshine Bible Academy","20:46.3","11"
+29,"Owan Watson","Sunshine Bible Academy","21:07.2","11"
+30,"Kasen Steele","McIntosh","21:13.7","8"
+31,"Will Stiegelmeier","Herreid/Selby Area","21:14.9","8"
+32,"Zach Moran","Wakpala","21:30.4","12"
+33,"Fernando Ribeiro","Gettysburg","21:32.9","11"
+34,"Thomas Holzer","Timber Lake","23:35.0","9"
+35,"Chace Seaboy","Lyman","24:30.0","9"

@@ -43,7 +43,7 @@ txt_to_csv <- function(lines) {
     while (i <= n && is_blank(L[i])) i <- i + 1
 
     if (i > n) break
-    time <- L[i]
+    time <- sub("\t.*", "", L[i])  # 2023: "16:31.72<tab>1<tab>1" (heat and points follow)
     if (grepl("Yr:", time)) time <- ""  # no time listed; leave the grade line for below
 
     # if what we thought was time doesn’t look like a time,
@@ -58,13 +58,18 @@ txt_to_csv <- function(lines) {
     if (grepl("^\\d{1,2}:\\d{2}:\\d{2}$", time)) time <- sub(":(\\d{2})$", ".\\1", time)
 
     # grade line ("Yr: 12 ...") is sometimes missing; don't eat the next runner's place
-    grade <- NA_character_
+    yr <- NA_character_
     if (i <= n && grepl("Yr:", L[i])) {
       yr <- sub(".*Yr:\\s*(\\w+).*", "\\1", L[i])
-      grade <- c(Fr = "9", So = "10", Jr = "11", Sr = "12")[yr]  # word or number
-      if (is.na(grade) && grepl("^\\d+$", yr)) grade <- yr
       i <- i + 1
     }
+    # 2023: the grade is on the school line instead, "Dakota Valley [12]"
+    if (grepl("\\s*\\[\\w+\\]$", school)) {
+      yr <- sub(".*\\[(\\w+)\\]$", "\\1", school)
+      school <- sub("\\s*\\[\\w+\\]$", "", school)
+    }
+    grade <- c(Fr = "9", So = "10", Jr = "11", Sr = "12")[yr]  # word or number
+    if (is.na(grade) && grepl("^\\d+$", yr)) grade <- yr
 
     results <- rbind(
       results,

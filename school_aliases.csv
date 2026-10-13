@@ -1,15 +1,19 @@
 raw_school,school,note
 ACDC,Andes Central/Dakota Christian,
 Andes Cen/Dak Ch,Andes Central/Dakota Christian,
+Andes Central,Andes Central/Dakota Christian,same runner at Burke 2023
 Bison ms,Bison,varsity runners labeled ms at faith 2024
 BHCA,Black Hills Christian Academy,
 Black Hills,Black Hills Christian Academy,same runners as BHCA
 Black Hills CA,Black Hills Christian Academy,
 Black Hills Chri,Black Hills Christian Academy,
+Bon Homme ms,Bon Homme,high school runners labeled ms at Burke 2023
+Burke ms,Burke,high school runners labeled ms at Burke 2023
 Chamberlain MS,Chamberlain,"varsity runner labeled MS (2026 mccook, ran with Chamberlain team)"
 CEB,Cheyenne-Eagle Butte,
 Cheyenne-Eag,Cheyenne-Eagle Butte,
 Clark/Willow,Clark/Willow Lake,
+Corsica,Corsica-Stickney,same runners at Burke 2023
 Dell,Dell Rapids,
 Dell Rapis,Dell Rapids,
 Deubrock Area,Deubrook Area,
@@ -23,7 +27,9 @@ Frederick,Frederick Area,
 Leola/Frederick Area,Frederick Area,"same runners as Frederick Area in 2023 and 2025; co-op name used in 2024"
 Freeman Acad,Freeman Academy/Marion,defunct co-op; list in that year's schools.csv
 Freeman Acad/Mar,Freeman Academy/Marion,defunct co-op
+Freeman Academy,Freeman Academy/Marion,same runners at Burke 2023
 Freeman Academy/Marion - CLOSED,Freeman Academy/Marion,same runners as Freeman Academy/Marion (2024)
+Gayville-Volin ms,Gayville-Volin,high school runners labeled ms at Burke 2023
 Potter County,Gettysburg,former name of Gettysburg
 Potter county,Gettysburg,
 Great Plains,Great Plains Lutheran,
@@ -38,9 +44,11 @@ Troquois/Lak,Iroquois/Lake Preston,
 James,James Valley Christian,
 James Valley,James Valley Christian,
 James Valley Chr,James Valley Christian,
+James Valley Christian MS,James Valley Christian,high school runners labeled ms at Burke 2023
 JVC,James Valley Christian,
 Kadoka,Kadoka Area,
 Kimball White Lake,Kimball/White Lake,
+Kimball/White Lake MS,Kimball/White Lake,high school runners labeled ms at Burke 2023
 Little WOund,Little Wound,
 Lower Brule ms,Lower Brule,varsity runner labeled ms at miller 2024
 Red Cloud,Mahpiya Luta,
@@ -50,6 +58,7 @@ McCook Central/Mont,McCook Central/Montrose,
 McCook-Central,McCook Central/Montrose,
 Wilmot,Milbank,
 Miller Area,Miller,same runners as Miller (faulkton 2024)
+Mitchell Christian MS,Mitchell Christian,high school runners labeled ms at Burke 2023
 Mobridge - Pollock,Mobridge-Pollock,
 Mount Vernon,Mount Vernon/Plankinton,
 Mount Vernon/Pla,Mount Vernon/Plankinton,
@@ -69,6 +78,7 @@ Sanborn,Sanborn Central/Woonsocket,
 Sanborn Cent,Sanborn Central/Woonsocket,
 Sanborn Cent/Woo,Sanborn Central/Woonsocket,
 Sanborn Central/Woo,Sanborn Central/Woonsocket,
+Scotland ms,Scotland,high school runners labeled ms at Burke 2023
 Sioux Falls Christian,SF Christian,
 Sioux Falls Jefferson,SF Jefferson,
 Sioux Falls Lincoln,SF Lincoln,
@@ -87,6 +97,7 @@ SBA,Sunshine Bible Academy,
 Sunshine,Sunshine Bible Academy,
 Sunshine Bible A,Sunshine Bible Academy,
 Tripp-Delmont/Ar,Tripp-Delmont/Armour,
+Wagner ms,Wagner,high school runners labeled ms at Burke 2023
 Webster,Webster Area,
 Winner,Winner/Colome,
 Wolsey Wessington,Wolsey-Wessington,
@@ -199,6 +210,7 @@ Omaha Central,OUT,
 Omaha Duchesne Academy,OUT,
 Omaha Marian,OUT,
 Omaha Westside,OUT,Omaha NE
+O'Neill,OUT,Nebraska
 ONeill,OUT,
 PACT/Legacy,OUT,
 Papillion-La Vista,OUT,

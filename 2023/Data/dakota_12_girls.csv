@@ -1,56 +1,56 @@
-"","Place","Name","Time","School","Class"
-"1",1,"Sadie Pettengill","18:48.43","SF Christian","F"
-"2",2,"Sophia Redler","18:54.04","Dakota Valley","F"
-"3",3,"Jerica Glasser","18:54.18","SF Christian","F"
-"4",4,"Ellie Maddox","19:08.60","SF Christian","F"
-"5",5,"Jaycie Babb","19:09.91","Tea Area","F"
-"6",6,"Callie Radigan","19:10.62","Vermillion","F"
-"7",7,"Rorie Thoreson","19:11.20","Dell Rapids","F"
-"8",8,"Alex McCullough","19:17.68","Dakota Valley","F"
-"9",9,"Anna Vyn","19:34.63","SF Christian","F"
-"10",10,"Brooklyn Sundermann","19:38.27","West Central","F"
-"11",11,"Grace Bialas","19:43.54","Tea Area","F"
-"12",12,"Adie McVey","19:57.43","Lennox","F"
-"13",13,"Taeli Barta","19:58.88","Vermillion","F"
-"14",14,"Maelee Krempges","20:00.43","West Central","F"
-"15",15,"Sarah Johnson","20:00.85","West Central","F"
-"16",16,"Lucy Rozeboom","20:03.12","West Central","F"
-"17",17,"Margaret Vogel","20:03.31","SF Christian","F"
-"18",18,"Lydia Anderson","20:05.66","Vermillion","F"
-"19",19,"Olivia Formisano","20:10.61","Vermillion","F"
-"20",20,"Jayna VanLaecken","20:19.09","Tea Area","F"
-"21",21,"Ella Otten","20:24.66","Dakota Valley","F"
-"22",22,"Aubrey Borns","20:37.78","West Central","F"
-"23",23,"Jessie Tappe","20:48.91","Madison","F"
-"24",24,"Ava Sletten","20:51.91","Canton","F"
-"25",25,"Karlie Bosma","21:12.67","Lennox","F"
-"26",26,"Eleanor Anderson","21:13.11","Vermillion","F"
-"27",27,"Finley Evjen","21:15.37","Canton","F"
-"28",28,"Abby Hilleson","21:17.54","Tea Area","F"
-"29",29,"Regan Van Meeteren","21:22.03","Lennox","F"
-"30",30,"Drew Caffrey","21:24.67","West Central","F"
-"31",31,"Amelia Lyon","21:29.86","SF Christian","F"
-"32",32,"Josephine Plucker","21:31.82","Lennox","F"
-"33",33,"Kamille Schmidt","21:36.38","Lennox","F"
-"34",34,"Meredith Decker","21:55.97","Tea Area","F"
-"35",35,"Jayla York","21:57.71","Canton","F"
-"36",36,"Jewel Gannon","21:59.12","Canton","F"
-"37",37,"Allison Loewe","22:06.00","Lennox","F"
-"38",38,"Ellie Keller","22:08.31","Madison","F"
-"39",39,"Mia Riibe","22:09.29","Dakota Valley","F"
-"40",40,"Grace Gannon","22:11.22","Canton","F"
-"41",41,"Rachel Hersom","22:12.42","Dakota Valley","F"
-"42",42,"Jaycie Rush","22:12.61","Dakota Valley","F"
-"43",43,"Haley Korver","22:36.21","Tea Area","F"
-"44",44,"Maren Formisano","22:55.01","Vermillion","F"
-"45",45,"Lou Schladweiler","22:59.20","Madison","F"
-"46",46,"Sara Schroder","23:05.79","Canton","F"
-"47",47,"Samantha Troxell","23:35.15","Madison","F"
-"48",48,"Lani Misar","23:50.19","Madison","F"
-"49",49,"Mya DeStigter","23:58.00","Dell Rapids","F"
-"50",50,"Tyler Gibson","24:15.35","Tri-Valley","F"
-"51",51,"Alexis Wall","24:56.20","Elk Point-Jefferson","F"
-"52",52,"Cambree Hunsley","24:59.66","Madison","F"
-"53",53,"Isabella Mack","25:44.28","Tri-Valley","F"
-"54",54,"Trier Kocmick","26:13.26","Tri-Valley","F"
-"55",55,"Reagan VanZee","27:57.34","Dell Rapids","F"
+"Place","Name","School","Time","Grade"
+1,"Sadie Pettengill","SF Christian","18:48.43",NA
+2,"Sophia Redler","Dakota Valley","18:54.04",NA
+3,"Jerica Glasser","SF Christian","18:54.18",NA
+4,"Ellie Maddox","SF Christian","19:08.60",NA
+5,"Jaycie Babb","Tea Area","19:09.91",NA
+6,"Callie Radigan","Vermillion","19:10.62",NA
+7,"Rorie Thoreson","Dell Rapids","19:11.20",NA
+8,"Alex McCullough","Dakota Valley","19:17.68",NA
+9,"Anna Vyn","SF Christian","19:34.63",NA
+10,"Brooklyn Sundermann","West Central","19:38.27",NA
+11,"Grace Bialas","Tea Area","19:43.54",NA
+12,"Adie McVey","Lennox","19:57.43",NA
+13,"Taeli Barta","Vermillion","19:58.88",NA
+14,"Maelee Krempges","West Central","20:00.43",NA
+15,"Sarah Johnson","West Central","20:00.85",NA
+16,"Lucy Rozeboom","West Central","20:03.12",NA
+17,"Margaret Vogel","SF Christian","20:03.31",NA
+18,"Lydia Anderson","Vermillion","20:05.66",NA
+19,"Olivia Formisano","Vermillion","20:10.61",NA
+20,"Jayna VanLaecken","Tea Area","20:19.09",NA
+21,"Ella Otten","Dakota Valley","20:24.66",NA
+22,"Aubrey Borns","West Central","20:37.78",NA
+23,"Jessie Tappe","Madison","20:48.91",NA
+24,"Ava Sletten","Canton","20:51.91",NA
+25,"Karlie Bosma","Lennox","21:12.67",NA
+26,"Eleanor Anderson","Vermillion","21:13.11",NA
+27,"Finley Evjen","Canton","21:15.37",NA
+28,"Abby Hilleson","Tea Area","21:17.54",NA
+29,"Regan Van Meeteren","Lennox","21:22.03",NA
+30,"Drew Caffrey","West Central","21:24.67",NA
+31,"Amelia Lyon","SF Christian","21:29.86",NA
+32,"Josephine Plucker","Lennox","21:31.82",NA
+33,"Kamille Schmidt","Lennox","21:36.38",NA
+34,"Meredith Decker","Tea Area","21:55.97",NA
+35,"Jayla York","Canton","21:57.71",NA
+36,"Jewel Gannon","Canton","21:59.12",NA
+37,"Allison Loewe","Lennox","22:06.00",NA
+38,"Ellie Keller","Madison","22:08.31",NA
+39,"Mia Riibe","Dakota Valley","22:09.29",NA
+40,"Grace Gannon","Canton","22:11.22",NA
+41,"Rachel Hersom","Dakota Valley","22:12.42",NA
+42,"Jaycie Rush","Dakota Valley","22:12.61",NA
+43,"Haley Korver","Tea Area","22:36.21",NA
+44,"Maren Formisano","Vermillion","22:55.01",NA
+45,"Lou Schladweiler","Madison","22:59.20",NA
+46,"Sara Schroder","Canton","23:05.79",NA
+47,"Samantha Troxell","Madison","23:35.15",NA
+48,"Lani Misar","Madison","23:50.19",NA
+49,"Mya DeStigter","Dell Rapids","23:58.00",NA
+50,"Tyler Gibson","Tri-Valley","24:15.35",NA
+51,"Alexis Wall","Elk Point-Jefferson","24:56.20",NA
+52,"Cambree Hunsley","Madison","24:59.66",NA
+53,"Isabella Mack","Tri-Valley","25:44.28",NA
+54,"Trier Kocmick","Tri-Valley","26:13.26",NA
+55,"Reagan VanZee","Dell Rapids","27:57.34",NA

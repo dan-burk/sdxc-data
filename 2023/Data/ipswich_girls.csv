@@ -1,28 +1,28 @@
-﻿,Place,Name,Time,School,Class
-1,1,Autumn Fallis,19:42.02,Highmore-Harrold,F
-2,2,Faith Heil,19:59.37,Mobridge-Pollock,F
-3,3,Madisyn Gellhaus,20:06.87,Ipswich,F
-4,4,Dannika Kaup,20:26.25,Potter County,F
-5,5,Jadyn Ahlemeier,20:28.38,Potter County,F
-6,6,Kaysen Magee,20:38.44,Stanely County,F
-7,7,Madeline Nye,20:41.11,Miller,F
-8,8,Emma Schlachter,20:46.98,Potter County,F
-9,9,Paige Schmidt,20:48.20,Aberdeen Roncalli,F
-10,10,Sarah Schmidt,20:57.86,Aberdeen Roncalli,F
-11,11,Hazel Kannegaiter,20:59.03,Aberdeen Roncalli,F
-12,12,Paige Ahlemeier,21:08.35,Potter County,F
-13,13,Katie Allbee,21:11.10,Herreid/Selby Area,F
-14,14,Jentry Hubner,21:41.55,Herreid/Selby Area,F
-15,15,Gracyn Kadlec,21:46.87,Ipswich,F
-16,16,Gabby Werdel,21:49.44,Miller,F
-17,17,Jaycee Stevens,21:59.59,Potter County,F
-18,18,Peyton Stevens,22:57.11,Potter County,F
-19,19,Grace Roth,23:14.56,North Central,F
-20,20,Kassandra Abbas,23:25.37,North Central,F
-21,21,Melanie Dallenbach,23:27.83,North Central,F
-22,22,Jaylynn Knox,23:33.05,Highmore-Harrold,F
-23,23,Sarah Fosheim,23:58.83,Stanely County,F
-24,24,Allie Gortmaker,24:01.22,Miller,F
-25,25,April Fallis,24:32.59,Highmore-Harrold,F
-26,26,Taytum Gortmaker,25:40.68,Miller,F
-27,27,Lucy Jones,29:50.44,Aberdeen Christian,F
+"Place","Name","School","Time","Grade"
+1,"Autumn Fallis","Highmore-Harrold","19:42.02",
+2,"Faith Heil","Mobridge-Pollock","19:59.37",
+3,"Madisyn Gellhaus","Ipswich","20:06.87",
+4,"Dannika Kaup","Potter County","20:26.25",
+5,"Jadyn Ahlemeier","Potter County","20:28.38",
+6,"Kaysen Magee","Stanely County","20:38.44",
+7,"Madeline Nye","Miller","20:41.11",
+8,"Emma Schlachter","Potter County","20:46.98",
+9,"Paige Schmidt","Aberdeen Roncalli","20:48.20",
+10,"Sarah Schmidt","Aberdeen Roncalli","20:57.86",
+11,"Hazel Kannegaiter","Aberdeen Roncalli","20:59.03",
+12,"Paige Ahlemeier","Potter County","21:08.35",
+13,"Katie Allbee","Herreid/Selby Area","21:11.10",
+14,"Jentry Hubner","Herreid/Selby Area","21:41.55",
+15,"Gracyn Kadlec","Ipswich","21:46.87",
+16,"Gabby Werdel","Miller","21:49.44",
+17,"Jaycee Stevens","Potter County","21:59.59",
+18,"Peyton Stevens","Potter County","22:57.11",
+19,"Grace Roth","North Central","23:14.56",
+20,"Kassandra Abbas","North Central","23:25.37",
+21,"Melanie Dallenbach","North Central","23:27.83",
+22,"Jaylynn Knox","Highmore-Harrold","23:33.05",
+23,"Sarah Fosheim","Stanely County","23:58.83",
+24,"Allie Gortmaker","Miller","24:01.22",
+25,"April Fallis","Highmore-Harrold","24:32.59",
+26,"Taytum Gortmaker","Miller","25:40.68",
+27,"Lucy Jones","Aberdeen Christian","29:50.44",

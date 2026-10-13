@@ -1,25 +1,25 @@
-,Place,Name,Time,School,Class
-1,1,Faith Wiese,19:03.66,Flandreau,F
-2,2,Kamryn Nesheim,20:28.20,Clark/Willow Lake,F
-3,3,Diamond Roy,21:34.78,Flandreau,F
-4,4,Kiley Westberry,21:35.46,Flandreau,F
-5,5,Hadley Gjerde,21:42.20,Clark/Willow Lake,F
-6,6,Cadence Bochek,21:58.34,Clark/Willow Lake,F
-7,7,Jessie Tappe,22:07.21,Madison,F
-8,8,Emma Bochek,22:18.85,Clark/Willow Lake,F
-9,9,Josie Hamilton,22:37.40,Flandreau,F
-10,10,Alexa Schmidt,22:55.56,Clark/Willow Lake,F
-11,11,Nevaeh Reitz,23:07.82,Clark/Willow Lake,F
-12,12,Hannah Sonstebo,23:24.92,Webster Area,F
-13,13,Danielle Batchelor,23:29.51,Clark/Willow Lake,F
-14,14,Mallory Carlson,23:50.96,Iroquois/Lake Preston,F
-15,15,Lou Schladweiler,23:55.17,Madison,F
-16,16,Samantha Troxell,23:57.55,Madison,F
-17,17,Jocelyn Rumpca,24:20.45,Webster Area,F
-18,18,Griffyn Muller,24:32.24,Florence/Henry,F
-19,19,Morgan Sheppard,24:39.68,Flandreau,F
-20,20,Brooke Hlavacek,24:52.83,Florence/Henry,F
-21,21,Lani Misar,25:29.99,Madison,F
-22,22,Cambree Hunsley,26:03.85,Madison,F
-23,23,Hailey Lahr,26:24.21,Flandreau,F
-24,24,Ashlyn Angermeier,30:09.68,Florence/Henry,F
+"Place","Name","School","Time","Grade"
+1,"Faith Wiese","Flandreau","19:03.7","10"
+2,"Kamryn Nesheim","Clark/Willow Lake","20:28.2","8"
+3,"Diamond Roy","Flandreau","21:34.8","11"
+4,"Kiley Westberry","Flandreau","21:35.5","9"
+5,"Hadley Gjerde","Clark/Willow Lake","21:42.2","9"
+6,"Cadence Bochek","Clark/Willow Lake","21:58.4","10"
+7,"Jessie Tappe","Madison","22:07.3","12"
+8,"Emma Bochek","Clark/Willow Lake","22:18.9","8"
+9,"Josie Hamilton","Flandreau","22:37.4","11"
+10,"Alexa Schmidt","Clark/Willow Lake","22:55.6","8"
+11,"Nevaeh Reitz","Clark/Willow Lake","23:07.9","7"
+12,"Hannah Sonstebo","Webster Area","23:25.0","7"
+13,"Danielle Batchelor","Clark/Willow Lake","23:29.6","12"
+14,"Mallory Carlson","Iroquois/Lake Preston","23:51.0","10"
+15,"Lou Schladweiler","Madison","23:55.2","8"
+16,"Samantha Troxell","Madison","23:57.6","10"
+17,"Jocelyn Rumpca","Webster Area","24:20.5","9"
+18,"Griffyn Muller","Florence/Henry","24:32.3","11"
+19,"Morgan Sheppard","Flandreau","24:39.7","8"
+20,"Brooke Hlavacek","Florence/Henry","24:52.9","11"
+21,"Lani Misar","Madison","25:30.0","9"
+22,"Cambree Hunsley","Madison","26:03.9","11"
+23,"Hailey Lahr","Flandreau","26:24.3","10"
+24,"Ashlyn Angermeier","Florence/Henry","30:09.7","9"

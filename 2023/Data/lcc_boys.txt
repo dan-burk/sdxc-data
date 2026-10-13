@@ -1,0 +1,196 @@
+1
+CW
+Carson Wosje
+
+Sioux Valley
+18:26.3
+Yr: 10
+2
+BW
+Brenton Westberry
+
+Flandreau
+18:45.8
+Yr: 11
+3
+CP
+Cooper Pommer
+
+Clark/Willow Lake
+18:55.5
+Yr: 10
+4
+MG
+Matthew Gassman
+
+Flandreau
+19:01.1
+Yr: 12
+5
+CH
+Caden Hourigan
+
+Deuel
+19:18.6
+Yr: 9
+6
+TR
+Tanner Reed
+
+Flandreau
+19:23.4
+Yr: 12
+7
+TM
+Taylor Merkel
+
+Clark/Willow Lake
+19:28.5
+Yr: 12
+8
+WK
+Wyatt Kontz
+
+Flandreau
+19:40.5
+Yr: 10
+9
+LK
+Logan Kontz
+
+Flandreau
+19:51.0
+Yr: 8
+10
+DS
+Damian Severson
+
+Clark/Willow Lake
+20:10.3
+Yr: 10
+11
+LA
+Levi Axtell
+
+Sioux Valley
+20:29.8
+Yr: 8
+12
+TH
+Tyson Hagberg
+
+Deuel
+20:35.3
+Yr: 9
+13
+BH
+Brady Hiltunen
+
+Sioux Valley
+20:35.7
+Yr: 9
+14
+DG
+Daniel Gums
+
+Deuel
+20:36.6
+Yr: 12
+15
+NE
+Nolan Eidson
+
+Castlewood
+20:38.4
+Yr: 9
+16
+CG
+Conner Giedd
+
+De Smet
+20:42.6
+Yr: 9
+17
+NH
+Nathaniel Hobbie
+
+Flandreau
+20:56.5
+Yr: 9
+18
+CS
+Carter Sapp
+
+Sioux Valley
+21:01.2
+Yr: 9
+19
+DK
+Dominic Kluckman
+
+Deuel
+21:17.5
+Yr: 9
+20
+LS
+Logan Seefeldt
+
+Clark/Willow Lake
+21:26.0
+Yr: 10
+21
+BM
+Bret Milton
+
+Sioux Valley
+21:32.4
+Yr: 10
+22
+JB
+Jordan Botkin
+
+De Smet
+21:50.8
+Yr: 9
+23
+CT
+Chase Temme
+
+De Smet
+21:51.7
+Yr: 10
+24
+GA
+Gabriel Aughenbaugh
+
+De Smet
+22:29.9
+Yr: 9
+25
+GM
+Gavin Mattson
+
+Deuel
+22:55.2
+Yr: 8
+26
+OR
+Oliver Reitz
+
+Clark/Willow Lake
+23:49.3
+Yr: 10
+27
+WO
+Waylan Olson
+
+Clark/Willow Lake
+24:11.6
+Yr: 11
+28
+CJ
+Connor Johnson
+
+De Smet
+28:19.3
+Yr: 12

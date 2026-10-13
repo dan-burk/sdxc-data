@@ -1,0 +1,679 @@
+1
+AS
+Alex Schumacher
+
+Miller
+16:40.0
+Yr: 12
+2
+PB
+Pierce Baumberger
+
+Miller
+16:47.0
+Yr: 11
+3
+WB
+Wakely Burns
+
+Philip
+16:58.0
+Yr: 12
+4
+NS
+Nicholas Schlachter
+
+Gettysburg
+17:13.0
+Yr: 12
+5
+AP
+Asher Peterson
+
+Philip
+17:23.0
+Yr: 12
+6
+
+Evan Bartelt
+
+Ethan/Parkston
+17:38.0
+Yr: 12
+7
+JL
+Joseph Laprath
+
+Winner
+17:53.0
+Yr: 12
+8
+
+Trey Larson
+
+Philip
+17:58.0
+Yr: 11
+9
+
+Jayden Taken Alive
+
+McLaughlin
+18:03.0
+Yr: 10
+10
+
+Tukker Boe
+
+Philip
+18:05.0
+Yr: 12
+11
+
+Baylor Burns
+
+Philip
+18:06.0
+Yr: 10
+12
+
+Jessup Pederson
+
+Dupree
+18:10.0
+Yr: 12
+13
+CW
+Carson Wosje
+
+Sioux Valley
+18:18.0
+Yr: 10
+14
+
+David Brock
+
+Ethan/Parkston
+18:19.0
+Yr: 12
+15
+WK
+Wamni Kills Crow
+
+McLaughlin
+18:24.0
+Yr: 11
+16
+IG
+Isaiah Gortmaker
+
+Miller
+18:28.0
+Yr: 10
+17
+
+Tayshaun Cudmore
+
+Dupree
+18:35.0
+Yr: 10
+18
+CB
+Creston Burns
+
+Philip
+18:37.0
+Yr: 10
+19
+
+Jack Peterson
+
+Philip
+18:42.0
+Yr: 10
+20
+GJ
+Gabe Johnson
+
+North Central
+18:43.0
+Yr: 11
+21
+WG
+Walter Graesser
+
+Platte-Geddes
+18:59.0
+Yr: 8
+22
+
+Jimmy Burma
+
+Sunshine Bible Academy
+19:07.0
+Yr: 11
+23
+SS
+Spencer Sargent
+
+Stanley County
+19:08.0
+Yr: 11
+24
+SB
+Sam Byers
+
+Chamberlain
+19:11.0
+Yr: 11
+25
+HS
+Hudson Schmidt
+
+Mount Vernon/Plankinton
+19:13.0
+Yr: 9
+26
+GH
+Gage Hohn
+
+Ethan/Parkston
+19:13.0
+Yr: 12
+27
+DM
+David McKinley
+
+Philip
+19:14.0
+Yr: 10
+28
+KH
+Kellan Hurd
+
+Miller
+19:22.0
+SB • Yr: 11
+29
+JA
+Jace Allen
+
+Todd County
+19:30.0
+Yr: 12
+30
+HD
+Hunter Dean
+
+Ethan/Parkston
+19:33.0
+Yr: 11
+31
+CK
+Chevy Konst
+
+Philip
+19:35.0
+Yr: 10
+32
+MD
+Mark Deckert
+
+Ethan/Parkston
+19:35.0
+Yr: 9
+33
+LV
+Logan Vetch
+
+Mobridge-Pollock
+19:36.0
+Yr: 12
+34
+KW
+Karter Weber
+
+Mount Vernon/Plankinton
+19:41.0
+Yr: 10
+35
+AM
+Anthony Miller
+
+North Central
+19:42.0
+Yr: 12
+36
+TE
+Trysten Eide
+
+Mount Vernon/Plankinton
+19:43.0
+Yr: 8
+37
+BH
+Brady Hiltunen
+
+Sioux Valley
+19:44.0
+Yr: 9
+38
+JS
+Justin St. John
+
+Crow Creek
+19:45.0
+Yr: 9
+39
+AW
+Avery Wells
+
+North Central
+19:48.0
+Yr: 10
+40
+
+Daniel Leiferman
+
+Kimball/White Lake
+19:49.0
+Yr: 11
+41
+CS
+Carter Sapp
+
+Sioux Valley
+19:50.0
+SB • Yr: 9
+42
+DA
+Drew Arbach
+
+North Central
+19:52.0
+Yr: 9
+43
+LS
+Layf Skatberg
+
+Todd County
+19:53.0
+Yr: 7
+44
+IL
+Isaac Leader
+
+Platte-Geddes
+20:01.0
+Yr: 8
+45
+IS
+Isaac Shepherd
+
+Chamberlain
+20:04.0
+Yr: 10
+46
+
+Jeff Boschee
+
+Sanborn Central/Woonsocket
+20:06.0
+Yr: 12
+47
+WH
+William Hanzlik
+
+Chamberlain
+20:11.0
+Yr: 11
+48
+
+Jackson Taken Alive
+
+McLaughlin
+20:20.0
+Yr: 9
+49
+EH
+Elijah Haukaas
+
+White River
+20:24.0
+Yr: 8
+50
+
+Darron Moeller
+
+Kimball/White Lake
+20:25.0
+Yr: 8
+51
+KR
+Keegan Richards
+
+Todd County
+20:25.0
+Yr: 12
+52
+CH
+Chase Hurd
+
+Miller
+20:32.0
+Yr: 8
+53
+LA
+Levi Axtell
+
+Sioux Valley
+20:37.0
+Yr: 8
+54
+BM
+Bret Milton
+
+Sioux Valley
+20:37.0
+Yr: 10
+55
+TP
+Tyson Peterson
+
+Stanley County
+20:40.0
+Yr: 11
+56
+VB
+Vincent Bechen
+
+Wagner
+20:41.0
+SB • Yr: 12
+57
+
+Sean Seurer
+
+Gettysburg
+20:43.0
+Yr: 12
+58
+AH
+Aadyn Hosek
+
+Chamberlain
+20:44.0
+Yr: 11
+59
+MC
+Matthew Calhoon
+
+Winner
+20:45.0
+Yr: 10
+60
+MR
+Mason Ryan
+
+Lyman
+20:53.0
+Yr: 11
+61
+MP
+Michael Prue
+
+Todd County
+20:53.0
+Yr: 7
+62
+SB
+Sam Baruth
+
+Sanborn Central/Woonsocket
+20:58.0
+Yr: 10
+63
+CZ
+Caleb Zephier
+
+Wagner
+20:59.0
+Yr: 12
+64
+DC
+Damien Clown
+
+Cheyenne-Eagle Butte
+21:00.0
+Yr: 10
+65
+TT
+Trey Thieman
+
+Sunshine Bible Academy
+21:05.0
+Yr: 11
+66
+CV
+Carson Vanden Berge
+
+Platte-Geddes
+21:27.0
+Yr: 11
+67
+
+Keegan Miller
+
+North Central
+21:28.0
+Yr: 9
+68
+TH
+Theo Haerter
+
+North Central
+21:31.0
+Yr: 11
+69
+JC
+Jerand Chase
+
+Gettysburg
+21:31.0
+Yr: 10
+70
+RT
+Rhys Truman
+
+Kimball/White Lake
+21:33.0
+Yr: 9
+71
+MS
+McCoy Schulz
+
+Sanborn Central/Woonsocket
+21:40.0
+PB • Yr: 10
+72
+RF
+Ranick Fjerstad
+
+Wessington Springs
+21:44.0
+Yr: 11
+73
+JR
+Jackson Rolston
+
+Wagner
+21:46.0
+Yr: 11
+74
+KB
+Kristopher Butcher
+
+Cheyenne-Eagle Butte
+21:48.0
+Yr: 11
+75
+EK
+Evan Krogman
+
+White River
+21:50.0
+Yr: 10
+76
+ZD
+Ziggy Duffy
+
+Platte-Geddes
+21:50.0
+Yr: 8
+77
+
+Owan Watson
+
+Sunshine Bible Academy
+21:52.0
+Yr: 11
+78
+JV
+Jaymin VanDerWerff
+
+Miller
+21:54.0
+Yr: 9
+79
+KD
+Kingston De'Sersa
+
+White River
+21:56.0
+Yr: 9
+80
+BS
+Brodie Smith
+
+Mount Vernon/Plankinton
+21:57.0
+Yr: 10
+81
+TT
+Tucker Thompson
+
+Wessington Springs
+21:58.0
+Yr: 9
+82
+AE
+Aksel Ehlers
+
+Lyman
+21:59.0
+Yr: 11
+83
+VP
+Vanderlae Pohdradksy
+
+Mount Vernon/Plankinton
+22:00.0
+Yr: 8
+84
+IK
+Izaak Koenig
+
+Burke
+22:08.0
+Yr: 12
+85
+JW
+Josh Wilken
+
+Sunshine Bible Academy
+22:12.0
+Yr: 10
+86
+AG
+Aiden Grassrope
+
+Lyman
+22:14.0
+Yr: 10
+87
+RI
+Roger III Roether
+
+Todd County
+22:18.0
+Yr: 10
+88
+CH
+Carter Hitchcock
+
+Sanborn Central/Woonsocket
+22:33.0
+Yr: 12
+89
+
+Jeremiah Tiger
+
+Dupree
+22:38.0
+Yr: 10
+90
+DL
+David Leiferman
+
+Kimball/White Lake
+22:50.0
+Yr: 10
+91
+MK
+Mekhi Krogman
+
+White River
+24:27.0
+Yr: 9
+92
+BB
+Braxton Breukelman
+
+Platte-Geddes
+24:36.0
+Yr: 11
+93
+OB
+Owen Bekanich
+
+Wagner
+24:43.0
+Yr: 12
+94
+TB
+Tyree Black Bear
+
+White River
+24:52.0
+Yr: 10
+95
+EK
+Ezekiel Koenig
+
+Burke
+24:59.0
+Yr: 9
+96
+MC
+Memphis Choal
+
+Lyman
+28:24.0
+Yr: 11
+97
+ML
+Mathias Lindgren
+
+Sanborn Central/Woonsocket
+30:28.0
+Yr: 11

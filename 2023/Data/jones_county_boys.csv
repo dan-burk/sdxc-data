@@ -1,13 +1,13 @@
-,Place,Name,Time,School,Class
-1,1,Elijah Haukaas,19:43,White River,M
-2,2,James Culver,20:33,New Underwood,M
-3,3,Wica Enos,20:34,New Underwood,M
-4,4,Ethan Enos,21:20,New Underwood,M
-5,5,Aidan Craven,21:36,Wall,M
-6,6,Evan Krogman,21:42,White River,M
-7,7,Jaxon Krogman,22:02,White River,M
-8,8,Kingston DeSersa,22:18,White River,M
-9,9,Mateo Black Bear,24:04,White River,M
-10,10,Xander Jones,24:29,New Underwood,M
-11,11,Benjamin Amundson,24:32,Wall,M
-12,12,Connor Hakola,26:00,New Underwood,M
+"Place","Name","School","Time","Grade"
+1,"Elijah Haukaas","White River","19:43",
+2,"James Culver","New Underwood","20:33",
+3,"Wica Enos","New Underwood","20:34",
+4,"Ethan Enos","New Underwood","21:20",
+5,"Aidan Craven","Wall","21:36",
+6,"Evan Krogman","White River","21:42",
+7,"Jaxon Krogman","White River","22:02",
+8,"Kingston DeSersa","White River","22:18",
+9,"Mateo Black Bear","White River","24:04",
+10,"Xander Jones","New Underwood","24:29",
+11,"Benjamin Amundson","Wall","24:32",
+12,"Connor Hakola","New Underwood","26:00",

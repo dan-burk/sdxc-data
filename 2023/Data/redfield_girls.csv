@@ -1,64 +1,64 @@
-﻿,Place,Name,Time,School,Class
-1,1,Ella Boekelheide,18:20.1,Northwestern,F
-2,2,Heidi Olson,19:15.5,Mobridge-Pollock,F
-3,3,Kamryn Nesheim,19:20.0,Clark/Willow,F
-4,4,Dannika Kaup,19:37.7,Potter County,F
-5,5,Jaycee Hourigan,19:44.3,Deuel,F
-6,6,Faith Heil,19:49.4,Mobridge-Pollock,F
-7,7,Emma Schlachter,19:57.8,Potter County,F
-8,8,Jadyn Ahlemeier,20:01.7,Potter County,F
-9,9,Morgan Sumption,20:16.6,Frederick,F
-10,10,Addison Cassady,20:23.8,Aberdeen Roncalli,F
-11,11,Kennadee Wagner,20:26.7,Warner,F
-12,12,Autumn Fallis,20:34.3,Highmore-Harrold,F
-13,13,Hadasah Olson,20:35.2,JVC,F
-14,14,Madison Zirbel,20:39.8,Waubay/Summit,F
-15,15,Reese Hadrick,21:09.0,Faulkton,F
-16,16,Hadley Gjerde,21:09.5,Clark/Willow,F
-17,17,Alexa Schmidt,21:10.2,Clark/Willow,F
-18,18,Jaycee Stevens,21:11.9,Potter County,F
-19,19,Lily Swanson,21:12.9,JVC,F
-20,20,Cadence Bochek,21:13.5,Clark/Willow,F
-21,21,Paige Ahlemeier,21:13.8,Potter County,F
-22,22,Tara Blachford,21:24.7,Northwestern,F
-23,23,Hazel Kannegaiter,21:28.9,Aberdeen Roncalli,F
-24,24,Emma Bochek,21:34.1,Clark/Willow,F
-25,25,Rayel Persoon,21:44.1,Potter County,F
-26,26,Claire Peterson,21:47.3,Aberdeen Roncalli,F
-27,27,Jillian Ellwein,21:50.1,Frederick,F
-28,28,Rhayonna Hood,21:52.2,JVC,F
-29,29,Madisyn Gellhaus,21:52.7,Ipswich,F
-30,30,Paige Schmidt,21:57.0,Aberdeen Roncalli,F
-31,31,Kendal Uttecht,22:02.3,Wolsey-Wessington,F
-32,32,Sarah Schmidt,22:03.0,Aberdeen Roncalli,F
-33,33,Laura Sumption,22:06.8,Frederick,F
-34,34,Sophia Troske,22:13.5,Northwestern,F
-35,35,Gracyn Kadlec,22:15.3,Ipswich,F
-36,36,Katie Albee,22:22.0,Herreid/Selby,F
-37,37,Isabella Imm,22:29.5,Deuel,F
-38,38,Kenna Wolberg,22:34.8,Warner,F
-39,39,Olivia Hadrick,22:42.1,Faulkton,F
-40,40,Chloe Berg,22:43.1,Great Plains,F
-41,41,Austina Sorensen,22:48.4,Faulkton,F
-42,42,Shyla Tvedt,23:01.5,Deuel,F
-43,43,Mallory Carlson,23:04.0,Iroquois/Lak,F
-44,44,Sofia Losure,23:06.0,Frederick,F
-45,45,Jocelyn Rumpca,23:22.0,Webster,F
-46,46,Grace Roth,23:30.8,North,F
-47,47,Rhyann Roseland,23:34.0,Faulkton,F
-48,48,Hannah Sonstebo,23:39.2,Webster,F
-49,49,Griffyn Muller,23:49.2,Florence/Henry,F
-50,50,Ella Hegg,23:56.2,Webster,F
-51,51,Andie Aughenbaugh,23:57.3,JVC,F
-52,52,Taylor Bendix,23:58.1,Great Plains,F
-53,53,Kassandra Abbas,24:02.7,North,F
-54,54,Micaiah Brantner,24:12.3,JVC,F
-55,55,Aleisha Naze,24:22.2,Clark/Willow,F
-56,56,Eva Benike,24:29.9,Waubay/Summit,F
-57,57,Brooke Hlavacek,24:46.3,Florence/Henry,F
-58,58,Jadie Turner,25:26.8,Redfield,F
-59,59,Emma Neumann,26:30.6,Great Plains,F
-60,60,Amelia Giese,26:47.4,Deuel,F
-61,61,Madeleine Degret,26:56.3,Wolsey-Wessington,F
-62,62,Kim Sievers,28:29.5,Wolsey-Wessington,F
-63,63,Lucy Jones,31:29.9,Aberdeen Christian,F
+"Place","Name","School","Time","Grade"
+1,"Ella Boekelheide","Northwestern","18:20.1",
+2,"Heidi Olson","Mobridge-Pollock","19:15.5",
+3,"Kamryn Nesheim","Clark/Willow","19:20.0",
+4,"Dannika Kaup","Potter County","19:37.7",
+5,"Jaycee Hourigan","Deuel","19:44.3",
+6,"Faith Heil","Mobridge-Pollock","19:49.4",
+7,"Emma Schlachter","Potter County","19:57.8",
+8,"Jadyn Ahlemeier","Potter County","20:01.7",
+9,"Morgan Sumption","Frederick","20:16.6",
+10,"Addison Cassady","Aberdeen Roncalli","20:23.8",
+11,"Kennadee Wagner","Warner","20:26.7",
+12,"Autumn Fallis","Highmore-Harrold","20:34.3",
+13,"Hadasah Olson","JVC","20:35.2",
+14,"Madison Zirbel","Waubay/Summit","20:39.8",
+15,"Reese Hadrick","Faulkton","21:09.0",
+16,"Hadley Gjerde","Clark/Willow","21:09.5",
+17,"Alexa Schmidt","Clark/Willow","21:10.2",
+18,"Jaycee Stevens","Potter County","21:11.9",
+19,"Lily Swanson","JVC","21:12.9",
+20,"Cadence Bochek","Clark/Willow","21:13.5",
+21,"Paige Ahlemeier","Potter County","21:13.8",
+22,"Tara Blachford","Northwestern","21:24.7",
+23,"Hazel Kannegaiter","Aberdeen Roncalli","21:28.9",
+24,"Emma Bochek","Clark/Willow","21:34.1",
+25,"Rayel Persoon","Potter County","21:44.1",
+26,"Claire Peterson","Aberdeen Roncalli","21:47.3",
+27,"Jillian Ellwein","Frederick","21:50.1",
+28,"Rhayonna Hood","JVC","21:52.2",
+29,"Madisyn Gellhaus","Ipswich","21:52.7",
+30,"Paige Schmidt","Aberdeen Roncalli","21:57.0",
+31,"Kendal Uttecht","Wolsey-Wessington","22:02.3",
+32,"Sarah Schmidt","Aberdeen Roncalli","22:03.0",
+33,"Laura Sumption","Frederick","22:06.8",
+34,"Sophia Troske","Northwestern","22:13.5",
+35,"Gracyn Kadlec","Ipswich","22:15.3",
+36,"Katie Albee","Herreid/Selby","22:22.0",
+37,"Isabella Imm","Deuel","22:29.5",
+38,"Kenna Wolberg","Warner","22:34.8",
+39,"Olivia Hadrick","Faulkton","22:42.1",
+40,"Chloe Berg","Great Plains","22:43.1",
+41,"Austina Sorensen","Faulkton","22:48.4",
+42,"Shyla Tvedt","Deuel","23:01.5",
+43,"Mallory Carlson","Iroquois/Lak","23:04.0",
+44,"Sofia Losure","Frederick","23:06.0",
+45,"Jocelyn Rumpca","Webster","23:22.0",
+46,"Grace Roth","North","23:30.8",
+47,"Rhyann Roseland","Faulkton","23:34.0",
+48,"Hannah Sonstebo","Webster","23:39.2",
+49,"Griffyn Muller","Florence/Henry","23:49.2",
+50,"Ella Hegg","Webster","23:56.2",
+51,"Andie Aughenbaugh","JVC","23:57.3",
+52,"Taylor Bendix","Great Plains","23:58.1",
+53,"Kassandra Abbas","North","24:02.7",
+54,"Micaiah Brantner","JVC","24:12.3",
+55,"Aleisha Naze","Clark/Willow","24:22.2",
+56,"Eva Benike","Waubay/Summit","24:29.9",
+57,"Brooke Hlavacek","Florence/Henry","24:46.3",
+58,"Jadie Turner","Redfield","25:26.8",
+59,"Emma Neumann","Great Plains","26:30.6",
+60,"Amelia Giese","Deuel","26:47.4",
+61,"Madeleine Degret","Wolsey-Wessington","26:56.3",
+62,"Kim Sievers","Wolsey-Wessington","28:29.5",
+63,"Lucy Jones","Aberdeen Christian","31:29.9",

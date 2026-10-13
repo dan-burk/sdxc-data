@@ -1,59 +1,59 @@
-,Place,Name,Time,School,Class
-1,1,Isabelle Bloker,17:56.8,Sioux Valley,F
-2,2,Faith Wiese,18:19.0,Flandreau,F
-3,3,Corinne Braun,18:26.0,Sioux Falls Christian,F
-4,4,Natalie Smith,18:33.3,Sioux Falls Christian,F
-5,5,Ellie Maddox,18:58.9,Sioux Falls Christian,F
-6,6,Sadie Pettengill,19:01.1,Sioux Falls Christian,F
-7,7,Jerica Glasser,19:08.2,Sioux Falls Christian,F
-8,8,Anna Vyn,19:31.1,Sioux Falls Christian,F
-9,9,Jaycie Babb,19:38.3,Tea Area,F
-10,10,Rorie Thoreson,19:39.1,Dell Rapids,F
-11,11,Aubrey Borns,20:01.4,West Central,F
-12,12,Jayna VanLaecken,20:02.9,Tea Area,F
-13,13,Talya Vincent,20:04.7,Sioux Valley,F
-14,14,Brooklyn Sundermann,20:04.7,West Central,F
-15,15,Lucy Rozeboom,20:05.5,West Central,F
-16,16,Maci Licht,20:05.9,Sioux Valley,F
-17,17,Liberty Trygstad,20:07.6,Sioux Valley,F
-18,18,Sarah Johnson,20:14.9,West Central,F
-19,19,Maelee Krempges,20:16.0,West Central,F
-20,20,Josie Hamilton,20:17.8,Flandreau,F
-21,21,Kiley Westberry,20:24.0,Flandreau,F
-22,22,Diamond Roy,20:44.9,Flandreau,F
-23,23,Hailey Tiahrt,21:04.1,Baltic,F
-24,24,Grace Bialas,21:17.3,Tea Area,F
-25,25,Ava Gatzke,21:34.2,Sioux Valley,F
-26,26,Drew Caffrey,21:37.9,West Central,F
-27,27,Jessie Tappe,21:56.1,Madison,F
-28,28,Alexis Kehn,21:57.1,Baltic,F
-29,29,Abby Hilleson,22:00.6,Tea Area,F
-30,30,Meredith Decker,22:06.6,Tea Area,F
-31,31,Ellie Keller,22:13.3,Madison,F
-32,32,Haley Korver,22:17.8,Tea Area,F
-33,33,Malayna Hemmen,22:36.9,Elkton-Lake Benton,F
-34,34,Morgan Sheppard,22:48.6,Flandreau,F
-35,35,Lou Schladweiler,22:53.0,Madison,F
-36,36,Quynn Nielson,22:56.2,Sioux Valley,F
-37,37,Kimmy Schaefer,22:58.0,Estelline/Hendricks,F
-38,38,Sadey Holt,23:13.0,Baltic,F
-39,39,Samantha Troxell,23:21.3,Madison,F
-40,40,Emma Hanson,23:24.8,Garretson,F
-41,41,Ivy Jaacks,23:29.5,Elkton-Lake Benton,F
-42,42,Nora Hamilton,23:34.2,Flandreau,F
-43,43,Claire Dagel,24:01.2,Estelline/Hendricks,F
-44,44,Cambree Hunsley,24:05.1,Madison,F
-45,45,Danelyn Greene,24:07.0,Estelline/Hendricks,F
-46,46,Lani Misar,24:10.5,Madison,F
-47,47,Madde Jensen,24:47.9,Elkton-Lake Benton,F
-48,48,Maggie Hausman,24:55.0,Estelline/Hendricks,F
-49,49,Tyler Gibson,25:01.9,Tri-Valley,F
-50,50,Lexy Pulse,25:01.9,McCook Central/Montrose,F
-51,51,Mya DeStigter,25:03.7,Dell Rapids,F
-52,52,Meredith Larson,26:25.7,Baltic,F
-53,53,Vivian Koepsell,26:31.3,McCook Central/Montrose,F
-54,54,Trier Kocmick,26:32.1,Tri-Valley,F
-55,55,Isabella Mack,26:57.9,Tri-Valley,F
-56,56,Reagan VanZee,27:05.4,Dell Rapids,F
-57,57,Kaidence Rude,28:01.0,Tri-Valley,F
-58,58,Carly Rickenbaugh,28:19.3,Tri-Valley,F
+"Place","Name","School","Time","Grade"
+1,"Isabelle Bloker","Sioux Valley","17:56.8",
+2,"Faith Wiese","Flandreau","18:19.0",
+3,"Corinne Braun","Sioux Falls Christian","18:26.0",
+4,"Natalie Smith","Sioux Falls Christian","18:33.3",
+5,"Ellie Maddox","Sioux Falls Christian","18:58.9",
+6,"Sadie Pettengill","Sioux Falls Christian","19:01.1",
+7,"Jerica Glasser","Sioux Falls Christian","19:08.2",
+8,"Anna Vyn","Sioux Falls Christian","19:31.1",
+9,"Jaycie Babb","Tea Area","19:38.3",
+10,"Rorie Thoreson","Dell Rapids","19:39.1",
+11,"Aubrey Borns","West Central","20:01.4",
+12,"Jayna VanLaecken","Tea Area","20:02.9",
+13,"Talya Vincent","Sioux Valley","20:04.7",
+14,"Brooklyn Sundermann","West Central","20:04.7",
+15,"Lucy Rozeboom","West Central","20:05.5",
+16,"Maci Licht","Sioux Valley","20:05.9",
+17,"Liberty Trygstad","Sioux Valley","20:07.6",
+18,"Sarah Johnson","West Central","20:14.9",
+19,"Maelee Krempges","West Central","20:16.0",
+20,"Josie Hamilton","Flandreau","20:17.8",
+21,"Kiley Westberry","Flandreau","20:24.0",
+22,"Diamond Roy","Flandreau","20:44.9",
+23,"Hailey Tiahrt","Baltic","21:04.1",
+24,"Grace Bialas","Tea Area","21:17.3",
+25,"Ava Gatzke","Sioux Valley","21:34.2",
+26,"Drew Caffrey","West Central","21:37.9",
+27,"Jessie Tappe","Madison","21:56.1",
+28,"Alexis Kehn","Baltic","21:57.1",
+29,"Abby Hilleson","Tea Area","22:00.6",
+30,"Meredith Decker","Tea Area","22:06.6",
+31,"Ellie Keller","Madison","22:13.3",
+32,"Haley Korver","Tea Area","22:17.8",
+33,"Malayna Hemmen","Elkton-Lake Benton","22:36.9",
+34,"Morgan Sheppard","Flandreau","22:48.6",
+35,"Lou Schladweiler","Madison","22:53.0",
+36,"Quynn Nielson","Sioux Valley","22:56.2",
+37,"Kimmy Schaefer","Estelline/Hendricks","22:58.0",
+38,"Sadey Holt","Baltic","23:13.0",
+39,"Samantha Troxell","Madison","23:21.3",
+40,"Emma Hanson","Garretson","23:24.8",
+41,"Ivy Jaacks","Elkton-Lake Benton","23:29.5",
+42,"Nora Hamilton","Flandreau","23:34.2",
+43,"Claire Dagel","Estelline/Hendricks","24:01.2",
+44,"Cambree Hunsley","Madison","24:05.1",
+45,"Danelyn Greene","Estelline/Hendricks","24:07.0",
+46,"Lani Misar","Madison","24:10.5",
+47,"Madde Jensen","Elkton-Lake Benton","24:47.9",
+48,"Maggie Hausman","Estelline/Hendricks","24:55.0",
+49,"Tyler Gibson","Tri-Valley","25:01.9",
+50,"Lexy Pulse","McCook Central/Montrose","25:01.9",
+51,"Mya DeStigter","Dell Rapids","25:03.7",
+52,"Meredith Larson","Baltic","26:25.7",
+53,"Vivian Koepsell","McCook Central/Montrose","26:31.3",
+54,"Trier Kocmick","Tri-Valley","26:32.1",
+55,"Isabella Mack","Tri-Valley","26:57.9",
+56,"Reagan VanZee","Dell Rapids","27:05.4",
+57,"Kaidence Rude","Tri-Valley","28:01.0",
+58,"Carly Rickenbaugh","Tri-Valley","28:19.3",

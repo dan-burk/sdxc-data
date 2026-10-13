@@ -1,40 +1,41 @@
-,Place,Name,Time,School,Class
-1,1,Asia VanDerWerff,21:05.40,Gregory,F
-2,2,Ashton Massey,21:23.11,Menno,F
-3,3,Abigail Engel,21:26.53,Gregory,F
-4,4,Sophia Bauld,21:44.89,Burke,F
-5,5,Estelle Walthner,22:00.86,Freeman Academy/Marion,F
-6,6,Lila Chessmore,22:29.21,Tripp-Delmont/Armour,F
-7,7,Emily Grim,22:29.82,Gregory,F
-8,8,Ellie DeHaan,22:30.67,Andes Central/Dakota Christian,F
-9,9,Nora Robb,22:35.87,Scotland,F
-10,10,Avery Zeisler,22:41.28,Burke,F
-11,11,Taylor Zeisler,22:55.15,Burke,F
-12,12,Elle Hlavac,23:02.30,Scotland,F
-13,13,Zoe Schaeffer,23:06.12,Burke,F
-14,14,Britney Rueb,23:27.18,Scotland,F
-15,15,Olivia Schultz,23:29.34,Freeman,F
-16,16,Lyndsey Chessmore,23:34.05,Tripp-Delmont/Armour,F
-17,17,Hannah DeLine,23:55.67,Mitchell Christian,F
-18,18,Gabbie Eichmann,23:38.12,Canistota,F
-19,19,Amy Henderson,23:39.80,Mitchell Christian,F
-20,20,Sieta Wiersema,23:47.83,Freeman Academy/Marion,F
-21,21,Addison Nydam,23:51.79,Mitchell Christian,F
-22,22,Kennley Sedlacek,24:08.10,Gregory,F
-23,23,Nika Furney,24:09.98,Scotland,F
-24,24,Aliza Addy,24:20.56,Canistota,F
-25,25,Hadassah Church,25:33.37,Canistota,F
-26,26,Maria Addy,25:48.67,Canistota,F
-27,27,Grace Vitek,26:07.69,Scotland,F
-28,28,Kora Backes,26:21.48,Andes Central/Dakota Christian,F
-29,29,Ashlynn Fergen,26:30.41,Menno,F
-30,30,Elle Mendoza,26:54.03,Bridgewater-Emery,F
-31,31,Lindy Hofer,27:18.39,Mitchell Christian,F
-32,32,Elese Gerlach,27:28.13,Corsica-Stickney,F
-33,33,Hannah Masterson,27:28.50,Menno,F
-34,34,Bella Duerfeldt,27:37.49,Burke,F
-35,35,Addison Krogstad,28:32.07,Corsica-Stickney,F
-36,36,Makayla Fouss,31:16.14,Tripp-Delmont/Armour,F
-37,37,Ellie Talsma,31:26.14,Gregory,F
-38,38,Rosci Patterson,38:44.83,Marty,F
-39,39,Jaden Thin Elk,38:47.67,Marty,F
+"Place","Name","School","Time","Grade"
+1,"Asia VanDerWerff","Gregory","21:05.4","10"
+2,"Ashton Massey","Menno","21:23.2","12"
+3,"Abigail Engel","Gregory","21:26.6","8"
+4,"Sophia Bauld","Burke","21:44.9","11"
+5,"Estelle Waltner","Freeman Academy/Marion - CLOSED","22:00.9","10"
+6,"Lila Chessmore","Tripp-Delmont/Armour","22:29.3","9"
+7,"Emily Grim","Gregory","22:29.9","10"
+8,"Eilie DeHaan","Andes Central/Dakota Christian","22:30.7","9"
+9,"Nora Robb","Scotland","22:35.9","11"
+10,"Avery Zeisler","Burke","22:41.3","11"
+11,"Taylor Zeisler","Burke","22:55.2","8"
+12,"Elle Hlavac","Scotland","23:02.3","7"
+13,"Zoe Schaeffer","Menno","23:26.2","9"
+14,"Britney Rueb","Scotland","23:27.2","10"
+15,"Olivia Schultz","Freeman","23:29.4","7"
+16,"Lyndsey Chessmore","Tripp-Delmont/Armour","23:34.1","7"
+17,"Hannah DeLine","Mitchell Christian","23:35.7","10"
+18,"Gabbie Eichmann","Canistota","23:38.2","8"
+19,"Amy Henderson","Mitchell Christian","23:39.8","9"
+20,"Sieta Wiersema","Freeman Academy/Marion - CLOSED","23:47.9","11"
+21,"Addison Nydam","Mitchell Christian","23:51.8","8"
+22,"Kennley Sedlacek","Gregory","24:08.1","7"
+23,"Nika Furney","Scotland","24:10.0","8"
+24,"Aliza Addy","Canistota","25:24.1","8"
+25,"Hadassah Church","Canistota","25:33.4","10"
+26,"Maria Addy","Canistota","25:48.7","10"
+27,"Grace Vitek","Scotland","26:07.7","11"
+28,"Kora Backes","Andes Central/Dakota Christian","26:21.5","7"
+29,"Ashlynn Fergen","Menno","26:30.5","9"
+30,"Ella Mendoza","Bridgewater-Emery","26:54.1","11"
+31,"Lindy Hofer","Mitchell Christian","27:18.4","12"
+32,"Elese Gerlach","Corsica-Stickney","27:28.2","12"
+33,"Hannah Masterson","Menno","27:28.5","8"
+34,"Bella Duerfeldt","Burke","27:37.5","10"
+35,"Addison Krogstad","Corsica-Stickney","28:32.1","10"
+36,"Jaelynn Thin Elk","Marty","28:53.8","6"
+37,"Makayla Fuoss","Tripp-Delmont/Armour","29:16.2","12"
+38,"Ellie Talsma","Gregory","31:26.2","10"
+39,"Rosci Patterson","Marty","38:44.9","9"
+40,"Jaden Thin Elk","Marty","38:47.7","6"
