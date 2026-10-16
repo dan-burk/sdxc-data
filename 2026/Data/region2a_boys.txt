@@ -1,0 +1,426 @@
+1
+LV
+Levi Vander Leest
+
+Sioux Falls Christian
+15:54.0
+Yr: 12 • +1pts
+2
+SP
+Sawyer Pettengill
+
+Sioux Falls Christian
+16:27.0
+Yr: 8 • +2pts
+3
+WL
+Wesley Lyon
+
+Sioux Falls Christian
+16:33.0
+Yr: 11 • +3pts
+4
+
+Jaxton Rinehart
+
+Tri-Valley
+16:41.0
+Yr: 11
+5
+PT
+Peyton Tetzlaff
+
+West Central
+16:44.0
+Yr: 12
+6
+
+Sam VanRaalte
+
+Sioux Falls Christian
+17:13.0
+Yr: 11
+7
+ZN
+Zach Nielsen
+
+West Central
+17:27.0
+Yr: 12 • +7pts
+8
+BH
+Briar Horn
+
+West Central
+17:40.0
+Yr: 9 • +8pts
+9
+MM
+Max McDonald
+
+Sioux Falls Christian
+17:42.0
+Yr: 11
+10
+CT
+Camden Tebay
+
+Dell Rapids
+17:44.0
+Yr: 11
+11
+
+Carter Siemonsma
+
+Garretson
+17:50.0
+Yr: 12 • +11pts
+12
+NH
+Nathaniel Hobbie
+
+Flandreau
+17:53.0
+SB • Yr: 12
+13
+
+Eli Smith
+
+Sioux Falls Christian
+18:00.0
+Yr: 10 • +13pts
+14
+LK
+Logan Kontz
+
+Flandreau
+18:03.0
+Yr: 11
+15
+AK
+Adam Kinner
+
+Elkton-Lake Benton
+18:05.0
+SB • Yr: 10
+16
+
+Ethan McGregor
+
+Garretson
+18:10.0
+Yr: 12 • +15pts
+17
+TJ
+Tayte Joachims
+
+Flandreau
+18:12.0
+Yr: 9 • +16pts
+18
+SK
+Sean King
+
+Tri-Valley
+18:14.0
+Yr: 10
+19
+
+Nolan Katzer
+
+Dell Rapids
+18:19.0
+Yr: 9
+20
+TS
+Tyrus Schulz
+
+Sioux Valley
+18:23.0
+Yr: 12
+21
+SS
+Sam Schmidt
+
+Flandreau
+18:40.0
+Yr: 12
+22
+MS
+Miles Sievers
+
+Garretson
+18:42.0
+Yr: 10 • +21pts
+23
+CS
+Charlie Stainbrook
+
+Dell Rapids
+18:42.0
+Yr: 9
+24
+
+Charles Meyer
+
+Madison
+18:50.0
+Yr: 10 • +23pts
+25
+GF
+Gabe Frias
+
+Flandreau
+18:57.0
+PB • Yr: 11 • +24pts
+26
+CS
+Cooper Smith
+
+Garretson
+18:59.0
+Yr: 11
+27
+DL
+David Lutter
+
+West Central
+18:59.0
+Yr: 9
+28
+SS
+Samuel Spisak
+
+West Central
+19:09.0
+Yr: 8 • +27pts
+29
+NR
+Nathan Ross
+
+Flandreau
+19:16.0
+PB • Yr: 11 • +28pts
+30
+CD
+Cooper Danforth
+
+Garretson
+19:17.0
+Yr: 9
+31
+TT
+Teagen Teel
+
+Tri-Valley
+19:18.0
+Yr: 11 • +30pts
+32
+NC
+Nolan Carstensen
+
+Dell Rapids
+19:19.0
+Yr: 9 • +31pts
+33
+BV
+Beckett Vargas
+
+Madison
+19:28.0
+Yr: 10
+34
+LA
+Levi Axtell
+
+Sioux Valley
+19:29.0
+Yr: 11
+35
+
+Jackson Hestermann
+
+Sioux Valley
+19:40.0
+Yr: 9 • +34pts
+36
+CH
+Carter Hanssen
+
+Sioux Valley
+19:44.0
+Yr: 8
+37
+AH
+Alex Heinemann
+
+Dell Rapids
+19:45.0
+Yr: 12 • +36pts
+38
+CP
+Charlie Person
+
+Dell Rapids
+19:46.0
+Yr: 10
+39
+TK
+Tommy Kurtz
+
+Madison
+19:54.0
+Yr: 11
+40
+CG
+Camron Gross
+
+Sioux Valley
+20:02.0
+Yr: 8
+41
+DD
+Drayden Deffenbaugh
+
+West Central
+20:09.0
+Yr: 12
+42
+ES
+Easton Schwebach
+
+Garretson
+20:12.0
+Yr: 7
+43
+CB
+Corban Barclay
+
+Sioux Valley
+20:36.0
+PB • Yr: 10
+44
+TO
+Tyler Ochsner
+
+Baltic
+20:39.0
+Yr: 11 • +43pts
+45
+JH
+Jake Harmdierks
+
+Madison
+20:45.0
+Yr: 9
+46
+LG
+Layton Gacke
+
+Tri-Valley
+20:46.0
+Yr: 8
+47
+NK
+Noah Kinner
+
+Elkton-Lake Benton
+20:46.0
+PB • Yr: 8
+48
+AH
+Adam Heumiller
+
+McCook Central/Montrose
+20:47.0
+Yr: 11
+49
+OM
+Oliver Meyer
+
+Madison
+21:01.0
+Yr: 12
+50
+AJ
+Asher Johnson
+
+McCook Central/Montrose
+21:07.0
+51
+TF
+Timmy Felix
+
+Madison
+21:21.0
+PB • Yr: 10
+52
+JK
+Jaxen Kindelspire
+
+Tri-Valley
+21:24.0
+Yr: 10
+53
+AO
+Ayden Ochsner
+
+Baltic
+21:48.0
+Yr: 9
+54
+RA
+Ryker Ahlers
+
+Baltic
+22:06.0
+Yr: 7
+55
+LW
+Lincoln Wilde
+
+Baltic
+22:07.0
+PB • Yr: 8
+56
+PR
+Preston Rowley
+
+McCook Central/Montrose
+22:12.0
+Yr: 8
+57
+DD
+David Donahue
+
+Baltic
+22:37.0
+Yr: 9
+58
+AH
+Alexander Hockenberry
+
+Baltic
+22:44.0
+Yr: 12
+59
+GB
+Gunner Berens
+
+McCook Central/Montrose
+23:12.0
+PB • Yr: 8
+60
+DU
+Dagon Uberty
+
+McCook Central/Montrose
+23:40.0
+PB • Yr: 8
+61
+CH
+Cade Hoffman
+
+McCook Central/Montrose
+24:43.0
+Yr: 8
