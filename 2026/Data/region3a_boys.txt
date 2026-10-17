@@ -1,0 +1,385 @@
+1
+GB
+Gage Beverly
+
+Vermillion
+16:26.5
+Yr: 11 • +1pts • Q
+2
+JG
+Jamison Gould
+
+Dakota Valley
+16:29.5
+Yr: 11 • +2pts • Q
+3
+LS
+Landon Strasser
+
+Lennox
+16:33.0
+Yr: 10 • +3pts • Q
+4
+
+Oscar Edelen
+
+Vermillion
+16:38.1
+Yr: 10 • +4pts • Q
+5
+IB
+Isaak Booker
+
+Lennox
+16:48.0
+Yr: 11 • +5pts • Q
+6
+
+Joshua Merriman
+
+Beresford
+16:53.7
+Yr: 9 • +6pts • Q
+7
+JL
+Jack LaFerrier
+
+Elk Point-Jefferson
+17:03.4
+Yr: 10 • +7pts • Q
+8
+BQ
+Ben Quail
+
+Vermillion
+17:10.2
+Yr: 11 • +8pts • Q
+9
+LA
+Leo Aesoph
+
+Lennox
+17:11.0
+SB • Yr: 11 • +9pts • Q
+10
+DH
+Declan Huber
+
+Dakota Valley
+17:11.5
+PB • Yr: 9 • +10pts • Q
+11
+BF
+Beckett Fennel
+
+Elk Point-Jefferson
+17:12.2
+PB • Yr: 11 • +11pts • Q
+12
+GB
+Grady Bartunek
+
+Wagner
+17:17.1
+Yr: 10 • +12pts • Q
+13
+
+Noah Halvorson
+
+Beresford
+17:22.3
+PB • Yr: 11 • +13pts • Q
+14
+
+Maxwell Leuenhagen
+
+Elk Point-Jefferson
+17:27.5
+PB • Yr: 8 • +14pts • Q
+15
+SM
+Sean May
+
+Vermillion
+17:30.2
+PB • Yr: 12 • +15pts • Q
+16
+JV
+Jaxon Vande Vegte
+
+Elk Point-Jefferson
+17:38.0
+PB • Yr: 11 • +16pts • Q
+17
+RB
+Ryan Bryson
+
+Canton
+17:40.5
+PB • Yr: 10 • +17pts • Q
+18
+BF
+Bennett Farley
+
+Beresford
+17:44.7
+Yr: 11 • +18pts • Q
+19
+JB
+Jeremy Bockelman
+
+Canton
+17:47.6
+PB • Yr: 10 • +19pts • Q
+20
+CG
+Collin Goosmann
+
+Dakota Valley
+17:47.7
+PB • Yr: 9 • +20pts • Q
+21
+HH
+Henry Huether
+
+Beresford
+17:58.5
+Yr: 11 • +21pts
+22
+
+Alex Opland
+
+Canton
+18:02.5
+PB • Yr: 12 • +22pts
+23
+IS
+Isaiah Sayler
+
+Lennox
+18:03.6
+PB • Yr: 12 • +23pts • Q
+24
+SS
+Sam Sorensen
+
+Vermillion
+18:09.6
+Yr: 10 • +24pts • Q
+25
+
+Brock Koth
+
+Beresford
+18:10.9
+PB • Yr: 12 • +25pts
+26
+ZE
+Zane Ensz
+
+Dakota Valley
+18:21.2
+Yr: 8 • +26pts
+27
+JD
+Jasher Dixon
+
+Canton
+18:23.0
+PB • Yr: 11 • +27pts
+28
+CO
+Colin Oliva
+
+Dakota Valley
+18:25.4
+PB • Yr: 9 • +28pts
+29
+OM
+Oliver Merriman
+
+Beresford
+18:28.4
+Yr: 11 • +29pts
+30
+JS
+Jackson Schmidt
+
+Lennox
+18:30.2
+Yr: 11 • +30pts • Q
+31
+DR
+Dane Roberts
+
+Vermillion
+19:04.3
+PB • Yr: 9 • +31pts • Q
+32
+BC
+Blake Campbell Schlotman
+
+Dakota Valley
+19:05.2
+Yr: 9 • +32pts
+33
+GE
+Gabe Edminson
+
+Elk Point-Jefferson
+19:24.9
+Yr: 12 • +33pts • Q
+34
+BP
+Barrett Polk
+
+Bon Homme
+19:29.5
+PB • Yr: 9
+35
+LK
+Louie Knippling
+
+Ethan/Parkston
+19:35.2
+Yr: 7 • +34pts
+36
+
+Cooper Slaba
+
+Wagner
+19:38.9
+Yr: 9 • +35pts
+37
+NB
+Noah Buhian
+
+Elk Point-Jefferson
+19:46.8
+PB • Yr: 12 • +36pts • Q
+38
+AW
+Aleeus Wall
+
+Parker/Marion
+19:47.4
+Yr: 11 • +37pts
+39
+CA
+Cade Aasheim
+
+Lennox
+19:49.3
+Yr: 12 • +38pts • Q
+40
+RM
+Reed Mueller
+
+Bon Homme
+19:59.5
+Yr: 7
+41
+DM
+Drew Mellegaard
+
+Ethan/Parkston
+20:04.8
+Yr: 9 • +39pts
+42
+EB
+Ethan Blaha
+
+Wagner
+20:24.0
+Yr: 9 • +40pts
+43
+CH
+Cedric Horst
+
+Canton
+20:29.4
+Yr: 12 • +41pts
+44
+
+Wyatt Havranek
+
+Wagner
+20:50.3
+Yr: 9 • +42pts
+45
+CL
+Corwin Laffey
+
+Ethan/Parkston
+20:56.4
+Yr: 11 • +43pts
+46
+BP
+Brody Preheim
+
+Parker/Marion
+21:03.3
+PB • Yr: 8 • +44pts
+47
+MT
+Mason Tjeerdsma
+
+Wagner
+21:10.7
+PB • Yr: 8 • +45pts
+48
+FK
+Frank Krcil
+
+Wagner
+21:18.6
+Yr: 10 • +46pts
+49
+PK
+Peter Kleinschmit
+
+Canton
+21:39.4
+PB • Yr: 8 • +47pts
+50
+
+Liam Masters
+
+Parker/Marion
+21:44.3
+SB • Yr: 9 • +48pts
+51
+CL
+Chase Lentsch
+
+Ethan/Parkston
+22:01.2
+PB • Yr: 8 • +49pts
+52
+MP
+Myles Prouty
+
+Parker/Marion
+22:08.8
+PB • Yr: 8 • +50pts
+53
+
+Lincoln Deelstra
+
+Parker/Marion
+22:19.7
+PB • Yr: 9 • +51pts
+54
+JB
+Jacob Bult
+
+Parker/Marion
+23:12.8
+PB • +52pts
+55
+IR
+Izaac Richards
+
+Bon Homme
+24:03.0
+Yr: 11
