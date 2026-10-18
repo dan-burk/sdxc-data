@@ -32,6 +32,17 @@ score_season <- function(season, g) {
     weekly[[length(weekly) + 1]] <- ranking %>% mutate(week = w)
   }
 
+  # Before state is run: the state week is the entrants (state_entries.csv),
+  # predicted from the rankings going in; place and time stay blank
+  if (!length(state_week) && !is.null(season$state_entries)) {
+    entries <- season$state_entries %>%
+      filter(gender == g) %>%
+      mutate(row = NA_integer_, time = NA_character_)
+    weekly[[length(weekly) + 1]] <- state_meet(ranking, entries) %>%
+      mutate(place = NA_integer_,
+             week  = unique(season$meet_list$week[startsWith(season$meet_list$meet, "sdhsaa_")]))
+  }
+
   bind_rows(weekly) %>%
     left_join(season$schools, by = "school") %>%
     mutate(adj_time = sec_to_time(adj_sec), pr = sec_to_time(pr_sec)) %>%

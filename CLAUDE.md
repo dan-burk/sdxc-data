@@ -41,7 +41,7 @@ Don't edit `meet_list.csv` without asking. Don't change the scoring code to work
 - Head-to-head (`head_to_head()` in R/score.r): within a class, a runner who has beaten someone up to 5 places above them every time they raced, at least twice, is ranked ahead of them. adj_time is unchanged, so a runner can rank ahead of a faster adjusted time. Added in 2026; `analysis/h2h_swaps.r` showed it neither helps nor hurts predictions.
 - At the end of each week the whole season so far is refitted and ranked. PR (fastest `flg_5k = 1` time) is shown but not used in the rank.
 - Replaced the 2025 points method (5% wager blended with PR) in 2026 after `analysis/` showed it predicts finish places better; see `analysis/README.md`.
-- The state meet week (the `sdhsaa_*` meets) isn't scored. Its snapshot is the state finishers: `meet`, `place`, `predicted` (order in the race by rank going in; blank if no race before state) and state `time`. export.r writes it to that week's JSON with different fields, and records the week in `manifest.json` under `state`.
+- The state meet week (the `sdhsaa_*` meets) isn't scored. Its snapshot is the state finishers: `meet`, `place`, `predicted` (order in the race by rank going in; blank if no race before state) and state `time`. export.r writes it to that week's JSON with different fields, and records the week in `manifest.json` under `state`. Before state is run, the snapshot is the entrants from `{year}/Data/state_entries.csv` with predictions and blank place/time.
 
 ## Skills
 
@@ -49,6 +49,7 @@ Don't edit `meet_list.csv` without asking. Don't change the scoring code to work
 - `run-sdxc`: run and fix until clean.
 - `school-matching`: unknown schools.
 - `athlete-name-matching`: misspelled runners.
+- `state-entries`: state entry lists -> pre-state predictions and seed-time checks.
 
 ## Data quirks seen before (check for these again)
 

@@ -7,6 +7,7 @@
 #   {year}/athlete_aliases.csv  name + school -> correct_name, for misspelled runners
 #   {year}/different_athletes.csv  similar names checked and confirmed to be different people
 #   {year}/Data/{meet}_{boys|girls}.csv   Place, Name, School, Time, Grade
+#   {year}/Data/state_entries.csv         who's entered in each state race (from convert.r)
 
 load_season <- function(year) {
   meet_list <- read_meet_list(year)
@@ -22,6 +23,13 @@ load_season <- function(year) {
       mutate(name_1 = toupper(str_squish(name_1)), name_2 = toupper(str_squish(name_2)))
   )
   season$races <- read_races(year, meet_list) %>% clean_races(season)
+  entries <- file.path(year, "Data", "state_entries.csv")
+  season$state_entries <- if (file.exists(entries)) {
+    read.csv(entries, colClasses = "character") %>%
+      mutate(name = toupper(str_squish(Name)), raw_school = str_squish(School), seed_sec = time_to_sec(Seed)) %>%
+      apply_aliases(season) %>%
+      select(meet, gender, name, school, seed_sec)
+  }
   season
 }
 
@@ -70,11 +78,17 @@ clean_races <- function(races, season) {
       time       = str_squish(Time),
       time_sec   = time_to_sec(time)
     ) %>%
+    apply_aliases(season) %>%
+    select(meet, gender, row, name, school, raw_school, time, time_sec, grade = Grade)
+}
+
+# School aliases, then athlete aliases (which use the standardized school)
+apply_aliases <- function(d, season) {
+  d %>%
     left_join(season$school_aliases %>% select(raw_school, school), by = "raw_school") %>%
     mutate(school = coalesce(school, raw_school)) %>%
     left_join(season$athlete_aliases, by = c("name", "school")) %>%
-    mutate(name = coalesce(correct_name, name)) %>%
-    select(meet, gender, row, name, school, raw_school, time, time_sec, grade = Grade)
+    mutate(name = coalesce(correct_name, name))
 }
 
 # "16:38.48" -> 998.48 seconds. Anything else (DQ, DNF, blank) -> NA.

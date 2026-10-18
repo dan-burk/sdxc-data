@@ -1,0 +1,132 @@
+12	Levi Vander Leest	Accepted	15:25.5		Sioux Falls Christian	2A i1 t1
+11	Jaxton Rinehart	Accepted	15:40.9		Tri-Valley	2A i4
+12	Jackson Taken Alive	Accepted	15:42.3		Cheyenne-Eagle Butte	4A i1 t1
+12	Peyton Tetzlaff	Accepted	15:44.2		West Central	2A i5 t2
+12	Jeter Scoular	Accepted	16:06.2		Milbank	1A i1
+8	Sawyer Pettengill	Accepted	16:06.7		Sioux Falls Christian	2A i2 t1
+12	Lennon Clarkson	Accepted	16:07.0		Belle Fourche	5A i2 t2
+11	Gage Beverly	Accepted	16:09.5		Vermillion	3A i1 t1
+9	Carter Cooper	Accepted	16:12.2		Custer	5A i1 t1
+12	Carter Siemonsma	Accepted	16:14.0		Garretson	2A i11
+11	Wesley Lyon	Accepted	16:15.0		Sioux Falls Christian	2A i3 t1
+10	Landon Strasser	Accepted	16:17.1		Lennox	3A i3 t2
+11	Jamison Gould	Accepted	16:18.2		Dakota Valley	3A i2
+10	John Titus (J.T.) Isakson	Accepted	16:21.9		Hill City	5A i4 t3
+10	Oscar Edelen	Accepted	16:26.3		Vermillion	3A i4 t1
+11	Isaak Booker	Accepted	16:36.3		Lennox	3A i5 t2
+10	Liam Gill	Accepted	16:39.9		Chamberlain	4A i7 t2
+10	Jack LaFerrier	Accepted	16:42.7		Elk Point-Jefferson	3A i7 t3
+11	Sam VanRaalte	Accepted	16:43.9		Sioux Falls Christian	2A i6 t1
+12	Xavier Sanchez-Gonzalez	Accepted	16:44.7		Cheyenne-Eagle Butte	4A i4 t1
+9	Joshua Merriman	Accepted	16:44.8		Beresford	3A i6
+12	Zach Nielsen	Accepted	16:47.0		West Central	2A i7 t2
+12	Ethan McGregor	Accepted	16:49.3		Garretson	2A i16
+11	Walter Graesser	Accepted	16:49.9		Platte-Geddes	4A i2 t3
+11	Zachary Cooper	Accepted	16:50.8		Custer	5A i5 t1
+11	Ben Quail	Accepted	16:52.3		Vermillion	3A i8 t1
+11	Lindy Cosgrove	Accepted	16:52.6		Chamberlain	4A i5 t2
+11	Demetrius Sanchez-Gonzalez	Accepted	16:53.6		Cheyenne-Eagle Butte	4A i6 t1
+12	Ryder Graff	Accepted	16:54.0		Sisseton	1A i2 t2
+11	Camden Tebay	Accepted	16:54.6		Dell Rapids	2A i10
+9	Briar Horn	Accepted	16:58.5		West Central	2A i8 t2
+11	Peyton Krueger	Accepted	16:58.8		Custer	5A i3 t1
+11	Rylan Cuny	Accepted	17:04.1		Mahpiya Luta	5A i6
+11	Jeremiah White	Accepted	17:04.7		Hill City	5A i8 t3
+9	Brux Hartman	Accepted	17:07.9		Belle Fourche	
+11	Logan Kontz	Accepted	17:08.2		Flandreau	2A i14 t3
+9	Adam Hohn	Accepted	17:10.0		Custer	5A i7 t1
+11	Leo Aesoph	Accepted	17:11.0		Lennox	3A i9 t2
+9	Declan Huber	Accepted	17:11.5		Dakota Valley	3A i10
+11	Max McDonald	Accepted	17:12.0		Sioux Falls Christian	2A i9 t1
+11	Beckett Fennel	Accepted	17:12.2		Elk Point-Jefferson	3A i11 t3
+10	Grady Bartunek	Accepted	17:13.7		Wagner	3A i12
+12	Hudson Schmidt	Accepted	17:18.6		Mount Vernon/Plankinton	4A i3
+11	Noah Halvorson	Accepted	17:22.3		Beresford	3A i13
+12	Caden Hourigan	Accepted	17:24.3		Deuel	1A i3 t1
+9	Damien Two Eagle	Accepted	17:27.0		St. Francis Indian	4A i17
+8	Maxwell Leuenhagen	Accepted	17:27.5		Elk Point-Jefferson	3A i14 t3
+10	Sean King	Accepted	17:28.1		Tri-Valley	2A i18
+12	Sean May	Accepted	17:30.2		Vermillion	3A i15 t1
+9	Thomas Holzer	Accepted	17:35.6		Mobridge-Pollock	4A i9
+10	Michael Prue	Accepted	17:36.0		Todd County	4A i10
+12	Sutton Benck	Accepted	17:36.4		Deuel	1A i4 t1
+10	Eli Smith	Accepted	17:37.3		Sioux Falls Christian	2A i13 t1
+11	Zane Gunnell	Accepted	17:37.4		Custer	5A i9 t1
+11	Jaxon Vande Vegte	Accepted	17:38.0		Elk Point-Jefferson	3A i16 t3
+9	Nolan Katzer	Accepted	17:38.9		Dell Rapids	2A i19
+10	Ryan Bryson	Accepted	17:40.5		Canton	3A i17
+10	Byron Condon	Accepted	17:41.7		Cheyenne-Eagle Butte	4A i8 t1
+11	Franco Flores	Accepted	17:41.8		Milbank	1A i13
+11	Bennett Farley	Accepted	17:44.5		Beresford	3A i18
+12	Nathan Hudson	Accepted	17:47.1		Belle Fourche	5A i11 t2
+10	Jeremy Bockelman	Accepted	17:47.6		Canton	3A i19
+9	Collin Goosmann	Accepted	17:47.7		Dakota Valley	3A i20
+10	Sam Sorensen	Accepted	17:51.1		Vermillion	3A i24 t1
+11	Austin Keller	Accepted	17:51.5		Florence/Henry	1A i5
+12	Nathaniel Hobbie	Accepted	17:53.0		Flandreau	2A i12 t3
+12	Tyrus Schulz	Accepted	17:55.3		Sioux Valley	2A i20
+11	Brett Hansen	Accepted	17:55.4		Sisseton	1A i6 t2
+9	Carter Peppel	Accepted	17:56.6		Winner	4A i12
+9	Hudson Metz	Accepted	17:56.8		Chamberlain	4A i13 t2
+9	Tayte Joachims	Accepted	17:58.3		Flandreau	2A i17 t3
+12	Tyson Hagberg	Accepted	17:59.7		Deuel	1A i7 t1
+10	Weston Foster	Accepted	18:03.0		Winner	4A i11
+12	Isaiah Sayler	Accepted	18:03.6		Lennox	3A i23 t2
+11	Louis Kills Crow Indian	Accepted	18:04.1		Little Wound	5A i15
+10	Adam Kinner	Accepted	18:05.0		Elkton-Lake Benton	2A i15
+9	Alfred Green	Accepted	18:10.3		Stanley County	4A i15
+11	Gavin Mattson	Accepted	18:13.2		Deuel	1A i8 t1
+11	Jaxon Bach	Accepted	18:13.3		Belle Fourche	5A i10 t2
+12	Sam Schmidt	Accepted	18:16.4		Flandreau	2A i21 t3
+11	Thaddaeus McKenney	Accepted	18:18.1		Belle Fourche	5A i12 t2
+8	Soren Farrar	Accepted	18:18.7		Hill City	5A i16 t3
+8	Easton Dooley	Accepted	18:18.8		Custer	5A i13 t1
+7	Ben Weigel	Accepted	18:24.9		Aberdeen Roncalli	1A i10 t3
+11	Jackson Schmidt	Accepted	18:26.2		Lennox	3A i30 t2
+11	Noah Estwick	Accepted	18:27.8		Sisseton	1A i9 t2
+12	Dominic Kluckman	Accepted	18:33.9		Deuel	1A i23 t1
+9	Rowdy Isakson	Accepted	18:35.4		Hill City	5A i20 t3
+12	Sam Manian	Accepted	18:37.4		Great Plains Lutheran	1A i12
+9	Jackson Bollinger	Accepted	18:37.5		Chamberlain	4A i18 t2
+8	Coen Halvorson	Accepted	18:38.9		Webster Area	1A i11
+12	Clifford Torberson	Accepted	18:40.9		Belle Fourche	5A i14 t2
+10	Riley Shellenberger	Accepted	18:41.8		Groton Area	1A i14
+11	Ryland Magee	Accepted	18:43.4		Stanley County	4A i14
+11	Dontae Davis	Accepted	18:46.4		Todd County	4A i16
+8	Samuel Spisak	Accepted	18:49.3		West Central	2A i28 t2
+11	Easton Schuman	Accepted	18:51.1		Platte-Geddes	4A i19 t3
+11	Gabe Frias	Accepted	18:57.0		Flandreau	2A i25 t3
+10	Joseph O'Brien	Accepted	18:57.4		Britton-Hecla	1A i18
+9	David Lutter	Accepted	18:57.5		West Central	2A i27 t2
+9	Antoine Garnier	Accepted	18:58.2		Mahpiya Luta	5A i17
+12	Gabe Edminson	Accepted	19:01.5		Elk Point-Jefferson	3A i33 t3
+10	Tyler Roebuck	Accepted	19:01.5		Mobridge-Pollock	4A i20
+10	Evan Hansen	Accepted	19:01.5		Aberdeen Roncalli	1A i15 t3
+10	Blake Hansen	Accepted	19:02.5		Aberdeen Roncalli	1A i16 t3
+10	Cole Feickert	Accepted	19:02.5		Aberdeen Roncalli	1A i21 t3
+9	Dane Roberts	Accepted	19:04.3		Vermillion	3A i31 t1
+9	Hoksila Sharpfish	Accepted	19:06.1		Mahpiya Luta	5A i18
+10	Ethan Zemlicka	Accepted	19:07.1		Clark/Willow Lake	1A i17
+9	Hudson Bragg	Accepted	19:08.3		Sisseton	1A i19 t2
+10	Keagan Gerlick	Accepted	19:09.6		St. Thomas More	5A i19
+10	Aksel Gjerde	Accepted	19:11.8		Clark/Willow Lake	1A i20
+12	Drayden Deffenbaugh	Accepted	19:12.4		West Central	2A i41 t2
+11	Nathan Ross	Accepted	19:16.0		Flandreau	2A i29 t3
+11	Caius DuBray	Accepted	19:18.4		Cheyenne-Eagle Butte	4A i31 t1
+9	Henry Graesser	Accepted	19:23.0		Platte-Geddes	4A i22 t3
+11	Maden Brown	Accepted	19:25.4		Platte-Geddes	4A i24 t3
+11	Jaye Hollow Horn	Accepted	19:33.0		Belle Fourche	5A i22 t2
+7	Hardin Stickland	Accepted	19:36.1		Sisseton	1A i24 t2
+9	Ben Keller	Accepted	19:36.3		Aberdeen Roncalli	1A i29 t3
+8	Everett Groos	Accepted	19:38.0		Sisseton	1A i25 t2
+8	Malachi Peterson	Accepted	19:38.8		Deuel	1A i26 t1
+10	Marco DuBois	Accepted	19:40.3		Hill City	5A i23 t3
+12	Cade Aasheim	Accepted	19:44.3		Lennox	3A i39 t2
+12	Noah Buhian	Accepted	19:46.8		Elk Point-Jefferson	3A i37 t3
+9	Tate Maxon	Accepted	20:06.9		Platte-Geddes	4A i25 t3
+11	Ethan Gonsor	Accepted	20:31.6		Aberdeen Roncalli	1A i35 t3
+8	Sutton Newbrough	Accepted	20:32.5		Cheyenne-Eagle Butte	4A i27 t1
+9	Rylie Barker	Accepted	20:42.6		Chamberlain	4A i33 t2
+10	Dawson Gustad	Accepted	20:47.9		Platte-Geddes	4A i30 t3
+10	Norsean Hawk	Accepted	21:04.8		Chamberlain	4A i35 t2
+10	Ezekiel Gardner	Accepted	21:14.5		Hill City	5A i37 t3

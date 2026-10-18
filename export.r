@@ -19,7 +19,7 @@ if (!dir.exists(out_dir)) stop("Can't find ", out_dir, ": the sdxc repo should s
 
 # "16:31.78" -> 991.78 seconds (the site calls this time_min but it's seconds)
 to_seconds <- function(time) {
-  parts <- strsplit(time, ":")
+  parts <- strsplit(as.character(time), ":")  # an all-blank column reads as logical
   sapply(parts, function(p) if (length(p) == 2) as.numeric(p[1]) * 60 + as.numeric(p[2]) else NA)
 }
 
@@ -72,23 +72,25 @@ write_results <- function(season, gender, rankings) {
 # score, scorers and displacers are from the actual race, in team places
 # (places among the scoring teams' runners). predicted is from the rankings
 # going in (adjusted time + head-to-head), predicted_pr from each runner's PR going in.
+# Before state is run (entries only), place, score, scorers and displacers are null.
 write_state_teams <- function(r, gender) {
   site <- bind_rows(lapply(split(r, r$meet), function(x) {
     race <- toupper(sub("sdhsaa_", "", x$meet[1]))
     n <- team_scorers[[race]]
-    actual <- team_scores(x$school, x$place, n)
+    ran <- any(!is.na(x$place))
+    actual <- team_scores(x$school, if (ran) x$place else x$rank, n)  # before state: in predicted order
     site <- data.frame(race         = race,
                        School       = actual$school,
-                       place        = actual$place,
+                       place        = if (ran) actual$place else NA,
                        predicted    = unname(team_places(x$school, x$rank, n)[actual$school]),
                        predicted_pr = unname(team_places(x$school, to_seconds(x$pr), n)[actual$school]),
-                       score        = actual$score)
-    site$scorers    <- actual$scorers
-    site$displacers <- actual$displacers
+                       score        = if (ran) actual$score else NA)
+    site$scorers    <- if (ran) actual$scorers else NA
+    site$displacers <- if (ran) actual$displacers else NA
     site
   }))
   file <- file.path(out_dir, paste0("state_teams_", gender, "_", year, ".json"))
-  jsonlite::write_json(site, file, pretty = TRUE)
+  jsonlite::write_json(site, file, pretty = TRUE, na = "null")
   cat("Wrote", file, "(", nrow(site), "teams )\n")
 }
 
@@ -96,7 +98,8 @@ season <- load_season(year)
 
 for (gender in c("boys", "girls")) {
   rankings <- read.csv(file.path(year, "output", paste0("rankings_", gender, ".csv")))
-  state_week <- if ("place" %in% names(rankings)) unique(rankings$week[!is.na(rankings$place)]) else NULL
+  # The state week's rows have a meet (place is blank before state is run)
+  state_week <- if ("meet" %in% names(rankings)) unique(rankings$week[!is.na(rankings$meet)]) else NULL
 
   # id: one number per athlete for the whole season, so it's the same every week
   athlete <- paste(rankings$name, rankings$school)
@@ -109,7 +112,7 @@ for (gender in c("boys", "girls")) {
     if (wk %in% state_week) {
       # One row per state finisher: their race, place and predicted places (rankings, PRs),
       # plus their ranking going in (rnk_blnd, adj_time, time_min; null if unranked)
-      r <- r[order(r$meet, r$place), ]
+      r <- r[order(r$meet, r$place, r$predicted), ]  # before state: predicted order
       site <- data.frame(Name         = r$name,
                          School       = r$school,
                          id           = r$id,

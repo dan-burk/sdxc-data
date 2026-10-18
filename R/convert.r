@@ -145,6 +145,23 @@ read_meet_source <- function(year, meet, g, url = NA) {
   NULL
 }
 
+# State meet entries: {year}/Data/state_entries_{aa|a|b}_{g}.txt, one
+# tab-separated row per entrant (grade, name, status, seed time, blank, school,
+# region qualification). Only who's in each race is used; the seed (season
+# best on the entry site) is kept for a data check.
+read_state_entries <- function(year) {
+  files <- Sys.glob(file.path(year, "Data", "state_entries_*.txt"))
+  bind_rows(lapply(files, function(f) {
+    x <- read.delim(f, header = FALSE, colClasses = "character", quote = "", fill = TRUE)
+    race <- str_match(basename(f), "state_entries_(aa|a|b)_(boys|girls)")
+    data.frame(meet   = paste0("sdhsaa_", race[2]),
+               gender = race[3],
+               Name   = trimws(gsub("\\s*\\([^)]*\\)", "", x$V2)),  # drop "(Nickname)"
+               School = trimws(x$V6),
+               Seed   = trimws(x$V4))
+  }))
+}
+
 # Combine results that were published separately for one race: drop runners
 # listed twice, then order by time (no-time/DQ last) and renumber places.
 merge_races <- function(results) {

@@ -1,0 +1,132 @@
+12	Tyrus Needles	Accepted	14:42.3		Sioux Falls Lincoln	
+12	Cole Reilly	Accepted	14:53.9		Sioux Falls Washington	
+12	Dane Stark	Accepted	15:10.4		Watertown	
+12	Eric Errea	Accepted	15:16.4		Rapid City Central	
+11	Ethan Kyte	Accepted	15:17.2		Brandon Valley	
+12	Henry Sayler	Accepted	15:19.9		Sioux Falls Lincoln	
+11	Tate DeVries	Accepted	15:32.4		Aberdeen Central	
+12	Reid Groher	Accepted	15:38.3		Sioux Falls Lincoln	
+10	Rylan VanDeest	Accepted	15:38.4		Spearfish	
+12	Ben Parsons	Accepted	15:40.1		Sioux Falls Washington	
+12	Alex Quinn	Accepted	15:43.8		Sioux Falls Roosevelt	
+12	Riddick Iseminger	Accepted	15:46.1		Sioux Falls Lincoln	
+10	Quinntin Mischke	Accepted	15:47.6		Brandon Valley	
+11	Hena Abreham	Accepted	15:48.7		Sioux Falls Washington	
+12	Frank Vandy	Accepted	15:51.4		Sioux Falls Lincoln	
+12	Wyatt Balliew	Accepted	15:53.1		Douglas	
+11	Dylan Haar	Accepted	15:53.2		Brookings	
+12	Ben Dirks	Accepted	15:55.2		Harrisburg	
+11	Mason Gill	Accepted	15:58.2		Spearfish	
+12	Ruben Bokegard	Accepted	16:00.2		Sturgis Brown	
+11	Austin Dittmer	Accepted	16:00.8		Sioux Falls Roosevelt	
+10	Evan Perrigo	Accepted	16:04.3		Rapid City Stevens	
+10	Samuel Mischke	Accepted	16:04.9		Brandon Valley	
+12	Griffin Miller	Accepted	16:05.2		Sioux Falls Washington	
+9	Alex Johnikin	Accepted	16:08.2		Sioux Falls Lincoln	
+12	Jackson Schema	Accepted	16:10.1		O'Gorman	
+12	Marcus Munsch	Accepted	16:11.5		Brandon Valley	
+12	Tate Van Beek	Accepted	16:16.2		Rapid City Stevens	
+10	Dayton Hill	Accepted	16:16.9		Sioux Falls Washington	
+12	Luke Feimer	Accepted	16:17.3		Yankton	
+12	Reid Hammerquist	Accepted	16:18.4		Tea Area	
+12	Jackson Boltjes	Accepted	16:19.6		Sioux Falls Washington	
+10	Jackson Storm	Accepted	16:24.6		Sioux Falls Washington	
+9	Alex Spanos	Accepted	16:29.3		Sioux Falls Lincoln	
+11	Carter Thompson	Accepted	16:30.8		Spearfish	
+11	Mylan McDaniel	Accepted	16:32.2		Rapid City Central	
+11	Henry Smith	Accepted	16:32.6		O'Gorman	
+10	Dawson Deering	Accepted	16:33.5		Sturgis Brown	
+11	Teegan Grosz	Accepted	16:34.7		Rapid City Central	
+12	Brooks Ordway	Accepted	16:38.0		Harrisburg	
+12	Max Nelson	Accepted	16:39.5		Aberdeen Central	
+11	Weston Adams	Accepted	16:45.0		Rapid City Stevens	
+9	John Toates	Accepted	16:48.2		Brandon Valley	
+9	Gavin Johnson	Accepted	16:48.5		Sioux Falls Jefferson	
+11	Luke Jacobson	Accepted	16:49.3		Yankton	
+12	Isaac Larrington	Accepted	16:49.5		Yankton	
+12	Isaac Spahr	Accepted	16:49.7		Brandon Valley	
+11	Gideon Okken	Accepted	16:51.2		Harrisburg	
+11	Noah Hansen	Accepted	16:51.8		Rapid City Stevens	
+10	Isaac Clement	Accepted	16:57.3		Douglas	
+12	Daniel Mason	Accepted	17:01.1		Pierre T.F. Riggs	
+8	Bastian Gonzales	Accepted	17:03.1		Spearfish	
+10	Wyatt Gaeta	Accepted	17:03.8		Rapid City Stevens	
+11	Ayden Berndt	Accepted	17:08.6		Rapid City Central	
+9	Roman Jeffery	Accepted	17:12.1		Spearfish	
+11	Nathan Flanagan	Accepted	17:14.4		Harrisburg	
+9	Luke Minor	Accepted	17:14.5		O'Gorman	
+11	Drew Chavez	Accepted	17:15.5		Rapid City Central	
+9	Peter Quinlivan	Accepted	17:20.0		Sioux Falls Roosevelt	
+9	Anthony Stevens	Accepted	17:20.1		Spearfish	
+11	Jim Neddo	Accepted	17:21.1		Pierre T.F. Riggs	
+11	Ryan Heldenbrand	Accepted	17:21.5		O'Gorman	
+11	Isaac Paulson	Accepted	17:21.9		Yankton	
+9	Micah Bennett	Accepted	17:22.4		Mitchell	
+12	Bradley Walden	Accepted	17:25.7		Brandon Valley	
+11	Corbin Dodson	Accepted	17:25.7		Sturgis Brown	
+10	Ben Beesley	Accepted	17:27.5		Sioux Falls Roosevelt	
+12	Liam Nielsen	Accepted	17:27.6		Sioux Falls Roosevelt	
+10	Landon Quimby	Accepted	17:28.4		Douglas	
+9	Blake Peterson	Accepted	17:29.1		Rapid City Stevens	
+10	Grant Curtis	Accepted	17:29.3		Tea Area	
+11	Espn Magelky	Accepted	17:30.4		Rapid City Central	
+12	Bennie Olsen	Accepted	17:33.2		Douglas	
+11	Jacob Fox	Accepted	17:34.5		Rapid City Central	
+10	Wyatt Cooley	Accepted	17:35.2		Brookings	
+12	Liam Anderson	Accepted	17:36.9		Sioux Falls Roosevelt	
+10	Cruz Nitchals	Accepted	17:39.2		Harrisburg	
+12	Kaden Christian	Accepted	17:40.0		Tea Area	
+12	Jaxon Hanson	Accepted	17:40.6		Rapid City Stevens	
+11	Taden Jacobs	Accepted	17:40.7		Harrisburg	
+12	Gavin Chiaroni	Accepted	17:42.3		Douglas	
+10	Reece Christian	Accepted	17:42.7		Tea Area	
+10	Benson Bryant	Accepted	17:43.9		Harrisburg	
+11	Lucas Underwood	Accepted	17:47.9		Brookings	
+11	Gavin Greenfield	Accepted	17:48.1		O'Gorman	
+12	Miles Kornegay	Accepted	17:49.8		Sturgis Brown	
+8	Channing DeBoer	Accepted	17:55.4		Watertown	
+12	Tate VanLaecken	Accepted	17:55.8		Tea Area	
+9	Zaden Crane	Accepted	17:56.3		Pierre T.F. Riggs	
+10	Kuddyer Baugher	Accepted	17:58.1		Brookings	
+11	Evan Hunter	Accepted	18:00.2		Sioux Falls Roosevelt	
+10	Jett Kirschenmann	Accepted	18:02.5		Pierre T.F. Riggs	
+11	Howie Anderson	Accepted	18:05.3		O'Gorman	
+9	Leo Hoppe	Accepted	18:10.9		Brookings	
+11	Evan Mack	Accepted	18:13.1		Watertown	
+9	Eli Scheibe	Accepted	18:14.8		Pierre T.F. Riggs	
+12	Logan Becker	Accepted	18:15.7		Watertown	
+10	Cooper Thompson	Accepted	18:17.8		Tea Area	
+8	Levi Van Zee	Accepted	18:18.9		Brookings	
+10	Gage Frerichs	Accepted	18:24.2		Douglas	
+12	Jonah Klemisch	Accepted	18:26.2		Tea Area	
+10	Martin Diedrich	Accepted	18:27.3		Brookings	
+12	Peyton Kallstrom	Accepted	18:29.4		Douglas	
+12	Drew Pociask	Accepted	18:29.9		O'Gorman	
+9	Riley Tople	Accepted	18:38.6		Aberdeen Central	
+9	Brayden Brave Heart	Accepted	18:40.4		Pierre T.F. Riggs	
+9	Gram Messler	Accepted	18:43.0		Yankton	
+8	Kyler Hanigan	Accepted	18:44.9		Aberdeen Central	
+9	Owen Holstein	Accepted	18:50.1		Yankton	
+9	Jacob Feimer	Accepted	18:50.7		Yankton	
+11	Asher Oxford	Accepted	18:52.8		Pierre T.F. Riggs	
+11	Ian Cho	Accepted	18:53.7		Spearfish	
+12	James Weir	Accepted	18:55.5		Huron	
+9	Kaiser Lunde	Accepted	18:57.4		Watertown	
+9	Kaiden Colomb	Accepted	18:59.9		Mitchell	
+11	Cyrus Sundberg	Accepted	19:02.1		Sturgis Brown	
+12	Eyosiyas Tarekegn	Accepted	19:03.2		Sioux Falls Jefferson	
+12	Teagan Lien	Accepted	19:20.1		Huron	
+11	Maxwell Radke	Accepted	19:25.8		Huron	
+10	Lucas Johnson	Accepted	19:30.8		Sioux Falls Jefferson	
+10	Jaxon McPartland	Accepted	19:35.0		Aberdeen Central	
+10	Karsten Herges	Accepted	19:38.5		Mitchell	
+12	Deyondre Fick	Accepted	19:39.5		Sioux Falls Jefferson	
+9	Grady Lindgren	Accepted	19:42.5		Watertown	
+9	Sawyer Storm	Accepted	19:50.3		Huron	
+7	TJ Weidner	Accepted	19:58.4		Aberdeen Central	
+8	Zayne Hartwig	Accepted	19:59.3		Watertown	
+11	Henry Kruse	Accepted	20:04.0		Huron	
+9	Charleston Wachter	Accepted	20:24.8		Huron	
+7	Porter Bindenagel	Accepted	20:47.2		Aberdeen Central	
+12	Adrian Reddog	Accepted	21:01.1		Sioux Falls Jefferson	
+12	Emerson Sarvis	Accepted	21:11.1		Huron

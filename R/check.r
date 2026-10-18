@@ -107,6 +107,24 @@ check_season <- function(season) {
            anti_join(season$different_athletes, by = c("school", "name_1", "name_2")) %>%
            anti_join(season$different_athletes, by = c("school", "name_1" = "name_2", "name_2" = "name_1")))
 
+  # --- State entries (who's running state) -----------------------------------
+  if (!is.null(season$state_entries)) {
+    report("WARNING", "State entry not in this season's results (add a school or athlete alias if misspelled)",
+           season$state_entries %>% anti_join(in_state, by = c("gender", "name", "school")) %>%
+             select(meet, gender, name, school))
+    # The seed is the runner's 5K season best on the entry site, so it should match our 5K PR
+    pr <- in_state %>%
+      inner_join(meets %>% filter(flg_5k == 1) %>% select(meet), by = "meet") %>%
+      filter(!is.na(time_sec)) %>%
+      group_by(gender, name, school) %>%
+      summarise(pr = min(time_sec), .groups = "drop")
+    report("WARNING", "State entry's seed doesn't match our 5K PR (faster: a race we don't have; slower: check our time)",
+           season$state_entries %>% inner_join(pr, by = c("gender", "name", "school")) %>%
+             filter(abs(seed_sec - pr) > 0.15) %>%
+             transmute(meet, gender, name, school, seed_minus_pr = round(seed_sec - pr, 1)) %>%
+             arrange(meet, gender, school))
+  }
+
   cat("\n", errors, " error type(s) found.\n", sep = "")
   invisible(errors)
 }

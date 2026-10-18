@@ -1,0 +1,122 @@
+9	Brianna Reilly	Accepted	17:09.9		Harrisburg	
+10	Hannah Genrich	Accepted	17:21.7		Harrisburg	
+12	Peyton VanDeest	Accepted	17:28.3		Spearfish	
+8	Evelyn Hurley	Accepted	17:44.0		Rapid City Stevens	
+12	Mia Kadi	Accepted	17:51.4		Sioux Falls Lincoln	
+12	Kaylie Kuehl	Accepted	18:19.5		Brookings	
+10	Grace McElroy	Accepted	18:20.0		Watertown	
+10	Iris Birnbaum	Accepted	18:31.4		Rapid City Stevens	
+11	Paige Schweitzer	Accepted	18:40.3		O'Gorman	
+12	Anna Spanos	Accepted	18:43.5		Sioux Falls Lincoln	
+12	Verity Kocmick	Accepted	18:44.6		Harrisburg	
+9	Madison Moore	Accepted	18:44.9		Harrisburg	
+12	Reagan Ostransky	Accepted	18:47.0		Sioux Falls Lincoln	
+8	Eloise Scharnberg	Accepted	18:47.3		Harrisburg	
+11	Alice Gundvaldson	Accepted	18:51.7		O'Gorman	
+8	Nora Youmans	Accepted	18:52.9		Yankton	
+12	Emmeline Murray	Accepted	18:53.5		Sioux Falls Lincoln	
+10	Allie Novstrup	Accepted	19:00.1		Aberdeen Central	
+12	Brinna Sheldon	Accepted	19:00.1		Rapid City Stevens	
+10	Elise Johnson	Accepted	19:07.5		O'Gorman	
+11	Kaitlyn Harris	Accepted	19:08.8		Brookings	
+11	Adeline Thompson	Accepted	19:09.6		Sioux Falls Lincoln	
+9	Clara Pederson	Accepted	19:10.0		Sioux Falls Lincoln	
+9	Kenley Fritz	Accepted	19:11.9		Harrisburg	
+12	Marissa Bouwman	Accepted	19:13.1		Sioux Falls Washington	
+9	Shae Fergen	Accepted	19:22.0		Sioux Falls Lincoln	
+8	Avery Wuestewald	Accepted	19:27.2		Yankton	
+12	Adalynn Fischer	Accepted	19:29.4		Rapid City Central	
+10	Emma Tidemann	Accepted	19:29.5		Brandon Valley	
+11	Abby Johanneson	Accepted	19:35.2		Yankton	
+9	Sydney Giuseffi	Accepted	19:35.4		Rapid City Stevens	
+10	Rylie Rothenberger	Accepted	19:39.0		Sioux Falls Washington	
+12	Izzy Fischer	Accepted	19:39.3		Rapid City Central	
+12	Kate McElroy	Accepted	19:41.3		Watertown	
+12	Hadley Temple	Accepted	19:42.4		Rapid City Central	
+8	Lilly Gerlach	Accepted	19:43.1		Watertown	
+9	Hailey Mollner	Accepted	19:43.5		O'Gorman	
+12	Jordyn Johnson	Accepted	19:46.3		Brookings	
+11	Macy Copeland	Accepted	19:46.6		Rapid City Central	
+10	Taylor Boehnke	Accepted	19:49.2		Tea Area	
+8	Peyton Beatch	Accepted	19:52.8		Brandon Valley	
+8	Aubrey Cooley	Accepted	19:53.7		Brookings	
+11	Grace Bialas	Accepted	19:55.2		Tea Area	
+12	Gracen Giegling	Accepted	19:58.4		Harrisburg	
+8	Lila Knutson	Accepted	20:04.6		Sioux Falls Washington	
+8	Taisley Tetrault	Accepted	20:05.8		Spearfish	
+12	Viona Sietsema	Accepted	20:07.8		Rapid City Stevens	
+11	Olivia Anderson	Accepted	20:08.4		Watertown	
+10	Hazel Hillman	Accepted	20:10.0		O'Gorman	
+12	Sheridan Madden	Accepted	20:17.5		Rapid City Central	
+12	Auna Taglioli	Accepted	20:19.3		Spearfish	
+10	Rykr Billings	Accepted	20:19.7		Brookings	
+8	Sophie Richards	Accepted	20:28.6		Rapid City Stevens	
+11	Rilyn Jackson	Accepted	20:30.2		Yankton	
+9	Logan Hunter	Accepted	20:33.1		Rapid City Stevens	
+8	Madi Mebius	Accepted	20:35.7		O'Gorman	
+11	Kalla Foerster	Accepted	20:36.6		Brookings	
+11	Maisie Mogard	Accepted	20:36.6		Brookings	
+11	Logan Castle	Accepted	20:37.9		Tea Area	
+8	Kapri Herges	Accepted	20:41.7		Mitchell	
+10	Aurora Evans	Accepted	20:43.4		Douglas	
+10	Gretchen Curtis	Accepted	20:47.6		Tea Area	
+9	Sydney Caven	Accepted	20:48.9		Pierre T.F. Riggs	
+12	Allison Brenner	Accepted	20:49.6		Aberdeen Central	
+12	Lily Meyer	Accepted	20:49.7		Huron	
+8	Gianna Heid	Accepted	20:49.8		Sturgis Brown	
+8	Naomi Pfaff	Accepted	20:51.1		Spearfish	
+8	Spencer Proefrock	Accepted	20:53.4		Sturgis Brown	
+12	Khloe Cochran	Accepted	20:54.9		Aberdeen Central	
+9	Sarah Oedekoven	Accepted	20:55.5		Pierre T.F. Riggs	
+9	Summer Spangler	Accepted	20:58.3		Brandon Valley	
+9	Emma Casey	Accepted	21:00.0		Sioux Falls Roosevelt	
+12	Lily Wagner	Accepted	21:00.2		Sioux Falls Roosevelt	
+9	Kaelyn Swenson	Accepted	21:00.5		Brandon Valley	
+12	Daniella Van Zee	Accepted	21:01.2		Sioux Falls Roosevelt	
+12	Siri Knutson	Accepted	21:02.6		Sioux Falls Washington	
+12	Gabrielle DeVries	Accepted	21:03.9		Sioux Falls Washington	
+10	Lola Underberg	Accepted	21:05.4		Tea Area	
+11	Savannah Hadorn	Accepted	21:08.8		Rapid City Central	
+8	Nevaeh Gutenkauf	Accepted	21:09.3		Pierre T.F. Riggs	
+12	Londyn Schroeder	Accepted	21:09.7		Mitchell	
+11	Devyn Van Roekel	Accepted	21:14.7		Pierre T.F. Riggs	
+11	Sophia Hatleli	Accepted	21:18.6		Spearfish	
+9	Grace Preszler	Accepted	21:19.7		Aberdeen Central	
+12	Emilie Reedy	Accepted	21:20.2		Sturgis Brown	
+10	Evie Novstrup	Accepted	21:23.9		Aberdeen Central	
+12	Nora Pester	Accepted	21:26.9		Huron	
+9	Lydia Zilverberg	Accepted	21:31.0		Pierre T.F. Riggs	
+11	Jayda Jensen	Accepted	21:33.1		Watertown	
+12	Grace List	Accepted	21:38.3		Watertown	
+11	Aubrey Hadorn	Accepted	21:42.5		Rapid City Central	
+12	Addison Reichling	Accepted	21:43.4		Watertown	
+9	Lily DeSchepper	Accepted	21:44.0		Pierre T.F. Riggs	
+10	Hannah Koch	Accepted	21:45.4		Brandon Valley	
+7	Ella Vogt	Accepted	21:48.3		Yankton	
+8	Caroline Wiese	Accepted	21:49.4		Brandon Valley	
+11	Lilyanna Wright	Accepted	21:54.1		Sioux Falls Washington	
+10	Maddy Campbell	Accepted	21:56.5		Spearfish	
+10	Grace Chapman	Accepted	21:56.6		Tea Area	
+11	Abby Hilleson	Accepted	21:59.3		Tea Area	
+8	Skylar Lawson	Accepted	22:03.9		Mitchell	
+11	Olivia Craion	Accepted	22:09.2		Douglas	
+11	Bergen Bumann	Accepted	22:16.8		Sioux Falls Washington	
+11	Aubrie Brendsel	Accepted	22:22.4		Brandon Valley	
+9	Mackenzie Little	Accepted	22:23.3		Sioux Falls Roosevelt	
+8	Gabby Clement	Accepted	22:26.1		Douglas	
+10	Sydney Brunick	Accepted	22:30.7		Sioux Falls Roosevelt	
+8	Chloe Reich	Accepted	22:32.8		Aberdeen Central	
+12	Jay Rios	Accepted	22:34.0		Douglas	
+11	Lily Swanson	Accepted	22:55.6		Huron	
+10	Bree Cochran	Accepted	22:57.2		Aberdeen Central	
+12	Jordana Johnson	Accepted	23:00.1		Sioux Falls Roosevelt	
+12	Averi Gerfen	Accepted	23:00.5		Mitchell	
+9	Lacey Taylor	Accepted	23:09.1		Yankton	
+12	Cadence Jorgensen	Accepted	23:35.4		Sioux Falls Roosevelt	
+9	Samantha Nygren	Accepted	23:36.5		Spearfish	
+12	Kaelyn Knudson	Accepted	23:43.1		Douglas	
+8	Hailey Weaver	Accepted	23:45.1		Pierre T.F. Riggs	
+9	Sydnie Pischel	Accepted	23:58.6		Mitchell	
+7	Kemrey DeDeyne	Accepted	24:44.4		Huron	
+9	Alexandra Poscharsky	Accepted	24:44.9		O'Gorman	
+11	Delaney Youmans	Accepted			Yankton

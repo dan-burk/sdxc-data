@@ -5,6 +5,7 @@
 #   {year}/Data/{meet}_{boys|girls}_milesplit.txt  saved MileSplit page (alternative = 1;
 #                                                  downloaded from the meet list URL once)
 #   {year}/merged_meets.csv                        meets published as two files but run as one race
+#   {year}/Data/state_entries_{aa|a|b}_{g}.txt     state meet entries -> {year}/Data/state_entries.csv
 
 suppressPackageStartupMessages(library(dplyr))
 library(stringr)
@@ -31,3 +32,10 @@ for (i in seq_len(nrow(meets))) {
   }
 }
 message("Converted ", nrow(meets), " meets.")
+
+# State meet entries (who's running state), once they're posted
+entries <- read_state_entries(year)
+if (nrow(entries)) {
+  write.csv(entries, file.path(year, "Data", "state_entries.csv"), row.names = FALSE)
+  message("Converted ", nrow(entries), " state entries.")
+}
