@@ -43,6 +43,23 @@ state, and region bias is about half what it was.
   wager sizes 0.5-20%, Elo at K 16-1024, each alone and blended with PR, and
   whether blending Elo or PR into adjusted time helps (it doesn't).
   Figures 10-12.
+- `state_by_year.r`: individual state MAE for 2023-2025 (PR, adjusted, adjusted
+  + swaps). Adjusted beats PR every year; boys gain 16-22%, girls 4-5% in 2023
+  and 2024 but 21% in 2025 (the tuning year).
+- `state_teams.r`: state team places (`team_places()` in R/score.r, as on the
+  site) predicted by PR vs adjusted. Team MAE by race and year in
+  `output/state_teams_mae.csv`; adjusted + swaps beats PR in 14 of 18 races.
+- `h2h_swaps.r`: head-to-head swaps on top of adjusted time. MAE moves by
+  0.01 either way: neither helps nor hurts, kept because it reads right.
+- `best_races.r`: rate on the best N races instead of all. Best 1-3 is worse;
+  dropping the slowest race (3+ races) is a little better (2025 state 9.44 to
+  9.20). Not adopted.
+- `head_to_head.r` (about 15 minutes): Plackett-Luce ratings from finish order,
+  alone and blended with adjusted time. Never beats adjusted time. Rejected.
+- `recency.r`: recent races counting more. A 2-week half-life cut 2025 state
+  MAE 5% (9.35 to 8.86). Parked, not in the pipeline yet.
+- `improvement.r`: raw times by week, 2025. Runners get faster over the
+  season, which is why early meet effects drift.
 - `ratings.r`: the rating methods (2025 points, Elo, PR, adjusted time via the
   pipeline's `rank_athletes()`), the rank blend and the backtest.
 - `plot_theme.r`: shared figure style and method colours.

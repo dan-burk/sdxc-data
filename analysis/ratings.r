@@ -222,3 +222,20 @@ h2h_scores <- function(races, classes, window = 5, min_races = 2) {
     })) %>% mutate(week = w, .before = 1)
   }))
 }
+
+# Ratings going into the state meet (after the week before it), three ways:
+# PR alone, adjusted time, and the published rank (adjusted time + head-to-head
+# swaps, exactly as R/score.r). Returns the season's races and the scores.
+state_scores <- function(season, g) {
+  races <- season_races(season, g)
+  state_week <- unique(races$week[startsWith(races$meet, "sdhsaa_")])
+  before <- races %>% filter(week < state_week)
+  adjusted <- rank_athletes(before)
+  published <- head_to_head(adjusted, before, season$schools)
+  scores <- bind_rows(
+    pr_scores(before) %>% filter(week == state_week - 1) %>% mutate(method = "PR alone"),
+    adjusted %>% transmute(id = paste(name, school, sep = "|"), method = "Adjusted time", score = -adj_sec),
+    published %>% transmute(id = paste(name, school, sep = "|"), method = "Adj + swap", score = -rank)) %>%
+    mutate(week = state_week - 1)
+  list(races = races, state_week = state_week, scores = scores)
+}

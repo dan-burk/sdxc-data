@@ -1,0 +1,318 @@
+"gender","year","race","school","Actual","PR alone","Adjusted time","Adj + swap"
+"boys",2023,"A","Hill City",1,1,1,1
+"boys",2023,"A","SF Christian",2,2,2,2
+"boys",2023,"A","Belle Fourche",3,5,5,5
+"boys",2023,"A","Milbank",4,6,6,6
+"boys",2023,"A","Custer",5,4,4,4
+"boys",2023,"A","Dakota Valley",6,3,3,3
+"boys",2023,"A","West Central",7,8,9,9
+"boys",2023,"A","Vermillion",8,7,7,7
+"boys",2023,"A","Miller",9,9,10,10
+"boys",2023,"A","Lennox",10,10,8,8
+"boys",2023,"A","Tea Area",11,11,11,11
+"boys",2023,"A","North Central",12,13,13,13
+"boys",2023,"A","McLaughlin",13,12,12,12
+"boys",2023,"A","Deuel",14,14,15,15
+"boys",2023,"A","Clark/Willow Lake",15,15,14,14
+"boys",2023,"AA","SF Lincoln",1,1,1,1
+"boys",2023,"AA","Sturgis Brown",2,6,4,4
+"boys",2023,"AA","Rapid City Stevens",3,5,2,2
+"boys",2023,"AA","Aberdeen Central",4,3,6,6
+"boys",2023,"AA","Brookings",5,4,5,5
+"boys",2023,"AA","Brandon Valley",6,7,3,3
+"boys",2023,"AA","Pierre T.F. Riggs",7,11,11,11
+"boys",2023,"AA","SF Washington",8,2,7,7
+"boys",2023,"AA","SF Roosevelt",9,14,10,10
+"boys",2023,"AA","Yankton",10,8,9,9
+"boys",2023,"AA","Rapid City Central",11,12,8,8
+"boys",2023,"AA","O'Gorman",12,10,12,12
+"boys",2023,"AA","Watertown",13,13,15,15
+"boys",2023,"AA","Douglas",14,15,14,14
+"boys",2023,"AA","Spearfish",15,17,16,16
+"boys",2023,"AA","SF Jefferson",16,9,13,13
+"boys",2023,"AA","Harrisburg",17,16,17,17
+"boys",2023,"AA","Mitchell",18,18,18,18
+"boys",2023,"AA","Huron",19,19,19,19
+"boys",2023,"B","Philip",1,1,1,1
+"boys",2023,"B","Mitchell Christian",2,3,2,2
+"boys",2023,"B","Northwestern",3,2,3,3
+"boys",2023,"B","Freeman Academy/Marion",4,5,4,4
+"boys",2023,"B","Gregory",5,7,6,6
+"boys",2023,"B","Frederick Area",6,6,5,5
+"boys",2023,"B","Deubrook Area",7,4,7,7
+"boys",2023,"B","Arlington",8,8,11,11
+"boys",2023,"B","Highmore-Harrold",9,13,9,9
+"boys",2023,"B","McCrossan",10,9,16,15
+"boys",2023,"B","Canistota",11,15,13,13
+"boys",2023,"B","Lemmon",12,11,8,8
+"boys",2023,"B","Gettysburg",13,12,12,12
+"boys",2023,"B","Sunshine Bible Academy",14,14,15,16
+"boys",2023,"B","Newell",15,17,17,17
+"boys",2023,"B","Avon",16,16,10,10
+"boys",2023,"B","Chester",17,10,14,14
+"boys",2024,"A","SF Christian",1,1,1,1
+"boys",2024,"A","Custer",2,3,3,3
+"boys",2024,"A","Dakota Valley",3,2,2,2
+"boys",2024,"A","West Central",4,5,5,5
+"boys",2024,"A","Hill City",5,6,4,4
+"boys",2024,"A","Vermillion",6,7,7,7
+"boys",2024,"A","Lennox",7,4,6,6
+"boys",2024,"A","Rapid City Christian",8,9,8,8
+"boys",2024,"A","Cheyenne-Eagle Butte",9,13,12,12
+"boys",2024,"A","Deuel",10,8,10,10
+"boys",2024,"A","Milbank",11,10,9,9
+"boys",2024,"A","Sioux Valley",12,11,11,11
+"boys",2024,"A","Platte-Geddes",13,14,13,13
+"boys",2024,"A","Great Plains Lutheran",14,12,14,14
+"boys",2024,"A","Chamberlain",15,15,15,15
+"boys",2024,"AA","SF Lincoln",1,1,1,1
+"boys",2024,"AA","Rapid City Stevens",2,8,2,2
+"boys",2024,"AA","SF Washington",3,4,3,3
+"boys",2024,"AA","Rapid City Central",4,5,9,9
+"boys",2024,"AA","Brandon Valley",5,3,5,5
+"boys",2024,"AA","SF Roosevelt",6,7,7,7
+"boys",2024,"AA","Brookings",7,6,6,6
+"boys",2024,"AA","Aberdeen Central",8,2,4,4
+"boys",2024,"AA","Harrisburg",9,10,11,11
+"boys",2024,"AA","Sturgis Brown",10,9,8,8
+"boys",2024,"AA","Spearfish",11,11,10,10
+"boys",2024,"AA","Yankton",12,12,12,12
+"boys",2024,"AA","Pierre T.F. Riggs",13,14,14,14
+"boys",2024,"AA","Tea Area",14,15,15,16
+"boys",2024,"AA","Watertown",15,13,16,15
+"boys",2024,"AA","O'Gorman",16,16,13,13
+"boys",2024,"AA","Mitchell",17,17,17,17
+"boys",2024,"AA","Douglas",18,18,18,18
+"boys",2024,"AA","Huron",19,19,19,19
+"boys",2024,"B","Philip",1,1,2,2
+"boys",2024,"B","Mitchell Christian",2,2,1,1
+"boys",2024,"B","North Central",3,3,4,4
+"boys",2024,"B","James Valley Christian",4,5,3,3
+"boys",2024,"B","Dupree",5,7,6,6
+"boys",2024,"B","Lemmon",6,18,8,8
+"boys",2024,"B","Kimball/White Lake",7,9,7,7
+"boys",2024,"B","Frederick Area",8,4,5,5
+"boys",2024,"B","Newell",9,8,15,15
+"boys",2024,"B","Freeman",10,14,13,12
+"boys",2024,"B","Highmore-Harrold",11,10,14,14
+"boys",2024,"B","Estelline/Hendricks",12,6,9,9
+"boys",2024,"B","Flandreau Indian",13,16,12,13
+"boys",2024,"B","Arlington",14,15,19,19
+"boys",2024,"B","St. Mary's",15,19,16,16
+"boys",2024,"B","Northwestern",16,11,11,11
+"boys",2024,"B","Gayville-Volin",17,17,10,10
+"boys",2024,"B","Bison",18,20,18,18
+"boys",2024,"B","White River",19,12,20,20
+"boys",2024,"B","Avon",20,21,21,21
+"boys",2024,"B","Herreid/Selby Area",21,13,17,17
+"boys",2025,"A","SF Christian",1,2,1,1
+"boys",2025,"A","Hill City",2,4,4,4
+"boys",2025,"A","Custer",3,3,2,2
+"boys",2025,"A","Cheyenne-Eagle Butte",4,6,5,5
+"boys",2025,"A","Belle Fourche",5,7,8,8
+"boys",2025,"A","Lennox",6,5,3,3
+"boys",2025,"A","Garretson",7,9,7,7
+"boys",2025,"A","Vermillion",8,10,9,9
+"boys",2025,"A","Deuel",9,1,10,10
+"boys",2025,"A","West Central",10,8,6,6
+"boys",2025,"A","Beresford",11,12,11,12
+"boys",2025,"A","Milbank",12,13,12,11
+"boys",2025,"A","Elk Point-Jefferson",13,11,13,13
+"boys",2025,"A","Sisseton",14,14,14,14
+"boys",2025,"A","Mount Vernon/Plankinton",15,15,15,15
+"boys",2025,"A","Platte-Geddes",16,16,16,16
+"boys",2025,"AA","SF Lincoln",1,1,1,1
+"boys",2025,"AA","SF Washington",2,2,2,2
+"boys",2025,"AA","Brandon Valley",3,3,3,3
+"boys",2025,"AA","Aberdeen Central",4,4,4,4
+"boys",2025,"AA","Rapid City Stevens",5,5,5,5
+"boys",2025,"AA","SF Roosevelt",6,8,7,7
+"boys",2025,"AA","Harrisburg",7,7,6,6
+"boys",2025,"AA","Yankton",8,6,8,8
+"boys",2025,"AA","Rapid City Central",9,10,9,9
+"boys",2025,"AA","Brookings",10,11,11,11
+"boys",2025,"AA","Spearfish",11,13,10,10
+"boys",2025,"AA","O'Gorman",12,17,13,13
+"boys",2025,"AA","Douglas",13,9,12,12
+"boys",2025,"AA","Tea Area",14,12,14,14
+"boys",2025,"AA","Watertown",15,14,15,15
+"boys",2025,"AA","Pierre T.F. Riggs",16,15,16,16
+"boys",2025,"AA","Sturgis Brown",17,16,17,17
+"boys",2025,"AA","Mitchell",18,18,18,18
+"boys",2025,"AA","Huron",19,19,19,19
+"boys",2025,"B","Philip",1,1,2,2
+"boys",2025,"B","Mitchell Christian",2,2,1,1
+"boys",2025,"B","Dupree",3,6,4,4
+"boys",2025,"B","James Valley Christian",4,4,3,3
+"boys",2025,"B","Freeman",5,7,5,5
+"boys",2025,"B","Lemmon",6,10,9,9
+"boys",2025,"B","North Central",7,5,6,6
+"boys",2025,"B","White River",8,3,11,11
+"boys",2025,"B","Avon",9,16,10,10
+"boys",2025,"B","Irene-Wakonda",10,13,12,12
+"boys",2025,"B","Northwestern",11,12,8,8
+"boys",2025,"B","Highmore-Harrold",12,14,16,15
+"boys",2025,"B","Frederick Area",13,8,7,7
+"boys",2025,"B","SF Lutheran",14,18,17,17
+"boys",2025,"B","Flandreau Indian",15,15,14,14
+"boys",2025,"B","Herreid/Selby Area",16,9,13,13
+"boys",2025,"B","Gregory",17,11,15,16
+"boys",2025,"B","Lower Brule",18,17,18,18
+"girls",2023,"A","SF Christian",1,1,1,1
+"girls",2023,"A","Chamberlain",2,4,4,4
+"girls",2023,"A","Vermillion",3,6,2,2
+"girls",2023,"A","Sioux Valley",4,2,3,3
+"girls",2023,"A","Kimball/White Lake",5,5,7,7
+"girls",2023,"A","Hill City",6,7,6,6
+"girls",2023,"A","Clark/Willow Lake",7,10,9,9
+"girls",2023,"A","West Central",8,3,5,5
+"girls",2023,"A","Milbank",9,9,10,10
+"girls",2023,"A","Belle Fourche",10,14,13,13
+"girls",2023,"A","Aberdeen Roncalli",11,12,14,14
+"girls",2023,"A","Lennox",12,11,11,11
+"girls",2023,"A","Dakota Valley",13,8,8,8
+"girls",2023,"A","Custer",14,13,12,12
+"girls",2023,"A","Platte-Geddes",15,15,15,15
+"girls",2023,"AA","Brandon Valley",1,1,1,1
+"girls",2023,"AA","Spearfish",2,5,4,4
+"girls",2023,"AA","Harrisburg",3,2,2,2
+"girls",2023,"AA","Rapid City Stevens",4,6,3,3
+"girls",2023,"AA","O'Gorman",5,3,6,6
+"girls",2023,"AA","SF Lincoln",6,4,5,5
+"girls",2023,"AA","Sturgis Brown",7,8,9,9
+"girls",2023,"AA","Watertown",8,7,7,7
+"girls",2023,"AA","Pierre T.F. Riggs",9,9,8,8
+"girls",2023,"AA","Yankton",10,10,10,10
+"girls",2023,"AA","Aberdeen Central",11,11,12,12
+"girls",2023,"AA","Rapid City Central",12,15,15,15
+"girls",2023,"AA","Douglas",13,14,14,14
+"girls",2023,"AA","SF Roosevelt",14,13,11,11
+"girls",2023,"AA","SF Washington",15,12,13,13
+"girls",2023,"AA","Brookings",16,17,16,16
+"girls",2023,"AA","Huron",17,16,17,17
+"girls",2023,"AA","SF Jefferson",18,19,19,19
+"girls",2023,"AA","Mitchell",19,18,18,18
+"girls",2023,"B","Gettysburg",1,1,1,1
+"girls",2023,"B","Arlington",2,3,2,2
+"girls",2023,"B","Lemmon",3,11,8,8
+"girls",2023,"B","Chester",4,2,3,3
+"girls",2023,"B","James Valley Christian",5,8,6,7
+"girls",2023,"B","Northwestern",6,6,5,5
+"girls",2023,"B","Warner",7,10,10,10
+"girls",2023,"B","Faulkton Area",8,15,13,13
+"girls",2023,"B","St. Mary's",9,4,7,6
+"girls",2023,"B","Ipswich",10,7,9,9
+"girls",2023,"B","Herreid/Selby Area",11,14,15,15
+"girls",2023,"B","Gregory",12,13,12,12
+"girls",2023,"B","Frederick Area",13,5,4,4
+"girls",2023,"B","Jones County",14,12,16,16
+"girls",2023,"B","Centerville",15,9,11,11
+"girls",2023,"B","Highmore-Harrold",16,16,17,17
+"girls",2023,"B","Burke",17,17,14,14
+"girls",2023,"B","Newell",18,19,18,18
+"girls",2023,"B","Wessington Springs",19,18,20,20
+"girls",2023,"B","Scotland",20,20,19,19
+"girls",2024,"A","SF Christian",1,1,1,1
+"girls",2024,"A","Lennox",2,2,2,2
+"girls",2024,"A","West Central",3,3,4,4
+"girls",2024,"A","Flandreau",4,9,8,9
+"girls",2024,"A","Clark/Willow Lake",5,6,6,6
+"girls",2024,"A","Dakota Valley",6,4,3,3
+"girls",2024,"A","Hill City",7,5,5,5
+"girls",2024,"A","Sioux Valley",8,8,7,7
+"girls",2024,"A","Milbank",9,11,9,8
+"girls",2024,"A","Chamberlain",10,7,11,11
+"girls",2024,"A","Vermillion",11,10,12,12
+"girls",2024,"A","Belle Fourche",12,12,10,10
+"girls",2024,"A","Deuel",13,13,13,13
+"girls",2024,"A","Platte-Geddes",14,16,14,14
+"girls",2024,"A","Custer",15,14,15,15
+"girls",2024,"A","Miller",16,15,16,16
+"girls",2024,"AA","Harrisburg",1,1,1,1
+"girls",2024,"AA","Brandon Valley",2,2,2,2
+"girls",2024,"AA","SF Lincoln",3,3,3,3
+"girls",2024,"AA","Spearfish",4,6,5,5
+"girls",2024,"AA","Pierre T.F. Riggs",5,5,8,8
+"girls",2024,"AA","Rapid City Stevens",6,8,4,4
+"girls",2024,"AA","O'Gorman",7,7,7,7
+"girls",2024,"AA","Tea Area",8,4,6,6
+"girls",2024,"AA","Aberdeen Central",9,10,11,11
+"girls",2024,"AA","Watertown",10,9,10,10
+"girls",2024,"AA","Yankton",11,12,14,14
+"girls",2024,"AA","Rapid City Central",12,13,12,12
+"girls",2024,"AA","Sturgis Brown",13,11,9,9
+"girls",2024,"AA","Douglas",14,16,15,15
+"girls",2024,"AA","SF Washington",15,15,16,16
+"girls",2024,"AA","SF Roosevelt",16,14,13,13
+"girls",2024,"AA","Brookings",17,17,17,17
+"girls",2024,"AA","Huron",18,18,18,18
+"girls",2024,"B","Kimball/White Lake",1,1,1,1
+"girls",2024,"B","Ipswich",2,3,3,3
+"girls",2024,"B","Northwestern",3,6,5,5
+"girls",2024,"B","Warner",4,2,4,4
+"girls",2024,"B","Lemmon",5,10,7,7
+"girls",2024,"B","Chester",6,9,9,9
+"girls",2024,"B","James Valley Christian",7,4,2,2
+"girls",2024,"B","Gettysburg",8,5,6,6
+"girls",2024,"B","Arlington",9,8,8,8
+"girls",2024,"B","Herreid/Selby Area",10,7,14,14
+"girls",2024,"B","North Central",11,11,15,15
+"girls",2024,"B","Harding County",12,18,17,17
+"girls",2024,"B","Menno",13,14,11,11
+"girls",2024,"B","Burke",14,15,12,12
+"girls",2024,"B","Freeman Academy/Marion",15,13,13,13
+"girls",2024,"B","St. Mary's",16,12,10,10
+"girls",2024,"B","De Smet",17,17,16,16
+"girls",2024,"B","Newell",18,16,18,18
+"girls",2025,"A","SF Christian",1,1,1,1
+"girls",2025,"A","West Central",2,2,2,2
+"girls",2025,"A","Chamberlain",3,10,6,7
+"girls",2025,"A","Hill City",4,8,10,10
+"girls",2025,"A","Lennox",5,6,4,4
+"girls",2025,"A","Flandreau",6,3,3,3
+"girls",2025,"A","Belle Fourche",7,4,5,5
+"girls",2025,"A","Aberdeen Roncalli",8,12,11,11
+"girls",2025,"A","Clark/Willow Lake",9,9,8,6
+"girls",2025,"A","Vermillion",10,7,7,8
+"girls",2025,"A","Sioux Valley",11,5,9,9
+"girls",2025,"A","Mount Vernon/Plankinton",12,15,14,14
+"girls",2025,"A","Canton",13,11,12,12
+"girls",2025,"A","Milbank",14,14,13,13
+"girls",2025,"A","Mahpiya Luta",15,13,16,16
+"girls",2025,"A","Ethan/Parkston",16,16,15,15
+"girls",2025,"A","Platte-Geddes",17,17,17,17
+"girls",2025,"AA","Harrisburg",1,1,1,1
+"girls",2025,"AA","SF Lincoln",2,3,4,4
+"girls",2025,"AA","Brandon Valley",3,2,3,3
+"girls",2025,"AA","O'Gorman",4,12,8,8
+"girls",2025,"AA","Rapid City Stevens",5,8,2,2
+"girls",2025,"AA","Spearfish",6,6,5,5
+"girls",2025,"AA","Pierre T.F. Riggs",7,4,6,6
+"girls",2025,"AA","Yankton",8,7,7,7
+"girls",2025,"AA","Brookings",9,10,13,13
+"girls",2025,"AA","Tea Area",10,5,9,9
+"girls",2025,"AA","SF Washington",11,13,10,10
+"girls",2025,"AA","Watertown",12,9,11,11
+"girls",2025,"AA","Rapid City Central",13,14,12,12
+"girls",2025,"AA","Aberdeen Central",14,11,14,14
+"girls",2025,"AA","Sturgis Brown",15,18,15,15
+"girls",2025,"AA","Mitchell",16,15,17,17
+"girls",2025,"AA","Douglas",17,16,16,16
+"girls",2025,"AA","SF Roosevelt",18,17,18,18
+"girls",2025,"B","Ipswich",1,1,1,1
+"girls",2025,"B","Northwestern",2,2,2,2
+"girls",2025,"B","Kimball/White Lake",3,3,3,3
+"girls",2025,"B","Deubrook Area",4,4,4,4
+"girls",2025,"B","Lemmon",5,10,6,6
+"girls",2025,"B","Warner",6,8,5,5
+"girls",2025,"B","Mitchell Christian",7,6,8,8
+"girls",2025,"B","St. Mary's",8,12,9,9
+"girls",2025,"B","Herreid/Selby Area",9,5,7,7
+"girls",2025,"B","Centerville",10,15,13,13
+"girls",2025,"B","Arlington",11,14,11,11
+"girls",2025,"B","Dupree",12,11,16,16
+"girls",2025,"B","Highmore-Harrold",13,7,10,10
+"girls",2025,"B","Harding County",14,16,14,14
+"girls",2025,"B","Gettysburg",15,9,12,12
+"girls",2025,"B","Burke",16,13,15,15
+"girls",2025,"B","Canistota",17,17,17,17
