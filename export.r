@@ -131,7 +131,8 @@ for (gender in c("boys", "girls")) {
                          adj_time     = round(to_seconds(r$adj_time), 2),
                          time_min     = round(to_seconds(r$pr), 2),
                          rnk_blnd     = r$rank,
-                         school_class = r$class)
+                         school_class = r$class,
+                         grade        = r$grade)  # null if unknown
     }
     file <- file.path(out_dir, paste0(gender, "_", year, "_week", wk, ".json"))
     # runners with no PR get time_min: null

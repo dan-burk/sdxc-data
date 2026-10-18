@@ -79,6 +79,10 @@ check_season <- function(season) {
          races %>%
            filter(is.na(time_sec), !toupper(time) %in% c("DQ", "DNF", "DNS", "")) %>%
            select(meet, gender, row, name, time))
+  report("WARNING", "Grade outside 7-12 (shown blank; fix the TXT if the real grade is known)",
+         races %>%
+           filter(!suppressWarnings(as.numeric(grade)) %in% 7:12, !is.na(grade), grade != "") %>%
+           select(meet, gender, row, name, school, grade))
 
   report("ERROR", "Rows not in finish order (a runner is faster than the row above)",
          races %>%

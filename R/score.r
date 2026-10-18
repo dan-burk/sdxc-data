@@ -17,7 +17,7 @@ score_season <- function(season, g) {
   meets <- season$meet_list %>% filter(missing == 0) %>% arrange(week, date, list_row)
   races <- scorable(season$races, season$schools) %>%
     filter(gender == g) %>%
-    inner_join(meets %>% select(meet, week, flg_5k), by = "meet")
+    inner_join(meets %>% select(meet, week, date, flg_5k), by = "meet")
   state_week <- unique(meets$week[startsWith(meets$meet, "sdhsaa_")])  # State AA, A and B
 
   weekly <- list()
@@ -27,15 +27,30 @@ score_season <- function(season, g) {
       next
     }
     ranking <- rank_athletes(races %>% filter(week <= w)) %>%
-      head_to_head(races %>% filter(week <= w), season$schools)
+      head_to_head(races %>% filter(week <= w), season$schools) %>%
+      left_join(athlete_grades(races %>% filter(week <= w)), by = c("name", "school"))
     weekly[[length(weekly) + 1]] <- ranking %>% mutate(week = w)
   }
 
   bind_rows(weekly) %>%
     left_join(season$schools, by = "school") %>%
     mutate(adj_time = sec_to_time(adj_sec), pr = sec_to_time(pr_sec)) %>%
-    select(week, rank, name, school, class, adj_time, pr, races,
+    select(week, rank, name, school, class, grade, adj_time, pr, races,
            any_of(c("meet", "place", "predicted", "predicted_pr", "time")))
+}
+
+# Each runner's grade: the one listed in most of their races so far, ties to
+# the latest race. Not used in scoring. Grades outside 7-12 are roster errors
+# (a 6th grader can't run varsity) and are left blank.
+athlete_grades <- function(results) {
+  results %>%
+    mutate(grade = suppressWarnings(as.numeric(grade))) %>%
+    filter(grade %in% 7:12) %>%
+    group_by(name, school, grade) %>%
+    summarise(n = n(), last = max(date), .groups = "drop") %>%
+    arrange(desc(n), desc(last)) %>%
+    distinct(name, school, .keep_all = TRUE) %>%
+    select(name, school, grade)
 }
 
 # Rank the runners by course-adjusted time, using every result so far.
