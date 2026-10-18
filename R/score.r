@@ -10,7 +10,7 @@
 #
 # At the end of each week the whole season so far is refitted and ranked.
 # The state meet week isn't ranked. Its snapshot is the state finishers, each
-# with their place and the place the rankings going in predicted.
+# with their place and the places predicted by the rankings going in and by PRs.
 # (analysis/ compares this method with the old points method.)
 
 score_season <- function(season, g) {
@@ -35,7 +35,7 @@ score_season <- function(season, g) {
     left_join(season$schools, by = "school") %>%
     mutate(adj_time = sec_to_time(adj_sec), pr = sec_to_time(pr_sec)) %>%
     select(week, rank, name, school, class, adj_time, pr, races,
-           any_of(c("meet", "place", "predicted", "time")))
+           any_of(c("meet", "place", "predicted", "predicted_pr", "time")))
 }
 
 # Rank the runners by course-adjusted time, using every result so far.
@@ -144,9 +144,39 @@ state_meet <- function(ranking, state) {
     right_join(state %>% select(meet, row, name, school, time), by = c("name", "school")) %>%
     group_by(meet) %>%
     arrange(row, .by_group = TRUE) %>%
-    mutate(place = row_number(), predicted = min_rank(rank)) %>%
+    # predicted / predicted_pr: NA for no rank / no 5K PR going in
+    mutate(place = row_number(), predicted = min_rank(rank), predicted_pr = min_rank(pr_sec)) %>%
     ungroup() %>%
     select(-row)
+}
+
+# State team places. SDHSAA: AA runs 7 and scores 5, A runs 6 and scores 4,
+# B runs 5 and scores 3. Only schools with enough finishers to score are
+# placed; their runners are placed 1..n among themselves (by `order`, lower is
+# better, NA last; tied runners share the better place), a team's score is its
+# scorers' places, and ties go to the next runner. Returns one row per team,
+# best first: school, place, score, and the team places of its scorers and of
+# the rest (displacers).
+team_scorers <- c(AA = 5, A = 4, B = 3)
+team_scores <- function(school, order, n) {
+  full <- school %in% names(which(table(school) >= n))
+  place <- rank(replace(order, is.na(order), Inf)[full], ties.method = "min")
+  teams <- lapply(split(place, school[full]), sort)
+  d <- data.frame(school      = names(teams),
+                  score       = sapply(teams, function(p) sum(p[1:n])),
+                  next_runner = sapply(teams, function(p) if (length(p) > n) p[n + 1] else Inf))
+  d$scorers    <- lapply(teams, function(p) p[1:n])
+  d$displacers <- lapply(teams, function(p) p[-(1:n)])
+  d <- d[order(d$score, d$next_runner), ]
+  d$place <- seq_len(nrow(d))
+  rownames(d) <- NULL
+  d
+}
+
+# Each team's place only, named by school, best first
+team_places <- function(school, order, n) {
+  d <- team_scores(school, order, n)
+  setNames(d$place, d$school)
 }
 
 sec_to_time <- function(sec) {

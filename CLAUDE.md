@@ -9,7 +9,7 @@ Every run rescores the whole season from the curated files. There is no saved st
 ```
 convert.r   source TXT / saved MileSplit page -> {year}/Data/{meet}_{boys|girls}.csv   (rebuilds all)
 run.r       load -> check -> score -> {year}/output/rankings_{boys|girls}.csv (one ranking per week)
-export.r    rankings CSVs -> ../sdxc/data/{boys|girls}_{year}_week{N}.json + results_{boys|girls}_{year}.json (every race of each ranked runner) + schools_{year}.json for the website (sister repo)
+export.r    rankings CSVs -> ../sdxc/data/{boys|girls}_{year}_week{N}.json + results_{boys|girls}_{year}.json (every race of each ranked runner) + state_teams_{boys|girls}_{year}.json (state team places) + schools_{year}.json for the website (sister repo)
 ```
 
 - `R/load.r`: reads the files and applies school and athlete aliases.

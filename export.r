@@ -2,7 +2,8 @@
 # One file per gender and week: ../sdxc/data/{gender}_{year}_week{N}.json,
 # The state meet week holds state results instead of a ranking (see R/score.r).
 # plus the season's schools (../sdxc/data/schools_{year}.json) and the year's latest week in manifest.json,
-# and every ranked runner's races (../sdxc/data/results_{gender}_{year}.json)
+# and every ranked runner's races (../sdxc/data/results_{gender}_{year}.json),
+# and state team places once state is run (../sdxc/data/state_teams_{gender}_{year}.json)
 # Run after run.r:  Rscript export.r 2026
 
 year <- 2025  # or: Rscript export.r 2026
@@ -66,6 +67,31 @@ write_results <- function(season, gender, rankings) {
   cat("Wrote", file, "(", nrow(site), "results )\n")
 }
 
+# State team places (team_places() in R/score.r) for the State Meet page:
+# ../sdxc/data/state_teams_{gender}_{year}.json, one row per team per race.
+# score, scorers and displacers are from the actual race, in team places
+# (places among the scoring teams' runners). predicted is from the rankings
+# going in (adjusted time + head-to-head), predicted_pr from each runner's PR going in.
+write_state_teams <- function(r, gender) {
+  site <- bind_rows(lapply(split(r, r$meet), function(x) {
+    race <- toupper(sub("sdhsaa_", "", x$meet[1]))
+    n <- team_scorers[[race]]
+    actual <- team_scores(x$school, x$place, n)
+    site <- data.frame(race         = race,
+                       School       = actual$school,
+                       place        = actual$place,
+                       predicted    = unname(team_places(x$school, x$rank, n)[actual$school]),
+                       predicted_pr = unname(team_places(x$school, to_seconds(x$pr), n)[actual$school]),
+                       score        = actual$score)
+    site$scorers    <- actual$scorers
+    site$displacers <- actual$displacers
+    site
+  }))
+  file <- file.path(out_dir, paste0("state_teams_", gender, "_", year, ".json"))
+  jsonlite::write_json(site, file, pretty = TRUE)
+  cat("Wrote", file, "(", nrow(site), "teams )\n")
+}
+
 season <- load_season(year)
 
 for (gender in c("boys", "girls")) {
@@ -81,7 +107,7 @@ for (gender in c("boys", "girls")) {
   for (wk in sort(unique(rankings$week))) {
     r <- rankings[rankings$week == wk, ]
     if (wk %in% state_week) {
-      # One row per state finisher: their race, place and predicted place,
+      # One row per state finisher: their race, place and predicted places (rankings, PRs),
       # plus their ranking going in (rnk_blnd, adj_time, time_min; null if unranked)
       r <- r[order(r$meet, r$place), ]
       site <- data.frame(Name         = r$name,
@@ -91,10 +117,12 @@ for (gender in c("boys", "girls")) {
                          race         = toupper(sub("sdhsaa_", "", r$meet)),
                          place        = r$place,
                          predicted    = r$predicted,
+                         predicted_pr = r$predicted_pr,
                          state_time   = round(to_seconds(r$time), 2),
                          rnk_blnd     = r$rank,
                          adj_time     = round(to_seconds(r$adj_time), 2),
                          time_min     = round(to_seconds(r$pr), 2))
+      write_state_teams(r, gender)
     } else {
       r <- r[order(r$rank), ]
       site <- data.frame(Name         = r$name,
