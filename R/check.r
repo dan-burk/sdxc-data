@@ -113,8 +113,9 @@ check_season <- function(season) {
            season$state_entries %>% anti_join(in_state, by = c("gender", "name", "school")) %>%
              select(meet, gender, name, school))
     # The seed is the runner's 5K season best on the entry site, so it should match our 5K PR
+    # going into state (state itself is left out once its results are in)
     pr <- in_state %>%
-      inner_join(meets %>% filter(flg_5k == 1) %>% select(meet), by = "meet") %>%
+      inner_join(meets %>% filter(flg_5k == 1, !startsWith(meet, "sdhsaa_")) %>% select(meet), by = "meet") %>%
       filter(!is.na(time_sec)) %>%
       group_by(gender, name, school) %>%
       summarise(pr = min(time_sec), .groups = "drop")
